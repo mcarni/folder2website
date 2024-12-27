@@ -1,0 +1,15 @@
+title: Giugno
+id: collapseJun
+collapse: ''
+collapse-class: row my-2 justify-content-center collapse
+events:
+- event-id: '0'
+  event-title: Le donne che hanno fatto la Resistenza a Brescia
+  event-header1: tra il 15 e il 22 giugno
+  event-header2: orario serale
+  event-header3: ''
+  event-header4: ''
+  event-text: Per conoscere le donne che hanno partecipato alla Resistenza, i luoghi in cui hanno vissuto e operato nel centro di Brescia. 
+    In collaborazione con ANPI Piazza Rovetta
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Le_donne_che_hanno_fatto_la_Resistenza_a_Brescia-giugno
+  event-link-text: "Contattami per saperne di pi\xF9"

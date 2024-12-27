@@ -1,0 +1,25 @@
+title: Maggio
+id: collapseMay
+collapse: ''
+collapse-class: row my-2 justify-content-center collapse
+events:
+- event-id: '0'
+  event-title: Sirmione al tramonto
+  event-header1: Venerdì 03/05
+  event-header2: ore 18:00
+  event-header3: ''
+  event-header4: ''
+  event-text: Airmione da ricoprire con tour in barca sul far della sera di mezz’ora, passando sotto I ponti, 
+    scoprendo le bolle della sorgente termale e vedendo le maestuose rovine delle cosidette “Grotte di Catullo” 
+    e poi passeggiata tra le viuzze incantate il tutto condito dalle spiegazioni di una guida abilitata
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Sirmione_al_tramonto-maggio
+  event-link-text: "Contattami per saperne di pi\xF9"
+- event-id: '1'
+  event-title: Le piazze di Brescia come non le avete mai viste!
+  event-header1: Sabato 11/05
+  event-header2: ore 18:00
+  event-header3: ''
+  event-header4: ''
+  event-text: Volete conoscere meglio la storia di Brescia percorrendo le piazze con i racconti, gli aneddoti e la storia ufficiale della città?
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Le_piazze_di_Brescia_come_non_le_avete_mai_viste! 
+  event-link-text: "Contattami per saperne di pi\xF9"

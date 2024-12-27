@@ -24,6 +24,22 @@
 <!-- main row partial -->  
 <%- include('../../views-partials/month'); %>
 
+<% row =  pageContent["maggio.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/month'); %>
+
+<% row =  pageContent["giugno.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/month'); %>
+
+<% row =  pageContent["settembre.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/month'); %>
+
+<% row =  pageContent["novembre.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/month'); %>
+
 <h2>CONTENT</h2> 
  <% Object.keys(pageContent).forEach((key,index) => { %> 
  "index : "<%= index %> "key : " <%= key -%>  "value : "<%- JSON.stringify(pageContent[key], null, 2) %><br> 

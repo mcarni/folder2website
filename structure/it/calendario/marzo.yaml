@@ -1,4 +1,6 @@
-collapse: collapse
+id: collapseMar
+title: Marzo
+collapse: ''
 collapse-class: row my-2 justify-content-center collapse
 events:
 - event-header1: Sabato 02/03
@@ -21,5 +23,4 @@ events:
   event-text: Mi piacerebbe portarvi a scoprire il Museo del Risorgimento proprio
     in concomitanza con le X giornate di Brescia
   event-title: Le X Giornate di Brescia
-id: collapseMar
-title: Marzo
+
