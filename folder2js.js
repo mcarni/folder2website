@@ -103,8 +103,11 @@ const folder2js = (folder , depth , jsonFile) => {
                   cont["menu"] = text;
                   nav[pageElement]["menu"] = text;
                   break;
-                case "title.txt":
-                  cont["title"] = text;
+                case "tabTitle.txt":
+                  cont["tabTitle"] = text;
+                  break;
+                case "pageTitle.txt":
+                  cont["pageTitle"] = text;
                   break;
                 default:
                   cont[contentElement] = text;

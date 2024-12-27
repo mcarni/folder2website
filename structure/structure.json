@@ -7,7 +7,7 @@
         "icon": "heart guida es icon",
         "menu": "Casa guida es menu",
         "nav": "1",
-        "title": "La mia guia de Brescia - home guida es title"
+        "title.txt": "La mia guia de Brescia - home guida es title"
       },
       "home": {
         "homeESdfdkfkafsdfds.txt": "fsdlkfjasdlkfjsldfjslk fpsdifosdfo",
@@ -15,7 +15,7 @@
         "icon": "house popa test - home es icon",
         "menu": "Casa home es menu",
         "nav": "2",
-        "title": "La mia guia de Brescia - home es title"
+        "title.txt": "La mia guia de Brescia - home es title"
       },
       "testguidaperte": {
         "guidaESdfdkfkafsdfds.txt": "fsdlkfjasdlkfjsldfjslk fpsdifosdfo prutipurt",
@@ -24,7 +24,7 @@
         "menu": "Casa guida es menu",
         "nav": "0",
         "prut.txt": "",
-        "title": "La mia guia de Brescia - home guida es title"
+        "title.txt": "La mia guia de Brescia - home guida es title"
       }
     },
     "gb": {
@@ -133,38 +133,38 @@
     },
     "it": {
       "calendario": {
-        "description.txt": "Organizzo tour con piccoli gruppi per scoprire, divertendosi, particolari inediti della città. A partire da aneddoti curiosi, ma anche dalla storia ufficiale che cerco di narrare in maniera coinvolgente, per scoprire l’evoluzione della nostra città",
-        "icon": "calendar",
-        "marzo.json": {
-          "title": "Marzo",
-          "id": "collapseMar",
+        "aprile.yaml": {
           "collapse": "collapse",
           "collapse-class": "row my-2 justify-content-center collapse",
           "events": [
             {
-              "event-id": "0",
-              "event-title": "Donne Bresciane e la Resistenza",
               "event-header1": "Sabato 02/03",
               "event-header2": "ore 15:00",
               "event-header3": "Piazza Moretto",
               "event-header4": "",
-              "event-text": "percorso sui luoghi delle donne bresciane che hanno vissuto la Resistenza in collaborazione con la sezione ANPI",
+              "event-id": "0",
               "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Donne_Bresciane_e_la_Resistenza",
-              "event-link-text": "Contattami per saperne di più"
+              "event-link-text": "Contattami per saperne di più",
+              "event-text": "percorso sui luoghi delle donne bresciane che hanno vissuto la Resistenza in collaborazione con la sezione ANPI",
+              "event-title": "Donne Bresciane e la Resistenza"
             },
             {
-              "event-id": "1",
-              "event-title": "Le X Giornate di Brescia",
               "event-header1": "Sabato 23/03",
               "event-header2": "ore 15:00",
               "event-header3": "Museo del Risorgimento",
               "event-header4": "",
-              "event-text": "Mi piacerebbe portarvi a scoprire il Museo del Risorgimento proprio in concomitanza con le X giornate di Brescia",
+              "event-id": "1",
               "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Le_X_Giornate_di_Brescia",
-              "event-link-text": "Contattami per saperne di più"
+              "event-link-text": "Contattami per saperne di più",
+              "event-text": "Mi piacerebbe portarvi a scoprire il Museo del Risorgimento proprio in concomitanza con le X giornate di Brescia",
+              "event-title": "Le X Giornate di Brescia"
             }
-          ]
+          ],
+          "id": "collapseMar",
+          "title": "Marzo"
         },
+        "description.txt": "Organizzo tour con piccoli gruppi per scoprire, divertendosi, particolari inediti della città. A partire da aneddoti curiosi, ma anche dalla storia ufficiale che cerco di narrare in maniera coinvolgente, per scoprire l’evoluzione della nostra città",
+        "icon": "calendar",
         "marzo.yaml": {
           "collapse": "collapse",
           "collapse-class": "row my-2 justify-content-center collapse",
@@ -197,125 +197,10 @@
         },
         "menu": "Il Calendario",
         "nav": "3",
-        "pageTitle.txt": "Calendario",
-        "tabTitle.txt": "Il calendario degli eventi - Maddalena Carnaghi - la mia guida di Brescia"
+        "pageTitle": "Calendario",
+        "tabTitle": "Il calendario degli eventi - Maddalena Carnaghi - la mia guida di Brescia"
       },
       "guidaperte": {
-        "amiche.json": {
-          "id": "amiche",
-          "subtitles": [
-            {
-              "subtitle-id": "0",
-              "subtitle-title": "Le amiche, gli amici"
-            },
-            {
-              "subtitle-id": "1",
-              "subtitle-smallfont1": "<strong>Riccardo Ajossa</strong> – Artista",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.riccardoajossa.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.riccardoajossa.com</a>"
-            },
-            {
-              "subtitle-id": "2",
-              "subtitle-smallfont1": "<strong>Michele Beltrami</strong> – Artista",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"http://ilross9.wixsite.com/michelebeltrami\" target=\"_blank\" rel=\"noopener noreferrer\">ilross9.wixsite.com/michelebeltrami</a>",
-              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://youtu.be/NBPFGxtQrmM?si=1RgdM9Wl80sZnxd_\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-youtube\"></i></a>"
-            },
-            {
-              "subtitle-id": "3",
-              "subtitle-smallfont1": "<strong><strong>Vera Bugatti</strong> – Artista",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"http://www.verabugatti.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.verabugatti.it</a>"
-            },
-            {
-              "subtitle-id": "4",
-              "subtitle-smallfont1": "<strong>Monica Carrera</strong> – Artista",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.monicacarrera.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.monicacarrera.it</a>"
-            },
-            {
-              "subtitle-id": "5",
-              "subtitle-smallfont1": "<strong>Francesca Cecchi</strong> – Artista",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"http://www.francescachecchi.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.francescachecchi.com</a>",
-              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/francesca_checchi_artist?igsh=MW\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-instagram\"></i></a>"
-            },
-            {
-              "subtitle-id": "6",
-              "subtitle-smallfont1": "<strong>Francesca Conchieri</strong> – Artista",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"http://www.ruinascontemporaneas.it/Francesca%20Conchieri/index_francesca.html\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.ruinascontemporaneas.it/Francesca%20Conchieri/index_francesca.html</a>"
-            },
-            {
-              "subtitle-id": "7",
-              "subtitle-smallfont1": "<strong>Giada Crispiels</strong> – Artista e illustratrice",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.giadacrispiels.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.giadacrispiels.com</a>"
-            },
-            {
-              "subtitle-id": "8",
-              "subtitle-smallfont1": "<strong>Armida Gandini</strong> – Artista",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.armidagandini.it/arte\" target=\"_blank\" rel=\"noopener noreferrer\">www.armidagandini.it/arte</a>"
-            },
-            {
-              "subtitle-id": "9",
-              "subtitle-smallfont1": "<strong>Raffaella La Vena</strong> – Artista",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"http://www.raffaellalavena.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.raffaellalavena.com</a>"
-            },
-            {
-              "subtitle-id": "10",
-              "subtitle-smallfont1": "<strong>Paola Sabatti Bassini</strong> - Artista",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"http://www.sediacantastorie.eu\" target=\"_blank\" rel=\"noopener noreferrer\">www.sediacantastorie.eu</a>",
-              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"http://www.oino.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.oino.it</a>"
-            },
-            {
-              "subtitle-id": "11",
-              "subtitle-smallfont1": "<strong>Davide Sforzini</strong> – Artista",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/davide.sforzini.1\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-instagram\"></i></a>"
-            },
-            {
-              "subtitle-id": "12",
-              "subtitle-smallfont1": "<strong>Carolina Vallejo</strong> – Artista",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.artelatam.org/carolina-vallejo-3\" target=\"_blank\" rel=\"noopener noreferrer\">www.artelatam.org/carolina-vallejo-3</a>",
-              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://instagram.com/carovallejod?igsh=MXV3Nms\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-instagram\"></i></a>"
-            },
-            {
-              "subtitle-id": "13",
-              "subtitle-smallfont1": "<strong>Sara Monteverdi</strong> – Creatrice di cappelli",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/dariacappelli?igs=bnJuZjd1\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-instagram\"></i></a>",
-              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/cappellidaria\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-facebook\"></i></a>"
-            },
-            {
-              "subtitle-id": "14",
-              "subtitle-smallfont1": "<strong>Marina Rossi</strong> – Danzatrice, coreografa e formatrice",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.lelastiko.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.lelastiko.it</a>"
-            },
-            {
-              "subtitle-id": "15",
-              "subtitle-smallfont1": "<strong>Paola La Serra</strong> – Esperta in orientamento scolastico",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.paolalaserra.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.paolalaserra.com</a>"
-            },
-            {
-              "subtitle-id": "16",
-              "subtitle-smallfont1": "<strong>Maura Lo Presti</strong> – Gestore di locanda sull’alto Lago di Garda",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.locandagenzianella.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.locandagenzianella.it</a>"
-            },
-            {
-              "subtitle-id": "17",
-              "subtitle-smallfont1": "<strong>Davide Pagnano</strong> – Gestore di B&B vicino Roma e camminatore",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/momentoroma2020\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-facebook\"></i></a>"
-            },
-            {
-              "subtitle-id": "18",
-              "subtitle-smallfont1": "<strong>Antimio Deinei</strong> – Gestore pizzeria e ristorante a Brescia",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"www.lestropizzarestaurant.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.lestropizzarestaurant.it</a>"
-            },
-            {
-              "subtitle-id": "19",
-              "subtitle-smallfont1": "<strong>Tommaso Lunardi</strong> – Guida turistica a Lisbona - \"A Lisbona con Tommaso\"",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://facebook.com/tommaso.lunardi10\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-facebook\"></i></a>"
-            },
-            {
-              "subtitle-id": "20",
-              "subtitle-smallfont1": "<strong>Fausta Ranghetti</strong> – Operatrice zen shiatsu",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.shiatsueyoga.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.shiatsueyoga.it</a>"
-            }
-          ],
-          "vlinks": []
-        },
         "amiche.yaml": {
           "id": "amiche",
           "subtitles": [
@@ -431,43 +316,6 @@
           ],
           "vlinks": []
         },
-        "associazioni.json": {
-          "id": "associazioni",
-          "subtitles": [
-            {
-              "subtitle-id": "0",
-              "subtitle-title": "Le associazioni e le fondazioni in cui mi rifletto"
-            },
-            {
-              "subtitle-id": "1",
-              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://www.carmebrescia.it\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-carme-h100.jpg\" alt=\"Logo CARME\"></a>",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.carmebrescia.it\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Associazione C.AR.M.E.</strong> - Centro Arti Multiculturali Etnosociali</a>",
-              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.carmebrescia.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.carmebrescia.it</a>"
-            },
-            {
-              "subtitle-id": "2",
-              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://fondazioneberardelli.org/home.php\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-berardelli-h100c3.jpg\" alt=\"Logo Fondazione Berardelli\"></a>",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://fondazioneberardelli.org/home.php\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fondazione Berardelli</strong> - Fondazione dedicata alla Poesia Visiva</a>",
-              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://fondazioneberardelli.org/home.php\" target=\"_blank\" rel=\"noopener noreferrer\">https://fondazioneberardelli.org/home.php</a>"
-            },
-            {
-              "subtitle-id": "3",
-              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://www.fiopsd.org/perlar\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-perlar-h100.png\" alt=\"Logo Perlar\"></a>",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.fiopsd.org/perlar\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Associazione Perlar</strong> - Organizzazione che promuove  esperienze di relazione con le persone senza dimora</a>",
-              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.fiopsd.org/perlar\" target=\"_blank\" rel=\"noopener noreferrer\">www.fiopsd.org/perlar</a>",
-              "subtitle-smallfont4": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/associazioneperlar/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-instagram\"></i></a>",
-              "subtitle-smallfont5": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/associazioneperlar/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-facebook\"></i></a>"
-            },
-            {
-              "subtitle-id": "4",
-              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/_blubalena_?igsh=MXJkdWFnNnVhNHBsZw==\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-blubalena-h100.jpg\" alt=\"Logo Blu Balnea\"></a>",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/_blubalena_?igsh=MXJkdWFnNnVhNHBsZw==\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Associazione Blu Balena</strong> - Associzione culturale - benessere a 360° - olistico - arte - corsi - laboratori</a>",
-              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/_blubalena_?igsh=MXJkdWFnNnVhNHBsZw==\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-instagram\"></i></a>",
-              "subtitle-smallfont4": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/people/Blu-Balena/61550203606879\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-facebook\"></i></a>"
-            }
-          ],
-          "vlinks": []
-        },
         "associazioni.yaml": {
           "id": "associazioni",
           "subtitles": [
@@ -505,17 +353,6 @@
           ],
           "vlinks": []
         },
-        "attraverso.json": {
-          "title": "Io attraverso gli altri",
-          "id": "attraverso",
-          "subtitles": [
-            {
-              "subtitle-id": "0",
-              "subtitle-smallfont1": "Nel mondo romano, l’individuo si definiva nella relazione con l’altro. Era la comunità che riconosceva la persona e la descriveva in base ai rapporti, alla fama e alle sue qualità. Questo modo di descriversi funziona ancora per me. Io sono le persone che scelgo per amiche, che stimo e che con orgoglio voglio che siano presenti qui, nella mia pagina, accanto a me. Così come i progetti a cui ho dato origine o a cui ho contribuito e le associazioni, le fondazioni a cui, con consapevolezza, assumo di voler far parte."
-            }
-          ],
-          "vlinks": []
-        },
         "attraverso.yaml": {
           "id": "attraverso",
           "subtitles": [
@@ -525,21 +362,6 @@
             }
           ],
           "title": "Io attraverso gli altri",
-          "vlinks": []
-        },
-        "guidaperte.json": {
-          "id": "guidaperte",
-          "img-src": "unaguidaperte.jpg",
-          "img-alt": "Maddalena Carnaghi - Guida turistica abilitata di Brescia e del lago di Garda e Iseo - La mia guida di Brescia - una guida per te",
-          "img-title": "Maddalena Carnaghi - Guida turistica abilitata di Brescia e del lago di Garda e Iseo - La mia guida di Brescia - una guida per te",
-          "subtitles": [
-            {
-              "subtitle-id": "0",
-              "subtitle-smallfont": "Mi Chiamo Maddalena, ho vissuto tanti anni all’estero e, da quando sono tornata, ho riscoperto ancora di più la bellezza della mia città, Brescia, e dei suoi meravigliosi laghi: Il Lago di Garda e Il Lago d’Iseo. Sono guida turistica abilitata dal 2011 e, da allora, amo condividere la bellezza, le curiosità, la storia di Brescia con tutti coloro che vengono in visita. Sono laureata in storia dell’arte e sono insegnante di italiano e storia a scuola, per cui le mie guide sono un perfetto mix di interazione, di aneddoti curiosi capaci di rendere le spiegazioni frizzanti. Spesso le persone che accompagno in tour mi dicono che trasmetto una grande passione. In effetti, è un lavoro che amo molto. Soprattutto, mi piace creare itinerari ad hoc per ogni persona e graduare il percorso in base alle esigenze o volontà di chi visita. Si possono fare tanti itinerari diversi: da quelli più turistici, a quelli più curiosi, così come ci si può rivolgere ad esperti d’arte e di storia o bambini. il mio lavoro è proprio quello: trovare la formula giusta per voi!",
-              "subtitle-link": "mailto:lamiaguidadibrescia@proton.me?subject=Una_guida_per_te",
-              "subtitle-link-text": "Contattami per saperne di più"
-            }
-          ],
           "vlinks": []
         },
         "guidaperte.yaml": {
@@ -560,65 +382,7 @@
         "icon": "heart",
         "menu": "Una guida per te",
         "nav": "2",
-        "pageTitle.txt": "Una guida per te!",
-        "progetti.json": {
-          "id": "progetti",
-          "subtitles": [
-            {
-              "subtitle-id": "0",
-              "subtitle-title": "I Progetti che ho creato o a cui ho preso parte"
-            },
-            {
-              "subtitle-id": "1",
-              "subtitle-smallfont1": "<strong>Connaturata</strong> - cura della Mostra di <strong>Riccardo Ajossa</strong> e catalogo, Brescia 2023",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.youtube.com/watch?v=UD0uhXruaGw\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-youtube\"></i>Riccardo Ajossa Opening of Connaturata Solo Show Brescia April 2023</a>",
-              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.lacompagniamassetti.it/shop/arte/connaturata\" target=\"_blank\" rel=\"noopener noreferrer\">Link alla pagina dedicata della <strong>Compagnia della Stampa</strong></a>"
-            },
-            {
-              "subtitle-id": "2",
-              "subtitle-smallfont1": "<strong>Segni, scritture e immagini. Opere e libri d’artista. Mostra antologica</strong> – cura della Mostra di <strong>Fernanda Fedi e Gino Gini</strong> e catalogo, Brescia 2023",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.fernandafedi.it/2023/11/21/segni-scritture-e-immagini-opere-e-libri-dartista-mostra-antologica-fondazione-berardelli-25-novembre-2023\" target=\"_blank\" rel=\"noopener noreferrer\">Link alla pagina dedicata dal sito di <strong>Fernanda Fedi</strong></a>",
-              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.artribune.com/mostre-evento-arte/gino-gini-fernanda-fedi\" target=\"_blank\" rel=\"noopener noreferrer\">Link alla pagina dedicata dal sito <strong>Artribune</strong></a>"
-            },
-            {
-              "subtitle-id": "3",
-              "subtitle-smallfont1": "<strong>Letture Sottese</strong> - cura della Mostra di <strong>Vito Capone</strong>, Roma 2019",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.youtube.com/watch?v=UD0uhXruaGw\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-youtube\"></i>STUDIO ARTE FUORI CENTRO - VITO CAPONE - \"letture sottese\"</a>"
-            },
-            {
-              "subtitle-id": "4",
-              "subtitle-smallfont1": "<strong>Rigorosamente libri</strong> - collaborazione alla Mostra di libri d’artista e al catalogo, Foggia 2019",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.youtube.com/watch?v=55xWxmvGru8\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-youtube\"></i>Rigorosamente Libri 2019 | IV edizione</a>"
-            },
-            {
-              "subtitle-id": "5",
-              "subtitle-smallfont1": "<strong>TraCarte6, avanguardie artistiche del ‘900</strong> -  cura della Mostra e catalogo, Foggia 2015",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.youtube.com/watch?v=cIPQBz3Tf2I\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-youtube\"></i>TraCarte 6, avanguardie artistiche del Novecento</a>"
-            },
-            {
-              "subtitle-id": "6",
-              "subtitle-smallfont1": "<strong>Rigorosamente libri</strong> - cocura della Mostra di libri d’artista e catalogo, Foggia 2014",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.youtube.com/watch?v=wSBVH8SaDrA\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-youtube\"></i>Rigorosamente libri 2014</a>"
-            },
-            {
-              "subtitle-id": "7",
-              "subtitle-smallfont1": "<strong>Proyecto Penone</strong> - collaborazione alla Mostra di <strong>Giuseppe Penone</strong> e creazione dell’attività didattica, Quito 2009",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.youtube.com/watch?v=k1fpRXaZuIU\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-youtube\"></i>Arte Italiana a Quito/ Quito Latino</a>",
-              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.elcomercio.com/actualidad/penone-llega-vez-primera-ecuador.html\" target=\"_blank\" rel=\"noopener noreferrer\">Articolo su <strong>El Comercio</strong></a>"
-            },
-            {
-              "subtitle-id": "8",
-              "subtitle-smallfont1": "<strong>Poesia Visiva VS Fluxus</strong> - collaborazione alla Mostra, Brescia 2013",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://bsnews.it/2013/02/24/poesia-visiva-e-fluxus-gli-anni-60-e-70-alla-fondazione-berardelli\" target=\"_blank\" rel=\"noopener noreferrer\">Articolo su <strong>Bs News</strong></a>"
-            },
-            {
-              "subtitle-id": "9",
-              "subtitle-smallfont1": "<strong>Sprintpoem</strong> – collaborazione alla Mostra di <strong>Lucia Marcucci</strong>, Brescia 2013",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://ocrablog.blogspot.com/2012/05/lucia-marcucci-sprintpoem-fondazione.html\" target=\"_blank\" rel=\"noopener noreferrer\">Articolo su <strong>Ocrablog</strong></a>"
-            }
-          ],
-          "vlinks": []
-        },
+        "pageTitle": "Una guida per te!",
         "progetti.yaml": {
           "id": "progetti",
           "subtitles": [
@@ -677,7 +441,7 @@
           ],
           "vlinks": []
         },
-        "tabTitle.txt": "Una guida turistica abilitata di Brescia e del lago di Garda e Iseo per te"
+        "tabTitle": "Una guida turistica abilitata di Brescia e del lago di Garda e Iseo per te"
       },
       "home": {
         "calendario.yaml": {
@@ -941,7 +705,7 @@
         },
         "menu": "Home",
         "nav": "1",
-        "pageTitle.txt": "La mia guida di Brescia",
+        "pageTitle": "La mia guida di Brescia",
         "preparazione.yaml": {
           "subtitles": [
             {
@@ -1040,7 +804,7 @@
           "title": "Regala una visita",
           "vlinks": []
         },
-        "tabTitle.txt": "Maddalena Carnaghi - La mia guida di Brescia - Una guida per te"
+        "tabTitle": "Maddalena Carnaghi - La mia guida di Brescia - Una guida per te"
       }
     },
     "pl": {}

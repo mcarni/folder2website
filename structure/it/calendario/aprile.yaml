@@ -1,0 +1,25 @@
+collapse: collapse
+collapse-class: row my-2 justify-content-center collapse
+events:
+- event-header1: Sabato 02/03
+  event-header2: ore 15:00
+  event-header3: Piazza Moretto
+  event-header4: ''
+  event-id: '0'
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Donne_Bresciane_e_la_Resistenza
+  event-link-text: "Contattami per saperne di pi\xF9"
+  event-text: percorso sui luoghi delle donne bresciane che hanno vissuto la Resistenza
+    in collaborazione con la sezione ANPI
+  event-title: Donne Bresciane e la Resistenza
+- event-header1: Sabato 23/03
+  event-header2: ore 15:00
+  event-header3: Museo del Risorgimento
+  event-header4: ''
+  event-id: '1'
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Le_X_Giornate_di_Brescia
+  event-link-text: "Contattami per saperne di pi\xF9"
+  event-text: Mi piacerebbe portarvi a scoprire il Museo del Risorgimento proprio
+    in concomitanza con le X giornate di Brescia
+  event-title: Le X Giornate di Brescia
+id: collapseMar
+title: Marzo
