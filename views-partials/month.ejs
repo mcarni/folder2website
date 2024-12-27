@@ -10,8 +10,12 @@
     <%  const month = ["Gennaio","Febbraio","Marzo","Aprile","Maggio","Giugno","Luglio","Agosto","Settembre","Ottobre","Novembre","Dicembre"]; %> 
     <%  const d = new Date(); %>
     <%  let monthName = month[d.getMonth()]; %>
+    <%  let monthNumber = d.getMonth() + 1; %>
+    <%  const evenMonths = ["Febbraio","Aprile","Giugno","Agosto","Ottobre","Dicembre"]; %>
+    <%  const oddMonths = ["Gennaio","Marzo","Maggio","Luglio","Settembre","Novembre"]; %>
+     
     
-    <!-- Ugly hack to add collapse as a class when needed -->
+    <!-- check current month and hide other months to add collapse as a class when needed -->
     <% if (row["title"] === monthName ) { %> 
       <div class= "row my-2 justify-content-center" id= <%- row["id"] %>  >
     <% } else { %>
@@ -22,14 +26,21 @@
       <h2 class="homeTitle"><%= row["title"] %></h2>
       
       <% row["events"].forEach((key,index) => { %>
-        <div class="row card card-custom1 p-3 m-2">
-          <h3 class="card-title"><%- key["event-title"] %></h3>
-          <h6 class="card-header"><%- key["event-header1"] %></h6>
-          <h6 class="card-header"><%- key["event-header2"] %></h6>
-          <h6 class="card-header"><%- key["event-header3"] %></h6>
-          <div class="card-body p-2">
-          <p class="card-text mt-4"><%- key["event-text"] %></p>
-          <a href=<%- key["event-link"] %> class="btn btn btn-lg btn-custom2"><%- key["event-link-text"] %></a>
+          
+        <!-- use alternate style for odd/even month numbers -->
+        <% if ( oddMonths.indexOf( row["title"] ) ==  -1 ) { %>
+          <div class="row card card-custom1 p-3 m-2">
+        <% } else if ( evenMonths.indexOf( row["title"] ) ==  -1 ) { %>
+          <div class="row card card-custom2 p-3 m-2">
+        <% } %>
+
+            <h3 class="card-title"><%- key["event-title"] %></h3>
+            <h6 class="card-header"><%- key["event-header1"] %></h6>
+            <h6 class="card-header"><%- key["event-header2"] %></h6>
+            <h6 class="card-header"><%- key["event-header3"] %></h6>
+            <div class="card-body p-2">
+            <p class="card-text mt-4"><%- key["event-text"] %></p>
+            <a href=<%- key["event-link"] %> class="btn btn btn-lg btn-custom2"><%- key["event-link-text"] %></a>
           </div>
         </div>
       <% }) %>

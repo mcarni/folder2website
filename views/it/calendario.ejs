@@ -47,19 +47,5 @@
 <!-- main row partial -->  
 <%- include('../../views-partials/month-toggler'); %>
 
-<h2>CONTENT</h2> 
- <% Object.keys(pageContent).forEach((key,index) => { %> 
- "index : "<%= index %> "key : " <%= key -%>  "value : "<%- JSON.stringify(pageContent[key], null, 2) %><br> 
- <%  }); %> 
- 
- <h2>NAVBAR</h2> 
- <% Object.keys(siteNavbar).forEach((key,index) => { %> 
- "index : "<%= index %> "key : " <%= key -%>  "value : "<%- JSON.stringify(siteNavbar[key], null, 2) %><br> 
- <%  }); %> 
- 
- <h2>PAGE INFO</h2> 
- "Page Language :" <%= pageLanguage %> 
- "Page Name :" <%= pageName %> 
-
 <!-- footer partial --> 
 <%- include('../../views-partials/footer'); %>

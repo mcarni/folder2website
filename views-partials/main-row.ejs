@@ -21,7 +21,7 @@
           <h2 class="homeTitle"><%= row["title"] %></h2>
         <% } %>
         
-        <!-- check if title exists and set if it does -->
+        <!-- check if description exists and set if it does -->
         <% if (row["description"] != null ) { %>
           <h3 class="smallFont"><%= row["description"] %></h3>
         <% } %>
@@ -49,7 +49,7 @@
             <h3 class="smallFont"><%- key["subtitle-smallfont4"] %></h3>
             <h3 class="smallFont"><%- key["subtitle-smallfont5"] %></h3>
             
-            <% if (row["subtitle-link"] != null ) { %>
+            <% if (key["subtitle-link"] != null ) { %>
               <p>
                 <a href=<%- rootWebPage + "/" + pageLanguage + "/" + key["subtitle-link"] %> class="btn btn-lg btn-custom" role="button"><%= key["subtitle-link-text"] %></a>
                 <br>
