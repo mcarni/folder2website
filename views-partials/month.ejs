@@ -1,0 +1,33 @@
+<!-- views-partials/month.ejs -->
+
+
+
+<!-- // remember body  has been opened-->
+  <!-- // remember main div container has been opened-->  
+    <!-- Main row -->
+    
+    <!-- Ugly hack to add collapse as a class when needed -->
+    <% if (row["collapse"] === "collapse" ) { %> 
+      <div class= "<%- row["collapse-class"] %>"  id= <%- row["id"] %>  >
+    <% } else { %>
+      <div class="row my-5 justify-content-center" id= <%- row["id"] %>  >
+    <% } %>
+    
+    
+      <h2 class="homeTitle"><%= row["title"] %></h2>
+      
+      <% row["events"].forEach((key,index) => { %>
+        <div class="row card card-custom1 p-3 m-2">
+          <h3 class="card-title"><%- key["event-title"] %></h3>
+          <h6 class="card-header"><%- key["event-header1"] %></h6>
+          <h6 class="card-header"><%- key["event-header2"] %></h6>
+          <h6 class="card-header"><%- key["event-header3"] %></h6>
+          <div class="card-body p-2">
+          <p class="card-text mt-4"><%- key["event-text"] %></p>
+          <a href=<%- key["event-link"] %> class="btn btn btn-lg btn-custom2"><%- key["event-link-text"] %></a>
+          </div>
+        </div>
+      <% }) %>
+  
+
+    </div><!-- /row --> 

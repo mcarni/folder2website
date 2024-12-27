@@ -1,0 +1,36 @@
+{
+  "title": "",
+  "description": "",
+  "id": "",
+  "collapse": "",
+  "collapse-class": "",
+  "img-src": "",
+  "img-alt": "",
+  "img-title": "",
+  "title2": "",
+  "subtitles": [
+    { "subtitle-id": "",
+      "subtitle-title": "",
+      "subtitle-smallfont-azzurrino": "",
+      "subtitle-smallfont1": "",
+      "subtitle-smallfont2": "",
+      "subtitle-smallfont3": "",
+      "subtitle-smallfont4": "",
+      "subtitle-smallfont5": "",
+      "subtitle-link": "",
+      "subtitle-link-text": "" 
+    }
+  ],
+  "buttons": [
+    { "button-smallfont": "",
+      "button-text": "",
+      "button-target": ""
+    }
+  ],
+  "vlinks": [
+     {"vlink-id": "",
+      "vlink-link": "",
+      "vlink-text": ""
+    }
+  ]
+}

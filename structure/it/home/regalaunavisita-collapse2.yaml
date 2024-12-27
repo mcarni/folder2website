@@ -1,0 +1,14 @@
+collapse: collapse
+collapse-class: row my-5 justify-content-center collapse collapseregalo
+id: collapseregalo2
+subtitles:
+- subtitle-id: '0'
+  subtitle-smallfont1: "Se non avete le idee ben chiare, non vi preoccupate!\_Scrivetemi\
+    \ una mail\_raccontandomi quali sono i vostri desideri e vi aiuter\xF2 a trovare\
+    \ il regalo perfetto per l\u2019occasione."
+- subtitle-id: '1'
+  subtitle-link: mailto:lamiaguidadibrescia@proton.me?subject=Contattami_per_regalare_una_visita
+  subtitle-link-text: Contattami per regalare una visita
+  subtitle-smallfont1: I buoni non hanno scadenza anche se meglio non far passare
+    decenni!
+vlinks: []

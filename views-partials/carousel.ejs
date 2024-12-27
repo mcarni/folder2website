@@ -1,0 +1,67 @@
+<!-- views-partials/carousel.ejs -->
+   
+   
+    
+<!-- // remember body  has been opened-->
+  <!-- // remember main div container has been opened-->  
+    <!-- Main row -->
+    <div class="row my-5 justify-content-center">
+      <div class="col">
+
+        <!-- BS Carousel for pictures-->
+        <div id=<%- carousel["id"] %> class="carousel slide carousel-fade" data-bs-ride="carousel">
+
+        <!-- Indicators/dots -->
+        <div class="carousel-indicators">
+          <% carousel["items"].forEach((key,index) => { %>
+            <% if (key["item-id"] == "0") { %>
+              <button type="button" data-bs-target=<%- "#" + carousel["id"] %> data-bs-slide-to="<%- key["item-id"] %>" class="active"></button>
+            <% } else { %>
+              <button type="button" data-bs-target=<%- "#" + carousel["id"] %> data-bs-slide-to="<%- key["item-id"] %>"</button>
+            <% }; %>
+          <% }) %>
+        </div>
+
+        <!-- The slideshow/carousel -->
+        <div class="carousel-inner">
+          <% carousel["items"].forEach((key,index) => { %>
+            <% if (key["item-id"] == "0") { %>                          
+              <div class="carousel-item active" data-bs-interval="2000">
+                <img src=<%- "/images/" + key["item-img-src"] %> alt=<%- "\"" + key["item-img-alt"] + "\"" %> title=<%- "\"" +  key["item-img-title"] + "\"" %> class="d-block w-100 img-fluid img-custom">
+                  <div class="carousel-caption">
+                    <h2 class="homeTitle"><%= key["item-title"] %></h2>
+                    <p><a href=<%- rootWebPage + "/" + pageLanguage + "/" + key["item-link"] %> class="btn btn-sm btn-custom" role="button"><%= key["item-link-text"] %></a></p>
+                  </div>
+              </div>
+            <% } else { %>
+              <div class="carousel-item" data-bs-interval="2000">
+                <img src=<%- "/images/" + key["item-img-src"] %> alt=<%- "\"" +  key["item-img-alt"] + "\"" %> title=<%- "\"" +  key["item-img-title"] + "\"" %> class="d-block w-100 img-fluid img-custom">
+                  <div class="carousel-caption">
+                    <h2 class="homeTitle"><%= key["item-title"] %></h2>
+                    <p><a href=<%- rootWebPage + "/" + pageLanguage + "/" + key["item-link"] %> class="btn btn-sm btn-custom" role="button"><%= key["item-link-text"] %></a></p>
+                  </div>
+              </div>
+            <% }; %>  
+          <% }) %>
+
+          <!-- Left and right controls/icons -->
+          <button class="carousel-control-prev" type="button" data-bs-target=<%- "#" + carousel["id"] %> data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target=<%- "#" + carousel["id"] %> data-bs-slide="next">
+          <span class="carousel-control-next-icon"></span>
+          </button>
+      
+          <!-- close carousel-inner -->  
+          </div>
+
+        <!-- close Carousel -->  
+        </div>
+
+
+
+
+
+      </div> <!-- carousel column -->
+      
+    </div> <!-- /row -->

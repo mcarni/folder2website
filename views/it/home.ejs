@@ -1,0 +1,60 @@
+<!-- needed for the logo -->  
+<% logoImg =  "/images/logo.png" %>
+<% logoAltText =  "Logo - La mia guida di Brescia" %>
+<!-- needed for the language switcher and for internal links-->  
+<% rootWebPage =  "http://localhost:3000" %>
+
+<!-- head partial --> 
+<%- include('../../views-partials/head'); %>
+
+<!-- logo partial -->  
+<%- include('../../views-partials/logo'); %>
+
+<!-- navbar partial -->  
+<%- include('../../views-partials/navbar'); %>
+
+<!-- title row partial -->  
+<%- include('../../views-partials/title-row'); %>
+
+<% carousel =  pageContent["img-carousel.yaml"] %>
+<!-- carousel partial -->  
+<%- include('../../views-partials/carousel'); %>
+
+<% row =  pageContent["guidaperte.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["calendario.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["itinerari.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["evidenza.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["preparazione.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["regalaunavisita.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["regalaunavisita-collapse.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["regalaunavisita-collapse2.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["contatti.yaml"] %>
+<!-- contacts partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<!-- footer partial --> 
+<%- include('../../views-partials/footer'); %>

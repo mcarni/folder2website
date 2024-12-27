@@ -1,0 +1,7 @@
+.env
+# npm modules
+node_modules/
+# log folder
+logs/
+# geany project
+folder2website.geany

@@ -1,0 +1,35 @@
+id: evidenza
+img-alt: Visita guidata del Castello di Brescia - Itinerario turistico del Falcone
+  d'Italia - Tour di Brescia - Maddalena Carnaghi - La mia guida di Brescia - in evidenza
+img-src: home_inevidenza.jpg
+img-title: Visita guidata del Castello di Brescia - Itinerario turistico del Falcone
+  d'Italia - Tour di Brescia - Maddalena Carnaghi - La mia guida di Brescia - in evidenza
+subtitles:
+- subtitle-id: '0'
+  subtitle-link: evidenza#brescianascosta
+  subtitle-link-text: "per saperne di pi\xF9"
+  subtitle-smallfont1: sabato 16/11 ore 14:30
+  subtitle-title: Brescia Nascosta
+- subtitle-id: '1'
+  subtitle-link: evidenza#santagiulia
+  subtitle-link-text: "per saperne di pi\xF9"
+  subtitle-smallfont1: domenica 24/11 ore 09:45
+  subtitle-title: Museo di Santa Giulia
+- subtitle-id: '2'
+  subtitle-link: evidenza#leonessa
+  subtitle-link-text: "per saperne di pi\xF9"
+  subtitle-smallfont1: domenica 08/12 ore 10:00
+  subtitle-title: "\"La Leonessa d\u2019Italia\""
+- subtitle-id: '3'
+  subtitle-link: evidenza#2mila
+  subtitle-link-text: "per saperne di pi\xF9"
+  subtitle-smallfont1: domenica 08/12 ore 15:00
+  subtitle-title: Duemila anni di storia e non sentirli
+- subtitle-id: '4'
+  subtitle-link: evidenza#castello
+  subtitle-link-text: "per saperne di pi\xF9"
+  subtitle-smallfont1: domenica 15/12 ore 15:00
+  subtitle-title: Scopriamo il Castello di Brescia percorrendo la strada del soccorso
+title: In evidenza
+title2: <em>Le proposte legate al mese:</em>
+vlinks: []

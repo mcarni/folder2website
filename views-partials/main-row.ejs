@@ -1,0 +1,87 @@
+<!-- views-partials/main-row.ejs -->
+   
+   
+    
+<!-- // remember body  has been opened-->
+  <!-- // remember main div container has been opened-->  
+    <!-- Main row -->
+    
+    <!-- Ugly hack to add collapse as a class when needed -->
+    <% if (row["collapse"] === "collapse" ) { %> 
+      <div class= "<%- row["collapse-class"] %>"  id= <%- row["id"] %>  >
+    <% } else { %>
+      <div class="row my-5 justify-content-center" id= <%- row["id"] %>  >
+    <% } %>
+    
+    
+      <div class="col">
+        
+        <!-- check if title exists and set if it does -->
+        <% if (row["title"] != null ) { %>
+          <h2 class="homeTitle"><%= row["title"] %></h2>
+        <% } %>
+        
+        <!-- check if title exists and set if it does -->
+        <% if (row["description"] != null ) { %>
+          <h3 class="smallFont"><%= row["description"] %></h3>
+        <% } %>
+        
+        <!-- check if img exists and set if it does -->
+        <% if (row["img-src"] != null && row["img-alt"] && row["img-title"] ) { %>
+          <img src=<%- "/images/" + row["img-src"] %> alt=<%- "\"" + row["img-alt"] + "\"" %> title=<%- "\"" + row["img-title"] + "\"" %> class="img-fluid img-custom">
+          <br><br>
+        <% } %>
+        
+        <!-- check if title2 exists and set if it does -->
+        <% if (row["title2"] != null ) { %>
+          <h2 class="homeTitle"><%- row["title2"] %></h2>
+        <% } %>
+
+        <!-- check if subtitles exist and iterate through all subtitles -->
+        <% if (row["subtitles"] != null ) { %>
+          <% row["subtitles"].forEach((key,index) => { %>
+            
+            <h3 class="homeSubTitle"><%= key["subtitle-title"] %></h3>
+            <h3 class="smallFont azzurrino"><%- key["subtitle-smallfont-azzurrino"] %></h3>
+            <h3 class="smallFont"><%- key["subtitle-smallfont1"] %></h3>
+            <h3 class="smallFont"><%- key["subtitle-smallfont2"] %></h3>
+            <h3 class="smallFont"><%- key["subtitle-smallfont3"] %></h3>
+            <h3 class="smallFont"><%- key["subtitle-smallfont4"] %></h3>
+            <h3 class="smallFont"><%- key["subtitle-smallfont5"] %></h3>
+            
+            <% if (row["subtitle-link"] != null ) { %>
+              <p>
+                <a href=<%- rootWebPage + "/" + pageLanguage + "/" + key["subtitle-link"] %> class="btn btn-lg btn-custom" role="button"><%= key["subtitle-link-text"] %></a>
+                <br>
+              </p>
+            <% } %>
+        
+          <% }) %>
+        <% } %>
+
+        <!-- check if buttons exist and exist and iterate through them if needed -->
+        <% if (row["buttons"] != null ) { %>
+          <% row["buttons"].forEach((key,index) => { %>
+            <h3 class="smallFont"><%- key["button-smallfont"] %></h3>
+            <br>
+
+            <p>
+              <button type="button" class="btn btn-lg btn-custom test" data-bs-toggle="collapse" data-bs-target=<%- "." + key["button-target"] %> aria-expanded="false" aria-controls="collapse"><%= key["button-text"] %></button>
+            </p>
+          <% }) %>
+        
+        <% } %>  
+
+
+        <!-- check if vertical links exist and iterate through them if needed -->
+        <% if (row["vlinks"] != null ) { %>
+          <p class="btn-group-vertical">
+            <% row["vlinks"].forEach((key,index) => { %>
+              <a href=<%- rootWebPage + "/" + pageLanguage + "/" + key["vlink-link"] %> class="btn btn-lg btn-custom" role="button"><%- key["vlink-text"] %></a>
+            <% }) %>
+          </p>
+        <% } %>          
+
+
+      </div>
+    </div> <!-- /row -->        

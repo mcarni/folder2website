@@ -1,0 +1,38 @@
+<!-- needed for the logo -->  
+<% logoImg =  "/images/logo.png" %>
+<% logoAltText =  "Logo - La mia guida di Brescia" %>
+<!-- needed for the language switcher and for internal links-->  
+<% rootWebPage =  "http://localhost:3000" %>
+
+<!-- head partial --> 
+<%- include('../../views-partials/head'); %>
+
+<!-- logo partial -->  
+<%- include('../../views-partials/logo'); %>
+
+<!-- navbar partial -->  
+<%- include('../../views-partials/navbar'); %>
+
+<!-- title row partial -->  
+<%- include('../../views-partials/title-row'); %>
+
+<% row =  pageContent["marzo.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/month'); %>
+
+<h2>CONTENT</h2> 
+ <% Object.keys(pageContent).forEach((key,index) => { %> 
+ "index : "<%= index %> "key : " <%= key -%>  "value : "<%- JSON.stringify(pageContent[key], null, 2) %><br> 
+ <%  }); %> 
+ 
+ <h2>NAVBAR</h2> 
+ <% Object.keys(siteNavbar).forEach((key,index) => { %> 
+ "index : "<%= index %> "key : " <%= key -%>  "value : "<%- JSON.stringify(siteNavbar[key], null, 2) %><br> 
+ <%  }); %> 
+ 
+ <h2>PAGE INFO</h2> 
+ "Page Language :" <%= pageLanguage %> 
+ "Page Name :" <%= pageName %> 
+
+<!-- footer partial --> 
+<%- include('../../views-partials/footer'); %>

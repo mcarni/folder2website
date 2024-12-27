@@ -1,0 +1,238 @@
+/*
+ * Globals
+ */
+
+/*
+ * let's define our css variables
+ */ 
+:root {
+  /* palette
+   * colore principale #14506C ottanio scuro
+   * colore contrasto principale #3F6E8B azzurrino
+   * colore secondario #5E3352 vinaccia
+   * colore contrasto secondario #754D6A vinaccia chiaro
+  /* old --ottanio: #028eb9;*/
+  --colPrincipale: #14506C;
+  --colPrincipaleContrasto: #3F6E8B;
+  --colSecondario: #5E3352;
+  --colSecondarioContrasto: #754D6A;
+  --ottanio: #008099;
+  --giallino: #ffffba;
+  --bianco: #ffffff;
+  --nero: #000000;
+  --fontGeneric: Doris;
+  --fontTitle: Lobster
+}
+
+
+/*
+ * Base structure
+ */
+body {
+  color: var(--nero);
+  background: var(--bianco);
+  font-family: var(--fontGeneric);
+  /* font-size: 1.1rem */
+}
+
+
+/* 
+ * Custom button 
+ */
+.btn-custom {
+  font-family: var(--fontTitle);  
+  color: var(--bianco);
+  background-color: var(--colPrincipale);
+  border-color: var(--colPrincipaleContrasto);
+  border-radius: 1.25rem;
+  border-width: 0.3rem
+}
+.btn-custom:hover,
+.btn-custom:focus {
+  color: var(--bianco);
+  background-color: var(--colSecondario);
+  border-color: var(--colSecondarioContrasto);
+  transform: scale(1.5);
+  transition: all .2s linear
+}
+
+.btn-custom2 {
+  font-family: var(--fontTitle);  
+  color: var(--bianco);
+  background-color: var(--colSecondario);
+  border-color: var(--colSecondarioContrasto);
+  border-radius: 1.25rem;
+  border-width: 0.3rem
+}
+.btn-custom2:hover,
+.btn-custom2:focus {
+  color: var(--bianco);
+  background-color: var(--colPrincipale);
+  border-color: var(--colPrincipaleContrasto);
+  transform: scale(1.5);
+  transition: all .2s linear
+}
+
+/* 
+ * Custom card 
+ */
+.card-custom1 {
+  font-family: var(--fontTitle);  
+  color: var(--bianco);
+  background-color: var(--colPrincipale);
+  border-color: var(--colPrincipaleContrasto);
+  border-radius: 1.75rem;
+  border-width: 0.3rem
+}
+.card-custom2 {
+  font-family: var(--fontTitle);  
+  color: var(--bianco);
+  background-color: var(--colPrincipaleContrasto);
+  border-color: var(--colPrincipale);
+  border-radius: 1.75rem;
+  border-width: 0.3rem
+}
+
+/* 
+ * Custom footer 
+ */
+.footer-custom {
+  color: var(--colPrincipaleContrasto);
+  font-style: italic;
+  font-size: 0.7rem
+}
+
+/* 
+ * Custom navbar 
+ */
+.navbar-nav {
+  background-color: var(--colPrincipaleContrasto);
+  text-align: left !important;
+}
+.nav-link {
+  padding: .25rem 0;
+  /* font-size: 1.0rem; */
+  font-weight: 700;
+  color: var(--bianco);
+  background-color: transparent;
+  border-bottom: .25rem solid transparent;
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: var(--colPrincipale);
+}
+.nav-link.customActive {
+  text-decoration: underline;
+  font-weight: bolder;
+}
+.navbar-nav {
+  background-color: var(--colPrincipaleContrasto);
+} 
+.dropdown-menu {
+  padding: .25rem 0;
+  /* font-size: 1.0rem; */
+  font-weight: 700;
+  color: var(--bianco);
+  background-color: transparent;
+  border: 0 solid transparent; 
+}
+.dropdown-menu:hover,
+.dropdown-menu:focus {
+  color: var(--colPrincipale);
+}
+.nav-link.customActive {
+  text-decoration: underline;
+  font-weight: bolder;
+}
+
+.flag {
+  width: 2.5rem;
+}
+
+/* 
+ * logo
+ */
+.img-rounded {
+  border-color: var(--colPrincipaleContrasto);
+  border-radius:50% !important; 
+  border-width: 0.75rem;
+  border-style: solid;
+}
+/* 
+ * home images 
+ */
+.img-custom {
+  border-color: var(--colPrincipaleContrasto);
+  border-radius: 1.25rem;
+  border-width: 0.75rem;
+  border-style: solid;
+}
+/* 
+ * effects on home images 
+ */
+.imgTitle:hover,
+.imgTitle:focus {
+  transform: scale(1.2);
+  transition: all .4s linear;
+}
+
+/* 
+ * small fonts for text 
+ */ 
+.smallFont {
+   font-size: 1.1rem;
+}
+
+/* 
+ * colours for home titles 
+ */
+.homeTitle {
+  color: var(--colPrincipale);
+  font-family: var(--fontTitle)
+}
+
+/* 
+ * colours for home subtitles 
+ */
+.homeSubTitle {
+  color: var(--colPrincipaleContrasto);
+  font-family: var(--fontTitle)
+}
+
+/* 
+ * colours for azzurrini
+ */
+.azzurrino {
+  color: var(--colPrincipaleContrasto);
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+/*
+.footer {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  position: absolute;
+  height: 2vh; /* Set the fixed height of the footer here */
+  /*line-height: 2vh; /* Vertically center the text there */
+  /*justify-content:center;
+  align-items:center;
+}
+*/
+
+/* Carousel
+
+.carousel-caption {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+.carousel-indicators {
+    position: relative;
+    left: 0;
+    top: -1vh;
+}
+-------------------------------------------------- */

@@ -1,0 +1,29 @@
+id: itinerari
+img-alt: Piede della Vittoria Alata - Visita guidata di Brescia romana/itinerario
+  turistico del Parco Archeologico di Brixia/Tempio Capitolino - Maddalena Carnaghi
+  - La mia guida di Brescia gli - itinerari
+img-src: home_itinerari.jpg
+img-title: Piede della Vittoria Alata - Visita guidata di Brescia romana/itinerario
+  turistico del Parco Archeologico di Brixia/Tempio Capitolino - Maddalena Carnaghi
+  - La mia guida di Brescia gli - itinerari
+subtitles:
+- subtitle-id: '0'
+  subtitle-smallfont1: "Brescia, la mia citt\xE0, e i laghi che la circondano, si\
+    \ prestano a diversi tipi di visite guidate, scoprite con me:"
+title: Gli itinerari
+vlinks:
+- vlink-id: '0'
+  vlink-link: itinerariclassici
+  vlink-text: gli itinerari <strong>classici</strong>
+- vlink-id: '1'
+  vlink-link: itinerarididattici
+  vlink-text: gli itinerari <strong>didattici</strong>
+- vlink-id: '2'
+  vlink-link: itineraritema
+  vlink-text: gli itinerari <strong>a tema</strong>
+- vlink-id: '3'
+  vlink-link: itineraristorici
+  vlink-text: gli itinerari <strong>storici</strong>
+- vlink-id: '4'
+  vlink-link: itinerarilaghi
+  vlink-text: gli itinerari <strong>dei laghi</strong>
