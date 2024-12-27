@@ -40,6 +40,13 @@
 <!-- main row partial -->  
 <%- include('../../views-partials/month'); %>
 
+<% row =  pageContent["dicembre.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/month'); %>
+
+<!-- main row partial -->  
+<%- include('../../views-partials/month-toggler'); %>
+
 <h2>CONTENT</h2> 
  <% Object.keys(pageContent).forEach((key,index) => { %> 
  "index : "<%= index %> "key : " <%= key -%>  "value : "<%- JSON.stringify(pageContent[key], null, 2) %><br> 

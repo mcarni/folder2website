@@ -186,6 +186,47 @@
           ]
         },
         "description.txt": "Organizzo tour con piccoli gruppi per scoprire, divertendosi, particolari inediti della città. A partire da aneddoti curiosi, ma anche dalla storia ufficiale che cerco di narrare in maniera coinvolgente, per scoprire l’evoluzione della nostra città",
+        "dicembre.yaml": {
+          "title": "Dicembre",
+          "id": "collapseDec",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "0",
+              "event-title": "per scoprire il Museo \"La Leonessa d’Italia”",
+              "event-header1": "Visita con una guida turistica abilitata il Museo del Risorgimento",
+              "event-header2": "Domenica 08/12",
+              "event-header3": "ore 10:00",
+              "event-header4": "",
+              "event-text": "Se non avete ancora visitato il Museo del Risorgimento e volete visitarlo con una guida abilitata, fatevi avanti. Il Museo è ancora gratuito fino a dicembre per i residenti a Brescia. Prenotate entro il 1° dicembre.",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=La_Leonessa_dItalia",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "1",
+              "event-title": "Duemila anni di storia e non sentirli",
+              "event-header1": "Domenica 08/12",
+              "event-header2": "ore 15:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città\":\" si parte dal periodo romano e si arriva al 1932! In collaborazione con l’associazione Blu Balena",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Duemila_anni_di_storia_e_non_sentirli",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "2",
+              "event-title": "Scopriamo il Castello di Brescia percorrendo la strada del soccorso",
+              "event-header1": "Domenica 15/12",
+              "event-header2": "ore 15:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Per chi si reca spesso in castello ma vorrebbe conoscere meglio la sua storia e la sua evoluzione e scoprire quella maledetta strada del Soccorso che per ben 2 volte ha portato i bresciani al massacro. In collaborazione con l’associazione Blu Balena",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Scopriamo_il_castello",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
         "giugno.yaml": {
           "title": "Giugno",
           "id": "collapseJun",

@@ -6,11 +6,16 @@
   <!-- // remember main div container has been opened-->  
     <!-- Main row -->
     
+    <!-- get current month -->
+    <%  const month = ["Gennaio","Febbraio","Marzo","Aprile","Maggio","Giugno","Luglio","Agosto","Settembre","Ottobre","Novembre","Dicembre"]; %> 
+    <%  const d = new Date(); %>
+    <%  let monthName = month[d.getMonth()]; %>
+    
     <!-- Ugly hack to add collapse as a class when needed -->
-    <% if (row["collapse"] === "collapse" ) { %> 
-      <div class= "<%- row["collapse-class"] %>"  id= <%- row["id"] %>  >
+    <% if (row["title"] === monthName ) { %> 
+      <div class= "row my-2 justify-content-center" id= <%- row["id"] %>  >
     <% } else { %>
-      <div class="row my-5 justify-content-center" id= <%- row["id"] %>  >
+      <div class="row my-2 justify-content-center collapse" id= <%- row["id"] %>  >
     <% } %>
     
     
