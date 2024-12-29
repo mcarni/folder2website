@@ -55,13 +55,20 @@
             <h3 class="smallFont"><%- key["subtitle-smallfont4"] %></h3>
             <h3 class="smallFont"><%- key["subtitle-smallfont5"] %></h3>
             
-            <% if (key["subtitle-link"] != null ) { %>
+            <% if ( key["subtitle-link"] != null && key["subtitle-link-text"] != null ) { %>
               <p>
                 <a href=<%- rootWebPage + "/" + pageLanguage + "/" + key["subtitle-link"] %> class="btn btn-lg btn-custom" role="button"><%= key["subtitle-link-text"] %></a>
                 <br>
               </p>
             <% } %>
-        
+
+            <% if ( key["subtitle-mail-link"] != null && key["subtitle-mail-link-text"] != null ) { %>
+              <p>
+                <a href=<%- key["subtitle-mail-link"] %> class="btn btn-lg btn-custom2" role="button"><%= key["subtitle-mail-link-text"] %></a>
+                <br>
+              </p>
+            <% } %>
+
           <% }) %>
         <% } %>
 

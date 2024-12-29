@@ -566,12 +566,11 @@
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-link": "mailto:lamiaguidadibrescia@proton.me?subject=Una_guida_per_te",
-              "subtitle-link-text": "Contattami per saperne di più",
-              "subtitle-smallfont1": "Mi Chiamo Maddalena, ho vissuto tanti anni all’estero e, da quando sono tornata, ho riscoperto ancora di più la bellezza della mia città, Brescia, e dei suoi meravigliosi laghi: Il Lago di Garda e Il Lago d’Iseo. Sono guida turistica abilitata dal 2011 e, da allora, amo condividere la bellezza, le curiosità, la storia di Brescia con tutti coloro che vengono in visita. Sono laureata in storia dell’arte e sono insegnante di italiano e storia a scuola, per cui le mie guide sono un perfetto mix di interazione, di aneddoti curiosi capaci di rendere le spiegazioni frizzanti. Spesso le persone che accompagno in tour mi dicono che trasmetto una grande passione. In effetti, è un lavoro che amo molto. Soprattutto, mi piace creare itinerari ad hoc per ogni persona e graduare il percorso in base alle esigenze o volontà di chi visita. Si possono fare tanti itinerari diversi: da quelli più turistici, a quelli più curiosi, così come ci si può rivolgere ad esperti d’arte e di storia o bambini. il mio lavoro è proprio quello: trovare la formula giusta per voi!"
+              "subtitle-smallfont1": "Mi Chiamo Maddalena, ho vissuto tanti anni all’estero e, da quando sono tornata, ho riscoperto ancora di più la bellezza della mia città, Brescia, e dei suoi meravigliosi laghi: Il Lago di Garda e Il Lago d’Iseo. Sono guida turistica abilitata dal 2011 e, da allora, amo condividere la bellezza, le curiosità, la storia di Brescia con tutti coloro che vengono in visita. Sono laureata in storia dell’arte e sono insegnante di italiano e storia a scuola, per cui le mie guide sono un perfetto mix di interazione, di aneddoti curiosi capaci di rendere le spiegazioni frizzanti. Spesso le persone che accompagno in tour mi dicono che trasmetto una grande passione. In effetti, è un lavoro che amo molto. Soprattutto, mi piace creare itinerari ad hoc per ogni persona e graduare il percorso in base alle esigenze o volontà di chi visita. Si possono fare tanti itinerari diversi: da quelli più turistici, a quelli più curiosi, così come ci si può rivolgere ad esperti d’arte e di storia o bambini. il mio lavoro è proprio quello: trovare la formula giusta per voi!",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Una_guida_per_te",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
             }
-          ],
-          "vlinks": []
+          ]
         },
         "icon": "heart",
         "menu": "Una guida per te",
@@ -1074,6 +1073,27 @@
           "itinerary-link-text": "Prenota Brescia - Visita al Museo di Santa Giulia"
         },
         "tabTitle": "Itinerari classici - Maddalena Carnaghi - La mia guida di Brescia"
+      },
+      "itinerarididattici": {
+        "description.txt": "",
+        "icon": "graduation-cap",
+        "itinerarididattici.yaml": {
+          "id": "itinerarididattici",
+          "title": "Percorsi didattici per le scuole",
+          "title2": "pensati studiando i programmi ministeriali.",
+          "subtitles": [
+            {
+              "subtitle-smallfont1": "Essendo un’insegnante penso di avere l’approccio perfetto",
+              "subtitle-smallfont2": "per accompagnare gli studenti di ogni ordine e grado",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_itinerari_didattici",
+              "subtitle-mail-link-text": "Prenota - Itinerari didattici"
+            }
+          ]
+        },
+        "menu": "Gli itinerari didattici",
+        "nav": "5",
+        "pageTitle": "Itinerari didattici",
+        "tabTitle": "Itinerari didattici - Maddalena Carnaghi - La mia guida di Brescia"
       }
     },
     "pl": {}
@@ -1124,6 +1144,11 @@
         "icon": "landmark-dome",
         "menu": "Gli itinerari classici",
         "name": "itinerariclassici"
+      },
+      "5": {
+        "icon": "graduation-cap",
+        "menu": "Gli itinerari didattici",
+        "name": "itinerarididattici"
       }
     },
     "pl": {}

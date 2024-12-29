@@ -6,8 +6,6 @@ img-title: Maddalena Carnaghi - Guida turistica abilitata di Brescia e del lago 
   Garda e Iseo - La mia guida di Brescia - una guida per te
 subtitles:
 - subtitle-id: '0'
-  subtitle-link: mailto:lamiaguidadibrescia@proton.me?subject=Una_guida_per_te
-  subtitle-link-text: "Contattami per saperne di pi\xF9"
   subtitle-smallfont1: "Mi Chiamo Maddalena, ho vissuto tanti anni all\u2019estero\
     \ e, da quando sono tornata, ho riscoperto ancora di pi\xF9 la bellezza della\
     \ mia citt\xE0, Brescia, e dei suoi meravigliosi laghi: Il Lago di Garda e Il\
@@ -23,4 +21,6 @@ subtitles:
     \ pi\xF9 turistici, a quelli pi\xF9 curiosi, cos\xEC come ci si pu\xF2 rivolgere\
     \ ad esperti d\u2019arte e di storia o bambini. il mio lavoro \xE8 proprio quello:\
     \ trovare la formula giusta per voi!"
-vlinks: []
+  subtitle-mail-link: "mailto:lamiaguidadibrescia@proton.me?subject=Una_guida_per_te"
+  subtitle-mail-link-text: "Contattami per saperne di pi\xF9"
+  
