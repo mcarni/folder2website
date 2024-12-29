@@ -1095,6 +1095,146 @@
         "pageTitle": "Itinerari didattici",
         "tabTitle": "Itinerari didattici - Maddalena Carnaghi - La mia guida di Brescia"
       },
+      "itineraristorici": {
+        "altomedioevo.yaml": {
+          "id": "altomedioevo",
+          "title": "Brescia",
+          "title2": "Itinerari alto medievali",
+          "subtitle": "Un vero e proprio ducato longobardo",
+          "img-src": "brescia_it_altomedioevo.jpg",
+          "img-alt": "Itinerari storici - Itinerari alto medievali - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerari alto medievali - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1 ora e mezza",
+          "itinerary-type": "appassionati di arte longobarda, per chi vuole scoprire meglio le nostre origini e per chi vuole sfatare il mito dei barbari invasori.",
+          "itinerary-content": "La visita guidata si svolge all’interno della sezione longobarda del Museo di Santa Giulia ma, se si ha tempo, potrebbe continuare e terminare in Piazza Vittoria, in corrispondenza di dove si trovava la Curia Ducis",
+          "itinerary-description": "Partendo dalle tombe, si approfondirà l’origine della popolazione longobarda. Si ripercorrerà il viaggio iniziato in Scania, il passaggio per la Pannonia e il momento del varco delle Alpi Giulie; attraverso gli oggetti del corredo si analizzeranno i loro usi e costumi. Si passerà poi alla conoscenza dei manufatti metallici e delle scritte incise sulle lastre. In ultimo, si entrerà nell’incredibile chiesa di San Salvatore. Si comprenderà la sua evoluzione, il senso per cui è stata costruita e tutti gli apparati decorativi di cui era composta. Anche se carolingia, si consiglia la visita della Croce detta di Desiderio.",
+          "itinerary-warning": "é consigliata la prenotazione per il Museo ed è necessaria se si è in gruppo al seguente link:",
+          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
+          "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerari_alto_medievali",
+          "itinerary-link-text": "Prenota Brescia - Itinerari alto medievali"
+        },
+        "bassomedioevo.yaml": {
+          "id": "bassomedioevo",
+          "title": "Brescia",
+          "title2": "Itinerario basso medievale",
+          "subtitle": "Più romanico di così non si può!",
+          "img-src": "brescia_it_bassomedioevo.jpg",
+          "img-alt": "Itinerari storici - Itinerario basso medievale - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerario basso medievale - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1h e mezza",
+          "itinerary-type": "per chi vuole saperne di più sul Medioevo a Brescia.",
+          "itinerary-content": "La visita guidata si svolge in esterno per la città. Santa Maria in Solario, la Torre d’Ercole, San Marco, Il Broletto, il Duomo Vecchio e San Faustino in Riposo.",
+          "itinerary-description": "la visita inizia da Piazza Tebaldo Brusato che esemplifica il concetto di piazza nell’Età Media e delle mura;  si prosegue con il concetto di monastero, esemplificato dalla visione di  Santa Maria in Solario, sacello appartenente al Monastero di Santa Giulia e dalla ricostruzione dei suoi ambiti (i chiostri, lo xenodochio) per poi passare per la Torre d’Ercole  e quindi soffermarsi sulla struttura della casa medievale (due esempi in via Carlo Cattaneo) e approdare in Piazza Paolo VI dove si approfondiranno il ruolo del Broletto e dell’antica cattedrale dedicata a Santa Maria Maggiore (Duomo Vecchio). Immancabile la scoperta della chiesa di San Faustino in Riposo in esterno con la sua suggestiva copertura. (per chi ha 40 minuti in più visita alla Chiesa di San Francesco).",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerari_basso_medievali",
+          "itinerary-link-text": "Prenota Brescia - Itinerari basso medievali"
+        },
+        "description.txt": "",
+        "icon": "building-columns",
+        "itineraristorici.yaml": {
+          "id": "itineraristorici",
+          "subtitles": [
+            {
+              "subtitle-title": "Approfondimenti per tutti i gusti e di tutte le epoche",
+              "subtitle-smallfont1": "Brescia, la mia città, si presta a diversi tipi di visite guidate. Scoprite con me i tour di mezza giornata o di una giornata intera;",
+              "subtitle-smallfont2": "percorriamo insieme gli itinerari storici tra il Castello e il centro della città,",
+              "subtitle-smallfont3": "visite guidate al Parco archeologico e al Museo di Santa Giulia."
+            }
+          ]
+        },
+        "menu": "Gli itinerari storici",
+        "nav": "7",
+        "pageTitle": "Itinerari storici ",
+        "rinascimentale.yaml": {
+          "id": "rinascimentale",
+          "title": "Brescia",
+          "title2": "Itinerari rinascimentali",
+          "subtitle": "Tra I precursori di Caravaggio e l’architettura veneta",
+          "img-src": "brescia_it_rinascimentale.jpg",
+          "img-alt": "Itinerari storici - Itinerari rinascimentali - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerari rinascimentali - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1h e mezza",
+          "itinerary-type": "per tutti!",
+          "itinerary-content-opt1": "Visita alla Pinacoteca Tosio Martinengo : il modo migliore per immergersi nella pittura cinquecentesca lombarda.",
+          "itinerary-content-opt2": "Percorso tra la pittura e l’architettura del Rinascimento.  Visita di una delle chiese che meglio offrono la possibilità di conoscere il Cinquecento lombardo in pittura (Cappella del Santissimo Sacramento nella Chiesa di San Giovanni Evangelista  o chiesa di San Cristo) e Piazza della Loggia.",
+          "itinerary-content-opt3": "Percorso relativo all’architettura del Rinascimento veneto. Visita a Piazza della Loggia, all’esterno della Chiesa di Santa Maria dei Miracoli e all’abside del Duomo Vecchio.",
+          "itinerary-content-opt4": "Percorso dedicato alla Terza via della pittura cinquecentesca. Cappella del Santissimo sacramento nella Chiesa di San Giovanni, chiesa del Santissimo Corpo di Cristo, abside del Duomo Vecchio e la collegiata dei Santi Nazaro e Celso con il polittico di Tiziano.",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerari_rinascimentali",
+          "itinerary-link-text": "Prenota Brescia - Itinerari rinascimentali"
+        },
+        "risorgimento.yaml": {
+          "id": "risorgimento",
+          "title": "Brescia",
+          "title2": "Itinerario risorgimentale",
+          "subtitle": "La Leonessa d'Italia, baluardo della lotta per l'Unità d'Italia",
+          "img-src": "brescia_it_risorgimento.jpg",
+          "img-alt": "Itinerari storici - Itinerari risorgimentali - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerari risorgimentali - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1h e mezza",
+          "itinerary-type": "per chi vuole saperne di più sul Risorgimento a Brescia",
+          "itinerary-content": "Il Museo del Risorgimento detto “La Leonessa d’Italia”.",
+          "itinerary-description": "il Risorgimento spiegato in maniera chiara cercando di entrare il più possibile nelle emozioni di chi viveva in quel momento.",
+          "itinerary-warning": "é consigliata la prenotazione per il Museo ed è necessaria se si è in gruppo al seguente link:",
+          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
+          "itinerary-warning-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerario_risorgimentale",
+          "itinerary-link-text": "Prenota Brescia - Itinerario risorgimentale"
+        },
+        "romano.yaml": {
+          "id": "romano",
+          "title": "Brescia",
+          "title2": "Itinerari romani",
+          "subtitle": "da Galli a Romani è un attimo",
+          "img-src": "brescia_it_romano.jpg",
+          "img-alt": "Itinerari storici - Itinerari romani - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerari romani - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1h e mezza",
+          "itinerary-type": "appassionati di arte romana, chi è interessato ad approfondire l’evoluzione dell’arte nel momento del contatto tra le popolazioni celtiche e i romani e vuole capire come vivevano, com’era Brixia.",
+          "itinerary-content-opt1": "il Parco archeologico di Brixia (con la visita alla cella di un tempio di età Repubblicana perfettamente conservata; la visita alla Vittoria alata, la visita al primigenio Museo Patrio)",
+          "itinerary-content-opt2": "può svolgersi  anche solo in esterno senza l’acquisto di un biglietto e, in questo caso, si visitano il pronao e il teatro del Parco archeologico di Brixia, la colonna del foro romano, la basilica, un cardo ed eventualmente lacerti delle terme romane",
+          "itinerary-content-opt3": "La sezione romana del Museo di Santa Giulia.",
+          "itinerary-description": "Brixia, capitale della Gallia Cisalpina, decide di entrare molto presto nell’orbita romana e, a differenza di altre tribù celtiche, si romanizza precocemente. Questo comporta la possibilità di visitare affreschi già del periodo repubblicano e di seguirne poi l’evoluzione nel tempo. In special modo sono visibili mosaici davvero ben conservati che mostrano anche le capacità tecniche delle maestranze locali; è possibile comprendere bene le strutture abitative dei cittadini più ricchi, le domus, grazie anche alla buona conservazione degli alzati e l’ottima conservazione dei pavimenti. È inoltre possibile vedere il sistema di riscaldamento attivo nella città romana, l’ipocausto, e la divisione degli ambienti e i loro usi.",
+          "itinerary-warning": "è necessaria la prenotazione se si vuole visitare il Parco archeologico di Brixia giacché, per preservare lo splendido stato di conservazione del sito, si entra in gruppi contingentati ogni venti minuti. È quindi bene prenotare, anche per la guida (che ha un biglietto gratuito ma va contata) al seguente link:",
+          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
+          "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerari_romani",
+          "itinerary-link-text": "Prenota Brescia - Itinerari romani"
+        },
+        "rsi.yaml": {
+          "id": "rsi",
+          "title": "Brescia",
+          "title2": "Itinerari sui luoghi della RSI e della Resistenza",
+          "subtitle": "Percorrere il passato per dare nuovo valore al nostro incedere nel presente",
+          "img-src": "brescia_it_rsi.jpg",
+          "img-alt": "Itinerari storici - Itinerari sui luoghi della RSI e della Resistenza - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerari sui luoghi della RSI e della Resistenza - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1h e mezza",
+          "itinerary-type": "per tutti!",
+          "itinerary-content-opt1": "Itinerario generale che accompagna tra i luoghi  dei partigiani, del potere repubblichino e della tortura per rievocare gli episodi salienti in cui si è compiuta la storia e dove è nata la Resistenza.",
+          "itinerary-content-opt2": "Itinerario sui luoghi del potere della Repubblica sociale Italiana. I luoghi di repressione, di tortura, di spionaggio, di potere attraverso gli episodi e i personaggi salienti.",
+          "itinerary-content-opt3": "Itinerario sui luoghi dei partigiani: i nascondigli, i partiti, i ciclostilati, le repressioni, gli aiuti narrati attraverso gli episodi e i personaggi salienti.",
+          "itinerary-content-opt4": "Itinerario sui luoghi degli eccidi: gli ebrei e la deportazione il tribunale, La Loggetta, l’Ufi narrati attraverso gli episodi e i personaggi salienti.",
+          "itinerary-content-opt5": "Itinerario sui luoghi delle donne della Resistenza.",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerario_Repubblica_Sociale_Italiana_e_Resistenza",
+          "itinerary-link-text": "Prenota Brescia - Itinerario Repubblica Sociale Italiana e Resistenza"
+        },
+        "settecentesco.yaml": {
+          "id": "settecentesco",
+          "title": "Brescia",
+          "title2": "Itinerari settecenteschi",
+          "subtitle": "Il Grand Tour a braccetto con Angelo Maria Querini",
+          "img-src": "brescia_it_settecentesco.jpg",
+          "img-alt": "Itinerari storici - Itinerari settecenteschi - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerari settecenteschi - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1h e mezza",
+          "itinerary-type": "per tutti!",
+          "itinerary-content": "La sala centrale della Biblioteca Queriniana (a seconda degli orari e delle disponibilità), il Duomo Nuovo e la facciata di Palazzo Chiappa, Piazzetta Legnano con la Casa Vantini e la Chiesa della Carità. In alternativa alla biblioteca, se chiusa, visita alla scalinata del Convento di Santa Chiara o ai chiostri del Convento dei Santi Faustino e Giovita (per la visita a questi luoghi va fatta richiesta all’università).",
+          "itinerary-warning": "Se si è interessati al Rococò, il Ridotto del Teatro Grande è perfetto (ma ha aperture limitate al fine settimana e su prenotazione)",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerario_settecentesco",
+          "itinerary-link-text": "Prenota Brescia - Itinerario settecentesco"
+        },
+        "tabTitle": "Itinerari storici - Maddalena Carnaghi - La mia guida di Brescia"
+      },
       "itineraritema": {
         "amore.yaml": {
           "id": "amore",
@@ -1241,6 +1381,11 @@
         "icon": "bullseye",
         "menu": "Gli itinerari tematici",
         "name": "itineraritema"
+      },
+      "7": {
+        "icon": "building-columns",
+        "menu": "Gli itinerari storici",
+        "name": "itineraristorici"
       }
     },
     "pl": {}

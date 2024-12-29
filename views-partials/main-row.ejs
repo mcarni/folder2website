@@ -144,6 +144,9 @@
             </div>  
           </div>
         <% } %>
+        <% if ( row["itinerary-warning"] != null &&  row["itinerary-description"] == null ) { %>
+          <h6><em><strong>Attenzione</strong></em> <%- row["itinerary-warning"] %></h6>
+        <% } %>
         <% if (row["itinerary-link"] != null ) { %>
           <a href= <%- row["itinerary-link"] %>  class="btn btn-custom2"><%- row["itinerary-link-text"] %> </a>
         <% } %>
