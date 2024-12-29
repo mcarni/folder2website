@@ -1,0 +1,40 @@
+<!-- needed for the logo -->  
+<% logoImg =  "/images/logo.png" %>
+<% logoAltText =  "Logo - La mia guida di Brescia" %>
+<!-- needed for the language switcher and for internal links-->  
+<% rootWebPage =  "http://localhost:3000" %>
+
+<!-- head partial --> 
+<%- include('../../views-partials/head'); %>
+
+<!-- logo partial -->  
+<%- include('../../views-partials/logo'); %>
+
+<!-- navbar partial -->  
+<%- include('../../views-partials/navbar'); %>
+
+<!-- title row partial -->  
+<%- include('../../views-partials/title-row'); %>
+
+<% row =  pageContent["itineraritema.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["pinacoteca.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["castello.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["donne.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["amore.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<!-- footer partial --> 
+<%- include('../../views-partials/footer'); %>

@@ -105,6 +105,25 @@
         <% if (row["itinerary-content"] != null ) { %>
           <h6><em>Cosa si visita:</em> <%- row["itinerary-content"] %> </h6>
         <% } %>
+        <% if (row["itinerary-content-opt1"] != null ) { %>
+          <h6><em>Cosa si visita:</em></h6>
+          <h6> Opzione 1 - <%- row["itinerary-content-opt1"] %></h6>
+          <% if (row["itinerary-content-opt2"] != null ) { %>
+            <h6> Opzione 2 - <%- row["itinerary-content-opt2"] %></h6>
+          <% } %>
+          <% if (row["itinerary-content-opt3"] != null ) { %>
+            <h6> Opzione 3 - <%- row["itinerary-content-opt3"] %></h6>
+          <% } %>
+          <% if (row["itinerary-content-opt4"] != null ) { %>
+            <h6> Opzione 4 - <%- row["itinerary-content-opt4"] %></h6>
+          <% } %>
+          <% if (row["itinerary-content-opt5"] != null ) { %>
+            <h6> Opzione 5 - <%- row["itinerary-content-opt5"] %></h6>
+          <% } %>
+          <% if (row["itinerary-content-opt6"] != null ) { %>
+            <h6> Opzione 6 - <%- row["itinerary-content-opt6"] %></h6>
+          <% } %>
+        <% } %>
         <% if ( row["itinerary-description"] != null  ) { %>
           <div class="accordion mb-3" id= <%- row["id"] + "-description" %> >
             <div class="accordion-item">

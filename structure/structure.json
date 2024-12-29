@@ -1094,6 +1094,93 @@
         "nav": "5",
         "pageTitle": "Itinerari didattici",
         "tabTitle": "Itinerari didattici - Maddalena Carnaghi - La mia guida di Brescia"
+      },
+      "itineraritema": {
+        "amore.yaml": {
+          "id": "amore",
+          "title": "Brescia",
+          "title2": "L’amore in ogni angolo",
+          "subtitle": "Episodi salienti della storia cittadina attraverso le vicissitudini amorose di alcuni protagonisti",
+          "img-src": "brescia_it_amore.jpg",
+          "img-alt": "Itinerari tematici - L’amore in ogni angolo - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari tematici - L’amore in ogni angolo - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1 ora e 45 minuti",
+          "itinerary-type": "tutti coloro che hanno voglia di scoprire il lato umano di alcuni personaggi che hanno contribuito alla storia della nostra città e alcune storie d’amore che hanno avuto Brescia come scenario.",
+          "itinerary-content": "luoghi che sono stati scenario degli amori, spesso contrastati, tra alcuni dei protagonisti della storia della città. Dall’alto medioevo, passando per il periodo delle signorie, amori in convento sul finir del Seicento, la grande stagione dei salotti del Settecento, per proseguire con l’eroe delle X Giornate e due protagonisti del Novecento bresciano.",
+          "itinerary-description": "a città dell’amore è la vicina Verona...ma è felice e a lieto fine la storia famosa che la città veneta custodisce? Se romantica è Verona, lo stesso può esserlo la nostra Brescia! Storie struggenti, non sempre dal finale felice (anzi!) ma con notevoli colpi di scena che ci permetteranno, anche se con leggerezza, di ripercorrere alcuni momenti salienti della storia cittadina e di conoscere più da vicino alcuni dei suoi protagonisti.",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-L'amore_in_ogni_angolo",
+          "itinerary-link-text": "Prenota Brescia - L'amore in ogni angolo"
+        },
+        "castello.yaml": {
+          "id": "castello",
+          "title": "Brescia",
+          "title2": "Il castello ovvero Il Falcone d’Italia",
+          "subtitle": "La massima difesa della città e il controllo da parte dei nemici",
+          "img-src": "brescia_it_castello.jpg",
+          "img-alt": "Itinerari tematici - Il castello ovvero Il Falcone d’Italia - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari tematici - Il castello ovvero Il Falcone d’Italia - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "2 ore",
+          "itinerary-type": "tutti coloro che hanno voglia di capire com’è cambiata la difesa di un baluardo militare nei secoli e la storia della nostra città. Si camminerà un po’!",
+          "itinerary-content": "il castello in lungo e in largo passando dai ponti levatoi, il mastio, le cannoniere e le torri. Solo visite in esterno, non sono previsti i musei.",
+          "itinerary-description": "quante cose si possono scoprire della difesa militare divertendosi! Esplorando dalla porta principale di entrata al castello, sino alla discesa per la Porta del Soccorso, si può comprendere la funzione di ogni particolare e com’è cambiata la difesa a seguito dell’arrivo della polvere da sparo. Culmine dell’esperienza sarà la conoscenza della parte più antica: il Mastio visconteo che nasconde un cuore romano ancora più arcaico. Il viaggio nel tempo prosegue percorrendo le mura che permettono di rivivere i momenti più importanti in cui la città è stata conquistata dai francesi  imperiali nel 1512 e dagli austriaci durante le X giornate del 1849 (proprio perché gli invasori dominavano il castello!).",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Il_castello",
+          "itinerary-link-text": "Prenota Brescia - Il castello"
+        },
+        "description.txt": "",
+        "donne.yaml": {
+          "id": "donne",
+          "title": "Brescia",
+          "title2": "I percorsi sulle donne",
+          "subtitle": "Quattro percorsi per riscoprire i volti delle donne celati dalla città",
+          "img-src": "brescia_it_donne.jpg",
+          "img-alt": "Itinerari tematici - I percorsi sulle donne - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari tematici - I percorsi sulle donne - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1 ora e mezza",
+          "itinerary-type": "tutti!",
+          "itinerary-content-opt1": "I volti delle donne nel Museo di Santa Giulia.",
+          "itinerary-content-opt2": "I volti delle donne e le donne protagoniste nella Pinacoteca Tosio-Martinengo",
+          "itinerary-content-opt3": "Le donne che raccontano sé stesse e la loro vita a Brescia",
+          "itinerary-content-opt4": "le donne che hanno fatto la Resistenza",
+          "itinerary-description": "normalmente quando si pensa un museo si visualizza un contenitore di opere uniche, belle, importanti. Il nostro è molto di più: è un Monastero voluto dalla moglie dell’ultimo Re Longobardo, Desiderio, nell’VIII secolo. E si è conservato come monastero nel tempo, ampliandosi per esempio di un sacello del XII secolo, Santa Maria in Solario, che oggi ospita il tesoro del Monastero e, a fine Quattrocento, di un Coro per le Monache dipinto negli anni Trenta del secolo successivo. Indagando nell’orto delle monache, si sono trovate delle domus romane molto ben conservate anche per quanto riguarda gli alzati. Il Museo di Santa Giulia fa parte dei beni Unesco, si estende su oltre 14:000 mq e presenta 12.000 opere dalla preistoria all’età rinascimentale.",
+          "itinerary-warning": "é consigliata la prenotazione per il Museo ed è necessaria se si è in gruppo al seguente link:",
+          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
+          "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-I_percorsi_sulle_donne",
+          "itinerary-link-text": "Contattami per saperne di più"
+        },
+        "icon": "bullseye",
+        "itineraritema.yaml": {
+          "id": "itinerariclassici",
+          "title": "una Brescia inedita ti attende",
+          "title2": null,
+          "subtitles": [
+            {
+              "subtitle-smallfont1": "Avete voglia di essere guidati nella scoperta della città, delle collezioni, dei monumenti o di guardare ciò che già conoscete con occhi diversi?"
+            }
+          ]
+        },
+        "menu": "Gli itinerari tematici",
+        "nav": "6",
+        "pageTitle": "Itinerari tematici",
+        "pinacoteca.yaml": {
+          "id": "pinacoteca",
+          "title": "Brescia",
+          "title2": "La Pinacoteca Tosio-Martinengo",
+          "subtitle": "Passeggiando nel palazzo alla scoperta dei capolavori",
+          "img-src": "brescia_it_pinacoteca.jpg",
+          "img-alt": "Itinerari tematici - La Pinacoteca Tosio-Martinengo - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari tematici - La Pinacoteca Tosio-Martinengo - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "2 ore",
+          "itinerary-type": "tutti e ancor di più per gli appassionati di pittura.",
+          "itinerary-content": "Le opere più significative della Pinacoteca Tosio-Martinengo.",
+          "itinerary-description": "alla National Gallery di Londra si ammirano opere dei nostri maestri bresciani del ‘500..mentre noi li abbiamo in uno spazio superlativo che forse non è abbastanza conosciuto. Il nuovo restauro e allestimento, avvenuto nel 2018, ha restituito l’aspetto della dimora signorile, sia per il percorso circolare, sia per l’illuminazione, la scansione degli spazi e le controsoffittature. In questo contesto nobile ed elegante, le cui pareti vellutate offrono colori in dialogo coi colori contenuti nei quadri, si presenta una collezione di eccezionale valore. Si parte dal maestro della pittura bresciana, Vincenzo Foppa, si passa alla visione di due piccole e delicatissime opere di Raffaello giovane, si attraversa la grande pittura lombarda del ‘500 coi capolavori di Romanino, Moretto, Lotto e Savoldo, si giunge davanti al complesso ciclo di Padernello del Pitocchetto e si prosegue in un susseguirsi di meraviglia fino a chiudere il percorso con capolavori di Hayez e Canova.",
+          "itinerary-warning": "è consigliata la prenotazione per il Museo ed è necessaria se si è in gruppo al seguente link:",
+          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
+          "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Pinacoteca_Tosio-Martinengo",
+          "itinerary-link-text": "Prenota Brescia - La Pinacoteca Tosio-Martinengo"
+        },
+        "tabTitle": "Itinerari tematici - Maddalena Carnaghi - La mia guida di Brescia"
       }
     },
     "pl": {}
@@ -1149,6 +1236,11 @@
         "icon": "graduation-cap",
         "menu": "Gli itinerari didattici",
         "name": "itinerarididattici"
+      },
+      "6": {
+        "icon": "bullseye",
+        "menu": "Gli itinerari tematici",
+        "name": "itineraritema"
       }
     },
     "pl": {}
