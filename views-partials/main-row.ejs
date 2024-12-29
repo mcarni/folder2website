@@ -60,6 +60,13 @@
             <h3 class="smallFont"><%- key["subtitle-smallfont4"] %></h3>
             <h3 class="smallFont"><%- key["subtitle-smallfont5"] %></h3>
             
+            <% if (key["subtitle-when"] != null ) { %>
+              <h6><em>Quando:</em><%- key["subtitle-when"] %></h6>
+            <% } %>
+            <% if (key["subtitle-description"] != null ) { %>
+              <h6><%- key["subtitle-description"] %></h6>
+            <% } %>
+            
             <% if ( key["subtitle-link"] != null && key["subtitle-link-text"] != null ) { %>
               <p>
                 <a href=<%- rootWebPage + "/" + pageLanguage + "/" + key["subtitle-link"] %> class="btn btn-lg btn-custom" role="button"><%= key["subtitle-link-text"] %></a>

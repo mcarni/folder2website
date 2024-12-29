@@ -394,6 +394,79 @@
         },
         "tabTitle": "Il calendario degli eventi - Maddalena Carnaghi - la mia guida di Brescia"
       },
+      "evidenza": {
+        "2mila.yaml": {
+          "id": "2mila",
+          "title": "Duemila anni di storia e non sentirli",
+          "title2": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria.",
+          "subtitles": [
+            {
+              "subtitle-title": "Tanti aneddoti curiosi per scoprire la nostra città: si parte dal periodo romano e si arriva al 1932!",
+              "subtitle-smallfont1": "In collaborazione con l’associazione Blu Balena",
+              "subtitle-when": "Il percorso inizia domenica 08/12 ore 15:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Due_mila_anni",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "brescianascosta.yaml": {
+          "id": "brescianascosta",
+          "title": "Brescia Nascosta",
+          "subtitles": [
+            {
+              "subtitle-title": "Un tour del centro storico attraverso ricordi e sguardi di persone senza fissa dimora accompagnati da una guida turistica Ritovo alla chiesa del Carmine. Evento gratuito",
+              "subtitle-when": "Il percorso inizia sabato 16/11 ore 14:30.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Brescia_Nascosta",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "castello.yaml": {
+          "id": "castello",
+          "title": "Scopriamo il Castello di Brescia percorrendo la strada del soccorso",
+          "subtitles": [
+            {
+              "subtitle-title": "Per chi si reca spesso in castello ma vorrebbe conoscere meglio la sua storia e la sua evoluzione e scoprire quella maledetta strada del Soccorso che per ben 2 volte ha portato i bresciani al massacro.",
+              "subtitle-smallfont1": "In collaborazione con l’associazione Blu Balena",
+              "subtitle-when": "Il percorso inizia domenica 15/12 ore 15:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Castello_di_Brescia",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "description.txt": "",
+        "icon": "highlighter",
+        "leonessa.yaml": {
+          "id": "leonessa",
+          "title": "Per scoprire il Museo: “La Leonessa d’Italia”",
+          "title2": "Visita con una guida turistica abilitata il Museo del Risorgimento",
+          "subtitles": [
+            {
+              "subtitle-title": "Se non avete ancora visitato il Museo del Risorgimento e volete visitarlo con una guida abilitata, fatevi avanti. Il Museo è ancora gratuito fino a dicembre per i residenti a Brescia. Prenotate entro il 1° dicembre.",
+              "subtitle-when": "Il percorso inizia domenica 08/12 ore 10:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=La_Leonessa_D'Italia",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "menu": "In evidenza",
+        "nav": "9",
+        "pageTitle": "In evidenza",
+        "santagiulia.yaml": {
+          "id": "santagiulia",
+          "title": "Per bresciani che vogliono conoscere il Museo di Santa Giulia",
+          "title2": "Visita con una guida abilitata il Museo di Santa Giulia",
+          "subtitles": [
+            {
+              "subtitle-title": "Avete mai pensato “tanto è qui vicino il Museo di Santa Giulia ci andrò più avanti”? Volete una visita guidata dei reperti più significativi e appropriarvi del vostro museo? Prenotate entro il 14 novembre.",
+              "subtitle-when": "Il percorso inizia domenica 24/11 ore 09:45.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Santa_Giulia",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "tabTitle": "Itinerari in evidenza - Maddalena Carnaghi - La mia guida di Brescia"
+      },
       "guidaperte": {
         "amiche.yaml": {
           "id": "amiche",
@@ -1479,6 +1552,77 @@
           "itinerary-link-text": "Prenota Brescia - La Pinacoteca Tosio-Martinengo"
         },
         "tabTitle": "Itinerari tematici - Maddalena Carnaghi - La mia guida di Brescia"
+      },
+      "regalavisita": {
+        "buono.yaml": {
+          "id": "buono",
+          "subtitles": [
+            {
+              "subtitle-smallfont-azzurrino": "Regalate un buono per le mie visite guidate",
+              "subtitle-description": "Il buono minimo corrisponde alla partecipazione a due tour ovvero 16 (8 euro + 8 euro) ma si può regalare anche un tour in esclusiva..parliamone!"
+            }
+          ]
+        },
+        "description.txt": "",
+        "icon": "gift",
+        "idee.yaml": {
+          "id": "idee",
+          "subtitles": [
+            {
+              "subtitle-description": "Se non avete le idee ben chiare, non vi preoccupate! Scrivetemi una mail raccontandomi quali sono i vostri desideri e vi aiuterò a trovare il regalo perfetto per l’occasione."
+            }
+          ]
+        },
+        "itinerario.yaml": {
+          "id": "itinerario",
+          "subtitles": [
+            {
+              "subtitle-smallfont-azzurrino": "Scegliete l’itinerario ed è fatta",
+              "subtitle-description": "Cliccate sul link di seguito e scegliete il tour che più preferite e poi ci sentiamo e prepariamo un regalo ad hoc per la persona cara!"
+            }
+          ],
+          "vlinks": [
+            {
+              "vlink-id": "0",
+              "vlink-link": "itinerariclassici",
+              "vlink-text": "gli itinerari <strong>classici</strong>"
+            },
+            {
+              "vlink-id": "1",
+              "vlink-link": "itinerarididattici",
+              "vlink-text": "gli itinerari <strong>didattici</strong>"
+            },
+            {
+              "vlink-id": "2",
+              "vlink-link": "itineraritema",
+              "vlink-text": "gli itinerari <strong>a tema</strong>"
+            },
+            {
+              "vlink-id": "3",
+              "vlink-link": "itineraristorici",
+              "vlink-text": "gli itinerari <strong>storici</strong>"
+            },
+            {
+              "vlink-id": "4",
+              "vlink-link": "itinerarilaghi",
+              "vlink-text": "gli itinerari <strong>dei laghi</strong>"
+            }
+          ]
+        },
+        "menu": "Regala una visita",
+        "nav": "10",
+        "pageTitle": "Regala una visita",
+        "scadenza.yaml": {
+          "id": "scadenza",
+          "subtitles": [
+            {
+              "subtitle-description": "I buoni non hanno scadenza anche se meglio non far passare decenni!",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Contattami_per_regalare_una_visita",
+              "subtitle-mail-link-text": "Contattami per regalare una visita"
+            }
+          ]
+        },
+        "tabTitle": "Regala una visita - Maddalena Carnaghi - La mia guida di Brescia"
       }
     },
     "pl": {}
@@ -1549,6 +1693,16 @@
         "icon": "water",
         "menu": "Gli itinerari dei laghi",
         "name": "itinerarilaghi"
+      },
+      "9": {
+        "icon": "highlighter",
+        "menu": "In evidenza",
+        "name": "evidenza"
+      },
+      "10": {
+        "icon": "gift",
+        "menu": "Regala una visita",
+        "name": "regalavisita"
       }
     },
     "pl": {}
