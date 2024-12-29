@@ -20,6 +20,16 @@
         <% if (row["title"] != null ) { %>
           <h2 class="homeTitle"><%= row["title"] %></h2>
         <% } %>
+
+        <!-- check if title2 exists and set if it does -->
+        <% if (row["title2"] != null ) { %>
+          <h3 class="homeTitle"><%- row["title2"] %></h3>
+        <% } %>
+        
+        <!-- check if subtitle exists and set if it does -->
+        <% if (row["subtitle"] != null ) { %>
+          <h4 class="homeSubTitle"> <%- row["subtitle"] %> </h4>
+        <% } %>
         
         <!-- check if description exists and set if it does -->
         <% if (row["description"] != null ) { %>
@@ -32,10 +42,6 @@
           <br><br>
         <% } %>
         
-        <!-- check if title2 exists and set if it does -->
-        <% if (row["title2"] != null ) { %>
-          <h2 class="homeTitle"><%- row["title2"] %></h2>
-        <% } %>
 
         <!-- check if subtitles exist and iterate through all subtitles -->
         <% if (row["subtitles"] != null ) { %>
@@ -82,6 +88,41 @@
           </p>
         <% } %>          
 
+        <!-- check if itinerary fields exis and set them -->
+        <% if (row["itinerary-duration"] != null ) { %>
+          <h6><em>Durata:</em> <%- row["itinerary-duration"] %> </h6>
+        <% } %>
+        <% if (row["itinerary-type"] != null ) { %>
+          <h6><em>Adatto per:</em> <%- row["itinerary-type"] %> </h6>
+        <% } %>
+        <% if (row["itinerary-content"] != null ) { %>
+          <h6><em>Cosa si visita:</em> <%- row["itinerary-content"] %> </h6>
+        <% } %>
+        <% if ( row["itinerary-description"] != null  ) { %>
+          <div class="accordion mb-3" id= <%- row["id"] + "-description" %> >
+            <div class="accordion-item">
+              <h2 class="accordion-header" id= <%- row["id"] + "-heading" %>  >
+                <button class="accordion-button collapsed homeTitle" type="button" data-bs-toggle="collapse" data-bs-target= <%- "#" + row["id"] + "-collapse" %> aria-expanded="true" aria-controls= <%- row["id"] + "-description" %> ><em>Scopri di più:</em></button>
+              </h2>
+              <div id= <%- row["id"] + "-collapse" %> class="accordion-collapse collapse" aria-labelledby= <%- row["id"] + "-heading" %> data-bs-parent= <%- "#" + row["id"] + "-description" %> >
+                <div class="accordion-body">
+                  <% if ( row["itinerary-monument"] != null) { %>
+                    <h6><em>Monumenti in esterno:</em> <%- row["itinerary-monument"] %> </h6>
+                  <% } %>
+                  <h6><em>Descrizione:</em> <%- row["itinerary-description"] %> </h6>
+                    <% if ( row["itinerary-warning"] != null && row["itinerary-link"] != null && row["itinerary-link-text"] != null ) { %>
+                      <h6><em><strong>Attenzione</strong></em> <%- row["itinerary-warning"] %> <a class="link-opacity-100" href= "<%- row["itinerary-warning-link"] %> "> <%= row["itinerary-warning-link-text"] %> </a></h6>
+                    <% } %>
+                </div>
+              </div>
+            </div>  
+          </div>
+        <% } %>
+        <% if (row["itinerary-link"] != null ) { %>
+          <a href= <%- row["itinerary-link"] %>  class="btn btn-custom2"><%- row["itinerary-link-text"] %> </a>
+        <% } %>
+        
+        
 
       </div>
     </div> <!-- /row -->        

@@ -999,6 +999,81 @@
           "vlinks": []
         },
         "tabTitle": "Maddalena Carnaghi - La mia guida di Brescia - Una guida per te"
+      },
+      "itinerariclassici": {
+        "description.txt": "",
+        "icon": "landmark-dome",
+        "itinerariclassici.yaml": {
+          "id": "itinerariclassici",
+          "title": "Brescia,",
+          "title2": "il modo migliore per conoscerla",
+          "itineraries": [],
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-title": "Itinerari classici ma per niente noiosi",
+              "subtitle-smallfont1": "Brescia, la mia città, si presta a diversi tipi di visite guidate. Scopri con me i tour di mezza giornata o di una giornata intera itinerari storici tra il Castello e il centro della città, visite guidate al Parco archeologico e al Museo di Santa Giulia."
+            }
+          ],
+          "vlinks": []
+        },
+        "menu": "Gli itinerari classici",
+        "nav": "4",
+        "pageTitle": "Itinerari classici ",
+        "parcoarcheologico.yaml": {
+          "id": "parcoarcheologico",
+          "title": "Brescia",
+          "title2": "Visita al Parco Archeologico di Brixia e Vittoria Alata",
+          "subtitle": "il Secondo Stile pompeiano meglio conservato nel nord d'Italia ",
+          "img-src": "brescia_it_parcoarcheologico.jpg",
+          "img-alt": "Itinerari classici - Visita al Parco Archeologico di Brixia e Vittoria Alata - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari classici - Visita al Parco Archeologico di Brixia e Vittoria Alata - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1 ora",
+          "itinerary-type": "tutti!",
+          "itinerary-content": "Piazza Foro, Piazza Paolo VI, Piazza Loggia e Piazza Vittoria",
+          "itinerary-description": "Il Parco comprende la visita alla cella di un tempio di età Repubblicana perfettamente conservata; il podio e il pavimento del Tempio di età Flavia, la visita alla Vittoria alata, la visita al primigenio Museo Patrio e il teatro.",
+          "itinerary-monument": "un autentico viaggio nel tempo! Si parte proprio da un video che porta indietro nel tempo e, in 4 minuti, illustra l’evoluzione che ha avuto questo luogo che è sempre stato considerato il centro sacro della città, ancor prima dell’arrivo dei romani. Si visita una cella di un tempio di età Repubblicana, davvero un ritrovamento eccezionale per il Nord d’Italia e che dimostra la precocissima romanizzazione della zona. Ci si reca poi nella sala, recentemente ripensata per valorizzare il tesoro che custodisce, che ospita la Vittoria Alata, statua romana del Primo secolo D. C. in bronzo, eretta a simbolo della città. Un’opera di eccezionale bellezza, che provoca indescrivibili emozioni e che ci permette di raccontare l’età Flavia, il culto della Vittoria e di ipotizzare che fosse stata posta proprio per celebrare la battaglia che rese Vespasiano imperatore. Si passa così alla conoscenza del tempio di età imperiale, voluto da Vespasiano e il suo rifacimento e completamento Ottocentesco e Novecentesco. Si conclude con la visita al teatro, in gran parte tornato alla luce grazie alla campagna di scavi attuata nel 2023.",
+          "itinerary-warning": "é necessaria la prenotazione! per preservare lo splendido stato di conservazione del sito si entra in gruppi contingentati ogni venti minuti. È quindi bene prenotare, anche per la guida (che ha un biglietto gratuito ma va contata) al seguente link -->",
+          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
+          "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Visita_al_Parco_Archeologico_di_Brixia_e_Vittoria_Alata",
+          "itinerary-link-text": "Prenota Brescia - Visita al Parco Archeologico di Brixia e Vittoria Alata"
+        },
+        "piazze.yaml": {
+          "id": "piazze",
+          "title": "Brescia",
+          "title2": "Visita alle piazze della città",
+          "subtitle": "Duemila anni e non sentirli",
+          "img-src": "brescia_it_piazze.jpg",
+          "img-alt": "Itinerari classici - Visita alle piazze della città - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari classici - Visita alle piazze della città - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "2 ore",
+          "itinerary-type": "tutti!",
+          "itinerary-content": "Piazza Foro, Piazza Paolo VI, Piazza Loggia e Piazza Vittoria",
+          "itinerary-description": "Il grande storico dell’arte, Philippe Daverio disse che passeggiare per Brescia significa immergersi nella storia e avere la possibilità di riconoscere bene gli strati del tempo e i passaggi di stile. Ecco che, in una piacevole e breve passeggiata, si può evincere la struttura ortogonale romana della città e il suo cuore, il Foro. Si prosegue immergendosi nel Basso Medioevo passando attraverso La Torre d’Ercole, la chiesetta di San Marco per giungere all’impressionante Broletto, centro nevralgico della città nell’Età Media. Nella piazza, gli altri edifici di rappresentanza medievale erano le antiche cattedrali, di cui ancora visibile quella dedicata a Santa Maria Maggiore. Si tratta di una chiesa straordinaria, di un vero gioiello romanico mai abbastanza valorizzato. Entrando nella chiesa, compatibilmente agli orari di visita, si viene accolti dalla più bella scultura degli inizi del XIV secolo, la tomba di Berardo Maggi, e si viene avvolti da un volume enorme e inaspettato: la chiesa misura 36 metri di diametro e oggi rappresenta un unicum in Italia. Le sorprese che questo luogo incantato offre non sono finite...ma non te le posso raccontare tutte adesso! Si prosegue poi per la piazza fortemente voluta dai veneziani nella seconda metà del Quattrocento. È una piazza rinascimentale bellissima! Sembra di essere a Venezia! I primi a dare il benvenuto alla Piazza, anche se di spalle, sono i due automi che si trovano sull’orologio, chiamati dai bresciani Tone e Batista. Si prosegue alla scoperta di tutti gli elementi del rinascimento veneto per poi passare alla conoscenza del Monumento dedicato alle X giornate di Resistenza di Brescia sotto l’occupazione austriaca e il Monumento dedicato ai caduti a seguito dello scoppio della bomba nella piazza il 28 maggio 1974. Si passa vicino al primo Museo lapidario all’aperto d’Italia e si attraversa una bellissima loggetta che conduce alla Piazza Vittoria. Piazza costruita tra il 1929 e il 1932, a seguito dello sventramento dell’antico quartiere medievale delle pescherie. È una piazza di inizio ‘900 con tutti gli edifici più rappresentativi: le poste, l’assicurazione, la banca e ospita anche il primo grattacielo in cemento armato d’Italia.",
+          "itinerary-monument": "Parco Archeologico dell’antica Brixia che comprende il podio del Tempio di età Imperiale e  il Teatro (nei giorni e gli orari in cui il museo è aperto, la visita a questi spazi è libera e gratuita),  la colonna rimasta dell’antico Foro (e, se si ha tempo, la Basilica); Il Broletto e il Duomo Vecchio (coerentemente con gli orari di apertura della chiesa si visita l’interno) e il Duomo Nuovo; Il Palazzo della Loggia, Il Monte di Pietà, Le carceri, Il Monumento alla Bella Italia, L’orologio e il Monumento ai caduti di Piazza della Loggia; Piazza della Vittoria con panoramica d’insieme.",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Visita_alle_piazze della_città",
+          "itinerary-link-text": "Prenota Brescia - Visita alle piazze della città"
+        },
+        "santagiulia.yaml": {
+          "id": "santagiulia",
+          "title": "Brescia",
+          "title2": "Visita al Museo di Santa Giulia",
+          "subtitle": "un sorprendente scrigno che permette di entrare in domus romane perfettamente conservate, una chiesa longobarda, un monastero benedettino e il suo tesoro. ",
+          "img-src": "brescia_it_santagiulia.jpg",
+          "img-alt": "Itinerari classici - Visita al Museo di Santa Giulia - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari classici - Visita al Museo di Santa Giulia - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1 ora e mezza, 2 ore",
+          "itinerary-type": "tutti!",
+          "itinerary-content": "i reperti più significativi contenuti nel Museo della città. Imprescindibili: i bronzi, le Domus dell’Ortaglia, La chiesa di San Salvatore e la sua cripta, il Coro delle Monache e Santa Maria in Solario",
+          "itinerary-description": "normalmente quando si pensa un museo si visualizza un contenitore di opere uniche, belle, importanti. Il nostro è molto di più: è un Monastero voluto dalla moglie dell’ultimo Re Longobardo, Desiderio, nell’VIII secolo. E si è conservato come monastero nel tempo, ampliandosi per esempio di un sacello del XII secolo, Santa Maria in Solario, che oggi ospita il tesoro del Monastero e, a fine Quattrocento, di un Coro per le Monache dipinto negli anni Trenta del secolo successivo. Indagando nell’orto delle monache, si sono trovate delle domus romane molto ben conservate anche per quanto riguarda gli alzati. Il Museo di Santa Giulia fa parte dei beni Unesco, si estende su oltre 14:000 mq e presenta 12.000 opere dalla preistoria all’età rinascimentale.",
+          "itinerary-warning": "é consigliata la prenotazione per il Museo ed è necessaria se si è in gruppo al seguente link:",
+          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
+          "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Visita_al_Museo_di_Santa_Giulia",
+          "itinerary-link-text": "Prenota Brescia - Visita al Museo di Santa Giulia"
+        },
+        "tabTitle": "Itinerari classici - Maddalena Carnaghi - La mia guida di Brescia"
       }
     },
     "pl": {}
@@ -1044,6 +1119,11 @@
         "icon": "calendar",
         "menu": "Il Calendario",
         "name": "calendario"
+      },
+      "4": {
+        "icon": "landmark-dome",
+        "menu": "Gli itinerari classici",
+        "name": "itinerariclassici"
       }
     },
     "pl": {}

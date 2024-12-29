@@ -1,0 +1,62 @@
+<!-- views-partials/itinerary.ejs -->
+   
+   
+    
+<!-- // remember body  has been opened-->
+  <!-- // remember main div container has been opened-->  
+    <!-- Main row -->
+
+    <div class="row my-5 justify-content-center" id= <%- row["id"] %> >
+      <div class="col"><!-- content col -->
+                
+        <!-- check if title exists and set if it does -->
+        <% if (row["title"] != null ) { %>
+          <h2 class="homeTitle"><%= row["title"] %></h2>
+        <% } %>
+
+        <!-- check if subtitle exists and set if it does -->
+        <% if (row["subtitle"] != null ) { %>
+          <h4 class="homeSubTitle"> <%- row["subtitle"] %> </h4>
+        <% } %>
+        
+        <!-- check if description exists and set if it does -->
+        <% if (row["description"] != null ) { %>
+          <h3 class="smallFont"><%= row["description"] %></h3>
+        <% } %>
+        
+        <!-- check if img exists and set if it does -->
+        <% if (row["img-src"] != null && row["img-alt"] && row["img-title"] ) { %>
+          <img src=<%- "/images/" + row["img-src"] %> alt=<%- "\"" + row["img-alt"] + "\"" %> title=<%- "\"" + row["img-title"] + "\"" %> class="img-fluid img-custom">
+          <br><br>
+        <% } %>
+        
+        <!-- check if title2 exists and set if it does -->
+        <% if (row["title2"] != null ) { %>
+          <h2 class="homeTitle"><%- row["title2"] %></h2>
+        <% } %>
+        
+        <br><br>
+        <h6><em>Durata:</em> 2 ore</h6>
+        <h6><em>Adatto per:</em> tutti!</h6>
+        <h6><em>Cosa si visita:</em> Piazza Foro, Piazza Paolo VI, Piazza Loggia e Piazza Vittoria</h6>
+        
+        <div class="accordion mb-3" id="description1a">
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="heading1a">
+              <button class="accordion-button collapsed homeTitle" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1a" aria-expanded="true" aria-controls="collapse1a">
+                <em>Scopri di più:</em> 
+              </button>
+            </h2>
+            <div id="collapse1a" class="accordion-collapse collapse" aria-labelledby="heading1a" data-bs-parent="#description1a">
+              <div class="accordion-body">
+                <h6><em>Monumenti in esterno:</em> Parco Archeologico dell’antica Brixia che comprende il podio del Tempio di età Imperiale e  il Teatro (nei giorni e gli orari in cui il museo è aperto, la visita a questi spazi è libera e gratuita),  la colonna rimasta dell’antico Foro (e, se si ha tempo, la Basilica); Il Broletto e il Duomo Vecchio (coerentemente con gli orari di apertura della chiesa si visita l’interno) e il Duomo Nuovo; Il Palazzo della Loggia, Il Monte di Pietà, Le carceri, Il Monumento alla Bella Italia, L’orologio e il Monumento ai caduti di Piazza della Loggia; Piazza della Vittoria con panoramica d’insieme.</h6>
+                <h6><em>Descrizione:</em> Il grande storico dell’arte, Philippe Daverio disse che passeggiare per Brescia significa immergersi nella storia e avere la possibilità di riconoscere bene gli strati del tempo e i passaggi di stile. Ecco che, in una piacevole e breve passeggiata, si può evincere la struttura ortogonale romana della città e il suo cuore, il Foro. Si prosegue immergendosi nel Basso Medioevo passando attraverso La Torre d’Ercole, la chiesetta di San Marco per giungere all’impressionante Broletto, centro nevralgico della città nell’Età Media. Nella piazza, gli altri edifici di rappresentanza medievale erano le antiche cattedrali, di cui ancora visibile quella dedicata a Santa Maria Maggiore. Si tratta di una chiesa straordinaria, di un vero gioiello romanico mai abbastanza valorizzato. Entrando nella chiesa, compatibilmente agli orari di visita, si viene accolti dalla più bella scultura degli inizi del XIV secolo, la tomba di Berardo Maggi, e si viene avvolti da un volume enorme e inaspettato: la chiesa misura 36 metri di diametro e oggi rappresenta un unicum in Italia. Le sorprese che questo luogo incantato offre non sono finite...ma non te le posso raccontare tutte adesso! Si prosegue poi per la piazza fortemente voluta dai veneziani nella seconda metà del Quattrocento. È una piazza rinascimentale bellissima! Sembra di essere a Venezia! I primi a dare il benvenuto alla Piazza, anche se di spalle, sono i due automi che si trovano sull’orologio, chiamati dai bresciani Tone e Batista. Si prosegue alla scoperta di tutti gli elementi del rinascimento veneto per poi passare alla conoscenza del Monumento dedicato alle X giornate di Resistenza di Brescia sotto l’occupazione austriaca e il Monumento dedicato ai caduti a seguito dello scoppio della bomba nella piazza il 28 maggio 1974. Si passa vicino al primo Museo lapidario all’aperto d’Italia e si attraversa una bellissima loggetta che conduce alla Piazza Vittoria. Piazza costruita tra il 1929 e il 1932, a seguito dello sventramento dell’antico quartiere medievale delle pescherie. È una piazza di inizio ‘900 con tutti gli edifici più rappresentativi: le poste, l’assicurazione, la banca e ospita anche il primo grattacielo in cemento armato d’Italia.</h6>
+              </div>
+            </div>
+          </div>  
+        </div>
+
+        <a href="mailto:lamiaguidadibrescia@proton.me?subject=Prenota Brescia - Visita alle piazze della città" class="btn btn-custom2">Prenota Brescia - Visita alle piazze della città</a>
+            
+      </div> <!-- /content col -->
+    </div> <!-- /row -->
