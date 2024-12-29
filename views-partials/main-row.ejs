@@ -30,6 +30,11 @@
         <% if (row["subtitle"] != null ) { %>
           <h4 class="homeSubTitle"> <%- row["subtitle"] %> </h4>
         <% } %>
+
+        <!-- check if collaboration exists and set if it does -->
+        <% if (row["collaboration"] != null ) { %>
+          <h4 class="homeSubTitle"> <a class="text-reset text-decoration-none" href= <%- row["collaboration-link"] %>  target="_blank" rel="noopener noreferrer"> In collaborazione con <%= row["collaboration"] %>  <img src= <%- "/images/" + row["collaboration-img"] %> alt= <%- row["collaboration-img-alt"] %> ></a></h4>
+        <% } %>
         
         <!-- check if description exists and set if it does -->
         <% if (row["description"] != null ) { %>
