@@ -1,3 +1,4 @@
+title: Contatti
 id: contatti
 img-alt: Santa Maria in Solario. Reimpiego in facciata di una lastra romana - Visita
   guidata del Museo di Santa Giulia - Maddalena Carnaghi - La mia guida di Brescia
@@ -20,7 +21,7 @@ subtitles:
     target="_blank" rel="noopener noreferrer"><i class="px-3 fa-brands fa-facebook"></i></a><a
     class="text-reset text-decoration-none" href="https://www.facebook.com/la.mia.guida.di.brescia"
     target="_blank" rel="noopener noreferrer"><i class="px-3 fa-brands fa-instagram"></i></a>
-- subtitle-id: '4'
+- subtitle-id: '3'
   subtitle-smallfont-azzurrino: <strong>e se vuoi lasciami una recensione su google</strong>
   subtitle-smallfont1: "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/8CbmjNv\"\
     \ target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"\
@@ -28,7 +29,7 @@ subtitles:
     \ d'amore e di passioni travolgenti! Maddalena \xE8 una guida preparata e competente\
     \ e il suo plus \xE8 il taglio squisitamente ironico che sa dare alla narrazione!\
     \ Un' ora e mezza, o poco pi\xF9, piacevole e avvincente! Bravissima...\"</a>"
-- subtitle-id: '5'
+- subtitle-id: '4'
   subtitle-smallfont1: "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/dmzGXZu\"\
     \ target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"\
     ></i>\"Abbiamo fatto una visita con alcune amiche alla mostra \"Finch\xE9 non\
@@ -40,7 +41,7 @@ subtitles:
     \ e specificit\xE0 di ogni artista e opera\u2026 cos\u2019altro si pu\xF2 chiedere?\
     \ grazie Maddalena di tutti i pensieri e spunti per la riflessione! Consigliatissima!\"\
     </a>"
-- subtitle-id: '6'
+- subtitle-id: '5'
   subtitle-smallfont1: "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/DXyVphv\"\
     \ target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"\
     ></i>\"Con Maddalena abbiamo percorso le vie di Brescia sulle tracce delle figure\
@@ -48,7 +49,7 @@ subtitles:
     \ veramente interessante e poco divulgato! Maddalena invece conosce e sa trasmettere\
     \ nei dettagli le storie appassionanti di queste donne, coinvolgendoci ed emozionandoci.\
     \ Ripeterei senza dubbio l\u2019esperienza.\"</a>"
-- subtitle-id: '7'
+- subtitle-id: '6'
   subtitle-smallfont1: "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/C9Y7qMC\"\
     \ target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"\
     ></i>\"Ho contattato Maddalena in occasione di una visita a Brescia, eravamo in\
@@ -57,7 +58,7 @@ subtitles:
     \ \xE8 stata disponibilissima, simpatica e molto preparata. Ci ha dato anche ottimi\
     \ consigli su dove pranzare, parcheggiare, prendere i biglietti ecc. e ha fatto\
     \ apprezzare a tutti, grandi e piccoli, la sua bella citt\xE0!\"</a>"
-- subtitle-id: '8'
+- subtitle-id: '7'
   subtitle-smallfont1: "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/A2t89Af\"\
     \ target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"\
     ></i>\"Maddalena ha guidato la mia classe di un Istituto Tecnico a Sirmione. Nonostante\
@@ -65,7 +66,7 @@ subtitles:
     \ i ragazzi fin da subito nella spiegazione, imparando velocemente i loro nomi\
     \ e stimolandoli con frequenti domande. Abbiamo apprezzato tutti la sua preparazione\
     \ e la sua simpatia! Consiglio caldamente di rivolgersi a lei!!\"</a>"
-- subtitle-id: '9'
+- subtitle-id: '8'
   subtitle-smallfont1: "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/gnX35PX\"\
     \ target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"\
     ></i>\"Maddalena ci ha accompagnate nella visita del Santa Giulia e del parco\
@@ -75,12 +76,10 @@ subtitles:
     \ e a disposizione a seconda delle curiosit\xE0 personali, consiglio vivamente\
     \ Maddalena per un percorso guidatato, vista la sua conoscenza approfondita e\
     \ la sua disponibilit\xE0 .\"</a>"
-- subtitle-id: '10'
+- subtitle-id: '9'
   subtitle-smallfont1: "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/s7xdnx2\"\
     \ target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"\
     ></i>\"Ho avuto il piacere di ascoltare Maddalena in due occasioni diverse: con\
     \ amici per la visita a Brescia antica e con la famiglia per una guida alla Pinacoteca.\
     \ Maddalena \xE8 molto appassionata della sua citt\xE0 e mai banale. \xC8 stato\
     \ un piacere averla come cicerone!\"</a>"
-title: Contatti
-vlinks: []

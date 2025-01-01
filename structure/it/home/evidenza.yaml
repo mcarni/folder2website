@@ -1,4 +1,6 @@
+title: In evidenza
 id: evidenza
+title2: <em>Le proposte legate al mese:</em>
 img-alt: Visita guidata del Castello di Brescia - Itinerario turistico del Falcone
   d'Italia - Tour di Brescia - Maddalena Carnaghi - La mia guida di Brescia - in evidenza
 img-src: home_inevidenza.jpg
@@ -30,6 +32,3 @@ subtitles:
   subtitle-link-text: "per saperne di pi\xF9"
   subtitle-smallfont1: domenica 15/12 ore 15:00
   subtitle-title: Scopriamo il Castello di Brescia percorrendo la strada del soccorso
-title: In evidenza
-title2: <em>Le proposte legate al mese:</em>
-vlinks: []
