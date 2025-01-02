@@ -30,7 +30,7 @@
                 <img src=<%- "/images/" + key["item-img-src"] %> alt=<%- "\"" + key["item-img-alt"] + "\"" %> title=<%- "\"" +  key["item-img-title"] + "\"" %> class="d-block w-100 img-fluid img-custom">
                   <div class="carousel-caption">
                     <h2 class="homeTitle"><%= key["item-title"] %></h2>
-                    <p><a href=<%- rootWebPage + "/" + pageLanguage + "/" + key["item-link"] %> class="btn btn-sm btn-custom" role="button"><%= key["item-link-text"] %></a></p>
+                    <p><a href=<%- process.env.ROOTWEBPAGE + "/" + pageLanguage + "/" + key["item-link"] %> class="btn btn-sm btn-custom" role="button"><%= key["item-link-text"] %></a></p>
                   </div>
               </div>
             <% } else { %>
@@ -38,7 +38,7 @@
                 <img src=<%- "/images/" + key["item-img-src"] %> alt=<%- "\"" +  key["item-img-alt"] + "\"" %> title=<%- "\"" +  key["item-img-title"] + "\"" %> class="d-block w-100 img-fluid img-custom">
                   <div class="carousel-caption">
                     <h2 class="homeTitle"><%= key["item-title"] %></h2>
-                    <p><a href=<%- rootWebPage + "/" + pageLanguage + "/" + key["item-link"] %> class="btn btn-sm btn-custom" role="button"><%= key["item-link-text"] %></a></p>
+                    <p><a href=<%- process.env.ROOTWEBPAGE + "/" + pageLanguage + "/" + key["item-link"] %> class="btn btn-sm btn-custom" role="button"><%= key["item-link-text"] %></a></p>
                   </div>
               </div>
             <% }; %>  

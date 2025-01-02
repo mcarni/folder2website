@@ -150,6 +150,11 @@ const folder2js = (folder , depth , jsonFile) => {
     structure.navbar[langElement] = nav;
   });
   
+  // read settings file
+  const settings = YAML.parse( readYaml('settings.yaml') );
+  // add settings to structure js object
+  structure.settings = settings;
+  
   fs.open(jsonFile, "w", function(err) {
     if(!err) {
       fs.writeFileSync(jsonFile, JSON.stringify(structure, null, 2), function (err) {

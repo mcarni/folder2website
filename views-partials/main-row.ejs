@@ -69,7 +69,7 @@
             
             <% if ( key["subtitle-link"] != null && key["subtitle-link-text"] != null ) { %>
               <p>
-                <a href=<%- rootWebPage + "/" + pageLanguage + "/" + key["subtitle-link"] %> class="btn btn-lg btn-custom" role="button"><%= key["subtitle-link-text"] %></a>
+                <a href=<%- process.env.ROOTWEBPAGE + "/" + pageLanguage + "/" + key["subtitle-link"] %> class="btn btn-lg btn-custom" role="button"><%= key["subtitle-link-text"] %></a>
                 <br>
               </p>
             <% } %>
@@ -102,7 +102,7 @@
         <% if (row["vlinks"] != null ) { %>
           <p class="btn-group-vertical">
             <% row["vlinks"].forEach((key,index) => { %>
-              <a href=<%- rootWebPage + "/" + pageLanguage + "/" + key["vlink-link"] %> class="btn btn-lg btn-custom" role="button"><%- key["vlink-text"] %></a>
+              <a href=<%- process.env.ROOTWEBPAGE + "/" + pageLanguage + "/" + key["vlink-link"] %> class="btn btn-lg btn-custom" role="button"><%- key["vlink-text"] %></a>
             <% }) %>
           </p>
         <% } %>          

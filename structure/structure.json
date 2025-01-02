@@ -612,8 +612,7 @@
               "subtitle-smallfont1": "<strong>Fausta Ranghetti</strong> – Operatrice zen shiatsu",
               "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.shiatsueyoga.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.shiatsueyoga.it</a>"
             }
-          ],
-          "vlinks": []
+          ]
         },
         "associazioni.yaml": {
           "id": "associazioni",
@@ -649,19 +648,17 @@
               "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/_blubalena_?igsh=MXJkdWFnNnVhNHBsZw==\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-instagram\"></i></a>",
               "subtitle-smallfont4": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/people/Blu-Balena/61550203606879\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-facebook\"></i></a>"
             }
-          ],
-          "vlinks": []
+          ]
         },
         "attraverso.yaml": {
+          "title": "Io attraverso gli altri",
           "id": "attraverso",
           "subtitles": [
             {
               "subtitle-id": "0",
               "subtitle-smallfont1": "Nel mondo romano, l’individuo si definiva nella relazione con l’altro. Era la comunità che riconosceva la persona e la descriveva in base ai rapporti, alla fama e alle sue qualità. Questo modo di descriversi funziona ancora per me. Io sono le persone che scelgo per amiche, che stimo e che con orgoglio voglio che siano presenti qui, nella mia pagina, accanto a me. Così come i progetti a cui ho dato origine o a cui ho contribuito e le associazioni, le fondazioni a cui, con consapevolezza, assumo di voler far parte."
             }
-          ],
-          "title": "Io attraverso gli altri",
-          "vlinks": []
+          ]
         },
         "guidaperte.yaml": {
           "id": "guidaperte",
@@ -736,8 +733,7 @@
               "subtitle-smallfont1": "<strong>Sprintpoem</strong> – collaborazione alla Mostra di <strong>Lucia Marcucci</strong>, Brescia 2013",
               "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://ocrablog.blogspot.com/2012/05/lucia-marcucci-sprintpoem-fondazione.html\" target=\"_blank\" rel=\"noopener noreferrer\">Articolo su <strong>Ocrablog</strong></a>"
             }
-          ],
-          "vlinks": []
+          ]
         },
         "tabTitle": "Una guida turistica abilitata di Brescia e del lago di Garda e Iseo per te"
       },
@@ -1737,5 +1733,9 @@
       }
     },
     "pl": {}
+  },
+  "settings": {
+    "logoImg": "/images/logo.png",
+    "logoAltText": "Logo - La mia guida di Brescia"
   }
 }

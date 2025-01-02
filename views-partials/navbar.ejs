@@ -39,7 +39,7 @@
                 </button>
                 <ul class="dropdown-menu my-1 py-1">
                   <% Object.keys(siteNavbar).forEach((language,index) => { %>
-                    <% let link = rootWebPage + "/" + language + "/home" %>
+                    <% let link = process.env.ROOTWEBPAGE + "/" + language + "/home" %>
                     <li class="my-1 py-0 px-3 navbar nav-link">
                       <% let flagWebsite = "https://flagcdn.com/" + language + ".svg"; %>
                       <a class="dropdown-item nav-item nav-link rounded-1 my-1 py-1 text-uppercase" aria-current="page" href=<%- link %>><i class="px-3 fas fa-<%- language %>"><img  class="flag" src=<%- flagWebsite %> alt=<%- language %>></i><%= language %></a>

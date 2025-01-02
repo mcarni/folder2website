@@ -24,7 +24,8 @@ router.get("/", (req, res) => {
       pageLanguage  : defaultLanguage,
       pageName      : "home",
       pageContent   : structure.content[defaultLanguage]["home"],
-      siteNavbar    : structure.navbar
+      siteNavbar    : structure.navbar,
+      siteSettings  : structure.settings
     });
 });
 
@@ -55,7 +56,8 @@ router.get("/:languageId/:pageId", (req, res) => {
       pageLanguage  : req.params.languageId,
       pageName      : req.params.pageId,
       pageContent   : structure.content[req.params.languageId][req.params.pageId],
-      siteNavbar    : structure.navbar
+      siteNavbar    : structure.navbar,
+      siteSettings  : structure.settings
     });
   } else {
     res.render('pageNotFound', {
