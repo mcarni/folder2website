@@ -1,0 +1,8 @@
+id: 'collaborazioni'
+subtitles:
+- subtitle-id: '0'
+  subtitle-title: Le mie collaborazioni
+- subtitle-id: '1'
+  subtitle-smallfont1: "<strong>Riccardo Ajossa</strong> \u2013 Artista"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.riccardoajossa.com"
+    target="_blank" rel="noopener noreferrer">www.riccardoajossa.com</a>
