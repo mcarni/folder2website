@@ -8,27 +8,18 @@ img-title: Visita guidata del Castello di Brescia - Itinerario turistico del Fal
   d'Italia - Tour di Brescia - Maddalena Carnaghi - La mia guida di Brescia - in evidenza
 subtitles:
 - subtitle-id: '0'
-  subtitle-link: evidenza#brescianascosta
+  subtitle-title: Visita guidata alla mostra di Khalid Albaih 
+  subtitle-link: evidenza#Khalid11
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: sabato 16/11 ore 14:30
-  subtitle-title: Brescia Nascosta
+  subtitle-smallfont1: sabato 11/01 ore 14:30
 - subtitle-id: '1'
-  subtitle-link: evidenza#santagiulia
+  subtitle-title: Visita guidata alla mostra di Khalid Albaih 
+  subtitle-link: evidenza#Khalid12
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: domenica 24/11 ore 09:45
-  subtitle-title: Museo di Santa Giulia
+  subtitle-smallfont1: domenica 12/01 ore 15:40
 - subtitle-id: '2'
-  subtitle-link: evidenza#leonessa
+  subtitle-title: Visita guidata alla mostra di Khalid Albaih 
+  subtitle-link: evidenza#Khalid19
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: domenica 08/12 ore 10:00
-  subtitle-title: "\"La Leonessa d\u2019Italia\""
-- subtitle-id: '3'
-  subtitle-link: evidenza#2mila
-  subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: domenica 08/12 ore 15:00
-  subtitle-title: Duemila anni di storia e non sentirli
-- subtitle-id: '4'
-  subtitle-link: evidenza#castello
-  subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: domenica 15/12 ore 15:00
-  subtitle-title: Scopriamo il Castello di Brescia percorrendo la strada del soccorso
+  subtitle-smallfont1: domenica 19/01 ore 15:30
+  

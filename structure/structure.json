@@ -257,6 +257,17 @@
             },
             {
               "event-id": "2",
+              "event-title": "Visita guidata alla mostra di Khalid Albaih \"la stagione della migrazione a nord\"",
+              "event-header1": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
+              "event-header2": "Domenica 19/01",
+              "event-header3": "ore 15:30",
+              "event-header4": "",
+              "event-text": "<p>Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione del Sudan, a riflettere sull'importanza dell'art-attivismo, di un'arte che guarda all'oggi e che ha saputo usare internet per diffondere quanto accade nei paesi sottoposti a censura. Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze.<br><br> Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze. E' possibile fare una donazione diretta all'ospedale di Khartoum a questo link:</p> <a class=\"text-reset text-decoration-none\" href=\"https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-emergency-h100.png\" alt=\"Donazione Emergency\"></a>",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "3",
               "event-title": "Scopriamo la mostra \"Vito Capone, un'antologia poetica\" alla Fondazione Berardelli",
               "event-header1": "Percorso di visita gratuito che permette di conoscere l'arte di Vito Capone, partendo dai suoi disegni degli anni '70 e'80 per poi approdare ai libri scolpiti nella carta.",
               "event-header2": "Sabato 25/01",
@@ -483,8 +494,9 @@
           ]
         },
         "Khalid11.yaml": {
-          "id": "Khalid Albaih \"La stagione della migrazione a nord\"",
+          "id": "Khalid11",
           "title": "Visita guidata alla mostra di Khalid Albaih",
+          "title2": "Khalid Albaih \"La stagione della migrazione a nord\"",
           "subtitles": [
             {
               "subtitle-title": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
@@ -496,8 +508,9 @@
           ]
         },
         "Khalid12.yaml": {
-          "id": "Khalid Albaih \"La stagione della migrazione a nord\"",
+          "id": "Khalid12",
           "title": "Visita guidata alla mostra di Khalid Albaih",
+          "title2": "Khalid Albaih \"La stagione della migrazione a nord\"",
           "subtitles": [
             {
               "subtitle-title": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
@@ -509,8 +522,9 @@
           ]
         },
         "Khalid19.yaml": {
-          "id": "Khalid Albaih \"La stagione della migrazione a nord\"",
+          "id": "Khalid19",
           "title": "Visita guidata alla mostra di Khalid Albaih",
+          "title2": "Khalid Albaih \"La stagione della migrazione a nord\"",
           "subtitles": [
             {
               "subtitle-title": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
@@ -911,38 +925,24 @@
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-link": "evidenza#brescianascosta",
+              "subtitle-title": "Visita guidata alla mostra di Khalid Albaih",
+              "subtitle-link": "evidenza#Khalid11",
               "subtitle-link-text": "per saperne di più",
-              "subtitle-smallfont1": "sabato 16/11 ore 14:30",
-              "subtitle-title": "Brescia Nascosta"
+              "subtitle-smallfont1": "sabato 11/01 ore 14:30"
             },
             {
               "subtitle-id": "1",
-              "subtitle-link": "evidenza#santagiulia",
+              "subtitle-title": "Visita guidata alla mostra di Khalid Albaih",
+              "subtitle-link": "evidenza#Khalid12",
               "subtitle-link-text": "per saperne di più",
-              "subtitle-smallfont1": "domenica 24/11 ore 09:45",
-              "subtitle-title": "Museo di Santa Giulia"
+              "subtitle-smallfont1": "domenica 12/01 ore 15:40"
             },
             {
               "subtitle-id": "2",
-              "subtitle-link": "evidenza#leonessa",
+              "subtitle-title": "Visita guidata alla mostra di Khalid Albaih",
+              "subtitle-link": "evidenza#Khalid19",
               "subtitle-link-text": "per saperne di più",
-              "subtitle-smallfont1": "domenica 08/12 ore 10:00",
-              "subtitle-title": "\"La Leonessa d’Italia\""
-            },
-            {
-              "subtitle-id": "3",
-              "subtitle-link": "evidenza#2mila",
-              "subtitle-link-text": "per saperne di più",
-              "subtitle-smallfont1": "domenica 08/12 ore 15:00",
-              "subtitle-title": "Duemila anni di storia e non sentirli"
-            },
-            {
-              "subtitle-id": "4",
-              "subtitle-link": "evidenza#castello",
-              "subtitle-link-text": "per saperne di più",
-              "subtitle-smallfont1": "domenica 15/12 ore 15:00",
-              "subtitle-title": "Scopriamo il Castello di Brescia percorrendo la strada del soccorso"
+              "subtitle-smallfont1": "domenica 19/01 ore 15:30"
             }
           ]
         },

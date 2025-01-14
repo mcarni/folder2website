@@ -28,6 +28,18 @@ events:
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih
   event-link-text: "Contattami per saperne di pi\xF9"
 - event-id: '2'
+  event-title: Visita guidata alla mostra di Khalid Albaih "la stagione della migrazione a nord"
+  event-header1: I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency
+  event-header2: Domenica 19/01
+  event-header3: ore 15:30
+  event-header4: ''
+  event-text: <p>Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione del Sudan, a riflettere sull'importanza dell'art-attivismo, di un'arte che guarda all'oggi e che ha saputo usare internet per diffondere quanto accade nei paesi sottoposti a censura. Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze.<br><br> 
+    Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze. E' possibile fare una donazione diretta all'ospedale di Khartoum a questo link:</p>
+    <a class="text-reset text-decoration-none" href="https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1"
+    target="_blank" rel="noopener noreferrer"><img src="/images/logo-emergency-h100.png" alt="Donazione Emergency"></a>
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih
+  event-link-text: "Contattami per saperne di pi\xF9"
+- event-id: '3'
   event-title: Scopriamo la mostra "Vito Capone, un'antologia poetica" alla Fondazione Berardelli
   event-header1: Percorso di visita gratuito che permette di conoscere l'arte di Vito Capone, partendo dai suoi disegni degli anni '70 e'80 per poi approdare ai libri scolpiti nella carta.
   event-header2: Sabato 25/01
