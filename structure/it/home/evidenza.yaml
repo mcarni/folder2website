@@ -22,4 +22,23 @@ subtitles:
   subtitle-link: evidenza#Khalid19
   subtitle-link-text: "per saperne di pi\xF9"
   subtitle-smallfont1: domenica 19/01 ore 15:30
-  
+- subtitle-id: '3'
+  subtitle-title: Visita guidata nel centro di Brescia raccontando, attraverso le storie d'amore, l'evoluzione storica della città
+  subtitle-link: evidenza#lamore9
+  subtitle-link-text: "per saperne di pi\xF9"
+  subtitle-smallfont1: domenica 09/02 ore 10:30
+- subtitle-id: '4'
+  subtitle-title: Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria.
+  subtitle-link: evidenza#lamore9
+  subtitle-link-text: "per saperne di pi\xF9"
+  subtitle-smallfont1: domenica 16/02 ore 15:00
+- subtitle-id: '5'
+  subtitle-title: Visita guidata alla mostra di Khalid Albaih 
+  subtitle-link: evidenza#Khalid22febbraio
+  subtitle-link-text: "per saperne di pi\xF9"
+  subtitle-smallfont1: domenica 22/02 ore 15:40
+- subtitle-id: '6'
+  subtitle-title: Passeggiata in castello 
+  subtitle-link: evidenza#castello23
+  subtitle-link-text: "per saperne di pi\xF9"
+  subtitle-smallfont1: domenica 23/02 ore 15:00

@@ -227,9 +227,61 @@
             }
           ]
         },
+        "febbraio.yaml": {
+          "title": "Febbraio",
+          "id": "collapseFeb",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "0",
+              "event-title": "Brescia, l'amore in ogni angolo",
+              "event-header1": "Visita guidata nel centro di Brescia raccontando, attraverso le storie d'amore, l'evoluzione storica della città",
+              "event-header2": "Domenica 09/02",
+              "event-header3": "ore 10:30",
+              "event-header4": "",
+              "event-text": "I rapporti sentimentali sono l'occasione per raccontare la storia di grandi personaggi che hanno agito sul territorio cittadino. Dal periodo longobardo, al Novecento, passando per le storie d'amore ambientate dal Boccaccio a Brescia o che hanno coinvolto i nostri eroi risorgimentali. E' possibile prenotarsi entro il 04 febbraio.",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=L_amore_ad_ogni_angolo",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "1",
+              "event-title": "Ti porto a Brescia!",
+              "event-header1": "Visita guidata tesa a far conoscere il centro di Brescia a chi viene da fuori",
+              "event-header2": "Domenica 16/12",
+              "event-header3": "ore 10:00",
+              "event-header4": "",
+              "event-text": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città\":\" si parte dal periodo romano e si arriva al 1932!",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=ti_porto_a_Brescia",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "2",
+              "event-title": "Ultima visita guidata alla mostra di Khalid Albaih \"la stagione della migrazione a nord\"",
+              "event-header1": "Ultimo appuntamento con una mostra che ci permette di riflettere sul nostro presente, attraverso i disegni sintetici ma potentissimi di Khalid Albaih",
+              "event-header2": "Sabato 22/02",
+              "event-header3": "ore 15:40",
+              "event-header4": "",
+              "event-text": "<p>Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione del Sudan, a riflettere sull'importanza dell'art-attivismo, di un'arte che guarda all'oggi e che ha saputo usare internet per diffondere quanto accade nei paesi sottoposti a censura. Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze.<br><br> Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze. E' possibile fare una donazione diretta all'ospedale di Khartoum a questo link:</p> <a class=\"text-reset text-decoration-none\" href=\"https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-emergency-h100.png\" alt=\"Donazione Emergency\"></a>",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "3",
+              "event-title": "Passeggiata esplorativa del Castello di Brescia che ripercorre il percorso compiuto dagli imperiali durante il Sacco di Brescia",
+              "event-header1": "Il racconto dell'assalto del Castello dalla strada del soccorso, proprio come avvenne il 19 febbraio del 1512 (e come poi si è ripetuto nel 1849), quando i nemici della città portarono soccorso a chi assediava la città chiuso nelle mura del Falcone d'Italia",
+              "event-header2": "Domenica 23/02",
+              "event-header3": "ore 15:00",
+              "event-header4": "",
+              "event-text": "Per chi si reca spesso in castello ma vorrebbe conoscere meglio la sua storia e la sua evoluzione e capire il ruolo di quella maledetta strada del Soccorso che per ben 2 volte ha portato la distruzione della città e il massacro dei suoi cittadini. Solo in caso di bel tempo. E' possibile prenotarsi sino al giorno 16 febbraio",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Scopriamo_il_castello",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
         "gennaio.yaml": {
           "title": "Gennaio",
-          "id": "collapse",
+          "id": "collapseJan",
           "collapse": "",
           "collapse-class": "row my-2 justify-content-center collapse",
           "events": [
@@ -467,7 +519,7 @@
               "subtitle-id": "3",
               "subtitle-title": "e non dimenticare di seguirmi",
               "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/la.mia.guida.di.brescia/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-facebook\"></i></a>",
-              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/la.mia.guida.di.brescia/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-instagram\"></i></a>"
+              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/lamiaguidadibrescia/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-instagram\"></i></a>"
             }
           ]
         },
@@ -496,7 +548,7 @@
         "Khalid11.yaml": {
           "id": "Khalid11",
           "title": "Visita guidata alla mostra di Khalid Albaih",
-          "title2": "Khalid Albaih \"La stagione della migrazione a nord\"",
+          "title2": "La stagione della migrazione a nord",
           "subtitles": [
             {
               "subtitle-title": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
@@ -510,7 +562,7 @@
         "Khalid12.yaml": {
           "id": "Khalid12",
           "title": "Visita guidata alla mostra di Khalid Albaih",
-          "title2": "Khalid Albaih \"La stagione della migrazione a nord\"",
+          "title2": "La stagione della migrazione a nord",
           "subtitles": [
             {
               "subtitle-title": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
@@ -524,12 +576,24 @@
         "Khalid19.yaml": {
           "id": "Khalid19",
           "title": "Visita guidata alla mostra di Khalid Albaih",
-          "title2": "Khalid Albaih \"La stagione della migrazione a nord\"",
+          "title2": "La stagione della migrazione a nord",
           "subtitles": [
             {
               "subtitle-title": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
               "subtitle-smallfont1": "<p>In collaborazione con:</p> <a class=\"text-reset text-decoration-none\" href=\"https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-emergency-h50.png\" alt=\"Emergency Link\"></a>",
               "subtitle-when": "Il percorso inizia domenica 19/01 ore 15:30.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "Khalid22febbraio.yaml": {
+          "id": "Khalid22febbraio",
+          "title": "Ultima visita guidata alla mostra di Khalid Albaih \"la stagione della migrazione a nord\"",
+          "title2": "Ultimo appuntamento con una mostra che ci permette di riflettere sul nostro presente, attraverso i disegni sintetici ma potentissimi di Khalid Albaih",
+          "subtitles": [
+            {
+              "subtitle-when": "Sabato 22/02 ore 15:40.",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
               "subtitle-mail-link-text": "Contattami per saperne di più"
             }
@@ -560,8 +624,33 @@
             }
           ]
         },
+        "castello23.yaml": {
+          "id": "castello23",
+          "title": "Passeggiata in castello che ripercorre il percorso compiuto dagli imperiali durante il Sacco di Brescia",
+          "subtitles": [
+            {
+              "subtitle-title": "Il racconto dell'assalto del Castello dalla strada del soccorso, proprio come avvenne il 19 febbraio del 1512 (e come poi si è ripetuto nel 1849), quando i nemici della città portarono soccorso a chi assediava la città chiuso nelle mura del Falcone d'Italia",
+              "subtitle-when": "Domenica 23/02 ore 15:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Castello_di_Brescia",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
         "description.txt": "",
         "icon": "highlighter",
+        "lamore9.yaml": {
+          "id": "lamore9",
+          "title": "Brescia e l'amore in ogni angolo",
+          "title2": "Visita guidata nel centro di Brescia raccontando, attraverso le storie d'amore, l'evoluzione storica della città",
+          "subtitles": [
+            {
+              "subtitle-title": "un san Valentino diverso!, un San Valentino made in Brescia!",
+              "subtitle-when": "Domenica 09/02 ore 10:30",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=l_amore",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
         "leonessa.yaml": {
           "id": "leonessa",
           "title": "Per scoprire il Museo: “La Leonessa d’Italia”",
@@ -591,7 +680,20 @@
             }
           ]
         },
-        "tabTitle": "Itinerari in evidenza - Maddalena Carnaghi - La mia guida di Brescia"
+        "tabTitle": "Itinerari in evidenza - Maddalena Carnaghi - La mia guida di Brescia",
+        "tiporto16.yaml": {
+          "id": "tiporto16",
+          "title": "Ti porto a Brescia!",
+          "title2": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria.",
+          "subtitles": [
+            {
+              "subtitle-title": "Visita per i non bresciani!",
+              "subtitle-when": "Domenica 16/02 ore 15:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Due_mila_anni",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        }
       },
       "guidaperte": {
         "amiche.yaml": {
@@ -882,7 +984,7 @@
             {
               "subtitle-id": "2",
               "subtitle-smallfont-azzurrino": "<strong>non dimenticare di seguirmi</strong>",
-              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/la.mia.guida.di.brescia\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-facebook\"></i></a><a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/la.mia.guida.di.brescia\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-instagram\"></i></a>"
+              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/la.mia.guida.di.brescia\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-facebook\"></i></a><a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/lamiaguidadibrescia/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-instagram\"></i></a>"
             },
             {
               "subtitle-id": "3",
@@ -943,6 +1045,34 @@
               "subtitle-link": "evidenza#Khalid19",
               "subtitle-link-text": "per saperne di più",
               "subtitle-smallfont1": "domenica 19/01 ore 15:30"
+            },
+            {
+              "subtitle-id": "3",
+              "subtitle-title": "Visita guidata nel centro di Brescia raccontando, attraverso le storie d'amore, l'evoluzione storica della città",
+              "subtitle-link": "evidenza#lamore9",
+              "subtitle-link-text": "per saperne di più",
+              "subtitle-smallfont1": "domenica 09/02 ore 10:30"
+            },
+            {
+              "subtitle-id": "4",
+              "subtitle-title": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria.",
+              "subtitle-link": "evidenza#lamore9",
+              "subtitle-link-text": "per saperne di più",
+              "subtitle-smallfont1": "domenica 16/02 ore 15:00"
+            },
+            {
+              "subtitle-id": "5",
+              "subtitle-title": "Visita guidata alla mostra di Khalid Albaih",
+              "subtitle-link": "evidenza#Khalid22febbraio",
+              "subtitle-link-text": "per saperne di più",
+              "subtitle-smallfont1": "domenica 22/02 ore 15:40"
+            },
+            {
+              "subtitle-id": "6",
+              "subtitle-title": "Passeggiata in castello",
+              "subtitle-link": "evidenza#castello23",
+              "subtitle-link-text": "per saperne di più",
+              "subtitle-smallfont1": "domenica 23/02 ore 15:00"
             }
           ]
         },
