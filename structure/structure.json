@@ -248,7 +248,7 @@
               "event-id": "1",
               "event-title": "Ti porto a Brescia!",
               "event-header1": "Visita guidata tesa a far conoscere il centro di Brescia a chi viene da fuori",
-              "event-header2": "Domenica 16/12",
+              "event-header2": "Domenica 16/02",
               "event-header3": "ore 10:00",
               "event-header4": "",
               "event-text": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città\":\" si parte dal periodo romano e si arriva al 1932!",
@@ -1055,8 +1055,8 @@
             },
             {
               "subtitle-id": "4",
-              "subtitle-title": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria.",
-              "subtitle-link": "evidenza#lamore9",
+              "subtitle-title": "Ti porto a Brescia",
+              "subtitle-link": "evidenza#tiporto16",
               "subtitle-link-text": "per saperne di più",
               "subtitle-smallfont1": "domenica 16/02 ore 15:00"
             },
