@@ -1,26 +1,15 @@
-id: collapseMar
 title: Marzo
+id: collapseMar
 collapse: ''
 collapse-class: row my-2 justify-content-center collapse
 events:
-- event-header1: Sabato 02/03
-  event-header2: ore 15:00
-  event-header3: Piazza Moretto
+- event-id: '0'
+  event-title: Scopriamo il Castello di Brescia percorrendo la strada del soccorso
+  event-header1: ''
+  event-header2: Sabato 29/03
+  event-header3: ore 14:45
   event-header4: ''
-  event-id: '0'
-  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Donne_Bresciane_e_la_Resistenza
+  event-text: Per chi si reca spesso in castello ma vorrebbe conoscere meglio la sua storia e la sua evoluzione e scoprire quella maledetta strada del Soccorso che per ben 2 volte ha portato i bresciani al massacro. Ricorrono in questi giorni le X Giornate di Brescia (23 marzo, 1 aprile 1849). 
+    In collaborazione con l’associazione Blu Balena
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Scopriamo_il_castello
   event-link-text: "Contattami per saperne di pi\xF9"
-  event-text: percorso sui luoghi delle donne bresciane che hanno vissuto la Resistenza
-    in collaborazione con la sezione ANPI
-  event-title: Donne Bresciane e la Resistenza
-- event-header1: Sabato 23/03
-  event-header2: ore 15:00
-  event-header3: Museo del Risorgimento
-  event-header4: ''
-  event-id: '1'
-  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Le_X_Giornate_di_Brescia
-  event-link-text: "Contattami per saperne di pi\xF9"
-  event-text: Mi piacerebbe portarvi a scoprire il Museo del Risorgimento proprio
-    in concomitanza con le X giornate di Brescia
-  event-title: Le X Giornate di Brescia
-
