@@ -525,9 +525,9 @@
               "event-title": "Brescia Nascosta",
               "event-header1": "Domenica 19/10",
               "event-header2": "ore 14:30",
-              "event-header3": "",
-              "event-header4": "",
-              "event-text": "Un tour di Via Milano attraverso ricordi e sguardi di persone senza fissa dimora. La visita guidata è coinvolgente, inusuale e permette di conoscere la città da una prospettiva diversa\":\" Il tour è inusuale e permette di conoscere la città attraverso una prospettiva diversa\":\" il mio apporto è quello di complementare la visita guidata con riferimenti storico artistici puntuali. In collaborazione con l'associazione Perlar",
+              "event-header3": "<p>Prenotabile anche su: </p> <a class=\"text-reset text-decoration-none\" href=\"https://www.eventbrite.it/e/biglietti-brescia-nascosta-1359894363649\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-eventbrite-h50.png\" alt=\"Eventbrite Link\"></a>",
+              "event-header4": "<p>In collaborazione con : </p> <a class=\"text-reset text-decoration-none\" href=\"https://www.fiopsd.org/perlar\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-perlar-h50.png\" alt=\"Perlar Link\"></a>",
+              "event-text": "Un tour di Via Milano attraverso ricordi e sguardi di persone senza fissa dimora. La visita guidata è coinvolgente, inusuale e permette di conoscere la città da una prospettiva diversa\":\" Il tour è inusuale e permette di conoscere la città attraverso una prospettiva diversa\":\" il mio apporto è quello di complementare la visita guidata con riferimenti storico artistici puntuali.",
               "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_la_Brescia_Nascosta_ottobre",
               "event-link-text": "Contattami per saperne di più"
             },
@@ -698,7 +698,7 @@
           "subtitles": [
             {
               "subtitle-title": "Un tour del centro storico attraverso ricordi e sguardi di persone senza fissa dimora accompagnati da una guida turistica Ritovo alla chiesa del Carmine. Evento gratuito",
-              "subtitle-smallfont1": "<p>pagine facebook:</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/share/p/15wE8cMuRF/\" target=\"_blank\" rel=\"noopener noreferrer\"></a>",
+              "subtitle-smallfont1": "<p>Pagina facebook:</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/share/p/15wE8cMuRF/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-facebook\"></i></a>",
               "subtitle-when": "Il percorso inizia Domenica 14 settembre ore 14:30.",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Brescia_Nascosta",
               "subtitle-mail-link-text": "Contattami per saperne di più"
@@ -712,7 +712,7 @@
           "subtitles": [
             {
               "subtitle-title": "Un tour del centro storico attraverso ricordi e sguardi di persone senza fissa dimora accompagnati da una guida turistica Ritovo alla chiesa del Carmine. Evento gratuito",
-              "subtitle-smallfont1": "<p>pagine facebook:</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/share/p/15wE8cMuRF/\" target=\"_blank\" rel=\"noopener noreferrer\"></a>",
+              "subtitle-smallfont1": "<p>Pagina facebook:</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/share/p/15wE8cMuRF/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-facebook\"></i></a>",
               "subtitle-when": "Il percorso inizia Domenica 19 ottobre ore 14:30.",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Brescia_Nascosta",
               "subtitle-mail-link-text": "Contattami per saperne di più"
@@ -739,7 +739,7 @@
           "subtitles": [
             {
               "subtitle-title": "Per scoprire tutto quello che c'è da sapere sul castello e sui 2 assedi che Brescia ha subito.",
-              "subtitle-smallfont1": "<p>In collaborazione con il Centro San Clemente:</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.centrosanclemente.it/livello-unico/corso-brixia-quando-in-citta-si-parlava-latino.html\" target=\"_blank\" rel=\"noopener noreferrer\"></a>",
+              "subtitle-smallfont1": "<p>In collaborazione con :</p> <a class=\"text-reset text-decoration-none\" href=\"ttps://www.centrosanclemente.it/livello-unico/corso-il-castello-di-brescia-dalla-strada-del-soccorso.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-centrosanclemente-h50.png\" alt=\"Centro San Clemente Link\"></a>",
               "subtitle-when": "Il percorso inizia Sabato 25 ottobre dalle 15:00 alle 17:00.",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Castello_di_Brescia",
               "subtitle-mail-link-text": "Contattami per saperne di più"
@@ -780,7 +780,7 @@
           "subtitles": [
             {
               "subtitle-title": "Per approfondire la conoscenza dell'antica Brixia esplorando ogni traccia del passato romano della città",
-              "subtitle-smallfont1": "<p>In collaborazione con il Centro San Clemente:</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.centrosanclemente.it/livello-unico/corso-brixia-quando-in-citta-si-parlava-latino.html\" target=\"_blank\" rel=\"noopener noreferrer\"></a>",
+              "subtitle-smallfont1": "<p>In collaborazione con :</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.centrosanclemente.it/livello-unico/corso-brixia-quando-in-citta-si-parlava-latino.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-centrosanclemente-h50.png\" alt=\"Centro San Clemente Link\"></a>",
               "subtitle-when": "Il percorso inizia Sabato 4 ottobre dalle 15:00 alle 17:00.",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=latino",
               "subtitle-mail-link-text": "Contattami per saperne di più"
