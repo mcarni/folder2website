@@ -133,6 +133,36 @@
     },
     "it": {
       "calendario": {
+        "agosto.yaml": {
+          "title": "Agosto",
+          "id": "collapseAug",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "0",
+              "event-title": "Per bresciani che vogliono conoscere il Museo di Santa Giulia",
+              "event-header1": "Sabato 30/08",
+              "event-header2": "ore 10:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Avete mai pensato “tanto è qui vicino al Museo di Santa Giulia ci andrò più avanti”? Volete una visita guidata dei reperti più significativi e appropriarvi del vostro museo? Prenotate entro il 3 aprile",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_il_Museo_di_Santa_Giulia-agosto",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "1",
+              "event-title": "Dentro da questa triplice cerchia di mura, ove tradotto è già in pietre vive quel libro religioso ch'io mi pensai preposto ai riti della patria e dei vincitori latini chiamato Il Vittoriale",
+              "event-header1": "Domenica 31/08",
+              "event-header2": "ore 10:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Avete mai colto ogni riferimento, ogni metafora scolpita nei 9 ettari del Giardino del Vittoriale? Volete visitare il parco con una guida abilitata? Prenotate entro il 27 Agosto",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_il_Vittoriale",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
         "aprile.yaml": {
           "title": "Aprile",
           "id": "collapseApr",
@@ -351,6 +381,36 @@
           ]
         },
         "icon": "calendar",
+        "luglio.yaml": {
+          "title": "Luglio",
+          "id": "collapseJul",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "0",
+              "event-title": "Per bresciani che vogliono conoscere il Museo di Santa Giulia",
+              "event-header1": "Sabato 30/08",
+              "event-header2": "ore 10:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Avete mai pensato “tanto è qui vicino al Museo di Santa Giulia ci andrò più avanti”? Volete una visita guidata dei reperti più significativi e appropriarvi del vostro museo? Prenotate entro il 3 aprile",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_il_Museo_di_Santa_Giulia-agosto",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "1",
+              "event-title": "Dentro da questa triplice cerchia di mura, ove tradotto è già in pietre vive quel libro religioso ch'io mi pensai preposto ai riti della patria e dei vincitori latini chiamato Il Vittoriale",
+              "event-header1": "Domenica 31/08",
+              "event-header2": "ore 10:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Avete mai colto ogni riferimento, ogni metafora scolpita nei 9 ettari del Giardino del Vittoriale? Volete visitare il parco con una guida abilitata? Prenotate entro il 27 Agosto",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_il_Vittoriale",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
         "maggio.yaml": {
           "title": "Maggio",
           "id": "collapseMay",
@@ -432,50 +492,80 @@
             }
           ]
         },
-        "pageTitle": "Calendario",
-        "settembre.yaml": {
-          "title": "Settembre",
-          "id": "collapseSet",
+        "ottobre.yaml": {
+          "title": "Ottobre",
+          "id": "collapseOct",
           "collapse": "",
           "collapse-class": "row my-2 justify-content-center collapse",
           "events": [
             {
               "event-id": "0",
-              "event-title": "Per bresciani che vogliono conoscere il Museo di Santa Giulia",
-              "event-header1": "Domenica 07/09",
-              "event-header2": "ore 10:00",
+              "event-title": "Quando in città si parlava latino",
+              "event-header1": "Sabato 04/10",
+              "event-header2": "dalle 15:00 alle 17:00",
               "event-header3": "",
               "event-header4": "",
-              "event-text": "Avete mai pensato “tanto è qui vicino al Museo di Santa Giulia ci andrò più avanti”? Volete una visita guidata dei reperti più significativi e appropriarvi del vostro museo? Prenotate entro il 3 aprile",
-              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_il_Museo_di_Santa_Giulia-settembre",
+              "event-text": "Per approfondire la conoscenza dell'antica Brixia esplorando ogni traccia del passato romano della città. In collaborazione con il Centro San Clemente",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=latino",
               "event-link-text": "Contattami per saperne di più"
             },
             {
               "event-id": "1",
-              "event-title": "Dentro da questa triplice cerchia di mura, ove tradotto è già in pietre vive quel libro religioso ch'io mi pensai preposto ai riti della patria e dei vincitori latini chiamato Il Vittoriale",
-              "event-header1": "Domenica 15/09",
+              "event-title": "Il Quartiere del Carmine come non lo avete mai visto",
+              "event-header1": "Domenica 05/10",
               "event-header2": "ore 10:00",
               "event-header3": "",
               "event-header4": "",
-              "event-text": "Avete mai colto ogni riferimento, ogni metafora scolpita nei 9 ettari del Giardino del Vittoriale? Volete visitare il parco con una guida abilitata? Prenotate entro il 6 settembre",
-              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_il_Vittoriale",
+              "event-text": "Un nuovo tour per mostrare l'origine medievale del Carmine e per valorizzare le sue peculiarità che, una volta scoperte, non possono che farvi perdutamente innamorare della sua unicità. Prenotate entro il 01 Ottobre",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=carmine",
               "event-link-text": "Contattami per saperne di più"
             },
             {
               "event-id": "2",
+              "event-title": "Brescia Nascosta",
+              "event-header1": "Domenica 19/10",
+              "event-header2": "ore 14:30",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Un tour di Via Milano attraverso ricordi e sguardi di persone senza fissa dimora. La visita guidata è coinvolgente, inusuale e permette di conoscere la città da una prospettiva diversa\":\" Il tour è inusuale e permette di conoscere la città attraverso una prospettiva diversa\":\" il mio apporto è quello di complementare la visita guidata con riferimenti storico artistici puntuali. In collaborazione con l'associazione Perlar",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_la_Brescia_Nascosta_ottobre",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "3",
+              "event-title": "All'attacco! Il castello di Brescia dalla Strada del soccorso",
+              "event-header1": "Sabbato 25/10",
+              "event-header2": "dalle 15:00 alle 17:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Per scoprire tutto quello che c'è da sapere sul castello e sui 2 assedi che Brescia ha subito. In collaborazione con il Centro San Clemente",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=castello_ottobre",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "pageTitle": "Calendario",
+        "settembre.yaml": {
+          "title": "Settembre",
+          "id": "collapseSep",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "2",
               "event-title": "La Breccia di Porta Pia",
-              "event-header1": "Sabato 21/09",
+              "event-header1": "Sabato 13/09",
               "event-header2": "ore 10:00",
               "event-header3": "",
               "event-header4": "",
-              "event-text": "Se non avete ancora visitato il Museo del Risorgimento e volete visitarlo con una guida abilitata, è il momento giusto, è l'anniversario della Breccia di Porta Pia 20 settembre 1870. Prenotate entro il 10 settembre",
+              "event-text": "Se non avete ancora visitato il Museo del Risorgimento e volete visitarlo con una guida abilitata, è il momento giusto, è l'anniversario della Breccia di Porta Pia 20 settembre 1870. Prenotate entro il 09 settembre",
               "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_la_Breccia_di_Porta_Pia",
               "event-link-text": "Contattami per saperne di più"
             },
             {
               "event-id": "3",
               "event-title": "Brescia Nascosta",
-              "event-header1": "Domenica 29/09",
+              "event-header1": "Domenica 14/09",
               "event-header2": "ore 14:30",
               "event-header3": "",
               "event-header4": "",
@@ -588,26 +678,69 @@
             }
           ]
         },
+        "breccia.yaml": {
+          "id": "breccia",
+          "title": "La Breccia di Porta Pia",
+          "title2": "Visita guidata al Museo del Risorgimento di Brescia",
+          "subtitles": [
+            {
+              "subtitle-title": "Se non avete ancora visitato il Museo del Risorgimento e volete farlo con una guida, questo è il momento giusto, perché siamo vicini all'anniversario della Breccia di Porta Pia (20 settembre 1870)",
+              "subtitle-when": "Il percorso inizia Sabato 13 settembre ore 10:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Breccia",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
         "brescianascosta.yaml": {
           "id": "brescianascosta",
           "title": "Brescia Nascosta",
+          "title2": "Nuovi sguardi sul quartiere del Carmine",
           "subtitles": [
             {
               "subtitle-title": "Un tour del centro storico attraverso ricordi e sguardi di persone senza fissa dimora accompagnati da una guida turistica Ritovo alla chiesa del Carmine. Evento gratuito",
-              "subtitle-when": "Il percorso inizia sabato 16/11 ore 14:30.",
+              "subtitle-smallfont1": "<p>pagine facebook:</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/share/p/15wE8cMuRF/\" target=\"_blank\" rel=\"noopener noreferrer\"></a>",
+              "subtitle-when": "Il percorso inizia Domenica 14 settembre ore 14:30.",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Brescia_Nascosta",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "brescianascosta1910.yaml": {
+          "id": "brescianascosta1910",
+          "title": "Brescia Nascosta",
+          "title2": "Nuovi sguardi sul quartiere del Carmine",
+          "subtitles": [
+            {
+              "subtitle-title": "Un tour del centro storico attraverso ricordi e sguardi di persone senza fissa dimora accompagnati da una guida turistica Ritovo alla chiesa del Carmine. Evento gratuito",
+              "subtitle-smallfont1": "<p>pagine facebook:</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/share/p/15wE8cMuRF/\" target=\"_blank\" rel=\"noopener noreferrer\"></a>",
+              "subtitle-when": "Il percorso inizia Domenica 19 ottobre ore 14:30.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Brescia_Nascosta",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "carmine.yaml": {
+          "id": "carmine",
+          "title": "Il Quartiere del Carmine come non lo avete mai visto",
+          "title2": "Per capire bene bene bene l'evoluzione del Quartiere: dal più produttivo nel Medioevo.....fino al degrado che lo aveva avvolto a inizio e metà del XX secolo",
+          "subtitles": [
+            {
+              "subtitle-title": "Un nuovo tour per mostrare l'origine medievale del Carmine e per valorizzare le sue peculiarità che, una volta scoperte, non possono che farvi perdutamente innamorare della sua unicità.",
+              "subtitle-when": "Il percorso inizia Domenica 5 ottobre ore 10:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Carmine",
               "subtitle-mail-link-text": "Contattami per saperne di più"
             }
           ]
         },
         "castello.yaml": {
           "id": "castello",
-          "title": "Scopriamo il Castello di Brescia percorrendo la strada del soccorso",
+          "title": "All'attacco! Il castello di Brescia dalla Strada del soccorso",
+          "title2": "Per comprendere, attraverso l'evoluzione del castello e le sue strutture di difesa, anche la storia della nostra città",
           "subtitles": [
             {
-              "subtitle-title": "Per chi si reca spesso in castello ma vorrebbe conoscere meglio la sua storia e la sua evoluzione e scoprire quella maledetta strada del Soccorso che per ben 2 volte ha portato i bresciani al massacro.",
-              "subtitle-smallfont1": "In collaborazione con l’associazione Blu Balena",
-              "subtitle-when": "Il percorso inizia domenica 15/12 ore 15:00.",
+              "subtitle-title": "Per scoprire tutto quello che c'è da sapere sul castello e sui 2 assedi che Brescia ha subito.",
+              "subtitle-smallfont1": "<p>In collaborazione con il Centro San Clemente:</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.centrosanclemente.it/livello-unico/corso-brixia-quando-in-citta-si-parlava-latino.html\" target=\"_blank\" rel=\"noopener noreferrer\"></a>",
+              "subtitle-when": "Il percorso inizia Sabato 25 ottobre dalle 15:00 alle 17:00.",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Castello_di_Brescia",
               "subtitle-mail-link-text": "Contattami per saperne di più"
             }
@@ -640,6 +773,20 @@
             }
           ]
         },
+        "latino.yaml": {
+          "id": "latino",
+          "title": "Quando in città si parlava latino",
+          "title2": "Tutto quello che c'è da sapere sull'antica Brixia romana",
+          "subtitles": [
+            {
+              "subtitle-title": "Per approfondire la conoscenza dell'antica Brixia esplorando ogni traccia del passato romano della città",
+              "subtitle-smallfont1": "<p>In collaborazione con il Centro San Clemente:</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.centrosanclemente.it/livello-unico/corso-brixia-quando-in-citta-si-parlava-latino.html\" target=\"_blank\" rel=\"noopener noreferrer\"></a>",
+              "subtitle-when": "Il percorso inizia Sabato 4 ottobre dalle 15:00 alle 17:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=latino",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
         "leonessa.yaml": {
           "id": "leonessa",
           "title": "Per scoprire il Museo: “La Leonessa d’Italia”",
@@ -663,7 +810,7 @@
           "subtitles": [
             {
               "subtitle-title": "Avete mai pensato “tanto è qui vicino il Museo di Santa Giulia ci andrò più avanti”? Volete una visita guidata dei reperti più significativi e appropriarvi del vostro museo? Prenotate entro il 14 novembre.",
-              "subtitle-when": "Il percorso inizia domenica 24/11 ore 09:45.",
+              "subtitle-when": "Il percorso inizia Sabato 30 agosto ore 10:00.",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Santa_Giulia",
               "subtitle-mail-link-text": "Contattami per saperne di più"
             }
@@ -679,6 +826,19 @@
               "subtitle-title": "Visita per i non bresciani!",
               "subtitle-when": "Domenica 16/02 ore 15:00.",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Due_mila_anni",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "vittoriale.yaml": {
+          "id": "vittoriale",
+          "title": "Una domenica al Vittoriale",
+          "title2": "Nei 9 ettari del Parco del Vittoriale ogni pietra parla e racconta le gesta eroiche di Gabriele d'Annunzio: ascoltiamole insieme!",
+          "subtitles": [
+            {
+              "subtitle-title": "Dentro da questa triplice cerchia di mura, ove tradotto è già in pietre vive quel libro religioso ch'io mi pensai preposto ai riti della patria e dei vincitori latini chiamato Il Vittoriale",
+              "subtitle-when": "Il percorso inizia Domenica 31 agosto ore 10:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Vittoriale",
               "subtitle-mail-link-text": "Contattami per saperne di più"
             }
           ]
@@ -1016,52 +1176,59 @@
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-title": "Visita guidata alla mostra di Khalid Albaih",
-              "subtitle-link": "evidenza#Khalid11",
+              "subtitle-title": "Per bresciani che vogliono conoscere il Museo di Santa Giulia",
+              "subtitle-link": "evidenza#santagiulia",
               "subtitle-link-text": "per saperne di più",
-              "subtitle-smallfont1": "sabato 11/01 ore 14:30"
+              "subtitle-smallfont1": "Sabato 30 agosto ore 10:00"
             },
             {
               "subtitle-id": "1",
-              "subtitle-title": "Visita guidata alla mostra di Khalid Albaih",
-              "subtitle-link": "evidenza#Khalid12",
+              "subtitle-title": "Una domenica al Vittoriale",
+              "subtitle-link": "evidenza#vittoriale",
               "subtitle-link-text": "per saperne di più",
-              "subtitle-smallfont1": "domenica 12/01 ore 15:40"
+              "subtitle-smallfont1": "Domenica 31 agosto ore 10:00"
             },
             {
               "subtitle-id": "2",
-              "subtitle-title": "Visita guidata alla mostra di Khalid Albaih",
-              "subtitle-link": "evidenza#Khalid19",
+              "subtitle-title": "La Breccia di Porta Pia",
+              "subtitle-link": "evidenza#breccia",
               "subtitle-link-text": "per saperne di più",
-              "subtitle-smallfont1": "domenica 19/01 ore 15:30"
+              "subtitle-smallfont1": "Sabato 13 settembre ore 10:00"
             },
             {
               "subtitle-id": "3",
-              "subtitle-title": "Visita guidata nel centro di Brescia raccontando, attraverso le storie d'amore, l'evoluzione storica della città",
-              "subtitle-link": "evidenza#lamore9",
+              "subtitle-title": "Brescia Nascosta",
+              "subtitle-link": "evidenza#brescianascosta",
               "subtitle-link-text": "per saperne di più",
-              "subtitle-smallfont1": "domenica 09/02 ore 10:30"
+              "subtitle-smallfont1": "Domenica 14 settembre ore 14:30"
             },
             {
               "subtitle-id": "4",
-              "subtitle-title": "Ti porto a Brescia",
-              "subtitle-link": "evidenza#tiporto16",
+              "subtitle-title": "Quando in città si parlava latino",
+              "subtitle-link": "evidenza#latino",
               "subtitle-link-text": "per saperne di più",
-              "subtitle-smallfont1": "domenica 16/02 ore 15:00"
+              "subtitle-smallfont1": "Sabato 4 ottobre dalle 15:00 alle 17:00"
             },
             {
               "subtitle-id": "5",
-              "subtitle-title": "Visita guidata alla mostra di Khalid Albaih",
-              "subtitle-link": "evidenza#Khalid22febbraio",
+              "subtitle-title": "Il Quartiere del Carmine come non lo avete mai visto",
+              "subtitle-link": "evidenza#carmine",
               "subtitle-link-text": "per saperne di più",
-              "subtitle-smallfont1": "domenica 22/02 ore 15:40"
+              "subtitle-smallfont1": "Domenica 5 ottobre ore 10:00"
+            },
+            {
+              "subtitle-id": "3",
+              "subtitle-title": "Brescia Nascosta",
+              "subtitle-link": "evidenza#brescianascosta1910",
+              "subtitle-link-text": "per saperne di più",
+              "subtitle-smallfont1": "Domenica 19 ottobre ore 14:30"
             },
             {
               "subtitle-id": "6",
-              "subtitle-title": "Passeggiata in castello",
-              "subtitle-link": "evidenza#castello23",
+              "subtitle-title": "All'attacco! Il castello di Brescia dalla Strada del soccorso",
+              "subtitle-link": "evidenza#castello",
               "subtitle-link-text": "per saperne di più",
-              "subtitle-smallfont1": "domenica 23/02 ore 15:00"
+              "subtitle-smallfont1": "Sabato 25 ottobre dalle 15:00 alle 17:00"
             }
           ]
         },
