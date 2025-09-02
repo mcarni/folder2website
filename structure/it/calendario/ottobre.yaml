@@ -27,7 +27,7 @@ events:
   event-title: Brescia Nascosta
   event-header1: Domenica 19/10
   event-header2: ore 14:30
-  event-header3: '<p>Prenotabile su: </p> <a class="text-reset text-decoration-none" href="https://www.eventbrite.it/e/biglietti-brescia-nascosta-1359894363649" target="_blank" rel="noopener noreferrer"><img src="/images/logo-eventbrite-h50.png" alt="Eventbrite Link"></a>'
+  event-header3: '<p>Prenotabile su: </p><a class="text-reset text-decoration-none" href="https://www.eventbrite.it/e/biglietti-brescia-nascosta-1359894363649" target="_blank" rel="noopener noreferrer"><img src="/images/logo-eventbrite-h50.png" alt="Eventbrite Link"></a>'
   event-header4: '<p>In collaborazione con : </p> <a class="text-reset text-decoration-none" href="https://www.fiopsd.org/perlar" target="_blank" rel="noopener noreferrer"><img src="/images/logo-perlar-h50.png" alt="Perlar Link"></a>'
   event-text: Un tour di Via Milano attraverso ricordi e sguardi di persone senza fissa dimora.
     Il tour è inusuale e permette di conoscere la città attraverso una prospettiva diversa. 
