@@ -7,21 +7,20 @@ events:
   event-title: Brescia Nascosta
   event-header1: Sabato 16/11
   event-header2: ore 14:30
-  event-header3: ''
-  event-header4: ''
-  event-text: Un tour del centro storico attraverso ricordi e sguardi di persone senza fissa dimora.
-    Il tour è inusuale e permette di conoscere la città attraverso una prospettiva diversa":" 
-    il mio apporto è quello di complementare la visita guidata con riferimenti storico artistici puntuali.
-    In collaborazione con l'associazione Perlar
+  event-header3: 'Un tour del centro storico attraverso ricordi e sguardi di persone senza fissa dimora.
+    Il tour è inusuale e permette di conoscere la città attraverso una prospettiva diversa
+    il mio apporto è quello di complementare la visita guidata con riferimenti storico artistici puntuali.'
+  event-header4: <p>In collaborazione con :</p> <a class="text-reset text-decoration-none" href="https://www.centrosanclemente.it/livello-unico/corso-brixia-quando-in-citta-si-parlava-latino.html" target="_blank" rel="noopener noreferrer"><img src="/images/logo-centrosanclemente-h50.png" alt="Centro San Clemente Link"></a>
+  event-text: ''
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_la_Brescia_Nascosta
   event-link-text: "Contattami per saperne di pi\xF9"
 - event-id: '1'
   event-title: Per bresciani che vogliono conoscere il Museo di Santa Giulia
   event-header1: Domenica 24/11
   event-header2: ore 09:45
-  event-header3: ''
-  event-header4: ''
-  event-text: Avete mai pensato “tanto è qui vicino al Museo di Santa Giulia ci andrò più avanti”? 
-    Volete una visita guidata dei reperti più significativi e appropriarvi del vostro museo? Prenotate entro il 3 aprile
+  event-header3: ' Avete mai pensato “tanto è qui vicino al Museo di Santa Giulia ci andrò più avanti”? 
+    Volete una visita guidata dei reperti più significativi e appropriarvi del vostro museo? '
+  event-header4: 'Prenotate entro il 3 aprile'
+  event-text: ''
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_il_Museo_di_Santa_Giulia
   event-link-text: "Contattami per saperne di pi\xF9"

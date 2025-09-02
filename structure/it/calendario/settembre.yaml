@@ -7,22 +7,19 @@ events:
   event-title: La Breccia di Porta Pia
   event-header1: Sabato 13/09
   event-header2: ore 10:00
-  event-header3: ''
-  event-header4: ''
-  event-text: Se non avete ancora visitato il Museo del Risorgimento e volete visitarlo con una guida abilitata, 
+  event-header3: Se non avete ancora visitato il Museo del Risorgimento e volete visitarlo con una guida abilitata, 
     è il momento giusto, è l'anniversario della Breccia di Porta Pia 20 settembre 1870. 
-    Prenotate entro il 09 settembre
+  event-header4: 'Prenotate entro il 09 settembre'
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_la_Breccia_di_Porta_Pia
   event-link-text: "Contattami per saperne di pi\xF9"
 - event-id: '3'
   event-title: Brescia Nascosta
   event-header1: Domenica 14/09
   event-header2: ore 14:30
-  event-header3: '<p>Prenotabile su: </p><a class="text-reset text-decoration-none" href="https://www.eventbrite.it/e/biglietti-brescia-nascosta-1359894363649" target="_blank" rel="noopener noreferrer"><img src="/images/logo-eventbrite-h50.png" alt="Eventbrite Link"></a>'
-  event-header4: '<p>In collaborazione con : </p> <a class="text-reset text-decoration-none" href="https://www.fiopsd.org/perlar" target="_blank" rel="noopener noreferrer"><img src="/images/logo-perlar-h50.png" alt="Perlar Link"></a>'
-  event-text: Un tour del Quartiere del Carmine attraverso ricordi e sguardi di persone senza fissa dimora.
+  event-header3: Un tour del Quartiere del Carmine attraverso ricordi e sguardi di persone senza fissa dimora.
     Il tour è inusuale e permette di conoscere la città attraverso una prospettiva diversa. 
     il mio apporto è quello di complementare il racconto con riferimenti storico artistici sull'evoluzione del quartiere. 
-    In collaborazione con l'associazione Perlar
+  event-header4: '<p>Prenotabile su: </p><a class="text-reset text-decoration-none" href="https://www.eventbrite.it/e/biglietti-brescia-nascosta-1359894363649" target="_blank" rel="noopener noreferrer"><img src="/images/logo-eventbrite-h50.png" alt="Eventbrite Link"></a>
+    <p>Tour ad offerta libera in collaborazione con : </p> <a class="text-reset text-decoration-none" href="https://www.fiopsd.org/perlar" target="_blank" rel="noopener noreferrer"><img src="/images/logo-perlar-h50.png" alt="Perlar Link"></a>'
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_la_Brescia_Nascosta
   event-link-text: "Contattami per saperne di pi\xF9"
