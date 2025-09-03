@@ -1,3 +1,5 @@
 # more settings to come....
 logoImg: '/images/logo.png'
-logoAltText: 'Logo - La mia guida di Brescia'
+logoImgAltText: 'Logo - La mia guida di Brescia'
+logoVideo: '/images/video.webm'
+logoVideoAltText: 'Video - La mia guida di Brescia'

@@ -1,0 +1,17 @@
+<!-- views-partials/video.ejs -->
+
+<!-- video row -->
+
+<!-- // remember body  has been opened-->
+  <!-- // remember main div container has been opened-->  
+    <div class="row justify-content-center mt-3 pt-3">
+      <div class="col-10 embed-responsive">
+         <video width="480" height="608" class="w-50 img-fluid img-rounded" autoplay playsinline loop muted embed-responsive-item style="pointer-events: none;" >
+          <source src= <%- siteSettings.logoVideo %> alt= <%- siteSettings.logoVideoAltText %> type="video/mp4">
+          Your browser does not support the video tag.
+        </video> 
+      <div class="col"></div>
+    </div>
+  </div>
+
+
