@@ -1,0 +1,65 @@
+id: progetti
+subtitles:
+- subtitle-id: '0'
+  subtitle-title: I Progetti che ho creato o a cui ho preso parte
+- subtitle-id: '1'
+  subtitle-smallfont1: <strong>Connaturata</strong> - cura della Mostra di <strong>Riccardo
+    Ajossa</strong> e catalogo, Brescia 2023
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.youtube.com/watch?v=UD0uhXruaGw"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-youtube"></i>Riccardo
+    Ajossa Opening of Connaturata Solo Show Brescia April 2023</a>
+  subtitle-smallfont3: <a class="text-reset text-decoration-none" href="https://www.lacompagniamassetti.it/shop/arte/connaturata"
+    target="_blank" rel="noopener noreferrer">Link alla pagina dedicata della <strong>Compagnia
+    della Stampa</strong></a>
+- subtitle-id: '2'
+  subtitle-smallfont1: "<strong>Segni, scritture e immagini. Opere e libri d\u2019\
+    artista. Mostra antologica</strong> \u2013 cura della Mostra di <strong>Fernanda\
+    \ Fedi e Gino Gini</strong> e catalogo, Brescia 2023"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.fernandafedi.it/2023/11/21/segni-scritture-e-immagini-opere-e-libri-dartista-mostra-antologica-fondazione-berardelli-25-novembre-2023"
+    target="_blank" rel="noopener noreferrer">Link alla pagina dedicata dal sito di
+    <strong>Fernanda Fedi</strong></a>
+  subtitle-smallfont3: <a class="text-reset text-decoration-none" href="https://www.artribune.com/mostre-evento-arte/gino-gini-fernanda-fedi"
+    target="_blank" rel="noopener noreferrer">Link alla pagina dedicata dal sito <strong>Artribune</strong></a>
+- subtitle-id: '3'
+  subtitle-smallfont1: <strong>Letture Sottese</strong> - cura della Mostra di <strong>Vito
+    Capone</strong>, Roma 2019
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.youtube.com/watch?v=UD0uhXruaGw"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-youtube"></i>STUDIO
+    ARTE FUORI CENTRO - VITO CAPONE - "letture sottese"</a>
+- subtitle-id: '4'
+  subtitle-smallfont1: "<strong>Rigorosamente libri</strong> - collaborazione alla\
+    \ Mostra di libri d\u2019artista e al catalogo, Foggia 2019"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.youtube.com/watch?v=55xWxmvGru8"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-youtube"></i>Rigorosamente
+    Libri 2019 | IV edizione</a>
+- subtitle-id: '5'
+  subtitle-smallfont1: "<strong>TraCarte6, avanguardie artistiche del \u2018900</strong>\
+    \ -  cura della Mostra e catalogo, Foggia 2015"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.youtube.com/watch?v=cIPQBz3Tf2I"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-youtube"></i>TraCarte
+    6, avanguardie artistiche del Novecento</a>
+- subtitle-id: '6'
+  subtitle-smallfont1: "<strong>Rigorosamente libri</strong> - cocura della Mostra\
+    \ di libri d\u2019artista e catalogo, Foggia 2014"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.youtube.com/watch?v=wSBVH8SaDrA"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-youtube"></i>Rigorosamente
+    libri 2014</a>
+- subtitle-id: '7'
+  subtitle-smallfont1: "<strong>Proyecto Penone</strong> - collaborazione alla Mostra\
+    \ di <strong>Giuseppe Penone</strong> e creazione dell\u2019attivit\xE0 didattica,\
+    \ Quito 2009"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.youtube.com/watch?v=k1fpRXaZuIU"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-youtube"></i>Arte
+    Italiana a Quito/ Quito Latino</a>
+  subtitle-smallfont3: <a class="text-reset text-decoration-none" href="https://www.elcomercio.com/actualidad/penone-llega-vez-primera-ecuador.html"
+    target="_blank" rel="noopener noreferrer">Articolo su <strong>El Comercio</strong></a>
+- subtitle-id: '8'
+  subtitle-smallfont1: <strong>Poesia Visiva VS Fluxus</strong> - collaborazione alla
+    Mostra, Brescia 2013
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://bsnews.it/2013/02/24/poesia-visiva-e-fluxus-gli-anni-60-e-70-alla-fondazione-berardelli"
+    target="_blank" rel="noopener noreferrer">Articolo su <strong>Bs News</strong></a>
+- subtitle-id: '9'
+  subtitle-smallfont1: "<strong>Sprintpoem</strong> \u2013 collaborazione alla Mostra\
+    \ di <strong>Lucia Marcucci</strong>, Brescia 2013"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://ocrablog.blogspot.com/2012/05/lucia-marcucci-sprintpoem-fondazione.html"
+    target="_blank" rel="noopener noreferrer">Articolo su <strong>Ocrablog</strong></a>

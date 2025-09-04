@@ -1,0 +1,46 @@
+id: associazioni
+subtitles:
+- subtitle-id: '0'
+  subtitle-title: Le associazioni e le fondazioni in cui mi rifletto
+- subtitle-id: '1'
+  subtitle-smallfont1: <a class="text-reset text-decoration-none" href="https://www.carmebrescia.it"
+    target="_blank" rel="noopener noreferrer"><img src="/images/logo-carme-h100.jpg"
+    alt="Logo CARME"></a>
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.carmebrescia.it"
+    target="_blank" rel="noopener noreferrer"><strong>Associazione C.AR.M.E.</strong>
+    - Centro Arti Multiculturali Etnosociali</a>
+  subtitle-smallfont3: <a class="text-reset text-decoration-none" href="https://www.carmebrescia.it"
+    target="_blank" rel="noopener noreferrer">www.carmebrescia.it</a>
+- subtitle-id: '2'
+  subtitle-smallfont1: <a class="text-reset text-decoration-none" href="https://fondazioneberardelli.org/home.php"
+    target="_blank" rel="noopener noreferrer"><img src="/images/logo-berardelli-h100c3.jpg"
+    alt="Logo Fondazione Berardelli"></a>
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://fondazioneberardelli.org/home.php"
+    target="_blank" rel="noopener noreferrer"><strong>Fondazione Berardelli</strong>
+    - Fondazione dedicata alla Poesia Visiva</a>
+  subtitle-smallfont3: <a class="text-reset text-decoration-none" href="https://fondazioneberardelli.org/home.php"
+    target="_blank" rel="noopener noreferrer">https://fondazioneberardelli.org/home.php</a>
+- subtitle-id: '3'
+  subtitle-smallfont1: <a class="text-reset text-decoration-none" href="https://www.fiopsd.org/perlar"
+    target="_blank" rel="noopener noreferrer"><img src="/images/logo-perlar-h100.png"
+    alt="Logo Perlar"></a>
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.fiopsd.org/perlar"
+    target="_blank" rel="noopener noreferrer"><strong>Associazione Perlar</strong>
+    - Organizzazione che promuove  esperienze di relazione con le persone senza dimora</a>
+  subtitle-smallfont3: <a class="text-reset text-decoration-none" href="https://www.fiopsd.org/perlar"
+    target="_blank" rel="noopener noreferrer">www.fiopsd.org/perlar</a>
+  subtitle-smallfont4: <a class="text-reset text-decoration-none" href="https://www.instagram.com/associazioneperlar/"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-instagram"></i></a>
+  subtitle-smallfont5: <a class="text-reset text-decoration-none" href="https://www.facebook.com/associazioneperlar/"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-facebook"></i></a>
+- subtitle-id: '4'
+  subtitle-smallfont1: <a class="text-reset text-decoration-none" href="https://www.instagram.com/_blubalena_?igsh=MXJkdWFnNnVhNHBsZw=="
+    target="_blank" rel="noopener noreferrer"><img src="/images/logo-blubalena-h100.jpg"
+    alt="Logo Blu Balnea"></a>
+  subtitle-smallfont2: "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/_blubalena_?igsh=MXJkdWFnNnVhNHBsZw==\"\
+    \ target=\"_blank\" rel=\"noopener noreferrer\"><strong>Associazione Blu Balena</strong>\
+    \ - Associzione culturale - benessere a 360\xB0 - olistico - arte - corsi - laboratori</a>"
+  subtitle-smallfont3: <a class="text-reset text-decoration-none" href="https://www.instagram.com/_blubalena_?igsh=MXJkdWFnNnVhNHBsZw=="
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-instagram"></i></a>
+  subtitle-smallfont4: <a class="text-reset text-decoration-none" href="https://www.facebook.com/people/Blu-Balena/61550203606879"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-facebook"></i></a>

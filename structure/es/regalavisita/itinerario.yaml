@@ -1,0 +1,20 @@
+id: itinerario
+subtitles: 
+- subtitle-smallfont-azzurrino: Scegliete l’itinerario ed è fatta
+  subtitle-description: Cliccate sul link di seguito e scegliete il tour che più preferite e poi ci sentiamo e prepariamo un regalo ad hoc per la persona cara!
+vlinks:
+- vlink-id: '0'
+  vlink-link: itinerariclassici
+  vlink-text: gli itinerari <strong>classici</strong>
+- vlink-id: '1'
+  vlink-link: itinerarididattici
+  vlink-text: gli itinerari <strong>didattici</strong>
+- vlink-id: '2'
+  vlink-link: itineraritema
+  vlink-text: gli itinerari <strong>a tema</strong>
+- vlink-id: '3'
+  vlink-link: itineraristorici
+  vlink-text: gli itinerari <strong>storici</strong>
+- vlink-id: '4'
+  vlink-link: itinerarilaghi
+  vlink-text: gli itinerari <strong>dei laghi</strong>

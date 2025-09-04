@@ -1,0 +1,42 @@
+title: Ottobre
+id: collapseOct
+collapse: ''
+collapse-class: row my-2 justify-content-center collapse
+events:
+- event-id: '0'
+  event-title: Quando in città si parlava latino
+  event-header1: Sabato 04/10
+  event-header2: dalle 15:00 alle 17:00
+  event-header3: "Per approfondire la conoscenza dell'antica Brixia esplorando ogni traccia del passato romano della città."
+  event-header4: <p>In collaborazione con :</p> <a class="text-reset text-decoration-none" href="https://www.centrosanclemente.it/livello-unico/corso-brixia-quando-in-citta-si-parlava-latino.html" target="_blank" rel="noopener noreferrer"><img src="/images/logo-centrosanclemente-h50.png" alt="Centro San Clemente Link"></a>
+  event-text: ''
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=latino
+  event-link-text: "Contattami per saperne di pi\xF9"
+- event-id: '1'
+  event-title: Il Quartiere del Carmine come non lo avete mai visto
+  event-header1: Domenica 05/10
+  event-header2: ore 10:00
+  event-header3: "Un nuovo tour per raccontare l'origine medievale del Carmine e valorizzare le sue peculiarità che, una volta scoperte, non possono che farvi perdutamente innamorare della sua unicità."
+  event-header4: 'Prenotate entro il 01 Ottobre'
+  event-text: ''
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=carmine
+  event-link-text: "Contattami per saperne di pi\xF9"
+- event-id: '2'
+  event-title: Brescia Nascosta
+  event-header1: Domenica 19/10
+  event-header2: ore 14:30
+  event-header3: "Un tour di Via Milano attraverso ricordi e sguardi di persone senza fissa dimora.
+    Il tour è inusuale e permette di conoscere la città attraverso una prospettiva diversa.
+    il mio apporto è quello di complementare il racconto con riferimenti storico artistici sull'evoluzione del quartiere."
+  event-header4: '<p>Prenotabile su: </p><a class="text-reset text-decoration-none" href="https://www.eventbrite.it/e/biglietti-brescia-nascosta-1359894363649" target="_blank" rel="noopener noreferrer"><img src="/images/logo-eventbrite-h50.png" alt="Eventbrite Link"></a>'
+  event-text: '<p>In collaborazione con : </p> <a class="text-reset text-decoration-none" href="https://www.fiopsd.org/perlar" target="_blank" rel="noopener noreferrer"><img src="/images/logo-perlar-h50.png" alt="Perlar Link"></a>'
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_la_Brescia_Nascosta_ottobre
+  event-link-text: "Contattami per saperne di pi\xF9"
+- event-id: '3'
+  event-title: All'attacco! Il castello di Brescia dalla Strada del soccorso
+  event-header1: Sabbato 25/10
+  event-header2: dalle 15:00 alle 17:00
+  event-header3: "Per scoprire tutto quello che c'è da sapere sul castello e sui 2 assedi che Brescia ha subito."
+  event-header4: <p>In collaborazione con :</p> <a class="text-reset text-decoration-none" href="https://www.centrosanclemente.it/livello-unico/corso-brixia-quando-in-citta-si-parlava-latino.html" target="_blank" rel="noopener noreferrer"><img src="/images/logo-centrosanclemente-h50.png" alt="Centro San Clemente Link"></a>
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=castello_ottobre
+  event-link-text: "Contattami per saperne di pi\xF9"

@@ -1,0 +1,15 @@
+title: Marzo
+id: collapseMar
+collapse: ''
+collapse-class: row my-2 justify-content-center collapse
+events:
+- event-id: '0'
+  event-title: Scopriamo il Castello di Brescia percorrendo la strada del soccorso
+  event-header1: ''
+  event-header2: Sabato 29/03
+  event-header3: ore 14:45
+  event-header4: ''
+  event-text: Per chi si reca spesso in castello ma vorrebbe conoscere meglio la sua storia e la sua evoluzione e scoprire quella maledetta strada del Soccorso che per ben 2 volte ha portato i bresciani al massacro. Ricorrono in questi giorni le X Giornate di Brescia (23 marzo, 1 aprile 1849). 
+    In collaborazione con l’associazione Blu Balena
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Scopriamo_il_castello
+  event-link-text: "Contattami per saperne di pi\xF9"

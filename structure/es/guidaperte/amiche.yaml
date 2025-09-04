@@ -1,0 +1,100 @@
+id: amiche
+subtitles:
+- subtitle-id: '0'
+  subtitle-title: Le amiche, gli amici
+- subtitle-id: '1'
+  subtitle-smallfont1: "<strong>Riccardo Ajossa</strong> \u2013 Artista"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.riccardoajossa.com"
+    target="_blank" rel="noopener noreferrer">www.riccardoajossa.com</a>
+- subtitle-id: '2'
+  subtitle-smallfont1: "<strong>Michele Beltrami</strong> \u2013 Artista"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="http://ilross9.wixsite.com/michelebeltrami"
+    target="_blank" rel="noopener noreferrer">ilross9.wixsite.com/michelebeltrami</a>
+  subtitle-smallfont3: <a class="text-reset text-decoration-none" href="https://youtu.be/NBPFGxtQrmM?si=1RgdM9Wl80sZnxd_"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-youtube"></i></a>
+- subtitle-id: '3'
+  subtitle-smallfont1: "<strong><strong>Vera Bugatti</strong> \u2013 Artista"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="http://www.verabugatti.it"
+    target="_blank" rel="noopener noreferrer">www.verabugatti.it</a>
+- subtitle-id: '4'
+  subtitle-smallfont1: "<strong>Monica Carrera</strong> \u2013 Artista"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.monicacarrera.it"
+    target="_blank" rel="noopener noreferrer">www.monicacarrera.it</a>
+- subtitle-id: '5'
+  subtitle-smallfont1: "<strong>Francesca Cecchi</strong> \u2013 Artista"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="http://www.francescachecchi.com"
+    target="_blank" rel="noopener noreferrer">www.francescachecchi.com</a>
+  subtitle-smallfont3: <a class="text-reset text-decoration-none" href="https://www.instagram.com/francesca_checchi_artist?igsh=MW"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-instagram"></i></a>
+- subtitle-id: '6'
+  subtitle-smallfont1: "<strong>Francesca Conchieri</strong> \u2013 Artista"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="http://www.ruinascontemporaneas.it/Francesca%20Conchieri/index_francesca.html"
+    target="_blank" rel="noopener noreferrer">http://www.ruinascontemporaneas.it/Francesca%20Conchieri/index_francesca.html</a>
+- subtitle-id: '7'
+  subtitle-smallfont1: "<strong>Giada Crispiels</strong> \u2013 Artista e illustratrice"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.giadacrispiels.com"
+    target="_blank" rel="noopener noreferrer">www.giadacrispiels.com</a>
+- subtitle-id: '8'
+  subtitle-smallfont1: "<strong>Armida Gandini</strong> \u2013 Artista"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.armidagandini.it/arte"
+    target="_blank" rel="noopener noreferrer">www.armidagandini.it/arte</a>
+- subtitle-id: '9'
+  subtitle-smallfont1: "<strong>Raffaella La Vena</strong> \u2013 Artista"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="http://www.raffaellalavena.com"
+    target="_blank" rel="noopener noreferrer">www.raffaellalavena.com</a>
+- subtitle-id: '10'
+  subtitle-smallfont1: <strong>Paola Sabatti Bassini</strong> - Artista
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="http://www.sediacantastorie.eu"
+    target="_blank" rel="noopener noreferrer">www.sediacantastorie.eu</a>
+  subtitle-smallfont3: <a class="text-reset text-decoration-none" href="http://www.oino.it"
+    target="_blank" rel="noopener noreferrer">www.oino.it</a>
+- subtitle-id: '11'
+  subtitle-smallfont1: "<strong>Davide Sforzini</strong> \u2013 Artista"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.instagram.com/davide.sforzini.1"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-instagram"></i></a>
+- subtitle-id: '12'
+  subtitle-smallfont1: "<strong>Carolina Vallejo</strong> \u2013 Artista"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.artelatam.org/carolina-vallejo-3"
+    target="_blank" rel="noopener noreferrer">www.artelatam.org/carolina-vallejo-3</a>
+  subtitle-smallfont3: <a class="text-reset text-decoration-none" href="https://instagram.com/carovallejod?igsh=MXV3Nms"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-instagram"></i></a>
+- subtitle-id: '13'
+  subtitle-smallfont1: "<strong>Sara Monteverdi</strong> \u2013 Creatrice di cappelli"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.instagram.com/dariacappelli?igs=bnJuZjd1"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-instagram"></i></a>
+  subtitle-smallfont3: <a class="text-reset text-decoration-none" href="https://www.facebook.com/cappellidaria"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-facebook"></i></a>
+- subtitle-id: '14'
+  subtitle-smallfont1: "<strong>Marina Rossi</strong> \u2013 Danzatrice, coreografa\
+    \ e formatrice"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.lelastiko.it"
+    target="_blank" rel="noopener noreferrer">www.lelastiko.it</a>
+- subtitle-id: '15'
+  subtitle-smallfont1: "<strong>Paola La Serra</strong> \u2013 Esperta in orientamento\
+    \ scolastico"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.paolalaserra.com"
+    target="_blank" rel="noopener noreferrer">www.paolalaserra.com</a>
+- subtitle-id: '16'
+  subtitle-smallfont1: "<strong>Maura Lo Presti</strong> \u2013 Gestore di locanda\
+    \ sull\u2019alto Lago di Garda"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.locandagenzianella.it"
+    target="_blank" rel="noopener noreferrer">www.locandagenzianella.it</a>
+- subtitle-id: '17'
+  subtitle-smallfont1: "<strong>Davide Pagnano</strong> \u2013 Gestore di B&B vicino\
+    \ Roma e camminatore"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.facebook.com/momentoroma2020"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-facebook"></i></a>
+- subtitle-id: '18'
+  subtitle-smallfont1: "<strong>Antimio Deinei</strong> \u2013 Gestore pizzeria e\
+    \ ristorante a Brescia"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="www.lestropizzarestaurant.it"
+    target="_blank" rel="noopener noreferrer">www.lestropizzarestaurant.it</a>
+- subtitle-id: '19'
+  subtitle-smallfont1: "<strong>Tommaso Lunardi</strong> \u2013 Guida turistica a\
+    \ Lisbona - \"A Lisbona con Tommaso\""
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://facebook.com/tommaso.lunardi10"
+    target="_blank" rel="noopener noreferrer"><i class="ps-4 pe-2 fa-brands fa-facebook"></i></a>
+- subtitle-id: '20'
+  subtitle-smallfont1: "<strong>Fausta Ranghetti</strong> \u2013 Operatrice zen shiatsu"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.shiatsueyoga.it"
+    target="_blank" rel="noopener noreferrer">www.shiatsueyoga.it</a>

@@ -1,136 +1,1905 @@
 {
   "content": {
     "es": {
+      "calendario": {
+        "agosto.yaml": {
+          "title": "Agosto",
+          "id": "collapseAug",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "0",
+              "event-title": "Per bresciani che vogliono conoscere il Museo di Santa Giulia",
+              "event-header1": "Sabato 30/08",
+              "event-header2": "ore 10:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Avete mai pensato “tanto è qui vicino al Museo di Santa Giulia ci andrò più avanti”? Volete una visita guidata dei reperti più significativi e appropriarvi del vostro museo? Prenotate entro il 27 agosto",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_il_Museo_di_Santa_Giulia-agosto",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "1",
+              "event-title": "Dentro da questa triplice cerchia di mura, ove tradotto è già in pietre vive quel libro religioso ch'io mi pensai preposto ai riti della patria e dei vincitori latini chiamato Il Vittoriale",
+              "event-header1": "Domenica 31/08",
+              "event-header2": "ore 10:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Avete mai colto ogni riferimento, ogni metafora scolpita nei 9 ettari del Giardino del Vittoriale? Volete visitare il parco con una guida abilitata? Prenotate entro il 27 Agosto",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_il_Vittoriale",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "aprile.yaml": {
+          "title": "Aprile",
+          "id": "collapseApr",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "0",
+              "event-title": "Per bresciani che vogliono conoscere il Museo di Santa Giulia",
+              "event-header1": "Domenica 07/04",
+              "event-header2": "ore 16:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Avete mai pensato “tanto è qui vicino al Museo di Santa Giulia ci andrò più avanti”? Volete una visita guidata dei reperti più significativi e appropriarvi del vostro museo? Prenotate entro il 3 aprile",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_il_Museo_di_Santa_Giulia",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "1",
+              "event-title": "Sirmione al tramonto",
+              "event-header1": "Venerdì 19/04",
+              "event-header2": "ore 18:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Sirmione da ricoprire con tour in barca sul far della sera di mezz’ora, passando sotto I ponti, scoprendo le bolle della sorgente termale e vedendo le maestuose rovine delle cosidette “Grotte di Catullo” e poi passeggiata tra le viuzze incantate il tutto condito dalle spiegazioni di una guida abilitata",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Sirmione_al_tramonto-aprile",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "2",
+              "event-title": "Il Risorgimento ti aspetta",
+              "event-header1": "Domenica 20/04",
+              "event-header2": "ore 10:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Se non avete ancora visitato il Museo del Risorgimento e volete visitarlo con una guida abilitata, fatevi avanti. Prenotate entro il 10 aprile",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Il_Risorgimento_ti_aspetta",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "3",
+              "event-title": "I Luoghi della Resistenza a Brescia",
+              "event-header1": "Domenica 28/04",
+              "event-header2": "ore 18:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Se siete interessati a scoprire dove si riuniva il Comitato di Liberazione Nazionale, dov’era l’ufficio di controspionaggio, dove si nascondevano i partigiani, il ruolo dell’Oratorio della Pace, dove reclutavano le SS e molto altro, venite!",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=I_Luoghi_della_Resistenza_a_Brescia",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "description.txt": "Organizzo tour con piccoli gruppi per scoprire, divertendosi, particolari inediti della città. A partire da aneddoti curiosi, ma anche dalla storia ufficiale che cerco di narrare in maniera coinvolgente, per scoprire l’evoluzione della nostra città",
+        "dicembre.yaml": {
+          "title": "Dicembre",
+          "id": "collapseDec",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "0",
+              "event-title": "per scoprire il Museo \"La Leonessa d’Italia”",
+              "event-header1": "Visita con una guida turistica abilitata il Museo del Risorgimento",
+              "event-header2": "Domenica 08/12",
+              "event-header3": "ore 10:00",
+              "event-header4": "",
+              "event-text": "Se non avete ancora visitato il Museo del Risorgimento e volete visitarlo con una guida abilitata, fatevi avanti. Il Museo è ancora gratuito fino a dicembre per i residenti a Brescia. Prenotate entro il 1° dicembre.",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=La_Leonessa_dItalia",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "1",
+              "event-title": "Duemila anni di storia e non sentirli",
+              "event-header1": "Domenica 08/12",
+              "event-header2": "ore 15:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città\":\" si parte dal periodo romano e si arriva al 1932! In collaborazione con l’associazione Blu Balena",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Duemila_anni_di_storia_e_non_sentirli",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "2",
+              "event-title": "Scopriamo il Castello di Brescia percorrendo la strada del soccorso",
+              "event-header1": "Domenica 15/12",
+              "event-header2": "ore 15:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Per chi si reca spesso in castello ma vorrebbe conoscere meglio la sua storia e la sua evoluzione e scoprire quella maledetta strada del Soccorso che per ben 2 volte ha portato i bresciani al massacro. In collaborazione con l’associazione Blu Balena",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Scopriamo_il_castello",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "febbraio.yaml": {
+          "title": "Febbraio",
+          "id": "collapseFeb",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "0",
+              "event-title": "Brescia, l'amore in ogni angolo",
+              "event-header1": "Visita guidata nel centro di Brescia raccontando, attraverso le storie d'amore, l'evoluzione storica della città",
+              "event-header2": "Domenica 09/02",
+              "event-header3": "ore 10:30",
+              "event-header4": "",
+              "event-text": "I rapporti sentimentali sono l'occasione per raccontare la storia di grandi personaggi che hanno agito sul territorio cittadino. Dal periodo longobardo, al Novecento, passando per le storie d'amore ambientate dal Boccaccio a Brescia o che hanno coinvolto i nostri eroi risorgimentali. E' possibile prenotarsi entro il 04 febbraio.",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=L_amore_ad_ogni_angolo",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "1",
+              "event-title": "Ti porto a Brescia!",
+              "event-header1": "Visita guidata tesa a far conoscere il centro di Brescia a chi viene da fuori",
+              "event-header2": "Domenica 16/02",
+              "event-header3": "ore 10:00",
+              "event-header4": "",
+              "event-text": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città\":\" si parte dal periodo romano e si arriva al 1932!",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=ti_porto_a_Brescia",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "2",
+              "event-title": "Ultima visita guidata alla mostra di Khalid Albaih \"la stagione della migrazione a nord\"",
+              "event-header1": "Ultimo appuntamento con una mostra che ci permette di riflettere sul nostro presente, attraverso i disegni sintetici ma potentissimi di Khalid Albaih",
+              "event-header2": "Sabato 22/02",
+              "event-header3": "ore 15:40",
+              "event-header4": "",
+              "event-text": "<p>Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione del Sudan, a riflettere sull'importanza dell'art-attivismo, di un'arte che guarda all'oggi e che ha saputo usare internet per diffondere quanto accade nei paesi sottoposti a censura. Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze.<br><br> Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze. E' possibile fare una donazione diretta all'ospedale di Khartoum a questo link:</p> <a class=\"text-reset text-decoration-none\" href=\"https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-emergency-h100.png\" alt=\"Donazione Emergency\"></a>",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "3",
+              "event-title": "Passeggiata esplorativa del Castello di Brescia che ripercorre il percorso compiuto dagli imperiali durante il Sacco di Brescia",
+              "event-header1": "Il racconto dell'assalto del Castello dalla strada del soccorso, proprio come avvenne il 19 febbraio del 1512 (e come poi si è ripetuto nel 1849), quando i nemici della città portarono soccorso a chi assediava la città chiuso nelle mura del Falcone d'Italia",
+              "event-header2": "Domenica 23/02",
+              "event-header3": "ore 15:00",
+              "event-header4": "",
+              "event-text": "Per chi si reca spesso in castello ma vorrebbe conoscere meglio la sua storia e la sua evoluzione e capire il ruolo di quella maledetta strada del Soccorso che per ben 2 volte ha portato la distruzione della città e il massacro dei suoi cittadini. Solo in caso di bel tempo. E' possibile prenotarsi sino al giorno 16 febbraio",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Scopriamo_il_castello",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "gennaio.yaml": {
+          "title": "Gennaio",
+          "id": "collapseJan",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "0",
+              "event-title": "Visita guidata alla mostra di Khalid Albaih \"la stagione della migrazione a nord\"",
+              "event-header1": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
+              "event-header2": "Sabato 11/01",
+              "event-header3": "ore 14:20 incontro davanti al Museo di Santa Giulia",
+              "event-header4": "",
+              "event-text": "<p>Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione del Sudan, a riflettere sull'importanza dell'art-attivismo, di un'arte che guarda all'oggi e che ha saputo usare internet per diffondere quanto accade nei paesi sottoposti a censura. Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze.<br><br> Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze. E' possibile fare una donazione diretta all'ospedale di Khartoum a questo link:</p> <a class=\"text-reset text-decoration-none\" href=\"https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-emergency-h100.png\" alt=\"Donazione Emergency\"></a>",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "1",
+              "event-title": "Visita guidata alla mostra di Khalid Albaih \"la stagione della migrazione a nord\"",
+              "event-header1": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
+              "event-header2": "Domenica 12/01",
+              "event-header3": "ore 15:40",
+              "event-header4": "",
+              "event-text": "<p>Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione del Sudan, a riflettere sull'importanza dell'art-attivismo, di un'arte che guarda all'oggi e che ha saputo usare internet per diffondere quanto accade nei paesi sottoposti a censura. Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze.<br><br> Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze. E' possibile fare una donazione diretta all'ospedale di Khartoum a questo link:</p> <a class=\"text-reset text-decoration-none\" href=\"https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-emergency-h100.png\" alt=\"Donazione Emergency\"></a>",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "2",
+              "event-title": "Visita guidata alla mostra di Khalid Albaih \"la stagione della migrazione a nord\"",
+              "event-header1": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
+              "event-header2": "Domenica 19/01",
+              "event-header3": "ore 15:30",
+              "event-header4": "",
+              "event-text": "<p>Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione del Sudan, a riflettere sull'importanza dell'art-attivismo, di un'arte che guarda all'oggi e che ha saputo usare internet per diffondere quanto accade nei paesi sottoposti a censura. Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze.<br><br> Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze. E' possibile fare una donazione diretta all'ospedale di Khartoum a questo link:</p> <a class=\"text-reset text-decoration-none\" href=\"https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-emergency-h100.png\" alt=\"Donazione Emergency\"></a>",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "3",
+              "event-title": "Scopriamo la mostra \"Vito Capone, un'antologia poetica\" alla Fondazione Berardelli",
+              "event-header1": "Percorso di visita gratuito che permette di conoscere l'arte di Vito Capone, partendo dai suoi disegni degli anni '70 e'80 per poi approdare ai libri scolpiti nella carta.",
+              "event-header2": "Sabato 25/01",
+              "event-header3": "ore 18:15",
+              "event-header4": "",
+              "event-text": "Visita guidata alla Fondazione Berardelli che propone una selezione di opere donate dall'artista che spaziano dalla ricerca segnica degli anni Settanta, sino ai Libri-Libri esposti al MoMA di New York nel 1992 e che hanno consacrato Vito Capone tra i massimi artisti dediti al Libro d'artista. Appuntamento alla Fondazione Berardelli, via Milano 107, 25126 Brescia.",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Vito_Capone",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "giugno.yaml": {
+          "title": "Giugno",
+          "id": "collapseJun",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "0",
+              "event-title": "Le donne che hanno fatto la Resistenza a Brescia",
+              "event-header1": "tra il 15 e il 22 giugno",
+              "event-header2": "orario serale",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Per conoscere le donne che hanno partecipato alla Resistenza, i luoghi in cui hanno vissuto e operato nel centro di Brescia. In collaborazione con ANPI Piazza Rovetta",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Le_donne_che_hanno_fatto_la_Resistenza_a_Brescia-giugno",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "icon": "calendar",
+        "luglio.yaml": {
+          "title": "Luglio",
+          "id": "collapseJul",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "0",
+              "event-title": "Per bresciani che vogliono conoscere il Museo di Santa Giulia",
+              "event-header1": "Sabato 30/08",
+              "event-header2": "ore 10:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Avete mai pensato “tanto è qui vicino al Museo di Santa Giulia ci andrò più avanti”? Volete una visita guidata dei reperti più significativi e appropriarvi del vostro museo? Prenotate entro il 3 aprile",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_il_Museo_di_Santa_Giulia-agosto",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "1",
+              "event-title": "Dentro da questa triplice cerchia di mura, ove tradotto è già in pietre vive quel libro religioso ch'io mi pensai preposto ai riti della patria e dei vincitori latini chiamato Il Vittoriale",
+              "event-header1": "Domenica 31/08",
+              "event-header2": "ore 10:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Avete mai colto ogni riferimento, ogni metafora scolpita nei 9 ettari del Giardino del Vittoriale? Volete visitare il parco con una guida abilitata? Prenotate entro il 27 Agosto",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_il_Vittoriale",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "maggio.yaml": {
+          "title": "Maggio",
+          "id": "collapseMay",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "0",
+              "event-title": "Sirmione al tramonto",
+              "event-header1": "Venerdì 03/05",
+              "event-header2": "ore 18:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Airmione da ricoprire con tour in barca sul far della sera di mezz’ora, passando sotto I ponti, scoprendo le bolle della sorgente termale e vedendo le maestuose rovine delle cosidette “Grotte di Catullo” e poi passeggiata tra le viuzze incantate il tutto condito dalle spiegazioni di una guida abilitata",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Sirmione_al_tramonto-maggio",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "1",
+              "event-title": "Le piazze di Brescia come non le avete mai viste!",
+              "event-header1": "Sabato 11/05",
+              "event-header2": "ore 18:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Volete conoscere meglio la storia di Brescia percorrendo le piazze con i racconti, gli aneddoti e la storia ufficiale della città?",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Le_piazze_di_Brescia_come_non_le_avete_mai_viste!",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "marzo.yaml": {
+          "title": "Marzo",
+          "id": "collapseMar",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "0",
+              "event-title": "Scopriamo il Castello di Brescia percorrendo la strada del soccorso",
+              "event-header1": "",
+              "event-header2": "Sabato 29/03",
+              "event-header3": "ore 14:45",
+              "event-header4": "",
+              "event-text": "Per chi si reca spesso in castello ma vorrebbe conoscere meglio la sua storia e la sua evoluzione e scoprire quella maledetta strada del Soccorso che per ben 2 volte ha portato i bresciani al massacro. Ricorrono in questi giorni le X Giornate di Brescia (23 marzo, 1 aprile 1849). In collaborazione con l’associazione Blu Balena",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Scopriamo_il_castello",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "menu": "Il Calendario",
+        "nav": "3",
+        "novembre.yaml": {
+          "title": "Novembre",
+          "id": "collapseNov",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "0",
+              "event-title": "Brescia Nascosta",
+              "event-header1": "Sabato 16/11",
+              "event-header2": "ore 14:30",
+              "event-header3": "Un tour del centro storico attraverso ricordi e sguardi di persone senza fissa dimora. Il tour è inusuale e permette di conoscere la città attraverso una prospettiva diversa il mio apporto è quello di complementare la visita guidata con riferimenti storico artistici puntuali.",
+              "event-header4": "<p>In collaborazione con :</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.centrosanclemente.it/livello-unico/corso-brixia-quando-in-citta-si-parlava-latino.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-centrosanclemente-h50.png\" alt=\"Centro San Clemente Link\"></a>",
+              "event-text": "",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_la_Brescia_Nascosta",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "1",
+              "event-title": "Per bresciani che vogliono conoscere il Museo di Santa Giulia",
+              "event-header1": "Domenica 24/11",
+              "event-header2": "ore 09:45",
+              "event-header3": " Avete mai pensato “tanto è qui vicino al Museo di Santa Giulia ci andrò più avanti”? Volete una visita guidata dei reperti più significativi e appropriarvi del vostro museo? ",
+              "event-header4": "Prenotate entro il 3 aprile",
+              "event-text": "",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_il_Museo_di_Santa_Giulia",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "ottobre.yaml": {
+          "title": "Ottobre",
+          "id": "collapseOct",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "0",
+              "event-title": "Quando in città si parlava latino",
+              "event-header1": "Sabato 04/10",
+              "event-header2": "dalle 15:00 alle 17:00",
+              "event-header3": "Per approfondire la conoscenza dell'antica Brixia esplorando ogni traccia del passato romano della città.",
+              "event-header4": "<p>In collaborazione con :</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.centrosanclemente.it/livello-unico/corso-brixia-quando-in-citta-si-parlava-latino.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-centrosanclemente-h50.png\" alt=\"Centro San Clemente Link\"></a>",
+              "event-text": "",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=latino",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "1",
+              "event-title": "Il Quartiere del Carmine come non lo avete mai visto",
+              "event-header1": "Domenica 05/10",
+              "event-header2": "ore 10:00",
+              "event-header3": "Un nuovo tour per raccontare l'origine medievale del Carmine e valorizzare le sue peculiarità che, una volta scoperte, non possono che farvi perdutamente innamorare della sua unicità.",
+              "event-header4": "Prenotate entro il 01 Ottobre",
+              "event-text": "",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=carmine",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "2",
+              "event-title": "Brescia Nascosta",
+              "event-header1": "Domenica 19/10",
+              "event-header2": "ore 14:30",
+              "event-header3": "Un tour di Via Milano attraverso ricordi e sguardi di persone senza fissa dimora. Il tour è inusuale e permette di conoscere la città attraverso una prospettiva diversa. il mio apporto è quello di complementare il racconto con riferimenti storico artistici sull'evoluzione del quartiere.",
+              "event-header4": "<p>Prenotabile su: </p><a class=\"text-reset text-decoration-none\" href=\"https://www.eventbrite.it/e/biglietti-brescia-nascosta-1359894363649\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-eventbrite-h50.png\" alt=\"Eventbrite Link\"></a>",
+              "event-text": "<p>In collaborazione con : </p> <a class=\"text-reset text-decoration-none\" href=\"https://www.fiopsd.org/perlar\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-perlar-h50.png\" alt=\"Perlar Link\"></a>",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_la_Brescia_Nascosta_ottobre",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "3",
+              "event-title": "All'attacco! Il castello di Brescia dalla Strada del soccorso",
+              "event-header1": "Sabbato 25/10",
+              "event-header2": "dalle 15:00 alle 17:00",
+              "event-header3": "Per scoprire tutto quello che c'è da sapere sul castello e sui 2 assedi che Brescia ha subito.",
+              "event-header4": "<p>In collaborazione con :</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.centrosanclemente.it/livello-unico/corso-brixia-quando-in-citta-si-parlava-latino.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-centrosanclemente-h50.png\" alt=\"Centro San Clemente Link\"></a>",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=castello_ottobre",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "pageTitle": "Calendario",
+        "settembre.yaml": {
+          "title": "Settembre",
+          "id": "collapseSep",
+          "collapse": "",
+          "collapse-class": "row my-2 justify-content-center collapse",
+          "events": [
+            {
+              "event-id": "2",
+              "event-title": "La Breccia di Porta Pia",
+              "event-header1": "Sabato 13/09",
+              "event-header2": "ore 10:00",
+              "event-header3": "Se non avete ancora visitato il Museo del Risorgimento e volete visitarlo con una guida abilitata, è il momento giusto, è l'anniversario della Breccia di Porta Pia 20 settembre 1870.",
+              "event-header4": "Prenotate entro il 09 settembre",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_la_Breccia_di_Porta_Pia",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "3",
+              "event-title": "Brescia Nascosta",
+              "event-header1": "Domenica 14/09",
+              "event-header2": "ore 14:30",
+              "event-header3": "Un tour del Quartiere del Carmine attraverso ricordi e sguardi di persone senza fissa dimora. Il tour è inusuale e permette di conoscere la città attraverso una prospettiva diversa. il mio apporto è quello di complementare il racconto con riferimenti storico artistici sull'evoluzione del quartiere.",
+              "event-header4": "<p>Prenotabile su: </p><a class=\"text-reset text-decoration-none\" href=\"https://www.eventbrite.it/e/biglietti-brescia-nascosta-1359894363649\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-eventbrite-h50.png\" alt=\"Eventbrite Link\"></a> <p>Tour ad offerta libera in collaborazione con : </p> <a class=\"text-reset text-decoration-none\" href=\"https://www.fiopsd.org/perlar\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-perlar-h50.png\" alt=\"Perlar Link\"></a>",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_la_Brescia_Nascosta",
+              "event-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "tabTitle": "Il calendario degli eventi - Maddalena Carnaghi - la mia guida di Brescia"
+      },
+      "contatti": {
+        "contatti.yaml": {
+          "id": "contatti",
+          "img-src": "qr.jpg",
+          "img-title": "Maddalena Carnaghi - La mia guida di Brescia - i miei contatti",
+          "img-alt": "Maddalena Carnaghi - La mia guida di Brescia - i miei contatti",
+          "subtitles": [
+            {
+              "subtitle-id": "1",
+              "subtitle-title": "Contattami!!!",
+              "subtitle-smallfont2": "<i class=\"px-3 fas fa-mobile-screen\"></i>+39 3477667008<br><br>"
+            },
+            {
+              "subtitle-id": "2",
+              "subtitle-title": "o scrivimi",
+              "subtitle-smallfont2": "<i class=\"px-3 fas fa-at\"></i>lamiaguidadibrescia@proton.me<br><br>"
+            },
+            {
+              "subtitle-id": "3",
+              "subtitle-title": "e non dimenticare di seguirmi",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/la.mia.guida.di.brescia/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-facebook\"></i></a>",
+              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/lamiaguidadibrescia/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-instagram\"></i></a>"
+            }
+          ]
+        },
+        "description.txt": "",
+        "icon": "envelope-open-text",
+        "menu": "Contatti",
+        "nav": "11",
+        "pageTitle": "I miei contatti",
+        "tabTitle": "Contatti - Maddalena Carnaghi - La mia guida di Brescia"
+      },
+      "evidenza": {
+        "2mila.yaml": {
+          "id": "2mila",
+          "title": "Duemila anni di storia e non sentirli",
+          "title2": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria.",
+          "subtitles": [
+            {
+              "subtitle-title": "Tanti aneddoti curiosi per scoprire la nostra città: si parte dal periodo romano e si arriva al 1932!",
+              "subtitle-smallfont1": "In collaborazione con l’associazione Blu Balena",
+              "subtitle-when": "Il percorso inizia domenica 08/12 ore 15:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Due_mila_anni",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "Khalid11.yaml": {
+          "id": "Khalid11",
+          "title": "Visita guidata alla mostra di Khalid Albaih",
+          "title2": "La stagione della migrazione a nord",
+          "subtitles": [
+            {
+              "subtitle-title": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
+              "subtitle-smallfont1": "<p>In collaborazione con:</p> <a class=\"text-reset text-decoration-none\" href=\"https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-emergency-h50.png\" alt=\"Emergency Link\"></a>",
+              "subtitle-when": "Il percorso inizia sabato 11/01 ore 14:30.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "Khalid12.yaml": {
+          "id": "Khalid12",
+          "title": "Visita guidata alla mostra di Khalid Albaih",
+          "title2": "La stagione della migrazione a nord",
+          "subtitles": [
+            {
+              "subtitle-title": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
+              "subtitle-smallfont1": "<p>In collaborazione con:</p> <a class=\"text-reset text-decoration-none\" href=\"https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-emergency-h50.png\" alt=\"Emergency Link\"></a>",
+              "subtitle-when": "Il percorso inizia domenica 12/01 ore 15:40.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "Khalid19.yaml": {
+          "id": "Khalid19",
+          "title": "Visita guidata alla mostra di Khalid Albaih",
+          "title2": "La stagione della migrazione a nord",
+          "subtitles": [
+            {
+              "subtitle-title": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
+              "subtitle-smallfont1": "<p>In collaborazione con:</p> <a class=\"text-reset text-decoration-none\" href=\"https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-emergency-h50.png\" alt=\"Emergency Link\"></a>",
+              "subtitle-when": "Il percorso inizia domenica 19/01 ore 15:30.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "Khalid22febbraio.yaml": {
+          "id": "Khalid22febbraio",
+          "title": "Ultima visita guidata alla mostra di Khalid Albaih \"la stagione della migrazione a nord\"",
+          "title2": "Ultimo appuntamento con una mostra che ci permette di riflettere sul nostro presente, attraverso i disegni sintetici ma potentissimi di Khalid Albaih",
+          "subtitles": [
+            {
+              "subtitle-when": "Sabato 22/02 ore 15:40.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "breccia.yaml": {
+          "id": "breccia",
+          "title": "La Breccia di Porta Pia",
+          "title2": "Visita guidata al Museo del Risorgimento di Brescia",
+          "subtitles": [
+            {
+              "subtitle-title": "Se non avete ancora visitato il Museo del Risorgimento e volete farlo con una guida, questo è il momento giusto, perché siamo vicini all'anniversario della Breccia di Porta Pia (20 settembre 1870)",
+              "subtitle-when": "Sabato 13 settembre ore 10:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Breccia",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "brescianascosta.yaml": {
+          "id": "brescianascosta",
+          "title": "Brescia Nascosta",
+          "title2": "Nuovi sguardi sul quartiere del Carmine",
+          "subtitles": [
+            {
+              "subtitle-title": "Un tour del Carmine attraverso ricordi e sguardi di persone senza fissa dimora accompagnati dai miei approfondimenti storico artistici. Tour ad offerta libera",
+              "subtitle-smallfont1": "<p>Pagina facebook:</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/share/p/15wE8cMuRF/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-facebook\"></i></a>",
+              "subtitle-smallfont2": "<p>Prenotabile su: </p><a class=\"text-reset text-decoration-none\" href=\"https://www.eventbrite.it/e/biglietti-brescia-nascosta-1359894363649\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-eventbrite-h50.png\" alt=\"Eventbrite Link\"></a>",
+              "subtitle-smallfont3": "<p>In collaborazione con : </p> <a class=\"text-reset text-decoration-none\" href=\"https://www.fiopsd.org/perlar\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-perlar-h50.png\" alt=\"Perlar Link\"></a>",
+              "subtitle-when": "Domenica 14 settembre ore 14:30.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Brescia_Nascosta",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "brescianascosta1910.yaml": {
+          "id": "brescianascosta1910",
+          "title": "Brescia Nascosta",
+          "title2": "Nuovi sguardi sul quartiere di Via Milano",
+          "subtitles": [
+            {
+              "subtitle-title": "Un tour del quartiere Fiumicello attraverso ricordi e sguardi di persone senza fissa dimora contestualizzati dai miei riferimenti storici. Tour ad offerta libera.",
+              "subtitle-smallfont1": "<p>Pagina facebook:</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/share/p/15wE8cMuRF/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-facebook\"></i></a>",
+              "subtitle-smallfont2": "<p>Prenotabile su: </p><a class=\"text-reset text-decoration-none\" href=\"https://www.eventbrite.it/e/biglietti-brescia-nascosta-1359894363649\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-eventbrite-h50.png\" alt=\"Eventbrite Link\"></a>",
+              "subtitle-smallfont3": "<p>In collaborazione con : </p> <a class=\"text-reset text-decoration-none\" href=\"https://www.fiopsd.org/perlar\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-perlar-h50.png\" alt=\"Perlar Link\"></a>",
+              "subtitle-when": "Domenica 19 ottobre ore 14:30.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Brescia_Nascosta_19_10",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "carmine.yaml": {
+          "id": "carmine",
+          "title": "Il Quartiere del Carmine come non lo avete mai visto",
+          "title2": "Per conoscere l'evoluzione del Quartiere: da quando, nel Medioevo, era la zona produttiva della città .....fino dall'oggi",
+          "subtitles": [
+            {
+              "subtitle-title": "Un nuovo tour per raccontare l'origine del Carmine e valorizzare le sue peculiarità che, una volta scoperte, non possono che farvi perdutamente innamorare della sua unicità.",
+              "subtitle-smallfont1": "<p>In collaborazione con : </p> <a class=\"text-reset text-decoration-none\" href=\"https://www.fiopsd.org/perlar\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-perlar-h50.png\" alt=\"Perlar Link\"></a>",
+              "subtitle-when": "Domenica 5 ottobre ore 10:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Carmine",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "castello.yaml": {
+          "id": "castello",
+          "title": "All'attacco! Il castello di Brescia dalla Strada del soccorso",
+          "title2": "Per comprendere, attraverso l'evoluzione del castello e le sue strutture di difesa, anche la storia della nostra città",
+          "subtitles": [
+            {
+              "subtitle-title": "Per scoprire tutto quello che c'è da sapere sul castello e sui due assedi che Brescia ha subito.",
+              "subtitle-smallfont1": "<p>In collaborazione con :</p> <a class=\"text-reset text-decoration-none\" href=\"ttps://www.centrosanclemente.it/livello-unico/corso-il-castello-di-brescia-dalla-strada-del-soccorso.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-centrosanclemente-h50.png\" alt=\"Centro San Clemente Link\"></a>",
+              "subtitle-when": "Sabato 25 ottobre dalle 15:00 alle 17:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Castello_di_Brescia",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "castello23.yaml": {
+          "id": "castello23",
+          "title": "Passeggiata in castello che ripercorre il percorso compiuto dagli imperiali durante il Sacco di Brescia",
+          "subtitles": [
+            {
+              "subtitle-title": "Il racconto dell'assalto del Castello dalla strada del soccorso, proprio come avvenne il 19 febbraio del 1512 (e come poi si è ripetuto nel 1849), quando i nemici della città portarono soccorso a chi assediava la città chiuso nelle mura del Falcone d'Italia",
+              "subtitle-when": "Domenica 23/02 ore 15:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Castello_di_Brescia",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "description.txt": "",
+        "icon": "highlighter",
+        "lamore9.yaml": {
+          "id": "lamore9",
+          "title": "Brescia e l'amore in ogni angolo",
+          "title2": "Visita guidata nel centro di Brescia raccontando, attraverso le storie d'amore, l'evoluzione storica della città",
+          "subtitles": [
+            {
+              "subtitle-title": "un san Valentino diverso!, un San Valentino made in Brescia!",
+              "subtitle-when": "Domenica 09/02 ore 10:30",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=l_amore",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "latino.yaml": {
+          "id": "latino",
+          "title": "Quando in città si parlava latino",
+          "title2": "Tutto quello che c'è da sapere sull'antica città romana",
+          "subtitles": [
+            {
+              "subtitle-title": "Per approfondire la conoscenza dell'antica Brixia: i resti degli apparati pubblici e la struttura dell'antico castrum",
+              "subtitle-smallfont1": "<p>In collaborazione con :</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.centrosanclemente.it/livello-unico/corso-brixia-quando-in-citta-si-parlava-latino.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-centrosanclemente-h50.png\" alt=\"Centro San Clemente Link\"></a>",
+              "subtitle-when": "Sabato 4 ottobre dalle 15:00 alle 17:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=latino",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "leonessa.yaml": {
+          "id": "leonessa",
+          "title": "Per scoprire il Museo: “La Leonessa d’Italia”",
+          "title2": "Visita con una guida turistica abilitata il Museo del Risorgimento",
+          "subtitles": [
+            {
+              "subtitle-title": "Se non avete ancora visitato il Museo del Risorgimento e volete visitarlo con una guida abilitata, fatevi avanti. Il Museo è ancora gratuito fino a dicembre per i residenti a Brescia. Prenotate entro il 1° dicembre.",
+              "subtitle-when": "Il percorso inizia domenica 08/12 ore 10:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=La_Leonessa_D'Italia",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "menu": "In evidenza",
+        "nav": "9",
+        "pageTitle": "In evidenza",
+        "santagiulia.yaml": {
+          "id": "santagiulia",
+          "title": "Per bresciani che vogliono conoscere il Museo di Santa Giulia",
+          "title2": "Visita con una guida abilitata il Museo di Santa Giulia",
+          "subtitles": [
+            {
+              "subtitle-title": "Avete mai pensato “tanto è qui vicino il Museo di Santa Giulia ci andrò più avanti”? Volete una visita guidata dei reperti più significativi e appropriarvi del vostro museo?",
+              "subtitle-smallfont-azzurrino": "Prenotate entro il 27 agosto",
+              "subtitle-when": "Sabato 30 agosto ore 10:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Santa_Giulia",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "tabTitle": "Itinerari in evidenza - Maddalena Carnaghi - La mia guida di Brescia",
+        "tiporto16.yaml": {
+          "id": "tiporto16",
+          "title": "Ti porto a Brescia!",
+          "title2": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria.",
+          "subtitles": [
+            {
+              "subtitle-title": "Visita per i non bresciani!",
+              "subtitle-when": "Domenica 16/02 ore 15:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Due_mila_anni",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "vittoriale.yaml": {
+          "id": "vittoriale",
+          "title": "Una domenica al Vittoriale",
+          "title2": "Nei 9 ettari del Parco del Vittoriale ogni pietra parla e racconta le gesta eroiche di Gabriele d'Annunzio: ascoltiamole insieme!",
+          "subtitles": [
+            {
+              "subtitle-title": "Dentro da questa triplice cerchia di mura, ove tradotto è già in pietre vive quel libro religioso ch'io mi pensai preposto ai riti della patria e dei vincitori latini chiamato Il Vittoriale",
+              "subtitle-when": "Domenica 31 agosto ore 10:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Vittoriale",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        }
+      },
       "guidaperte": {
-        "guidaESdfdkfkafsdfds.txt": "fsdlkfjasdlkfjsldfjslk fpsdifosdfo prutipurt",
-        "guidaESfdsiddddddeellle.txt": "fsdhlfshdlfsdjfkjsdlk",
-        "icon": "heart guida es icon",
-        "menu": "Casa guida es menu",
-        "nav": "1",
-        "title.txt": "La mia guia de Brescia - home guida es title"
-      },
-      "home": {
-        "homeESdfdkfkafsdfds.txt": "fsdlkfjasdlkfjsldfjslk fpsdifosdfo",
-        "homeESfdsiddddddeellle.txt": "fsdhlfshdlfsdjfkjsdlk",
-        "icon": "house popa test - home es icon",
-        "menu": "Casa home es menu",
+        "amiche.yaml": {
+          "id": "amiche",
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-title": "Le amiche, gli amici"
+            },
+            {
+              "subtitle-id": "1",
+              "subtitle-smallfont1": "<strong>Riccardo Ajossa</strong> – Artista",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.riccardoajossa.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.riccardoajossa.com</a>"
+            },
+            {
+              "subtitle-id": "2",
+              "subtitle-smallfont1": "<strong>Michele Beltrami</strong> – Artista",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"http://ilross9.wixsite.com/michelebeltrami\" target=\"_blank\" rel=\"noopener noreferrer\">ilross9.wixsite.com/michelebeltrami</a>",
+              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://youtu.be/NBPFGxtQrmM?si=1RgdM9Wl80sZnxd_\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-youtube\"></i></a>"
+            },
+            {
+              "subtitle-id": "3",
+              "subtitle-smallfont1": "<strong><strong>Vera Bugatti</strong> – Artista",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"http://www.verabugatti.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.verabugatti.it</a>"
+            },
+            {
+              "subtitle-id": "4",
+              "subtitle-smallfont1": "<strong>Monica Carrera</strong> – Artista",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.monicacarrera.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.monicacarrera.it</a>"
+            },
+            {
+              "subtitle-id": "5",
+              "subtitle-smallfont1": "<strong>Francesca Cecchi</strong> – Artista",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"http://www.francescachecchi.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.francescachecchi.com</a>",
+              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/francesca_checchi_artist?igsh=MW\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-instagram\"></i></a>"
+            },
+            {
+              "subtitle-id": "6",
+              "subtitle-smallfont1": "<strong>Francesca Conchieri</strong> – Artista",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"http://www.ruinascontemporaneas.it/Francesca%20Conchieri/index_francesca.html\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.ruinascontemporaneas.it/Francesca%20Conchieri/index_francesca.html</a>"
+            },
+            {
+              "subtitle-id": "7",
+              "subtitle-smallfont1": "<strong>Giada Crispiels</strong> – Artista e illustratrice",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.giadacrispiels.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.giadacrispiels.com</a>"
+            },
+            {
+              "subtitle-id": "8",
+              "subtitle-smallfont1": "<strong>Armida Gandini</strong> – Artista",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.armidagandini.it/arte\" target=\"_blank\" rel=\"noopener noreferrer\">www.armidagandini.it/arte</a>"
+            },
+            {
+              "subtitle-id": "9",
+              "subtitle-smallfont1": "<strong>Raffaella La Vena</strong> – Artista",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"http://www.raffaellalavena.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.raffaellalavena.com</a>"
+            },
+            {
+              "subtitle-id": "10",
+              "subtitle-smallfont1": "<strong>Paola Sabatti Bassini</strong> - Artista",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"http://www.sediacantastorie.eu\" target=\"_blank\" rel=\"noopener noreferrer\">www.sediacantastorie.eu</a>",
+              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"http://www.oino.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.oino.it</a>"
+            },
+            {
+              "subtitle-id": "11",
+              "subtitle-smallfont1": "<strong>Davide Sforzini</strong> – Artista",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/davide.sforzini.1\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-instagram\"></i></a>"
+            },
+            {
+              "subtitle-id": "12",
+              "subtitle-smallfont1": "<strong>Carolina Vallejo</strong> – Artista",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.artelatam.org/carolina-vallejo-3\" target=\"_blank\" rel=\"noopener noreferrer\">www.artelatam.org/carolina-vallejo-3</a>",
+              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://instagram.com/carovallejod?igsh=MXV3Nms\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-instagram\"></i></a>"
+            },
+            {
+              "subtitle-id": "13",
+              "subtitle-smallfont1": "<strong>Sara Monteverdi</strong> – Creatrice di cappelli",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/dariacappelli?igs=bnJuZjd1\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-instagram\"></i></a>",
+              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/cappellidaria\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-facebook\"></i></a>"
+            },
+            {
+              "subtitle-id": "14",
+              "subtitle-smallfont1": "<strong>Marina Rossi</strong> – Danzatrice, coreografa e formatrice",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.lelastiko.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.lelastiko.it</a>"
+            },
+            {
+              "subtitle-id": "15",
+              "subtitle-smallfont1": "<strong>Paola La Serra</strong> – Esperta in orientamento scolastico",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.paolalaserra.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.paolalaserra.com</a>"
+            },
+            {
+              "subtitle-id": "16",
+              "subtitle-smallfont1": "<strong>Maura Lo Presti</strong> – Gestore di locanda sull’alto Lago di Garda",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.locandagenzianella.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.locandagenzianella.it</a>"
+            },
+            {
+              "subtitle-id": "17",
+              "subtitle-smallfont1": "<strong>Davide Pagnano</strong> – Gestore di B&B vicino Roma e camminatore",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/momentoroma2020\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-facebook\"></i></a>"
+            },
+            {
+              "subtitle-id": "18",
+              "subtitle-smallfont1": "<strong>Antimio Deinei</strong> – Gestore pizzeria e ristorante a Brescia",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"www.lestropizzarestaurant.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.lestropizzarestaurant.it</a>"
+            },
+            {
+              "subtitle-id": "19",
+              "subtitle-smallfont1": "<strong>Tommaso Lunardi</strong> – Guida turistica a Lisbona - \"A Lisbona con Tommaso\"",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://facebook.com/tommaso.lunardi10\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-facebook\"></i></a>"
+            },
+            {
+              "subtitle-id": "20",
+              "subtitle-smallfont1": "<strong>Fausta Ranghetti</strong> – Operatrice zen shiatsu",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.shiatsueyoga.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.shiatsueyoga.it</a>"
+            }
+          ]
+        },
+        "associazioni.yaml": {
+          "id": "associazioni",
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-title": "Le associazioni e le fondazioni in cui mi rifletto"
+            },
+            {
+              "subtitle-id": "1",
+              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://www.carmebrescia.it\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-carme-h100.jpg\" alt=\"Logo CARME\"></a>",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.carmebrescia.it\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Associazione C.AR.M.E.</strong> - Centro Arti Multiculturali Etnosociali</a>",
+              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.carmebrescia.it\" target=\"_blank\" rel=\"noopener noreferrer\">www.carmebrescia.it</a>"
+            },
+            {
+              "subtitle-id": "2",
+              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://fondazioneberardelli.org/home.php\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-berardelli-h100c3.jpg\" alt=\"Logo Fondazione Berardelli\"></a>",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://fondazioneberardelli.org/home.php\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fondazione Berardelli</strong> - Fondazione dedicata alla Poesia Visiva</a>",
+              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://fondazioneberardelli.org/home.php\" target=\"_blank\" rel=\"noopener noreferrer\">https://fondazioneberardelli.org/home.php</a>"
+            },
+            {
+              "subtitle-id": "3",
+              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://www.fiopsd.org/perlar\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-perlar-h100.png\" alt=\"Logo Perlar\"></a>",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.fiopsd.org/perlar\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Associazione Perlar</strong> - Organizzazione che promuove  esperienze di relazione con le persone senza dimora</a>",
+              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.fiopsd.org/perlar\" target=\"_blank\" rel=\"noopener noreferrer\">www.fiopsd.org/perlar</a>",
+              "subtitle-smallfont4": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/associazioneperlar/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-instagram\"></i></a>",
+              "subtitle-smallfont5": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/associazioneperlar/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-facebook\"></i></a>"
+            },
+            {
+              "subtitle-id": "4",
+              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/_blubalena_?igsh=MXJkdWFnNnVhNHBsZw==\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-blubalena-h100.jpg\" alt=\"Logo Blu Balnea\"></a>",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/_blubalena_?igsh=MXJkdWFnNnVhNHBsZw==\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Associazione Blu Balena</strong> - Associzione culturale - benessere a 360° - olistico - arte - corsi - laboratori</a>",
+              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/_blubalena_?igsh=MXJkdWFnNnVhNHBsZw==\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-instagram\"></i></a>",
+              "subtitle-smallfont4": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/people/Blu-Balena/61550203606879\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-facebook\"></i></a>"
+            }
+          ]
+        },
+        "attraverso.yaml": {
+          "title": "Io attraverso gli altri",
+          "id": "attraverso",
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-smallfont1": "Nel mondo romano, l’individuo si definiva nella relazione con l’altro. Era la comunità che riconosceva la persona e la descriveva in base ai rapporti, alla fama e alle sue qualità. Questo modo di descriversi funziona ancora per me. Io sono le persone che scelgo per amiche, che stimo e che con orgoglio voglio che siano presenti qui, nella mia pagina, accanto a me. Così come i progetti a cui ho dato origine o a cui ho contribuito e le associazioni, le fondazioni a cui, con consapevolezza, assumo di voler far parte."
+            }
+          ]
+        },
+        "collaborazioni.yaml": {
+          "id": "collaborazioni",
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-title": "Le mie collaborazioni"
+            },
+            {
+              "subtitle-id": "1",
+              "subtitle-smallfont1": "<strong>Riccardo Ajossa</strong> – Artista",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.riccardoajossa.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.riccardoajossa.com</a>"
+            }
+          ]
+        },
+        "guidaperte.yaml": {
+          "id": "guidaperte",
+          "img-alt": "Maddalena Carnaghi - Guida turistica abilitata di Brescia e del lago di Garda e Iseo - La mia guida di Brescia - una guida per te",
+          "img-src": "unaguidaperte.jpg",
+          "img-title": "Maddalena Carnaghi - Guida turistica abilitata di Brescia e del lago di Garda e Iseo - La mia guida di Brescia - una guida per te",
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-smallfont1": "Mi Chiamo Maddalena, ho vissuto tanti anni all’estero e, da quando sono tornata, ho riscoperto ancora di più la bellezza della mia città, Brescia, e dei suoi meravigliosi laghi: Il Lago di Garda e Il Lago d’Iseo. Sono guida turistica abilitata dal 2011 e, da allora, amo condividere la bellezza, le curiosità, la storia di Brescia con tutti coloro che vengono in visita. Sono laureata in storia dell’arte e sono insegnante di italiano e storia a scuola, per cui le mie guide sono un perfetto mix di interazione, di aneddoti curiosi capaci di rendere le spiegazioni frizzanti. Spesso le persone che accompagno in tour mi dicono che trasmetto una grande passione. In effetti, è un lavoro che amo molto. Soprattutto, mi piace creare itinerari ad hoc per ogni persona e graduare il percorso in base alle esigenze o volontà di chi visita. Si possono fare tanti itinerari diversi: da quelli più turistici, a quelli più curiosi, così come ci si può rivolgere ad esperti d’arte e di storia o bambini. il mio lavoro è proprio quello: trovare la formula giusta per voi!",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Una_guida_per_te",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "icon": "heart",
+        "menu": "Una guida per te",
         "nav": "2",
-        "title.txt": "La mia guia de Brescia - home es title"
+        "pageTitle": "Una guida per te!",
+        "progetti.yaml": {
+          "id": "progetti",
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-title": "I Progetti che ho creato o a cui ho preso parte"
+            },
+            {
+              "subtitle-id": "1",
+              "subtitle-smallfont1": "<strong>Connaturata</strong> - cura della Mostra di <strong>Riccardo Ajossa</strong> e catalogo, Brescia 2023",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.youtube.com/watch?v=UD0uhXruaGw\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-youtube\"></i>Riccardo Ajossa Opening of Connaturata Solo Show Brescia April 2023</a>",
+              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.lacompagniamassetti.it/shop/arte/connaturata\" target=\"_blank\" rel=\"noopener noreferrer\">Link alla pagina dedicata della <strong>Compagnia della Stampa</strong></a>"
+            },
+            {
+              "subtitle-id": "2",
+              "subtitle-smallfont1": "<strong>Segni, scritture e immagini. Opere e libri d’artista. Mostra antologica</strong> – cura della Mostra di <strong>Fernanda Fedi e Gino Gini</strong> e catalogo, Brescia 2023",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.fernandafedi.it/2023/11/21/segni-scritture-e-immagini-opere-e-libri-dartista-mostra-antologica-fondazione-berardelli-25-novembre-2023\" target=\"_blank\" rel=\"noopener noreferrer\">Link alla pagina dedicata dal sito di <strong>Fernanda Fedi</strong></a>",
+              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.artribune.com/mostre-evento-arte/gino-gini-fernanda-fedi\" target=\"_blank\" rel=\"noopener noreferrer\">Link alla pagina dedicata dal sito <strong>Artribune</strong></a>"
+            },
+            {
+              "subtitle-id": "3",
+              "subtitle-smallfont1": "<strong>Letture Sottese</strong> - cura della Mostra di <strong>Vito Capone</strong>, Roma 2019",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.youtube.com/watch?v=UD0uhXruaGw\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-youtube\"></i>STUDIO ARTE FUORI CENTRO - VITO CAPONE - \"letture sottese\"</a>"
+            },
+            {
+              "subtitle-id": "4",
+              "subtitle-smallfont1": "<strong>Rigorosamente libri</strong> - collaborazione alla Mostra di libri d’artista e al catalogo, Foggia 2019",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.youtube.com/watch?v=55xWxmvGru8\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-youtube\"></i>Rigorosamente Libri 2019 | IV edizione</a>"
+            },
+            {
+              "subtitle-id": "5",
+              "subtitle-smallfont1": "<strong>TraCarte6, avanguardie artistiche del ‘900</strong> -  cura della Mostra e catalogo, Foggia 2015",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.youtube.com/watch?v=cIPQBz3Tf2I\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-youtube\"></i>TraCarte 6, avanguardie artistiche del Novecento</a>"
+            },
+            {
+              "subtitle-id": "6",
+              "subtitle-smallfont1": "<strong>Rigorosamente libri</strong> - cocura della Mostra di libri d’artista e catalogo, Foggia 2014",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.youtube.com/watch?v=wSBVH8SaDrA\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-youtube\"></i>Rigorosamente libri 2014</a>"
+            },
+            {
+              "subtitle-id": "7",
+              "subtitle-smallfont1": "<strong>Proyecto Penone</strong> - collaborazione alla Mostra di <strong>Giuseppe Penone</strong> e creazione dell’attività didattica, Quito 2009",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.youtube.com/watch?v=k1fpRXaZuIU\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"ps-4 pe-2 fa-brands fa-youtube\"></i>Arte Italiana a Quito/ Quito Latino</a>",
+              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.elcomercio.com/actualidad/penone-llega-vez-primera-ecuador.html\" target=\"_blank\" rel=\"noopener noreferrer\">Articolo su <strong>El Comercio</strong></a>"
+            },
+            {
+              "subtitle-id": "8",
+              "subtitle-smallfont1": "<strong>Poesia Visiva VS Fluxus</strong> - collaborazione alla Mostra, Brescia 2013",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://bsnews.it/2013/02/24/poesia-visiva-e-fluxus-gli-anni-60-e-70-alla-fondazione-berardelli\" target=\"_blank\" rel=\"noopener noreferrer\">Articolo su <strong>Bs News</strong></a>"
+            },
+            {
+              "subtitle-id": "9",
+              "subtitle-smallfont1": "<strong>Sprintpoem</strong> – collaborazione alla Mostra di <strong>Lucia Marcucci</strong>, Brescia 2013",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://ocrablog.blogspot.com/2012/05/lucia-marcucci-sprintpoem-fondazione.html\" target=\"_blank\" rel=\"noopener noreferrer\">Articolo su <strong>Ocrablog</strong></a>"
+            }
+          ]
+        },
+        "tabTitle": "Una guida turistica abilitata di Brescia e del lago di Garda e Iseo per te"
       },
-      "testguidaperte": {
-        "guidaESdfdkfkafsdfds.txt": "fsdlkfjasdlkfjsldfjslk fpsdifosdfo prutipurt",
-        "guidaESfdsiddddddeellle.txt": "fsdhlfshdlfsdjfkjsdlk",
-        "icon": "heart guida es icon",
-        "menu": "Casa guida es menu",
-        "nav": "0",
-        "prut.txt": "",
-        "title.txt": "La mia guia de Brescia - home guida es title"
-      }
-    },
-    "gb": {
       "home": {
-        "nav": "0",
-        "popino.txt": "prut prut",
-        "sample.json": {
-          "glossary": {
-            "title": "example glossary",
-            "GlossDiv": {
-              "title": "S",
-              "GlossList": {
-                "GlossEntry": {
-                  "ID": "SGML",
-                  "SortAs": "SGML",
-                  "GlossTerm": "Standard Generalized Markup Language",
-                  "Acronym": "SGML",
-                  "Abbrev": "ISO 8879:1986",
-                  "GlossDef": {
-                    "para": "A meta-markup language, used to create markup languages such as DocBook.",
-                    "GlossSeeAlso": [
-                      "GML",
-                      "XML"
-                    ]
-                  },
-                  "GlossSee": "markup"
-                }
-              }
+        "calendario.yaml": {
+          "id": "calendario",
+          "img-alt": "Orologio di Piazza della Loggia - Visita guidata di Piazza Loggia - Maddalena Carnaghi - La mia guida di Brescia - calendario",
+          "img-src": "home_calendario.jpg",
+          "img-title": "Orologio di Piazza della Loggia - Visita guidata di Piazza Loggia - Maddalena Carnaghi - La mia guida di Brescia - calendario",
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-link": "calendario",
+              "subtitle-link-text": "unisciti a noi!",
+              "subtitle-smallfont1": "Organizzo tour con piccoli gruppi per scoprire, divertendosi, particolari inediti della città e della ricchissima provincia"
             }
-          }
+          ],
+          "title": "Il calendario",
+          "vlinks": []
         },
-        "stupido.json": {
-          "menu": {
-            "id": "file",
-            "value": "File",
-            "popup": {
-              "menuitem": [
-                {
-                  "value": "New",
-                  "onclick": "CreateNewDoc()"
-                },
-                {
-                  "value": "Open",
-                  "onclick": "OpenDoc()"
-                },
-                {
-                  "value": "Close",
-                  "onclick": "CloseDoc()"
-                }
-              ]
+        "contatti.yaml": {
+          "title": "Contatti",
+          "id": "contatti",
+          "img-alt": "Santa Maria in Solario. Reimpiego in facciata di una lastra romana - Visita guidata del Museo di Santa Giulia - Maddalena Carnaghi - La mia guida di Brescia - contatti",
+          "img-src": "home_contatti.jpg",
+          "img-title": "Santa Maria in Solario. Reimpiego in facciata di una lastra romana - Visita guidata del Museo di Santa Giulia - Maddalena Carnaghi - La mia guida di Brescia - contatti",
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-smallfont-azzurrino": "<strong>Contattami!!!</strong>",
+              "subtitle-smallfont1": "<i class=\"px-3 fas fa-mobile-screen\"></i>+39 3477667008"
+            },
+            {
+              "subtitle-id": "1",
+              "subtitle-smallfont-azzurrino": "<strong>o scrivimi!!!</strong>",
+              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"mailto:lamiaguidadibrescia@proton.me\"><i class=\"px-3 fas fa-at\"></i>lamiaguidadibrescia@proton.me</a>"
+            },
+            {
+              "subtitle-id": "2",
+              "subtitle-smallfont-azzurrino": "<strong>non dimenticare di seguirmi</strong>",
+              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/la.mia.guida.di.brescia\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-facebook\"></i></a><a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/lamiaguidadibrescia/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-instagram\"></i></a>"
+            },
+            {
+              "subtitle-id": "3",
+              "subtitle-smallfont-azzurrino": "<strong>e se vuoi lasciami una recensione su google</strong>",
+              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/8CbmjNv\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"></i>\"Un percorso tra le vie di Brescia, un tuffo nella storia e nelle storie d'amore e di passioni travolgenti! Maddalena è una guida preparata e competente e il suo plus è il taglio squisitamente ironico che sa dare alla narrazione! Un' ora e mezza, o poco più, piacevole e avvincente! Bravissima...\"</a>"
+            },
+            {
+              "subtitle-id": "4",
+              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/dmzGXZu\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"></i>\"Abbiamo fatto una visita con alcune amiche alla mostra \"Finché non saremo libere\" e Maddalena ci ha guidate tra i particolari, la storia e le motivazioni di una serie di artiste iraniane. Essendo una mostra collettiva, le informazioni da recepire erano tante ed è difficile prepararsi per riuscire a cogliere la complessità del percorso. Maddalena è stata attenta ai nostri bisogni, coinvolgente nelle spiegazioni e completa nel raccontarci background e specificità di ogni artista e opera… cos’altro si può chiedere? grazie Maddalena di tutti i pensieri e spunti per la riflessione! Consigliatissima!\"</a>"
+            },
+            {
+              "subtitle-id": "5",
+              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/DXyVphv\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"></i>\"Con Maddalena abbiamo percorso le vie di Brescia sulle tracce delle figure femminili protagoniste della Resistenza nella nostra città…..un argomento veramente interessante e poco divulgato! Maddalena invece conosce e sa trasmettere nei dettagli le storie appassionanti di queste donne, coinvolgendoci ed emozionandoci. Ripeterei senza dubbio l’esperienza.\"</a>"
+            },
+            {
+              "subtitle-id": "6",
+              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/C9Y7qMC\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"></i>\"Ho contattato Maddalena in occasione di una visita a Brescia, eravamo in un gruppo di famiglie con bambini di quinta elementare e volevamo qualcuno che ci costruisse un itinerario a tema \"romani\" adatto anche ai bambini. Maddalena è stata disponibilissima, simpatica e molto preparata. Ci ha dato anche ottimi consigli su dove pranzare, parcheggiare, prendere i biglietti ecc. e ha fatto apprezzare a tutti, grandi e piccoli, la sua bella città!\"</a>"
+            },
+            {
+              "subtitle-id": "7",
+              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/A2t89Af\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"></i>\"Maddalena ha guidato la mia classe di un Istituto Tecnico a Sirmione. Nonostante arrivassimo da una mattina impegnativa a Verona, è stata capace di coinvolgere i ragazzi fin da subito nella spiegazione, imparando velocemente i loro nomi e stimolandoli con frequenti domande. Abbiamo apprezzato tutti la sua preparazione e la sua simpatia! Consiglio caldamente di rivolgersi a lei!!\"</a>"
+            },
+            {
+              "subtitle-id": "8",
+              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/gnX35PX\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"></i>\"Maddalena ci ha accompagnate nella visita del Santa Giulia e del parco archeologico romano. Attraverso un percorso descrittivo molto interessante e ricco di particolari e curiosità, ci ha fatto scoprire cose nuove e non note, nonostante tutte noi conoscessimo già i luoghi. Professionale, simpatica e a disposizione a seconda delle curiosità personali, consiglio vivamente Maddalena per un percorso guidatato, vista la sua conoscenza approfondita e la sua disponibilità .\"</a>"
+            },
+            {
+              "subtitle-id": "9",
+              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/s7xdnx2\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"></i>\"Ho avuto il piacere di ascoltare Maddalena in due occasioni diverse: con amici per la visita a Brescia antica e con la famiglia per una guida alla Pinacoteca. Maddalena è molto appassionata della sua città e mai banale. È stato un piacere averla come cicerone!\"</a>"
             }
-          }
+          ]
+        },
+        "evidenza.yaml": {
+          "title": "In evidenza",
+          "id": "evidenza",
+          "title2": "<em>Le proposte legate al mese:</em>",
+          "img-alt": "Visita guidata del Castello di Brescia - Itinerario turistico del Falcone d'Italia - Tour di Brescia - Maddalena Carnaghi - La mia guida di Brescia - in evidenza",
+          "img-src": "home_inevidenza.jpg",
+          "img-title": "Visita guidata del Castello di Brescia - Itinerario turistico del Falcone d'Italia - Tour di Brescia - Maddalena Carnaghi - La mia guida di Brescia - in evidenza",
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-title": "Per bresciani che vogliono conoscere il Museo di Santa Giulia",
+              "subtitle-link": "evidenza#santagiulia",
+              "subtitle-link-text": "per saperne di più",
+              "subtitle-smallfont1": "Sabato 30 agosto ore 10:00"
+            },
+            {
+              "subtitle-id": "1",
+              "subtitle-title": "Una domenica al Vittoriale",
+              "subtitle-link": "evidenza#vittoriale",
+              "subtitle-link-text": "per saperne di più",
+              "subtitle-smallfont1": "Domenica 31 agosto ore 10:00"
+            },
+            {
+              "subtitle-id": "2",
+              "subtitle-title": "La Breccia di Porta Pia",
+              "subtitle-link": "evidenza#breccia",
+              "subtitle-link-text": "per saperne di più",
+              "subtitle-smallfont1": "Sabato 13 settembre ore 10:00"
+            },
+            {
+              "subtitle-id": "3",
+              "subtitle-title": "Brescia Nascosta - Carmine",
+              "subtitle-link": "evidenza#brescianascosta",
+              "subtitle-link-text": "per saperne di più",
+              "subtitle-smallfont1": "Domenica 14 settembre ore 14:30"
+            },
+            {
+              "subtitle-id": "4",
+              "subtitle-title": "Quando in città si parlava latino",
+              "subtitle-link": "evidenza#latino",
+              "subtitle-link-text": "per saperne di più",
+              "subtitle-smallfont1": "Sabato 4 ottobre dalle 15:00 alle 17:00"
+            },
+            {
+              "subtitle-id": "5",
+              "subtitle-title": "Il Quartiere del Carmine come non lo avete mai visto",
+              "subtitle-link": "evidenza#carmine",
+              "subtitle-link-text": "per saperne di più",
+              "subtitle-smallfont1": "Domenica 5 ottobre ore 10:00"
+            },
+            {
+              "subtitle-id": "3",
+              "subtitle-title": "Brescia Nascosta - via Milano",
+              "subtitle-link": "evidenza#brescianascosta1910",
+              "subtitle-link-text": "per saperne di più",
+              "subtitle-smallfont1": "Domenica 19 ottobre ore 14:30"
+            },
+            {
+              "subtitle-id": "6",
+              "subtitle-title": "All'attacco! Il castello di Brescia dalla Strada del soccorso",
+              "subtitle-link": "evidenza#castello",
+              "subtitle-link-text": "per saperne di più",
+              "subtitle-smallfont1": "Sabato 25 ottobre dalle 15:00 alle 17:00"
+            }
+          ]
+        },
+        "guidaperte.yaml": {
+          "title": "Una guida per te",
+          "id": "guidaperte",
+          "img-alt": "Maddalena Carnaghi - Guida turistica abilitata di Brescia e del lago di Garda e Iseo - La mia guida di Brescia - una guida per te",
+          "img-src": "home_guidaperte.jpg",
+          "img-title": "Maddalena Carnaghi - Guida turistica abilitata di Brescia e del lago di Garda e Iseo - La mia guida di Brescia - una guida per te",
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-link": "guidaperte",
+              "subtitle-link-text": "la tua guida di Brescia",
+              "subtitle-smallfont1": "Mi chiamo Maddalena, sono una guida turistica abilitata, amo accompagnare le persone a scoprire la mia Brescia! Mi piace mostrare la città a chi la vede per la prima volta e intende capirla con la mediazione di chi l’ha studiata a lungo e la vive, ma mi rivolgo anche ai bresciani che intendono riscoprirla. Ci sono ancora molte storie curiose da raccontare e si può trovare una formula inedita e per nulla noiosa!"
+            }
+          ]
+        },
+        "icon": "house",
+        "img-carousel.yaml": {
+          "id": "imageCarousel",
+          "items": [
+            {
+              "item-id": "0",
+              "item-img-alt": "Visita guidata del Lago d'Iseo - Tour del Lago d'Iseo - itinerari guidati di Iseo",
+              "item-img-src": "home_img_iseobarca_scaled.jpg",
+              "item-img-title": "Visita guidata del Lago d'Iseo - Tour del Lago d'Iseo - itinerari guidati di Iseo",
+              "item-link": "itinerarilaghi#iseo",
+              "item-link-text": "Scopri di più - Itinerari sul lago d'Iseo",
+              "item-title": "Lago d'Iseo"
+            },
+            {
+              "item-id": "1",
+              "item-img-alt": "Visita guidata di Brescia romana - Itinerario turistico del Parco Archeologico di Brixia - Tempio Capitolino",
+              "item-img-src": "home_img_parcoarcheologico_scaled.jpg",
+              "item-img-title": "Visita guidata di Brescia romana - Itinerario turistico del Parco Archeologico di Brixia - Tempio Capitolino",
+              "item-link": "itinerariclassici#parcoarcheologico",
+              "item-link-text": "Scopri di più - Visita al Parco Archeologico",
+              "item-title": "Brescia, Parco Archeologico"
+            },
+            {
+              "item-id": "2",
+              "item-img-alt": "Visita guidata di Piazza Loggia - Itinerari guidati di Brescia - Tour delle piazze di Brescia",
+              "item-img-src": "home_img_piazzebrescia_scaled.jpg",
+              "item-img-title": "Visita guidata di Piazza Loggia - Itinerari guidati di Brescia - Tour delle piazze di Brescia",
+              "item-link": "itinerariclassici#piazze",
+              "item-link-text": "Scopri di più - Visita alle piazze della città",
+              "item-title": "Brescia, Piazza Loggia"
+            },
+            {
+              "item-id": "3",
+              "item-img-alt": "Visita guidata Museo di Santa Giulia - Santa Maria in Solario - Croce di Desiderio",
+              "item-img-src": "home_img_santagiulia_scaled.jpg",
+              "item-img-title": "Visita guidata Museo di Santa Giulia - Santa Maria in Solario - Croce di Desiderio",
+              "item-link": "itinerariclassici#santagiulia",
+              "item-link-text": "Scopri di più - Visita a Santa Giulia",
+              "item-title": "Santa Maria in solario"
+            },
+            {
+              "item-id": "4",
+              "item-img-alt": "Vera Bugatti Parco dell'acqua",
+              "item-img-src": "home_img_verabugatti2_scaled.jpg",
+              "item-img-title": "Vera Bugatti Parco dell'acqua",
+              "item-link": "itinerariclassici#piazze",
+              "item-link-text": "Scopri di più - Visita alle piazze della città",
+              "item-title": "Dipinto di Vera Bugatti - Parco dell'acqua"
+            },
+            {
+              "item-id": "5",
+              "item-img-alt": "Visita guidata di Brescia romana - Itinerario turistico del Parco Archeologico di Brixia - Tempio Capitolino",
+              "item-img-src": "home_img_parcoarcheologico_scaled.jpg",
+              "item-img-title": "Visita guidata di Brescia romana - Itinerario turistico del Parco Archeologico di Brixia - Tempio Capitolino",
+              "item-link": "itinerariclassici#parcoarcheologico",
+              "item-link-text": "Scopri di più - Visita al Parco Archeologico",
+              "item-title": "Brescia, Parco Archeologico"
+            },
+            {
+              "item-id": "6",
+              "item-img-alt": "Visita guidata di Piazza Loggia - Itinerari guidati di Brescia - Tour delle piazze di Brescia",
+              "item-img-src": "home_img_piazzebrescia_scaled.jpg",
+              "item-img-title": "Visita guidata di Piazza Loggia - Itinerari guidati di Brescia - Tour delle piazze di Brescia",
+              "item-link": "itinerariclassici#piazze",
+              "item-link-text": "Scopri di più - Visita alle piazze della città",
+              "item-title": "Brescia, Piazza Loggia"
+            },
+            {
+              "item-id": "7",
+              "item-img-alt": "Visita guidata di Sirmione - Tour di Sirmione - Scopri Sirmione",
+              "item-img-src": "home_img_sirmione_scaled.jpg",
+              "item-img-title": "Visita guidata di Sirmione - Tour di Sirmione - Scopri Sirmione",
+              "item-link": "itinerarilaghi#sirmione",
+              "item-link-text": "Scopri di più - Visita a Sirmione",
+              "item-title": "Sirmione"
+            },
+            {
+              "item-id": "8",
+              "item-img-alt": "Visita guidata di Desenzano - Tour di Desenzano - Scopri Desenzano",
+              "item-img-src": "home_img_desenzano_scaled.jpg",
+              "item-img-title": "Visita guidata di Desenzano - Tour di Desenzano - Scopri Desenzano",
+              "item-link": "itinerarilaghi#desenzano",
+              "item-link-text": "Scopri di più - Visita a Desenzano",
+              "item-title": "Desenzano"
+            }
+          ]
+        },
+        "itinerari.yaml": {
+          "title": "Gli itinerari",
+          "id": "itinerari",
+          "img-alt": "Piede della Vittoria Alata - Visita guidata di Brescia romana/itinerario turistico del Parco Archeologico di Brixia/Tempio Capitolino - Maddalena Carnaghi - La mia guida di Brescia gli - itinerari",
+          "img-src": "home_itinerari.jpg",
+          "img-title": "Piede della Vittoria Alata - Visita guidata di Brescia romana/itinerario turistico del Parco Archeologico di Brixia/Tempio Capitolino - Maddalena Carnaghi - La mia guida di Brescia gli - itinerari",
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-smallfont1": "Brescia, la mia città, e i laghi che la circondano, si prestano a diversi tipi di visite guidate, scoprite con me:"
+            }
+          ],
+          "vlinks": [
+            {
+              "vlink-id": "0",
+              "vlink-link": "itinerariclassici",
+              "vlink-text": "gli itinerari <strong>classici</strong>"
+            },
+            {
+              "vlink-id": "1",
+              "vlink-link": "itinerarididattici",
+              "vlink-text": "gli itinerari <strong>didattici</strong>"
+            },
+            {
+              "vlink-id": "2",
+              "vlink-link": "itineraritema",
+              "vlink-text": "gli itinerari <strong>a tema</strong>"
+            },
+            {
+              "vlink-id": "3",
+              "vlink-link": "itineraristorici",
+              "vlink-text": "gli itinerari <strong>storici</strong>"
+            },
+            {
+              "vlink-id": "4",
+              "vlink-link": "itinerarilaghi",
+              "vlink-text": "gli itinerari <strong>dei laghi</strong>"
+            }
+          ]
+        },
+        "menu": "Home",
+        "nav": "1",
+        "pageTitle": "La mia guida di Brescia",
+        "preparazione.yaml": {
+          "title2": "<em>In preparazione:</em>",
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-smallfont1": "avete mai immaginato che anche da Brescia partirono coloro che divennero i guardiani del Santo Sepolcro? Vuoi scoprire dove si ritrovavano e cosa facevano a Brescia?",
+              "subtitle-title": "I Templari"
+            },
+            {
+              "subtitle-id": "1",
+              "subtitle-smallfont1": "stanche che il racconto sia sempre qualcosa di riferito da altri? Vi piacciono le fonti dirette e volete conoscere donne che hanno vissuto a Brescia e lo hanno raccontato? Storie incredibili vi attendono!",
+              "subtitle-title": "Le donne raccontate dalle donne"
+            },
+            {
+              "subtitle-id": "2",
+              "subtitle-smallfont1": "e se vi dicessi che una piazza bresciana è stata completamente allagata per giocare ad una battaglia navale? E  se raccontassi del palio e delle giostre medievali? E del passaggio di re e di regine?",
+              "subtitle-title": "I luoghi e i momenti delle feste"
+            }
+          ]
+        },
+        "regalaunavisita-collapse.yaml": {
+          "collapse": "collapse",
+          "collapse-class": "row my-5 justify-content-center collapse collapseregalo",
+          "id": "collapseregalo",
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-smallfont-azzurrino": "<strong>Regalate un buono per le mie visite guidate</strong>",
+              "subtitle-smallfont1": "Il buono minimo corrisponde alla partecipazione a due tour ovvero 16 euro (8 euro + 8 euro) ma si può regalare anche un tour in esclusiva..parliamone!"
+            },
+            {
+              "subtitle-id": "1",
+              "subtitle-smallfont-azzurrino": "<strong>Scegliete l’itinerario ed è fatta</strong>",
+              "subtitle-smallfont1": "Cliccate sul link di seguito e scegliete il tour che più preferite e poi ci sentiamo e prepariamo un regalo ad hoc per la persona cara!"
+            }
+          ],
+          "vlinks": [
+            {
+              "vlink-id": "0",
+              "vlink-link": "itinerariclassici",
+              "vlink-text": "gli itinerari <strong>classici</strong>"
+            },
+            {
+              "vlink-id": "1",
+              "vlink-link": "itinerarididattici",
+              "vlink-text": "gli itinerari <strong>didattici</strong>"
+            },
+            {
+              "vlink-id": "2",
+              "vlink-link": "itineraritema",
+              "vlink-text": "gli itinerari <strong>a tema</strong>"
+            },
+            {
+              "vlink-id": "3",
+              "vlink-link": "itineraristorici",
+              "vlink-text": "gli itinerari <strong>storici</strong>"
+            },
+            {
+              "vlink-id": "4",
+              "vlink-link": "itinerarilaghi",
+              "vlink-text": "gli itinerari <strong>dei laghi</strong>"
+            }
+          ]
+        },
+        "regalaunavisita-collapse2.yaml": {
+          "collapse": "collapse",
+          "collapse-class": "row my-5 justify-content-center collapse collapseregalo",
+          "id": "collapseregalo2",
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-smallfont1": "Se non avete le idee ben chiare, non vi preoccupate! Scrivetemi una mail raccontandomi quali sono i vostri desideri e vi aiuterò a trovare il regalo perfetto per l’occasione."
+            },
+            {
+              "subtitle-id": "1",
+              "subtitle-link": "mailto:lamiaguidadibrescia@proton.me?subject=Contattami_per_regalare_una_visita",
+              "subtitle-link-text": "Contattami per regalare una visita",
+              "subtitle-smallfont1": "I buoni non hanno scadenza anche se meglio non far passare decenni!"
+            }
+          ]
+        },
+        "regalaunavisita.yaml": {
+          "title": "Regala una visita",
+          "buttons": [
+            {
+              "button-smallfont": "Se anche voi non sopportate più i regali preconfezionati, donate un’esperienza! \n Possiamo creare insieme il regalo perfetto per un compleanno, anniversario, laurea, festa della mamma, del papa’, dei nonni o per qualsiasi evento speciale.",
+              "button-target": "collapseregalo",
+              "button-text": "Scopri di più"
+            }
+          ],
+          "id": "regalaunavisita",
+          "img-alt": "Visita guidata della rocca di Sirmione - Itinerario turistico del castello scaligero - Tour di Sirmione - Maddalena Carnaghi - La mia guida di Brescia - regala una visita",
+          "img-src": "home_regalaunavisita.jpg",
+          "img-title": "Visita guidata della rocca di Sirmione - Itinerario turistico del castello scaligero - Tour di Sirmione - Maddalena Carnaghi - La mia guida di Brescia - regala una visita"
+        },
+        "tabTitle": "Maddalena Carnaghi - La mia guida di Brescia - Una guida per te"
+      },
+      "itinerariclassici": {
+        "description.txt": "",
+        "icon": "landmark-dome",
+        "itinerariclassici.yaml": {
+          "id": "itinerariclassici",
+          "title": "Brescia,",
+          "title2": "il modo migliore per conoscerla",
+          "itineraries": [],
+          "subtitles": [
+            {
+              "subtitle-id": "0",
+              "subtitle-title": "Itinerari classici ma per niente noiosi",
+              "subtitle-smallfont1": "Brescia, la mia città, si presta a diversi tipi di visite guidate. Scopri con me i tour di mezza giornata o di una giornata intera itinerari storici tra il Castello e il centro della città, visite guidate al Parco archeologico e al Museo di Santa Giulia."
+            }
+          ],
+          "vlinks": []
+        },
+        "menu": "Gli itinerari classici",
+        "nav": "4",
+        "pageTitle": "Itinerari classici ",
+        "parcoarcheologico.yaml": {
+          "id": "parcoarcheologico",
+          "title": "Brescia",
+          "title2": "Visita al Parco Archeologico di Brixia e Vittoria Alata",
+          "subtitle": "il Secondo Stile pompeiano meglio conservato nel nord d'Italia ",
+          "img-src": "brescia_it_parcoarcheologico.jpg",
+          "img-alt": "Itinerari classici - Visita al Parco Archeologico di Brixia e Vittoria Alata - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari classici - Visita al Parco Archeologico di Brixia e Vittoria Alata - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1 ora",
+          "itinerary-type": "tutti!",
+          "itinerary-content": "Piazza Foro, Piazza Paolo VI, Piazza Loggia e Piazza Vittoria",
+          "itinerary-description": "Il Parco comprende la visita alla cella di un tempio di età Repubblicana perfettamente conservata; il podio e il pavimento del Tempio di età Flavia, la visita alla Vittoria alata, la visita al primigenio Museo Patrio e il teatro.",
+          "itinerary-monument": "un autentico viaggio nel tempo! Si parte proprio da un video che porta indietro nel tempo e, in 4 minuti, illustra l’evoluzione che ha avuto questo luogo che è sempre stato considerato il centro sacro della città, ancor prima dell’arrivo dei romani. Si visita una cella di un tempio di età Repubblicana, davvero un ritrovamento eccezionale per il Nord d’Italia e che dimostra la precocissima romanizzazione della zona. Ci si reca poi nella sala, recentemente ripensata per valorizzare il tesoro che custodisce, che ospita la Vittoria Alata, statua romana del Primo secolo D. C. in bronzo, eretta a simbolo della città. Un’opera di eccezionale bellezza, che provoca indescrivibili emozioni e che ci permette di raccontare l’età Flavia, il culto della Vittoria e di ipotizzare che fosse stata posta proprio per celebrare la battaglia che rese Vespasiano imperatore. Si passa così alla conoscenza del tempio di età imperiale, voluto da Vespasiano e il suo rifacimento e completamento Ottocentesco e Novecentesco. Si conclude con la visita al teatro, in gran parte tornato alla luce grazie alla campagna di scavi attuata nel 2023.",
+          "itinerary-warning": "é necessaria la prenotazione! per preservare lo splendido stato di conservazione del sito si entra in gruppi contingentati ogni venti minuti. È quindi bene prenotare, anche per la guida (che ha un biglietto gratuito ma va contata) al seguente link -->",
+          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
+          "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Visita_al_Parco_Archeologico_di_Brixia_e_Vittoria_Alata",
+          "itinerary-link-text": "Prenota Brescia - Visita al Parco Archeologico di Brixia e Vittoria Alata"
+        },
+        "piazze.yaml": {
+          "id": "piazze",
+          "title": "Brescia",
+          "title2": "Visita alle piazze della città",
+          "subtitle": "Duemila anni e non sentirli",
+          "img-src": "brescia_it_piazze.jpg",
+          "img-alt": "Itinerari classici - Visita alle piazze della città - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari classici - Visita alle piazze della città - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "2 ore",
+          "itinerary-type": "tutti!",
+          "itinerary-content": "Piazza Foro, Piazza Paolo VI, Piazza Loggia e Piazza Vittoria",
+          "itinerary-description": "Il grande storico dell’arte, Philippe Daverio disse che passeggiare per Brescia significa immergersi nella storia e avere la possibilità di riconoscere bene gli strati del tempo e i passaggi di stile. Ecco che, in una piacevole e breve passeggiata, si può evincere la struttura ortogonale romana della città e il suo cuore, il Foro. Si prosegue immergendosi nel Basso Medioevo passando attraverso La Torre d’Ercole, la chiesetta di San Marco per giungere all’impressionante Broletto, centro nevralgico della città nell’Età Media. Nella piazza, gli altri edifici di rappresentanza medievale erano le antiche cattedrali, di cui ancora visibile quella dedicata a Santa Maria Maggiore. Si tratta di una chiesa straordinaria, di un vero gioiello romanico mai abbastanza valorizzato. Entrando nella chiesa, compatibilmente agli orari di visita, si viene accolti dalla più bella scultura degli inizi del XIV secolo, la tomba di Berardo Maggi, e si viene avvolti da un volume enorme e inaspettato: la chiesa misura 36 metri di diametro e oggi rappresenta un unicum in Italia. Le sorprese che questo luogo incantato offre non sono finite...ma non te le posso raccontare tutte adesso! Si prosegue poi per la piazza fortemente voluta dai veneziani nella seconda metà del Quattrocento. È una piazza rinascimentale bellissima! Sembra di essere a Venezia! I primi a dare il benvenuto alla Piazza, anche se di spalle, sono i due automi che si trovano sull’orologio, chiamati dai bresciani Tone e Batista. Si prosegue alla scoperta di tutti gli elementi del rinascimento veneto per poi passare alla conoscenza del Monumento dedicato alle X giornate di Resistenza di Brescia sotto l’occupazione austriaca e il Monumento dedicato ai caduti a seguito dello scoppio della bomba nella piazza il 28 maggio 1974. Si passa vicino al primo Museo lapidario all’aperto d’Italia e si attraversa una bellissima loggetta che conduce alla Piazza Vittoria. Piazza costruita tra il 1929 e il 1932, a seguito dello sventramento dell’antico quartiere medievale delle pescherie. È una piazza di inizio ‘900 con tutti gli edifici più rappresentativi: le poste, l’assicurazione, la banca e ospita anche il primo grattacielo in cemento armato d’Italia.",
+          "itinerary-monument": "Parco Archeologico dell’antica Brixia che comprende il podio del Tempio di età Imperiale e  il Teatro (nei giorni e gli orari in cui il museo è aperto, la visita a questi spazi è libera e gratuita),  la colonna rimasta dell’antico Foro (e, se si ha tempo, la Basilica); Il Broletto e il Duomo Vecchio (coerentemente con gli orari di apertura della chiesa si visita l’interno) e il Duomo Nuovo; Il Palazzo della Loggia, Il Monte di Pietà, Le carceri, Il Monumento alla Bella Italia, L’orologio e il Monumento ai caduti di Piazza della Loggia; Piazza della Vittoria con panoramica d’insieme.",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Visita_alle_piazze della_città",
+          "itinerary-link-text": "Prenota Brescia - Visita alle piazze della città"
+        },
+        "santagiulia.yaml": {
+          "id": "santagiulia",
+          "title": "Brescia",
+          "title2": "Visita al Museo di Santa Giulia",
+          "subtitle": "un sorprendente scrigno che permette di entrare in domus romane perfettamente conservate, una chiesa longobarda, un monastero benedettino e il suo tesoro. ",
+          "img-src": "brescia_it_santagiulia.jpg",
+          "img-alt": "Itinerari classici - Visita al Museo di Santa Giulia - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari classici - Visita al Museo di Santa Giulia - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1 ora e mezza, 2 ore",
+          "itinerary-type": "tutti!",
+          "itinerary-content": "i reperti più significativi contenuti nel Museo della città. Imprescindibili: i bronzi, le Domus dell’Ortaglia, La chiesa di San Salvatore e la sua cripta, il Coro delle Monache e Santa Maria in Solario",
+          "itinerary-description": "normalmente quando si pensa un museo si visualizza un contenitore di opere uniche, belle, importanti. Il nostro è molto di più: è un Monastero voluto dalla moglie dell’ultimo Re Longobardo, Desiderio, nell’VIII secolo. E si è conservato come monastero nel tempo, ampliandosi per esempio di un sacello del XII secolo, Santa Maria in Solario, che oggi ospita il tesoro del Monastero e, a fine Quattrocento, di un Coro per le Monache dipinto negli anni Trenta del secolo successivo. Indagando nell’orto delle monache, si sono trovate delle domus romane molto ben conservate anche per quanto riguarda gli alzati. Il Museo di Santa Giulia fa parte dei beni Unesco, si estende su oltre 14:000 mq e presenta 12.000 opere dalla preistoria all’età rinascimentale.",
+          "itinerary-warning": "é consigliata la prenotazione per il Museo ed è necessaria se si è in gruppo al seguente link:",
+          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
+          "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Visita_al_Museo_di_Santa_Giulia",
+          "itinerary-link-text": "Prenota Brescia - Visita al Museo di Santa Giulia"
+        },
+        "tabTitle": "Itinerari classici - Maddalena Carnaghi - La mia guida di Brescia"
+      },
+      "itinerarididattici": {
+        "description.txt": "",
+        "icon": "graduation-cap",
+        "itinerarididattici.yaml": {
+          "id": "itinerarididattici",
+          "title": "Percorsi didattici per le scuole",
+          "title2": "pensati studiando i programmi ministeriali.",
+          "subtitles": [
+            {
+              "subtitle-smallfont1": "Essendo un’insegnante penso di avere l’approccio perfetto",
+              "subtitle-smallfont2": "per accompagnare gli studenti di ogni ordine e grado",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_itinerari_didattici",
+              "subtitle-mail-link-text": "Prenota - Itinerari didattici"
+            }
+          ]
+        },
+        "menu": "Gli itinerari didattici",
+        "nav": "5",
+        "pageTitle": "Itinerari didattici",
+        "tabTitle": "Itinerari didattici - Maddalena Carnaghi - La mia guida di Brescia"
+      },
+      "itinerarilaghi": {
+        "barca-garda.yaml": {
+          "id": "barca",
+          "title": "Lago di Garda",
+          "title2": "Tour in barca",
+          "subtitle": "Per scoprire insieme “un’opera ammirevole della natura” (Goethe)",
+          "collaboration": "Garda Tours",
+          "collaboration-link": "https://gardatours.com",
+          "collaboration-img": "logo-gardatours-h20.jpg",
+          "collaboration-img-alt": "Garda Tours",
+          "img-src": "garda_it_barca.jpg",
+          "img-alt": "Itinerari dei laghi - Tour lago di Garda - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari dei laghi - Tour lago di Garda - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "da definire",
+          "itinerary-type": "tutti!",
+          "itinerary-content": "Il tour in barca si può creare in base alle vostre esigenze: può durare mezz’ora attorno alla penisola di Sirmione, può durare un’ora e mezza fino all’Isola del Garda o può durare 3 ore o più, bordeggiando le sponde del Benaco. Nel caso di tour lunghi si può esplorare la riviera occidentale e lombarda, ammirando il Vittoriale e il Golfo di Salò e, sulla sponda opposta, quella orientale, ammirare le meravigliose ville incastonate sulla riviera scoscesa e naturale e la magnifica Punta San Vigilio. Scrivetemi per saperne di più!",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Lago_di_Garda-Tour_in_barca",
+          "itinerary-link-text": "Prenota Lago di Garda - Tour in barca"
+        },
+        "barca-iseo.yaml": {
+          "id": "iseo",
+          "title": "Lago d'Iseo",
+          "title2": "Tour del lago",
+          "subtitle": "Passeggiate o navigazione  tra scorci romantici e natura mozzafiato",
+          "img-src": "iseo_it_barca.jpg",
+          "img-alt": "Itinerari dei laghi - Tour lago d'Iseo - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari dei laghi - Tour lago d'Iseo - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "mezza giornata od una giornata intera",
+          "itinerary-type": "tutti!",
+          "itinerary-content": "ci sono infinite possibilità che vanno dalla degustazione dei vini in Franciacorta, alla scoperta di un monastero dell’anno mille, alla passeggiata nella riserva naturale delle Torbiere. Vi faccio una proposta. Visita di Iseo e percorso in barca, possibilmente con il tour delle tre isole, verso Montisola. Passeggiata sul lungolago di Peschiera Maraglio",
+          "itinerary-description": "Iseo è una perla del Medioevo: è meraviglioso perdersi tra le sue viuzze per scoprirne la piazza con il monumento a Garibaldi, la piccola chiesetta del Mercato e poi proseguire verso la Pieve di Sant’Andrea dal caratteristico aspetto medievale. Nella piazza del sagrato c’è un altro tesoro: la Chiesa di San Giorgio con una inedita danza macabra. È possibile continuare la visita verso il castello o scendere verso la piazza dove si riunivano le lavandaie e conoscere l’Arsenale veneziano. La scoperta del lago prosegue imbarcandosi al fine di raggiungere la più grande isola lacustre abitata d’Europa: MonteIsola. Giunti a Peschiera Maraglio, una passeggiata permette di conoscere come si viveva in passato sull’isola: gli antichi mestieri, le imbarcazioni e i cibi tradizionali. Una piacevolissima camminata accompagnerà il visitatore alla scoperta del lago, degli antichi castelli e a scorgere l’Isola di San Paolo.",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Lago_d'_Iseo",
+          "itinerary-link-text": "Prenota Lago d'Iseo' - Tour del lago"
+        },
+        "description.txt": "",
+        "desenzano.yaml": {
+          "id": "desenzano",
+          "title": "Lago di Garda",
+          "title2": "Desenzano",
+          "subtitle": "Desenzano da fundus romano a grande mercato",
+          "img-src": "garda_it_desenzano.jpg",
+          "img-alt": "Itinerari dei laghi - Desenzano - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari dei laghi - Desenzano - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1 ora 1/2 ora, 2 ore",
+          "itinerary-type": "tutti!",
+          "itinerary-content": "Parco archeologico della Domus Romana, Chiesa di Santa Maria Maddalena, Piazza Malvezzi, Porto Vecchio e Castello",
+          "itinerary-description": "è un viaggio nel tempo che riserva sorprese anche a chi conosce la città più popolosa del lago. A partire dalla Villa Romana che offre, non solo bellissimi mosaici, ma anche un’idea di come vivevano gli antichi romani e uno spaccato dell’evoluzione della villa romana. Percorrendo una stretta viuzza, si giunge alla chiesa di Santa Maria Maddalena: bellissima chiesa che offre un gioiello assoluto. Si tratta dell’Ultima Cena di Gian Battista Tiepolo. La porta laterale della chiesa si  rivolge verso la piazza centrale che permette di conoscere la storia di Sant’Angela Merici e le vicessitudini che si sono alternate nella piazza Malvezzi. Immancabile è la spiegazione del Porto Vecchio e, per chi non è ancora stanco, la salita al Castello ricetto.",
+          "itinerary-warning": "è necessaria la prenotazione alla Rocca Scaligera e alle Grotte di Catullo per i gruppi al seguente link:",
+          "itinerary-warning-link": "https://museidelgarda.ticka.it/",
+          "itinerary-warning-link-text": "Ticket Musei del Garda",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Lago_di_Garda-Desenzano",
+          "itinerary-link-text": "Prenota Lago di Garda - Desenzano"
+        },
+        "icon": "water",
+        "itinerarilaghi.yaml": {
+          "id": "itinerarilaghi",
+          "subtitles": [
+            {
+              "subtitle-title": "Esplorare i laghi con una guida turistica è come vederli per la prima volta",
+              "subtitle-smallfont1": "Scoprite con me i tour dei laghi",
+              "subtitle-smallfont2": "potrete trascorrere un giorno intero o una mezza giornata sul Lago di Garda, tra Sirmione, per esempio visitando le Grotte di Catullo o la Rocca Scaligera, Desenzano.",
+              "subtitle-smallfont3": "Oppure visitare Salò o il Vittoriale, o magari navigare tra le sponde del Benaco e scoprire i paesini caratteristici",
+              "subtitle-smallfont4": "Così anche per il Lago d’Iseo dove propongo un tour che accosta la bellezza del paesaggio alla storia del luogo"
+            }
+          ]
+        },
+        "menu": "Gli itinerari dei laghi",
+        "nav": "8",
+        "pageTitle": "Gli itinerari dei laghi",
+        "risorgimento.yaml": {
+          "id": "risorgimento",
+          "title": "Brescia",
+          "title2": "Itinerario risorgimentale",
+          "subtitle": "La Leonessa d'Italia, baluardo della lotta per l'Unità d'Italia",
+          "img-src": "brescia_it_risorgimento.jpg",
+          "img-alt": "Itinerari storici - Itinerari risorgimentali - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerari risorgimentali - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1h e mezza",
+          "itinerary-type": "per chi vuole saperne di più sul Risorgimento a Brescia",
+          "itinerary-content": "Il Museo del Risorgimento detto “La Leonessa d’Italia”.",
+          "itinerary-description": "il Risorgimento spiegato in maniera chiara cercando di entrare il più possibile nelle emozioni di chi viveva in quel momento.",
+          "itinerary-warning": "é consigliata la prenotazione per il Museo ed è necessaria se si è in gruppo al seguente link:",
+          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
+          "itinerary-warning-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerario_risorgimentale",
+          "itinerary-link-text": "Prenota Brescia - Itinerario risorgimentale"
+        },
+        "rsi.yaml": {
+          "id": "rsi",
+          "title": "Brescia",
+          "title2": "Itinerari sui luoghi della RSI e della Resistenza",
+          "subtitle": "Percorrere il passato per dare nuovo valore al nostro incedere nel presente",
+          "img-src": "brescia_it_rsi.jpg",
+          "img-alt": "Itinerari storici - Itinerari sui luoghi della RSI e della Resistenza - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerari sui luoghi della RSI e della Resistenza - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1h e mezza",
+          "itinerary-type": "per tutti!",
+          "itinerary-content-opt1": "Itinerario generale che accompagna tra i luoghi  dei partigiani, del potere repubblichino e della tortura per rievocare gli episodi salienti in cui si è compiuta la storia e dove è nata la Resistenza.",
+          "itinerary-content-opt2": "Itinerario sui luoghi del potere della Repubblica sociale Italiana. I luoghi di repressione, di tortura, di spionaggio, di potere attraverso gli episodi e i personaggi salienti.",
+          "itinerary-content-opt3": "Itinerario sui luoghi dei partigiani: i nascondigli, i partiti, i ciclostilati, le repressioni, gli aiuti narrati attraverso gli episodi e i personaggi salienti.",
+          "itinerary-content-opt4": "Itinerario sui luoghi degli eccidi: gli ebrei e la deportazione il tribunale, La Loggetta, l’Ufi narrati attraverso gli episodi e i personaggi salienti.",
+          "itinerary-content-opt5": "Itinerario sui luoghi delle donne della Resistenza.",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerario_Repubblica_Sociale_Italiana_e_Resistenza",
+          "itinerary-link-text": "Prenota Brescia - Itinerario Repubblica Sociale Italiana e Resistenza"
+        },
+        "salo.yaml": {
+          "id": "salo",
+          "title": "Lago di Garda",
+          "title2": "Salò",
+          "subtitle": "l’eleganza e la tranquillità",
+          "img-src": "garda_it_salo.jpg",
+          "img-alt": "Itinerari dei laghi - Salò - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari dei laghi - Salò - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1 ora e mezza",
+          "itinerary-type": "tutti!",
+          "itinerary-content": "visita di soli esterni che comprende Piazza Carmine, la porta d’entrata all’antico borgo, i palazzi e le ville usate nel periodo della Repubblica Sociale Italiana, la superba chiesa di Santa Maria, il palazzo della Magnifica Patria, i palazzi sul lungolago e le statue di due dei maggiori protagonisti.",
+          "itinerary-description": "Salò permette di comprendere piacevolmente lo sviluppo del Lago di Garda nella storia da un punto di vista privilegiato: un golfo bellissimo e mantenuto nella sua bellezza con costruzioni eleganti che vanno dal Medioevo a inizio Novecento. La passeggiata sul lungolago è davvero rilassante e permette di scoprire gli edifici usati durante il periodo della Repubblica Sociale Italiana, così come anche lo stile Liberty dei bei palazzi affacciati sul lago e lo straordinario Palazzo della Magnifica Patria. La Chiesa di Santa Maria Assunta è un vero gioiello del Rinascimento e al suo interno si possono ammirare, oltre ad un congiunto architettonico straordinario, opere di Zenon Veronese, Romanino e Andrea Celesti. Per non parlare del Cristo ligneo ritenuto da Andrea Mantegna il più bello mai visto.",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Lago_di_Garda-Salò",
+          "itinerary-link-text": "Prenota Lago di Garda - Salò"
+        },
+        "sirmione.yaml": {
+          "id": "sirmione",
+          "title": "Lago di Garda",
+          "title2": "Sirmione",
+          "subtitle": "molto più del solito giretto",
+          "img-src": "garda_it_sirmione.jpg",
+          "img-alt": "Itinerari dei laghi - Sirmione - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari dei laghi - Sirmione - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "2h e mezza",
+          "itinerary-type": "tutti! Il Parco archeologico ha dei punti con dislivelli e ghiaia che è meglio percorrere con scarpe sportive",
+          "itinerary-content": "Parco archeologico denominato “Grotte di Catullo”, Rocca Scaligera, il borgo, il lungolago, la chiesa di Santa Maria Maggiore e la Cappella di Sant’Anna al Ponte. È possibile anche un itinerario più breve che non entra nel castello e nel parco archeologico",
+          "itinerary-description": "Sirmione, definita “perla” dal poeta Catullo, è davvero un luogo magico in cui la bellezza della natura incontra la valorizzazione che gli uomini del periodo romano e medievale hanno saputo renderle. È davvero speciale percorrere le viuzze in cui si riverbera il lago e scoprire insieme il periodo della fondazione scaligera del castello, la struttura della chiesetta ridossata sulle mura e l’enorme villa romana incredibilmente incastonata sulla punta della penisola. Durante la passeggiata sul lungolago si potrà inoltre commentare la varietà del paesaggio lacuale, le proprietà dell’acqua della fonte di Boyola e scorgere la casa di Maria Callas.",
+          "itinerary-warning": "è necessaria la prenotazione alla Rocca Scaligera e alle Grotte di Catullo per i gruppi al seguente link:",
+          "itinerary-warning-link": "https://museidelgarda.ticka.it/",
+          "itinerary-warning-link-text": "Ticket Musei del Garda",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Lago_di_Garda-Sirmione",
+          "itinerary-link-text": "Prenota Lago di Garda - Sirmione"
+        },
+        "tabTitle": "Itinerari dei laghi - Maddalena Carnaghi - La mia guida di Brescia",
+        "vittoriale.yaml": {
+          "id": "vittoriale",
+          "title": "Lago di Garda",
+          "title2": "Il Vittoriale degli Italiani",
+          "subtitle": "...il luogo che più amo del lago",
+          "img-src": "garda_it_vittoriale.jpg",
+          "img-alt": "Itinerari dei laghi - Il Vittoriale degli Italiani - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari dei laghi - Il Vittoriale degli Italiani - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "2 ore / 2 ore e mezza",
+          "itinerary-type": "camminatori. Il percorso prevede dislivelli e terreno irregolare. Meglio indossare scarpe da ginnastica.",
+          "itinerary-content": "il parco del Vittoriale (non è inclusa la visita alla Prioria)",
+          "itinerary-description": "Su Gabriele d’Annunzio si sanno e si dicono tante cose ma il percorso nel suo parco è un modo per sfatare alcuni miti comprendere bene le sue idee, le sue ossessioni e le sue imprese. La passeggiata permette infatti di capire il difficile rapporto con Mussolini, il suo ruolo di leader carismatico, così come le imprese su Vienna, a Buccari o a Fiume. Oltre alla parte storica, visitare il parco che lui considerava come “un libro di pietra” permette di conoscere anche la sua ironia, i suoi riferimenti storico-artistici e, grazie anche ad aneddoti, cogliere la sua vita spinta al massimo.",
+          "itinerary-warning": "è necessaria la prenotazione al Vittoriale degli Italiani al seguente link:",
+          "itinerary-warning-link": "https://bottega.vittoriale.it/#/",
+          "itinerary-warning-link-text": "Ticket Museo del Vittoriale degli Italiani",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Lago_di_Garda-Vittoriale_degli_Italinani",
+          "itinerary-link-text": "Prenota Lago di Garda - Vittoriale degli Italiani"
         }
       },
-      "testpage": {
-        "nav": "1",
-        "popino.txt": "prut prut",
-        "sample.json": {
-          "glossary": {
-            "title": "example glossary",
-            "GlossDiv": {
-              "title": "S",
-              "GlossList": {
-                "GlossEntry": {
-                  "ID": "SGML",
-                  "SortAs": "SGML",
-                  "GlossTerm": "Standard Generalized Markup Language",
-                  "Acronym": "SGML",
-                  "Abbrev": "ISO 8879:1986",
-                  "GlossDef": {
-                    "para": "A meta-markup language, used to create markup languages such as DocBook.",
-                    "GlossSeeAlso": [
-                      "GML",
-                      "XML"
-                    ]
-                  },
-                  "GlossSee": "markup"
-                }
-              }
-            }
-          }
+      "itineraristorici": {
+        "altomedioevo.yaml": {
+          "id": "altomedioevo",
+          "title": "Brescia",
+          "title2": "Itinerari alto medievali",
+          "subtitle": "Un vero e proprio ducato longobardo",
+          "img-src": "brescia_it_altomedioevo.jpg",
+          "img-alt": "Itinerari storici - Itinerari alto medievali - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerari alto medievali - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1 ora e mezza",
+          "itinerary-type": "appassionati di arte longobarda, per chi vuole scoprire meglio le nostre origini e per chi vuole sfatare il mito dei barbari invasori.",
+          "itinerary-content": "La visita guidata si svolge all’interno della sezione longobarda del Museo di Santa Giulia ma, se si ha tempo, potrebbe continuare e terminare in Piazza Vittoria, in corrispondenza di dove si trovava la Curia Ducis",
+          "itinerary-description": "Partendo dalle tombe, si approfondirà l’origine della popolazione longobarda. Si ripercorrerà il viaggio iniziato in Scania, il passaggio per la Pannonia e il momento del varco delle Alpi Giulie; attraverso gli oggetti del corredo si analizzeranno i loro usi e costumi. Si passerà poi alla conoscenza dei manufatti metallici e delle scritte incise sulle lastre. In ultimo, si entrerà nell’incredibile chiesa di San Salvatore. Si comprenderà la sua evoluzione, il senso per cui è stata costruita e tutti gli apparati decorativi di cui era composta. Anche se carolingia, si consiglia la visita della Croce detta di Desiderio.",
+          "itinerary-warning": "é consigliata la prenotazione per il Museo ed è necessaria se si è in gruppo al seguente link:",
+          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
+          "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerari_alto_medievali",
+          "itinerary-link-text": "Prenota Brescia - Itinerari alto medievali"
         },
-        "stupido.json": {
-          "menu": {
-            "id": "file",
-            "value": "File",
-            "popup": {
-              "menuitem": [
-                {
-                  "value": "New",
-                  "onclick": "CreateNewDoc()"
-                },
-                {
-                  "value": "Open",
-                  "onclick": "OpenDoc()"
-                },
-                {
-                  "value": "Close",
-                  "onclick": "CloseDoc()"
-                }
-              ]
+        "bassomedioevo.yaml": {
+          "id": "bassomedioevo",
+          "title": "Brescia",
+          "title2": "Itinerario basso medievale",
+          "subtitle": "Più romanico di così non si può!",
+          "img-src": "brescia_it_bassomedioevo.jpg",
+          "img-alt": "Itinerari storici - Itinerario basso medievale - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerario basso medievale - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1h e mezza",
+          "itinerary-type": "per chi vuole saperne di più sul Medioevo a Brescia.",
+          "itinerary-content": "La visita guidata si svolge in esterno per la città. Santa Maria in Solario, la Torre d’Ercole, San Marco, Il Broletto, il Duomo Vecchio e San Faustino in Riposo.",
+          "itinerary-description": "la visita inizia da Piazza Tebaldo Brusato che esemplifica il concetto di piazza nell’Età Media e delle mura;  si prosegue con il concetto di monastero, esemplificato dalla visione di  Santa Maria in Solario, sacello appartenente al Monastero di Santa Giulia e dalla ricostruzione dei suoi ambiti (i chiostri, lo xenodochio) per poi passare per la Torre d’Ercole  e quindi soffermarsi sulla struttura della casa medievale (due esempi in via Carlo Cattaneo) e approdare in Piazza Paolo VI dove si approfondiranno il ruolo del Broletto e dell’antica cattedrale dedicata a Santa Maria Maggiore (Duomo Vecchio). Immancabile la scoperta della chiesa di San Faustino in Riposo in esterno con la sua suggestiva copertura. (per chi ha 40 minuti in più visita alla Chiesa di San Francesco).",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerari_basso_medievali",
+          "itinerary-link-text": "Prenota Brescia - Itinerari basso medievali"
+        },
+        "description.txt": "",
+        "icon": "building-columns",
+        "itineraristorici.yaml": {
+          "id": "itineraristorici",
+          "subtitles": [
+            {
+              "subtitle-title": "Approfondimenti per tutti i gusti e di tutte le epoche",
+              "subtitle-smallfont1": "Brescia, la mia città, si presta a diversi tipi di visite guidate. Scoprite con me i tour di mezza giornata o di una giornata intera;",
+              "subtitle-smallfont2": "percorriamo insieme gli itinerari storici tra il Castello e il centro della città,",
+              "subtitle-smallfont3": "visite guidate al Parco archeologico e al Museo di Santa Giulia."
             }
-          }
-        }
+          ]
+        },
+        "menu": "Gli itinerari storici",
+        "nav": "7",
+        "pageTitle": "Itinerari storici ",
+        "rinascimentale.yaml": {
+          "id": "rinascimentale",
+          "title": "Brescia",
+          "title2": "Itinerari rinascimentali",
+          "subtitle": "Tra I precursori di Caravaggio e l’architettura veneta",
+          "img-src": "brescia_it_rinascimentale.jpg",
+          "img-alt": "Itinerari storici - Itinerari rinascimentali - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerari rinascimentali - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1h e mezza",
+          "itinerary-type": "per tutti!",
+          "itinerary-content-opt1": "Visita alla Pinacoteca Tosio Martinengo : il modo migliore per immergersi nella pittura cinquecentesca lombarda.",
+          "itinerary-content-opt2": "Percorso tra la pittura e l’architettura del Rinascimento.  Visita di una delle chiese che meglio offrono la possibilità di conoscere il Cinquecento lombardo in pittura (Cappella del Santissimo Sacramento nella Chiesa di San Giovanni Evangelista  o chiesa di San Cristo) e Piazza della Loggia.",
+          "itinerary-content-opt3": "Percorso relativo all’architettura del Rinascimento veneto. Visita a Piazza della Loggia, all’esterno della Chiesa di Santa Maria dei Miracoli e all’abside del Duomo Vecchio.",
+          "itinerary-content-opt4": "Percorso dedicato alla Terza via della pittura cinquecentesca. Cappella del Santissimo sacramento nella Chiesa di San Giovanni, chiesa del Santissimo Corpo di Cristo, abside del Duomo Vecchio e la collegiata dei Santi Nazaro e Celso con il polittico di Tiziano.",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerari_rinascimentali",
+          "itinerary-link-text": "Prenota Brescia - Itinerari rinascimentali"
+        },
+        "risorgimento.yaml": {
+          "id": "risorgimento",
+          "title": "Brescia",
+          "title2": "Itinerario risorgimentale",
+          "subtitle": "La Leonessa d'Italia, baluardo della lotta per l'Unità d'Italia",
+          "img-src": "brescia_it_risorgimento.jpg",
+          "img-alt": "Itinerari storici - Itinerari risorgimentali - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerari risorgimentali - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1h e mezza",
+          "itinerary-type": "per chi vuole saperne di più sul Risorgimento a Brescia",
+          "itinerary-content": "Il Museo del Risorgimento detto “La Leonessa d’Italia”.",
+          "itinerary-description": "il Risorgimento spiegato in maniera chiara cercando di entrare il più possibile nelle emozioni di chi viveva in quel momento.",
+          "itinerary-warning": "é consigliata la prenotazione per il Museo ed è necessaria se si è in gruppo al seguente link:",
+          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
+          "itinerary-warning-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerario_risorgimentale",
+          "itinerary-link-text": "Prenota Brescia - Itinerario risorgimentale"
+        },
+        "romano.yaml": {
+          "id": "romano",
+          "title": "Brescia",
+          "title2": "Itinerari romani",
+          "subtitle": "da Galli a Romani è un attimo",
+          "img-src": "brescia_it_romano.jpg",
+          "img-alt": "Itinerari storici - Itinerari romani - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerari romani - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1h e mezza",
+          "itinerary-type": "appassionati di arte romana, chi è interessato ad approfondire l’evoluzione dell’arte nel momento del contatto tra le popolazioni celtiche e i romani e vuole capire come vivevano, com’era Brixia.",
+          "itinerary-content-opt1": "il Parco archeologico di Brixia (con la visita alla cella di un tempio di età Repubblicana perfettamente conservata; la visita alla Vittoria alata, la visita al primigenio Museo Patrio)",
+          "itinerary-content-opt2": "può svolgersi  anche solo in esterno senza l’acquisto di un biglietto e, in questo caso, si visitano il pronao e il teatro del Parco archeologico di Brixia, la colonna del foro romano, la basilica, un cardo ed eventualmente lacerti delle terme romane",
+          "itinerary-content-opt3": "La sezione romana del Museo di Santa Giulia.",
+          "itinerary-description": "Brixia, capitale della Gallia Cisalpina, decide di entrare molto presto nell’orbita romana e, a differenza di altre tribù celtiche, si romanizza precocemente. Questo comporta la possibilità di visitare affreschi già del periodo repubblicano e di seguirne poi l’evoluzione nel tempo. In special modo sono visibili mosaici davvero ben conservati che mostrano anche le capacità tecniche delle maestranze locali; è possibile comprendere bene le strutture abitative dei cittadini più ricchi, le domus, grazie anche alla buona conservazione degli alzati e l’ottima conservazione dei pavimenti. È inoltre possibile vedere il sistema di riscaldamento attivo nella città romana, l’ipocausto, e la divisione degli ambienti e i loro usi.",
+          "itinerary-warning": "è necessaria la prenotazione se si vuole visitare il Parco archeologico di Brixia giacché, per preservare lo splendido stato di conservazione del sito, si entra in gruppi contingentati ogni venti minuti. È quindi bene prenotare, anche per la guida (che ha un biglietto gratuito ma va contata) al seguente link:",
+          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
+          "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerari_romani",
+          "itinerary-link-text": "Prenota Brescia - Itinerari romani"
+        },
+        "rsi.yaml": {
+          "id": "rsi",
+          "title": "Brescia",
+          "title2": "Itinerari sui luoghi della RSI e della Resistenza",
+          "subtitle": "Percorrere il passato per dare nuovo valore al nostro incedere nel presente",
+          "img-src": "brescia_it_rsi.jpg",
+          "img-alt": "Itinerari storici - Itinerari sui luoghi della RSI e della Resistenza - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerari sui luoghi della RSI e della Resistenza - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1h e mezza",
+          "itinerary-type": "per tutti!",
+          "itinerary-content-opt1": "Itinerario generale che accompagna tra i luoghi  dei partigiani, del potere repubblichino e della tortura per rievocare gli episodi salienti in cui si è compiuta la storia e dove è nata la Resistenza.",
+          "itinerary-content-opt2": "Itinerario sui luoghi del potere della Repubblica sociale Italiana. I luoghi di repressione, di tortura, di spionaggio, di potere attraverso gli episodi e i personaggi salienti.",
+          "itinerary-content-opt3": "Itinerario sui luoghi dei partigiani: i nascondigli, i partiti, i ciclostilati, le repressioni, gli aiuti narrati attraverso gli episodi e i personaggi salienti.",
+          "itinerary-content-opt4": "Itinerario sui luoghi degli eccidi: gli ebrei e la deportazione il tribunale, La Loggetta, l’Ufi narrati attraverso gli episodi e i personaggi salienti.",
+          "itinerary-content-opt5": "Itinerario sui luoghi delle donne della Resistenza.",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerario_Repubblica_Sociale_Italiana_e_Resistenza",
+          "itinerary-link-text": "Prenota Brescia - Itinerario Repubblica Sociale Italiana e Resistenza"
+        },
+        "settecentesco.yaml": {
+          "id": "settecentesco",
+          "title": "Brescia",
+          "title2": "Itinerari settecenteschi",
+          "subtitle": "Il Grand Tour a braccetto con Angelo Maria Querini",
+          "img-src": "brescia_it_settecentesco.jpg",
+          "img-alt": "Itinerari storici - Itinerari settecenteschi - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari storici - Itinerari settecenteschi - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1h e mezza",
+          "itinerary-type": "per tutti!",
+          "itinerary-content": "La sala centrale della Biblioteca Queriniana (a seconda degli orari e delle disponibilità), il Duomo Nuovo e la facciata di Palazzo Chiappa, Piazzetta Legnano con la Casa Vantini e la Chiesa della Carità. In alternativa alla biblioteca, se chiusa, visita alla scalinata del Convento di Santa Chiara o ai chiostri del Convento dei Santi Faustino e Giovita (per la visita a questi luoghi va fatta richiesta all’università).",
+          "itinerary-warning": "Se si è interessati al Rococò, il Ridotto del Teatro Grande è perfetto (ma ha aperture limitate al fine settimana e su prenotazione)",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerario_settecentesco",
+          "itinerary-link-text": "Prenota Brescia - Itinerario settecentesco"
+        },
+        "tabTitle": "Itinerari storici - Maddalena Carnaghi - La mia guida di Brescia"
+      },
+      "itineraritema": {
+        "amore.yaml": {
+          "id": "amore",
+          "title": "Brescia",
+          "title2": "L’amore in ogni angolo",
+          "subtitle": "Episodi salienti della storia cittadina attraverso le vicissitudini amorose di alcuni protagonisti",
+          "img-src": "brescia_it_amore.jpg",
+          "img-alt": "Itinerari tematici - L’amore in ogni angolo - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari tematici - L’amore in ogni angolo - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1 ora e 45 minuti",
+          "itinerary-type": "tutti coloro che hanno voglia di scoprire il lato umano di alcuni personaggi che hanno contribuito alla storia della nostra città e alcune storie d’amore che hanno avuto Brescia come scenario.",
+          "itinerary-content": "luoghi che sono stati scenario degli amori, spesso contrastati, tra alcuni dei protagonisti della storia della città. Dall’alto medioevo, passando per il periodo delle signorie, amori in convento sul finir del Seicento, la grande stagione dei salotti del Settecento, per proseguire con l’eroe delle X Giornate e due protagonisti del Novecento bresciano.",
+          "itinerary-description": "a città dell’amore è la vicina Verona...ma è felice e a lieto fine la storia famosa che la città veneta custodisce? Se romantica è Verona, lo stesso può esserlo la nostra Brescia! Storie struggenti, non sempre dal finale felice (anzi!) ma con notevoli colpi di scena che ci permetteranno, anche se con leggerezza, di ripercorrere alcuni momenti salienti della storia cittadina e di conoscere più da vicino alcuni dei suoi protagonisti.",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-L'amore_in_ogni_angolo",
+          "itinerary-link-text": "Prenota Brescia - L'amore in ogni angolo"
+        },
+        "castello.yaml": {
+          "id": "castello",
+          "title": "Brescia",
+          "title2": "Il castello ovvero Il Falcone d’Italia",
+          "subtitle": "La massima difesa della città e il controllo da parte dei nemici",
+          "img-src": "brescia_it_castello.jpg",
+          "img-alt": "Itinerari tematici - Il castello ovvero Il Falcone d’Italia - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari tematici - Il castello ovvero Il Falcone d’Italia - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "2 ore",
+          "itinerary-type": "tutti coloro che hanno voglia di capire com’è cambiata la difesa di un baluardo militare nei secoli e la storia della nostra città. Si camminerà un po’!",
+          "itinerary-content": "il castello in lungo e in largo passando dai ponti levatoi, il mastio, le cannoniere e le torri. Solo visite in esterno, non sono previsti i musei.",
+          "itinerary-description": "quante cose si possono scoprire della difesa militare divertendosi! Esplorando dalla porta principale di entrata al castello, sino alla discesa per la Porta del Soccorso, si può comprendere la funzione di ogni particolare e com’è cambiata la difesa a seguito dell’arrivo della polvere da sparo. Culmine dell’esperienza sarà la conoscenza della parte più antica: il Mastio visconteo che nasconde un cuore romano ancora più arcaico. Il viaggio nel tempo prosegue percorrendo le mura che permettono di rivivere i momenti più importanti in cui la città è stata conquistata dai francesi  imperiali nel 1512 e dagli austriaci durante le X giornate del 1849 (proprio perché gli invasori dominavano il castello!).",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Il_castello",
+          "itinerary-link-text": "Prenota Brescia - Il castello"
+        },
+        "description.txt": "",
+        "donne.yaml": {
+          "id": "donne",
+          "title": "Brescia",
+          "title2": "I percorsi sulle donne",
+          "subtitle": "Quattro percorsi per riscoprire i volti delle donne celati dalla città",
+          "img-src": "brescia_it_donne.jpg",
+          "img-alt": "Itinerari tematici - I percorsi sulle donne - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari tematici - I percorsi sulle donne - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1 ora e mezza",
+          "itinerary-type": "tutti!",
+          "itinerary-content-opt1": "I volti delle donne nel Museo di Santa Giulia.",
+          "itinerary-content-opt2": "I volti delle donne e le donne protagoniste nella Pinacoteca Tosio-Martinengo",
+          "itinerary-content-opt3": "Le donne che raccontano sé stesse e la loro vita a Brescia",
+          "itinerary-content-opt4": "le donne che hanno fatto la Resistenza",
+          "itinerary-description": "normalmente quando si pensa un museo si visualizza un contenitore di opere uniche, belle, importanti. Il nostro è molto di più: è un Monastero voluto dalla moglie dell’ultimo Re Longobardo, Desiderio, nell’VIII secolo. E si è conservato come monastero nel tempo, ampliandosi per esempio di un sacello del XII secolo, Santa Maria in Solario, che oggi ospita il tesoro del Monastero e, a fine Quattrocento, di un Coro per le Monache dipinto negli anni Trenta del secolo successivo. Indagando nell’orto delle monache, si sono trovate delle domus romane molto ben conservate anche per quanto riguarda gli alzati. Il Museo di Santa Giulia fa parte dei beni Unesco, si estende su oltre 14:000 mq e presenta 12.000 opere dalla preistoria all’età rinascimentale.",
+          "itinerary-warning": "é consigliata la prenotazione per il Museo ed è necessaria se si è in gruppo al seguente link:",
+          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
+          "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-I_percorsi_sulle_donne",
+          "itinerary-link-text": "Contattami per saperne di più"
+        },
+        "icon": "bullseye",
+        "itineraritema.yaml": {
+          "id": "itinerariclassici",
+          "title": "una Brescia inedita ti attende",
+          "title2": null,
+          "subtitles": [
+            {
+              "subtitle-smallfont1": "Avete voglia di essere guidati nella scoperta della città, delle collezioni, dei monumenti o di guardare ciò che già conoscete con occhi diversi?"
+            }
+          ]
+        },
+        "menu": "Gli itinerari tematici",
+        "nav": "6",
+        "pageTitle": "Itinerari tematici",
+        "pinacoteca.yaml": {
+          "id": "pinacoteca",
+          "title": "Brescia",
+          "title2": "La Pinacoteca Tosio-Martinengo",
+          "subtitle": "Passeggiando nel palazzo alla scoperta dei capolavori",
+          "img-src": "brescia_it_pinacoteca.jpg",
+          "img-alt": "Itinerari tematici - La Pinacoteca Tosio-Martinengo - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerari tematici - La Pinacoteca Tosio-Martinengo - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "2 ore",
+          "itinerary-type": "tutti e ancor di più per gli appassionati di pittura.",
+          "itinerary-content": "Le opere più significative della Pinacoteca Tosio-Martinengo.",
+          "itinerary-description": "alla National Gallery di Londra si ammirano opere dei nostri maestri bresciani del ‘500..mentre noi li abbiamo in uno spazio superlativo che forse non è abbastanza conosciuto. Il nuovo restauro e allestimento, avvenuto nel 2018, ha restituito l’aspetto della dimora signorile, sia per il percorso circolare, sia per l’illuminazione, la scansione degli spazi e le controsoffittature. In questo contesto nobile ed elegante, le cui pareti vellutate offrono colori in dialogo coi colori contenuti nei quadri, si presenta una collezione di eccezionale valore. Si parte dal maestro della pittura bresciana, Vincenzo Foppa, si passa alla visione di due piccole e delicatissime opere di Raffaello giovane, si attraversa la grande pittura lombarda del ‘500 coi capolavori di Romanino, Moretto, Lotto e Savoldo, si giunge davanti al complesso ciclo di Padernello del Pitocchetto e si prosegue in un susseguirsi di meraviglia fino a chiudere il percorso con capolavori di Hayez e Canova.",
+          "itinerary-warning": "è consigliata la prenotazione per il Museo ed è necessaria se si è in gruppo al seguente link:",
+          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
+          "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Pinacoteca_Tosio-Martinengo",
+          "itinerary-link-text": "Prenota Brescia - La Pinacoteca Tosio-Martinengo"
+        },
+        "tabTitle": "Itinerari tematici - Maddalena Carnaghi - La mia guida di Brescia"
+      },
+      "regalavisita": {
+        "buono.yaml": {
+          "id": "buono",
+          "subtitles": [
+            {
+              "subtitle-smallfont-azzurrino": "Regalate un buono per le mie visite guidate",
+              "subtitle-description": "Il buono minimo corrisponde alla partecipazione a due tour ovvero 16 (8 euro + 8 euro) ma si può regalare anche un tour in esclusiva..parliamone!"
+            }
+          ]
+        },
+        "description.txt": "",
+        "icon": "gift",
+        "idee.yaml": {
+          "id": "idee",
+          "subtitles": [
+            {
+              "subtitle-description": "Se non avete le idee ben chiare, non vi preoccupate! Scrivetemi una mail raccontandomi quali sono i vostri desideri e vi aiuterò a trovare il regalo perfetto per l’occasione."
+            }
+          ]
+        },
+        "itinerario.yaml": {
+          "id": "itinerario",
+          "subtitles": [
+            {
+              "subtitle-smallfont-azzurrino": "Scegliete l’itinerario ed è fatta",
+              "subtitle-description": "Cliccate sul link di seguito e scegliete il tour che più preferite e poi ci sentiamo e prepariamo un regalo ad hoc per la persona cara!"
+            }
+          ],
+          "vlinks": [
+            {
+              "vlink-id": "0",
+              "vlink-link": "itinerariclassici",
+              "vlink-text": "gli itinerari <strong>classici</strong>"
+            },
+            {
+              "vlink-id": "1",
+              "vlink-link": "itinerarididattici",
+              "vlink-text": "gli itinerari <strong>didattici</strong>"
+            },
+            {
+              "vlink-id": "2",
+              "vlink-link": "itineraritema",
+              "vlink-text": "gli itinerari <strong>a tema</strong>"
+            },
+            {
+              "vlink-id": "3",
+              "vlink-link": "itineraristorici",
+              "vlink-text": "gli itinerari <strong>storici</strong>"
+            },
+            {
+              "vlink-id": "4",
+              "vlink-link": "itinerarilaghi",
+              "vlink-text": "gli itinerari <strong>dei laghi</strong>"
+            }
+          ]
+        },
+        "menu": "Regala una visita",
+        "nav": "10",
+        "pageTitle": "Regala una visita",
+        "scadenza.yaml": {
+          "id": "scadenza",
+          "subtitles": [
+            {
+              "subtitle-description": "I buoni non hanno scadenza anche se meglio non far passare decenni!",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Contattami_per_regalare_una_visita",
+              "subtitle-mail-link-text": "Contattami per regalare una visita"
+            }
+          ]
+        },
+        "tabTitle": "Regala una visita - Maddalena Carnaghi - La mia guida di Brescia"
       }
     },
+    "gb": {},
     "it": {
       "calendario": {
         "agosto.yaml": {
@@ -2034,30 +3803,63 @@
   },
   "navbar": {
     "es": {
-      "0": {
-        "icon": "heart guida es icon",
-        "menu": "Casa guida es menu",
-        "name": "testguidaperte"
-      },
       "1": {
-        "icon": "heart guida es icon",
-        "menu": "Casa guida es menu",
-        "name": "guidaperte"
+        "icon": "house",
+        "menu": "Home",
+        "name": "home"
       },
       "2": {
-        "icon": "house popa test - home es icon",
-        "menu": "Casa home es menu",
-        "name": "home"
-      }
-    },
-    "gb": {
-      "0": {
-        "name": "home"
+        "icon": "heart",
+        "menu": "Una guida per te",
+        "name": "guidaperte"
       },
-      "1": {
-        "name": "testpage"
+      "3": {
+        "icon": "calendar",
+        "menu": "Il Calendario",
+        "name": "calendario"
+      },
+      "4": {
+        "icon": "landmark-dome",
+        "menu": "Gli itinerari classici",
+        "name": "itinerariclassici"
+      },
+      "5": {
+        "icon": "graduation-cap",
+        "menu": "Gli itinerari didattici",
+        "name": "itinerarididattici"
+      },
+      "6": {
+        "icon": "bullseye",
+        "menu": "Gli itinerari tematici",
+        "name": "itineraritema"
+      },
+      "7": {
+        "icon": "building-columns",
+        "menu": "Gli itinerari storici",
+        "name": "itineraristorici"
+      },
+      "8": {
+        "icon": "water",
+        "menu": "Gli itinerari dei laghi",
+        "name": "itinerarilaghi"
+      },
+      "9": {
+        "icon": "highlighter",
+        "menu": "In evidenza",
+        "name": "evidenza"
+      },
+      "10": {
+        "icon": "gift",
+        "menu": "Regala una visita",
+        "name": "regalavisita"
+      },
+      "11": {
+        "icon": "envelope-open-text",
+        "menu": "Contatti",
+        "name": "contatti"
       }
     },
+    "gb": {},
     "it": {
       "1": {
         "icon": "house",

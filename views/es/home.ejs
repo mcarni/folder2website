@@ -1,28 +1,57 @@
 <!-- head partial --> 
 <%- include('../../views-partials/head'); %>
 
-<!-- needed for the logo -->  
-<% logoImg =  "/images/logo.png" %>
-<% logoAltText =  "Logo - La mia guida di Brescia" %>
 <!-- logo partial -->  
 <%- include('../../views-partials/logo'); %>
 
-<!-- needed for the language switcher -->  
-<% rootWebPage =  "http://localhost:3000" %>
 <!-- navbar partial -->  
 <%- include('../../views-partials/navbar'); %>
 
+<!-- title row partial -->  
+<%- include('../../views-partials/title-row'); %>
 
-<h2>CONTENT</h2> 
- <% Object.keys(pageContent).forEach((key,index) => { %> 
- "index : "<%= index %> "key : " <%= key -%>  "value : "<%- JSON.stringify(pageContent[key], null, 2) %><br> 
- <%  }); %> 
- 
- <h2>NAVBAR</h2> 
- <% Object.keys(siteNavbar).forEach((key,index) => { %> 
- "index : "<%= index %> "key : " <%= key -%>  "value : "<%- JSON.stringify(siteNavbar[key], null, 2) %><br> 
- <%  }); %>
+<% carousel =  pageContent["img-carousel.yaml"] %>
+<!-- carousel partial -->  
+<%- include('../../views-partials/carousel'); %>
 
+<% row =  pageContent["guidaperte.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["calendario.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["itinerari.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["evidenza.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["preparazione.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["regalaunavisita.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["regalaunavisita-collapse.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["regalaunavisita-collapse2.yaml"] %>
+<!-- main row partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<% row =  pageContent["contatti.yaml"] %>
+<!-- contacts partial -->  
+<%- include('../../views-partials/main-row'); %>
+
+<!-- video partial -->  
+<%- include('../../views-partials/video'); %>
 
 <!-- footer partial --> 
 <%- include('../../views-partials/footer'); %>

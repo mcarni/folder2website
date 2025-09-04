@@ -1,0 +1,77 @@
+id: imageCarousel
+items:
+- item-id: '0'
+  item-img-alt: Visita guidata del Lago d'Iseo - Tour del Lago d'Iseo - itinerari
+    guidati di Iseo
+  item-img-src: home_img_iseobarca_scaled.jpg
+  item-img-title: Visita guidata del Lago d'Iseo - Tour del Lago d'Iseo - itinerari
+    guidati di Iseo
+  item-link: itinerarilaghi#iseo
+  item-link-text: "Scopri di pi\xF9 - Itinerari sul lago d'Iseo"
+  item-title: Lago d'Iseo
+- item-id: '1'
+  item-img-alt: Visita guidata di Brescia romana - Itinerario turistico del Parco
+    Archeologico di Brixia - Tempio Capitolino
+  item-img-src: home_img_parcoarcheologico_scaled.jpg
+  item-img-title: Visita guidata di Brescia romana - Itinerario turistico del Parco
+    Archeologico di Brixia - Tempio Capitolino
+  item-link: itinerariclassici#parcoarcheologico
+  item-link-text: "Scopri di pi\xF9 - Visita al Parco Archeologico"
+  item-title: Brescia, Parco Archeologico
+- item-id: '2'
+  item-img-alt: Visita guidata di Piazza Loggia - Itinerari guidati di Brescia - Tour
+    delle piazze di Brescia
+  item-img-src: home_img_piazzebrescia_scaled.jpg
+  item-img-title: Visita guidata di Piazza Loggia - Itinerari guidati di Brescia -
+    Tour delle piazze di Brescia
+  item-link: itinerariclassici#piazze
+  item-link-text: "Scopri di pi\xF9 - Visita alle piazze della citt\xE0"
+  item-title: Brescia, Piazza Loggia
+- item-id: '3'
+  item-img-alt: Visita guidata Museo di Santa Giulia - Santa Maria in Solario - Croce
+    di Desiderio
+  item-img-src: home_img_santagiulia_scaled.jpg
+  item-img-title: Visita guidata Museo di Santa Giulia - Santa Maria in Solario -
+    Croce di Desiderio
+  item-link: itinerariclassici#santagiulia
+  item-link-text: "Scopri di pi\xF9 - Visita a Santa Giulia"
+  item-title: Santa Maria in solario
+- item-id: '4'
+  item-img-alt: Vera Bugatti Parco dell'acqua
+  item-img-src: home_img_verabugatti2_scaled.jpg
+  item-img-title: Vera Bugatti Parco dell'acqua
+  item-link: itinerariclassici#piazze
+  item-link-text: "Scopri di pi\xF9 - Visita alle piazze della citt\xE0"
+  item-title: Dipinto di Vera Bugatti - Parco dell'acqua
+- item-id: '5'
+  item-img-alt: Visita guidata di Brescia romana - Itinerario turistico del Parco
+    Archeologico di Brixia - Tempio Capitolino
+  item-img-src: home_img_parcoarcheologico_scaled.jpg
+  item-img-title: Visita guidata di Brescia romana - Itinerario turistico del Parco
+    Archeologico di Brixia - Tempio Capitolino
+  item-link: itinerariclassici#parcoarcheologico
+  item-link-text: "Scopri di pi\xF9 - Visita al Parco Archeologico"
+  item-title: Brescia, Parco Archeologico
+- item-id: '6'
+  item-img-alt: Visita guidata di Piazza Loggia - Itinerari guidati di Brescia - Tour
+    delle piazze di Brescia
+  item-img-src: home_img_piazzebrescia_scaled.jpg
+  item-img-title: Visita guidata di Piazza Loggia - Itinerari guidati di Brescia -
+    Tour delle piazze di Brescia
+  item-link: itinerariclassici#piazze
+  item-link-text: "Scopri di pi\xF9 - Visita alle piazze della citt\xE0"
+  item-title: Brescia, Piazza Loggia
+- item-id: '7'
+  item-img-alt: Visita guidata di Sirmione - Tour di Sirmione - Scopri Sirmione
+  item-img-src: home_img_sirmione_scaled.jpg
+  item-img-title: Visita guidata di Sirmione - Tour di Sirmione - Scopri Sirmione
+  item-link: itinerarilaghi#sirmione
+  item-link-text: "Scopri di pi\xF9 - Visita a Sirmione"
+  item-title: Sirmione
+- item-id: '8'
+  item-img-alt: Visita guidata di Desenzano - Tour di Desenzano - Scopri Desenzano
+  item-img-src: home_img_desenzano_scaled.jpg
+  item-img-title: Visita guidata di Desenzano - Tour di Desenzano - Scopri Desenzano
+  item-link: itinerarilaghi#desenzano
+  item-link-text: "Scopri di pi\xF9 - Visita a Desenzano"
+  item-title: Desenzano
