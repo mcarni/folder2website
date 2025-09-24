@@ -1,15 +1,15 @@
-id: contatti
+id: ¡Contactame!
 img-src: qr.jpg
-img-title: Maddalena Carnaghi - La mia guida di Brescia - i miei contatti
-img-alt: Maddalena Carnaghi - La mia guida di Brescia - i miei contatti
+img-title: Maddalena Carnaghi - La mia guida di Brescia - mis contactos
+img-alt: Maddalena Carnaghi - La mia guida di Brescia - mis contactos
 subtitles:
 - subtitle-id: '1'
-  subtitle-title: Contattami!!!
+  subtitle-title: ¡Contactame!
   subtitle-smallfont2: <i class="px-3 fas fa-mobile-screen"></i>+39 3477667008<br><br>
 - subtitle-id: '2'
-  subtitle-title: o scrivimi
+  subtitle-title: o ¡Escribime!
   subtitle-smallfont2: <i class="px-3 fas fa-at"></i>lamiaguidadibrescia@proton.me<br><br>
 - subtitle-id: '3'
-  subtitle-title: e non dimenticare di seguirmi
+  subtitle-title: y no te olvides de seguirme!
   subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.facebook.com/la.mia.guida.di.brescia/" target="_blank" rel="noopener noreferrer"><i class="px-3 fa-brands fa-facebook"></i></a>
   subtitle-smallfont3: <a class="text-reset text-decoration-none" href="https://www.instagram.com/lamiaguidadibrescia/" target="_blank" rel="noopener noreferrer"><i class="px-3 fa-brands fa-instagram"></i></a>

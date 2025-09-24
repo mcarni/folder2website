@@ -1,12 +1,9 @@
-id: itinerariclassici
+id: Itinerarios clásicos
 title: Brescia,
-title2: il modo migliore per conoscerla
+title2: La mejor manera de conocerla
 itineraries: []
 subtitles: 
 - subtitle-id: '0'
-  subtitle-title: Itinerari classici ma per niente noiosi
-  subtitle-smallfont1: Brescia, la mia città, si presta a diversi tipi di visite guidate. 
-    Scopri con me i tour di mezza giornata o di una giornata intera
-    itinerari storici tra il Castello e il centro della città,
-    visite guidate al Parco archeologico e al Museo di Santa Giulia.
+  subtitle-title: Itinerarios clásicos pero nada aburridos
+  subtitle-smallfont1: Brescia, mi ciudad, se presta a diferentes tipos de visitas guiadas. Descubre conmigo los tours de medio día o de día completo. Itinerarios históricos entre el Castillo y el centro de la ciudad, visitas guiadas al Parque Arqueológico y al Museo de Santa Giulia.
 vlinks: []
