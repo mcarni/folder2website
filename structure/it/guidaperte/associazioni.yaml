@@ -37,8 +37,11 @@ subtitles:
     alt="Logo Perlar"></a>
 - subtitle-id: '4'
   subtitle-smallfont1: <a class="text-reset text-decoration-none" href="https://lamanega.it/"
-    target="_blank" rel="noopener noreferrer"><strong>Azienda Vinicola La Manèga</strong>
+    target="_blank" rel="noopener noreferrer"><strong>Azienda Vitivinicola La Manèga</strong>
     - Promozione del territorio attraverso l'enogastronomia</a>
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://lamanega.it/"
+    target="_blank" rel="noopener noreferrer"><img src="/images/logo-manega-light-h150.jpg"
+    alt="Logo La Manèga"></a>
 - subtitle-id: '5'
   subtitle-smallfont1: <a class="text-reset text-decoration-none" href="https://www.centrosanclemente.it/"
     target="_blank" rel="noopener noreferrer"><strong>Centro culturale San Clemente</strong>
