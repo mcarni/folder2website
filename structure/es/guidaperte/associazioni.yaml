@@ -1,7 +1,7 @@
 id: associazioni
 subtitles:
 - subtitle-id: '0'
-  subtitle-title: 'Le realtà con cui lavoro'
+  subtitle-title: 'Le realtà con cui collaboro'
 - subtitle-id: '1'
   subtitle-smallfont1: "<a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/_blubalena_?igsh=MXJkdWFnNnVhNHBsZw==\"\
     \ target=\"_blank\" rel=\"noopener noreferrer\"><strong>Associazione Blu Balena</strong>\
@@ -61,7 +61,16 @@ subtitles:
     target="_blank" rel="noopener noreferrer"><strong>Fondazione Berardelli</strong>
     - Fondazione dedicata alla Poesia Visiva</a>
   subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://fondazioneberardelli.org/home.php"
-    target="_blank" rel="noopener noreferrer">https://fondazioneberardelli.org/home.php</a>
+    target="_blank" rel="noopener noreferrer">https://fondazioneberardelli.org/home</a>
   subtitle-smallfont3: <a class="text-reset text-decoration-none" href="https://fondazioneberardelli.org/home.php"
     target="_blank" rel="noopener noreferrer"><img src="/images/logo-berardelli-h100c3.jpg"
     alt="Logo Fondazione Berardelli"></a>
+- subtitle-id: '3'
+  subtitle-smallfont1: <a class="text-reset text-decoration-none" href="https://www.fondazionezani.com/"
+    target="_blank" rel="noopener noreferrer"><strong>Fondazione Paolo e Carolina Zani</strong>"
+    - Per l'arte e la cultura"</a>
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.fondazionezani.com/"
+    target="_blank" rel="noopener noreferrer">https://www.fondazionezani.com/</a>
+  subtitle-smallfont3: <a class="text-reset text-decoration-none" href="https://www.fondazionezani.com/"
+    target="_blank" rel="noopener noreferrer"><img src="/images/logo-zani-h100.png"
+    alt="Logo Fondazione Zani"></a>
