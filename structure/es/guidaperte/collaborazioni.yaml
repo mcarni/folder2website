@@ -20,6 +20,10 @@ subtitles:
   subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://www.beatours.it/"
     target="_blank" rel="noopener noreferrer">https://www.beatours.it/</a>
 - subtitle-id: '5'
+  subtitle-smallfont1: "<strong>Simona Ventura</strong> \u2013 Archeologa e guida turistica di Torino in italiano e inglese"
+  subtitle-smallfont2: <a class="text-reset text-decoration-none" href="mailto:siventu@gmail.com"
+    target="_blank" rel="noopener noreferrer"></i>siventu@gmail.com<br><br></a>
+- subtitle-id: '6'
   subtitle-smallfont1: "<strong>Francesca Vettori</strong> \u2013 Guida turistica a Trento in italiano, spagnolo e francese"
   subtitle-smallfont2: <a class="text-reset text-decoration-none" href="mailto:francesca-vettori@libero.it"
-    target="_blank" rel="noopener noreferrer"><i class="px-3 fas fa-at"></i>francesca-vettori@libero.it<br><br></a>
+    target="_blank" rel="noopener noreferrer">francesca-vettori@libero.it<br><br></a>
