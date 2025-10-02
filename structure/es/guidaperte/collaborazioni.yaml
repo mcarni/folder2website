@@ -1,9 +1,9 @@
-id: 'collaborazioni'
+id: 'Colaboraciones'
 subtitles:
 - subtitle-id: '0'
-  subtitle-title: 'Le mie collaborazioni'
+  subtitle-title: 'Mis colaboraciones'
 - subtitle-id: '1'
-  subtitle-smallfont1: "<strong>Garda Tours</strong> \u2013 Tour e gite in barca"
+  subtitle-smallfont1: "<strong>Garda Tours</strong> \u2013 Tours y paseos en barco"
   subtitle-smallfont2: <a class="text-reset text-decoration-none" href="https://https://gardatours.com/"
     target="_blank" rel="noopener noreferrer"><img src="/images/logo-gardatours-h20.jpg"
     alt="Logo Garda Tours"></a>
