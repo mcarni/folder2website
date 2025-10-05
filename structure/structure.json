@@ -84,7 +84,7 @@
             }
           ]
         },
-        "description.txt": "Organizzo tour con piccoli gruppi per scoprire, divertendosi, particolari inediti della città. A partire da aneddoti curiosi, ma anche dalla storia ufficiale che cerco di narrare in maniera coinvolgente, per scoprire l’evoluzione della nostra città",
+        "description.txt": "Organizo tours con grupos reducidos para descubrir, mientras nos divertimos, detalles inéditos de la ciudad. Partiendo de anécdotas curiosas, pero también de la historia oficial que trato de contar de una manera atractiva, para descubrir la evolución de la ciudad de Brescia y de su provincia.",
         "dicembre.yaml": {
           "title": "Dicembre",
           "id": "collapseDec",
@@ -329,7 +329,7 @@
             }
           ]
         },
-        "menu": "Il Calendario",
+        "menu": "El calendario",
         "nav": "3",
         "novembre.yaml": {
           "title": "Novembre",
@@ -441,7 +441,7 @@
             }
           ]
         },
-        "tabTitle": "Il calendario degli eventi - Maddalena Carnaghi - la mia guida di Brescia"
+        "tabTitle": "El calendario de eventos - Maddalena Carnaghi - la mia guida di Brescia"
       },
       "contatti": {
         "contatti.yaml": {
@@ -470,10 +470,10 @@
         },
         "description.txt": "",
         "icon": "envelope-open-text",
-        "menu": "Contatti",
+        "menu": "Contactos",
         "nav": "11",
-        "pageTitle": "I miei contatti",
-        "tabTitle": "Contatti - Maddalena Carnaghi - La mia guida di Brescia"
+        "pageTitle": "Mis contactos",
+        "tabTitle": "Contactos - Maddalena Carnaghi - La mia guida di Brescia"
       },
       "evidenza": {
         "2mila.yaml": {
@@ -673,7 +673,7 @@
         },
         "menu": "In evidenza",
         "nav": "9",
-        "pageTitle": "In evidenza",
+        "pageTitle": "En evidencia",
         "santagiulia.yaml": {
           "id": "santagiulia",
           "title": "Per bresciani che vogliono conoscere il Museo di Santa Giulia",
@@ -688,7 +688,7 @@
             }
           ]
         },
-        "tabTitle": "Itinerari in evidenza - Maddalena Carnaghi - La mia guida di Brescia",
+        "tabTitle": "Itinerarios destacados - Maddalena Carnaghi - La mia guida di Brescia",
         "tiporto16.yaml": {
           "id": "tiporto16",
           "title": "Ti porto a Brescia!",
@@ -722,7 +722,7 @@
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-title": "Le amiche, gli amici"
+              "subtitle-title": "Las amigas, los amigos"
             },
             {
               "subtitle-id": "1",
@@ -832,11 +832,11 @@
           ]
         },
         "associazioni.yaml": {
-          "id": "associazioni",
+          "id": "Asociaciones",
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-title": "Le realtà con cui collaboro"
+              "subtitle-title": "Las realidades con las que colaboro"
             },
             {
               "subtitle-id": "1",
@@ -899,15 +899,15 @@
           ]
         },
         "collaborazioni.yaml": {
-          "id": "collaborazioni",
+          "id": "Colaboraciones",
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-title": "Le mie collaborazioni"
+              "subtitle-title": "Mis colaboraciones"
             },
             {
               "subtitle-id": "1",
-              "subtitle-smallfont1": "<strong>Garda Tours</strong> – Tour e gite in barca",
+              "subtitle-smallfont1": "<strong>Garda Tours</strong> – Tours y paseos en barco",
               "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://https://gardatours.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-gardatours-h20.jpg\" alt=\"Logo Garda Tours\"></a>"
             },
             {
@@ -927,8 +927,13 @@
             },
             {
               "subtitle-id": "5",
+              "subtitle-smallfont1": "<strong>Simona Ventura</strong> – Archeologa e guida turistica di Torino in italiano e inglese",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"mailto:siventu@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\"></i>siventu@gmail.com<br><br></a>"
+            },
+            {
+              "subtitle-id": "6",
               "subtitle-smallfont1": "<strong>Francesca Vettori</strong> – Guida turistica a Trento in italiano, spagnolo e francese",
-              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"mailto:francesca-vettori@libero.it\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fas fa-at\"></i>francesca-vettori@libero.it<br><br></a>"
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"mailto:francesca-vettori@libero.it\" target=\"_blank\" rel=\"noopener noreferrer\">francesca-vettori@libero.it<br><br></a>"
             }
           ]
         },
@@ -940,22 +945,22 @@
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-smallfont1": "Mi Chiamo Maddalena, ho vissuto tanti anni all’estero e, da quando sono tornata, ho riscoperto ancora di più la bellezza della mia città, Brescia, e dei suoi meravigliosi laghi: Il Lago di Garda e Il Lago d’Iseo. Sono guida turistica abilitata dal 2011 e, da allora, amo condividere la bellezza, le curiosità, la storia di Brescia con tutti coloro che vengono in visita. Sono laureata in storia dell’arte e sono insegnante di italiano e storia a scuola, per cui le mie guide sono un perfetto mix di interazione, di aneddoti curiosi capaci di rendere le spiegazioni frizzanti. Spesso le persone che accompagno in tour mi dicono che trasmetto una grande passione. In effetti, è un lavoro che amo molto. Soprattutto, mi piace creare itinerari ad hoc per ogni persona e graduare il percorso in base alle esigenze o volontà di chi visita. Si possono fare tanti itinerari diversi: da quelli più turistici, a quelli più curiosi, così come ci si può rivolgere ad esperti d’arte e di storia o bambini. il mio lavoro è proprio quello: trovare la formula giusta per voi!",
+              "subtitle-smallfont1": "Mi nombre es Maddalena, he vivido en el extranjero durante muchos años. y, desde que regresé, he redescubierto aún más la belleza de mi ciudad, Brescia, y sus maravillosos lagos: el lago de Garda e Il Lago Iseo. He sido guía turístico con licencia desde 2011 y, desde entonces, me encanta compartir la belleza, las curiosidades, la historia de Brescia con todos aquellos que vienen a visitar. Soy licenciada en historia del arte y soy docente Italiano e historia en la escuela, por lo que mis guías son una mezcla perfecta de interacción, de anécdotas curiosas capaces de hacer brillar las explicaciones. A menudo las personas a las que acompaño en la gira me dicen que transmito una gran pasión. De hecho, es un trabajo que amo mucho. Sobre todo, me gusta crear itinerarios ad hoc para cada persona y graduar la ruta según las necesidades o la voluntad del visitante. Puedes hacer muchos itinerarios diferentes: desde esos más turístico, para los más curiosos, Así como puedes recurrir a expertos en arte e historia o niños. Ese es mi trabajo: encuentra la fórmula adecuada para ti!",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Una_guida_per_te",
-              "subtitle-mail-link-text": "Contattami per saperne di più"
+              "subtitle-mail-link-text": "Contáctame para saber más"
             }
           ]
         },
         "icon": "heart",
-        "menu": "Una guida per te",
+        "menu": "Una guía para ti",
         "nav": "2",
-        "pageTitle": "Una guida per te!",
+        "pageTitle": "¡Una guía para ti!",
         "progetti.yaml": {
           "id": "progetti",
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-title": "I Progetti che ho creato o a cui ho preso parte"
+              "subtitle-title": "Proyectos que he creado o en los que he participado"
             },
             {
               "subtitle-id": "1",
@@ -1012,7 +1017,7 @@
             }
           ]
         },
-        "tabTitle": "Una guida turistica abilitata di Brescia e del lago di Garda e Iseo per te"
+        "tabTitle": "Un guía turístico autorizado de Brescia y el lago de Garda e Iseo para usted"
       },
       "home": {
         "calendario.yaml": {
@@ -3907,12 +3912,12 @@
       },
       "2": {
         "icon": "heart",
-        "menu": "Una guida per te",
+        "menu": "Una guía para ti",
         "name": "guidaperte"
       },
       "3": {
         "icon": "calendar",
-        "menu": "Il Calendario",
+        "menu": "El calendario",
         "name": "calendario"
       },
       "4": {
@@ -3952,7 +3957,7 @@
       },
       "11": {
         "icon": "envelope-open-text",
-        "menu": "Contatti",
+        "menu": "Contactos",
         "name": "contatti"
       }
     },
