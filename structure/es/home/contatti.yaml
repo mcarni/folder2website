@@ -1,4 +1,4 @@
-title: Contatti
+title: Contactos
 id: contatti
 img-alt: Santa Maria in Solario. Reimpiego in facciata di una lastra romana - Visita
   guidata del Museo di Santa Giulia - Maddalena Carnaghi - La mia guida di Brescia
@@ -9,20 +9,20 @@ img-title: Santa Maria in Solario. Reimpiego in facciata di una lastra romana - 
   - contatti
 subtitles:
 - subtitle-id: '0'
-  subtitle-smallfont-azzurrino: <strong>Contattami!!!</strong>
+  subtitle-smallfont-azzurrino: <strong>"¡Contacta conmigo!"</strong>
   subtitle-smallfont1: <i class="px-3 fas fa-mobile-screen"></i>+39 3477667008
 - subtitle-id: '1'
-  subtitle-smallfont-azzurrino: <strong>o scrivimi!!!</strong>
+  subtitle-smallfont-azzurrino: <strong>"¡Escríbeme!"</strong>
   subtitle-smallfont1: <a class="text-reset text-decoration-none" href="mailto:lamiaguidadibrescia@proton.me"><i
     class="px-3 fas fa-at"></i>lamiaguidadibrescia@proton.me</a>
 - subtitle-id: '2'
-  subtitle-smallfont-azzurrino: <strong>non dimenticare di seguirmi</strong>
+  subtitle-smallfont-azzurrino: <strong>No olvides seguirme</strong>
   subtitle-smallfont1: <a class="text-reset text-decoration-none" href="https://www.facebook.com/la.mia.guida.di.brescia"
     target="_blank" rel="noopener noreferrer"><i class="px-3 fa-brands fa-facebook"></i></a><a
     class="text-reset text-decoration-none" href="https://www.instagram.com/lamiaguidadibrescia/"
     target="_blank" rel="noopener noreferrer"><i class="px-3 fa-brands fa-instagram"></i></a>
 - subtitle-id: '3'
-  subtitle-smallfont-azzurrino: <strong>e se vuoi lasciami una recensione su google</strong>
+  subtitle-smallfont-azzurrino: <strong>"Y, si quieres, déjame una reseña en Google"</strong>
   subtitle-smallfont1: "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/8CbmjNv\"\
     \ target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"\
     ></i>\"Un percorso tra le vie di Brescia, un tuffo nella storia e nelle storie\
