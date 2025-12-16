@@ -1,10 +1,10 @@
 title: Regala una visita guiada
 buttons:
-- button-smallfont: "Si tú tampoco soportas los regalos preempaquetados,\ 
-\ ¡Dona una experiencia!
-\n Podemos crear juntos el regalo perfecto para\ 
-\ un cumpleaños, aniversario, graduación, día de la madre, padre, de\ 
-\ abuelos o para cualquier evento especial"
+- button-smallfont: "Si tú tampoco soportas los regalos preempaquetados,
+    ¡Dona una experiencia!
+    \n Podemos crear juntos el regalo perfecto para
+    un cumpleaños, aniversario, graduación, día de la madre, padre, de
+    abuelos o para cualquier evento especial"
   button-target: collapseregalo
   button-text: "Scopri di pi\xF9"
 id: regalaunavisita

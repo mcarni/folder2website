@@ -84,7 +84,7 @@
             }
           ]
         },
-        "description.txt": "Organizo tours con grupos reducidos para descubrir, mientras nos divertimos, detalles inéditos de la ciudad. Partiendo de anécdotas curiosas, pero también de la historia oficial que trato de contar de una manera atractiva, para descubrir la evolución de la ciudad de Brescia y de su provincia.",
+        "description.txt": "Organizo tours con grupos reducidos para descubrir, mientras nos divertimos, detalles inéditos de la ciudad. Empezando con anécdotas curiosas, pero también de la historia oficial que trato de contar de una manera atractiva, para descubrir la evolución de la ciudad de Brescia y de su provincia.",
         "dicembre.yaml": {
           "title": "Dicembre",
           "id": "collapseDec",
@@ -889,7 +889,7 @@
           ]
         },
         "attraverso.yaml": {
-          "title": "Io attraverso gli altri",
+          "title": "yo a través de la mirada de los demás",
           "id": "attraverso",
           "subtitles": [
             {
@@ -945,7 +945,7 @@
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-smallfont1": "Mi nombre es Maddalena, he vivido en el extranjero durante muchos años. y, desde que regresé, he redescubierto aún más la belleza de mi ciudad, Brescia, y sus maravillosos lagos: el lago de Garda e Il Lago Iseo. He sido guía turístico con licencia desde 2011 y, desde entonces, me encanta compartir la belleza, las curiosidades, la historia de Brescia con todos aquellos que vienen a visitar. Soy licenciada en historia del arte y soy docente Italiano e historia en la escuela, por lo que mis guías son una mezcla perfecta de interacción, de anécdotas curiosas capaces de hacer brillar las explicaciones. A menudo las personas a las que acompaño en la gira me dicen que transmito una gran pasión. De hecho, es un trabajo que amo mucho. Sobre todo, me gusta crear itinerarios ad hoc para cada persona y graduar la ruta según las necesidades o la voluntad del visitante. Puedes hacer muchos itinerarios diferentes: desde esos más turístico, para los más curiosos, Así como puedes recurrir a expertos en arte e historia o niños. Ese es mi trabajo: encuentra la fórmula adecuada para ti!",
+              "subtitle-smallfont1": "Mi nombre es Maddalena, he vivido en Sudamérica y España durante varios años. y, desde que regresé, he redescubierto aún más la belleza de mi ciudad, Brescia, y sus maravillosos lagos: el lago de Garda e Il Lago Iseo. Soy guía turístico con licencia desde 2011 y, desde entonces, me encanta compartir la belleza, las curiosidades, la historia de Brescia con todos aquellos que vienen a visitar. Soy licenciada en historia del arte y soy docente Italiano e historia en la escuela, por lo que mis guías son una mezcla perfecta de interacción, de anécdotas curiosas capaces de hacer brillar las explicaciones. A menudo las personas a las que acompaño en la gira me dicen que transmito una gran pasión. De hecho, es un trabajo que amo mucho. Sobre todo, me gusta crear itinerarios ad hoc para cada persona y graduar la ruta según las necesidades o la voluntad del visitante. Puedes hacer muchos itinerarios diferentes: desde esos más turístico, para los más curiosos, Así como puedes recurrir a expertos en arte e historia o niños. Ese es mi trabajo: encuentra la fórmula adecuada para ti!",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Una_guida_per_te",
               "subtitle-mail-link-text": "Contáctame para saber más"
             }
@@ -956,7 +956,7 @@
         "nav": "2",
         "pageTitle": "¡Una guía para ti!",
         "progetti.yaml": {
-          "id": "progetti",
+          "id": "Proyectos",
           "subtitles": [
             {
               "subtitle-id": "0",
@@ -1017,7 +1017,7 @@
             }
           ]
         },
-        "tabTitle": "Un guía turístico autorizado de Brescia y el lago de Garda e Iseo para usted"
+        "tabTitle": "una visita guiada turística por la ciudad de Brescia, el lago de Garda y el lago Iseo para ti"
       },
       "home": {
         "calendario.yaml": {
@@ -1029,15 +1029,15 @@
             {
               "subtitle-id": "0",
               "subtitle-link": "calendario",
-              "subtitle-link-text": "unisciti a noi!",
-              "subtitle-smallfont1": "Organizzo tour con piccoli gruppi per scoprire, divertendosi, particolari inediti della città e della ricchissima provincia"
+              "subtitle-link-text": "¡Únete a nosotros!",
+              "subtitle-smallfont1": "Organizo tours con pequeños grupos para descubrir, divertiéndonos,  detalles inéditos de la ciudad y de su lindisima provincia alrededor"
             }
           ],
-          "title": "Il calendario",
+          "title": "El calendario",
           "vlinks": []
         },
         "contatti.yaml": {
-          "title": "Contatti",
+          "title": "Contactos",
           "id": "contatti",
           "img-alt": "Santa Maria in Solario. Reimpiego in facciata di una lastra romana - Visita guidata del Museo di Santa Giulia - Maddalena Carnaghi - La mia guida di Brescia - contatti",
           "img-src": "home_contatti.jpg",
@@ -1045,22 +1045,22 @@
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-smallfont-azzurrino": "<strong>Contattami!!!</strong>",
+              "subtitle-smallfont-azzurrino": "<strong>\"¡Contacta conmigo!\"</strong>",
               "subtitle-smallfont1": "<i class=\"px-3 fas fa-mobile-screen\"></i>+39 3477667008"
             },
             {
               "subtitle-id": "1",
-              "subtitle-smallfont-azzurrino": "<strong>o scrivimi!!!</strong>",
+              "subtitle-smallfont-azzurrino": "<strong>\"¡Escríbeme!\"</strong>",
               "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"mailto:lamiaguidadibrescia@proton.me\"><i class=\"px-3 fas fa-at\"></i>lamiaguidadibrescia@proton.me</a>"
             },
             {
               "subtitle-id": "2",
-              "subtitle-smallfont-azzurrino": "<strong>non dimenticare di seguirmi</strong>",
+              "subtitle-smallfont-azzurrino": "<strong>No olvides seguirme</strong>",
               "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/la.mia.guida.di.brescia\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-facebook\"></i></a><a class=\"text-reset text-decoration-none\" href=\"https://www.instagram.com/lamiaguidadibrescia/\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-instagram\"></i></a>"
             },
             {
               "subtitle-id": "3",
-              "subtitle-smallfont-azzurrino": "<strong>e se vuoi lasciami una recensione su google</strong>",
+              "subtitle-smallfont-azzurrino": "<strong>\"Y, si quieres, déjame una reseña en Google\"</strong>",
               "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/8CbmjNv\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"></i>\"Un percorso tra le vie di Brescia, un tuffo nella storia e nelle storie d'amore e di passioni travolgenti! Maddalena è una guida preparata e competente e il suo plus è il taglio squisitamente ironico che sa dare alla narrazione! Un' ora e mezza, o poco più, piacevole e avvincente! Bravissima...\"</a>"
             },
             {
@@ -1090,9 +1090,9 @@
           ]
         },
         "evidenza.yaml": {
-          "title": "In evidenza",
+          "title": "En evidencia",
           "id": "evidenza",
-          "title2": "<em>Le proposte legate al mese:</em>",
+          "title2": "<em>Las propuestas relacionadas con el mes:</em>",
           "img-alt": "Visita guidata del Castello di Brescia - Itinerario turistico del Falcone d'Italia - Tour di Brescia - Maddalena Carnaghi - La mia guida di Brescia - in evidenza",
           "img-src": "home_inevidenza.jpg",
           "img-title": "Visita guidata del Castello di Brescia - Itinerario turistico del Falcone d'Italia - Tour di Brescia - Maddalena Carnaghi - La mia guida di Brescia - in evidenza",
@@ -1156,7 +1156,7 @@
           ]
         },
         "guidaperte.yaml": {
-          "title": "Una guida per te",
+          "title": "¡Una guía para ti!",
           "id": "guidaperte",
           "img-alt": "Maddalena Carnaghi - Guida turistica abilitata di Brescia e del lago di Garda e Iseo - La mia guida di Brescia - una guida per te",
           "img-src": "home_guidaperte.jpg",
@@ -1165,8 +1165,8 @@
             {
               "subtitle-id": "0",
               "subtitle-link": "guidaperte",
-              "subtitle-link-text": "la tua guida di Brescia",
-              "subtitle-smallfont1": "Mi chiamo Maddalena, sono una guida turistica abilitata, amo accompagnare le persone a scoprire la mia Brescia! Mi piace mostrare la città a chi la vede per la prima volta e intende capirla con la mediazione di chi l’ha studiata a lungo e la vive, ma mi rivolgo anche ai bresciani che intendono riscoprirla. Ci sono ancora molte storie curiose da raccontare e si può trovare una formula inedita e per nulla noiosa!"
+              "subtitle-link-text": "tu guía para Brescia",
+              "subtitle-smallfont1": "Me llamo Maddalena, soy guía turística oficial, me encanta acompañar las personas a descubrir mi ciudad, Brescia! Me gusta contár la historia de la ciudad a quienes llegan aquí por primera vez, pero también a quienes la conocen desde hace mucho tiempo pero quieren descubrir nuevos itinerarios, monumentos y museos de la ciudad y los lagos."
             }
           ]
         },
@@ -1258,7 +1258,7 @@
           ]
         },
         "itinerari.yaml": {
-          "title": "Gli itinerari",
+          "title": "Los itinerarios",
           "id": "itinerari",
           "img-alt": "Piede della Vittoria Alata - Visita guidata di Brescia romana/itinerario turistico del Parco Archeologico di Brixia/Tempio Capitolino - Maddalena Carnaghi - La mia guida di Brescia gli - itinerari",
           "img-src": "home_itinerari.jpg",
@@ -1266,7 +1266,7 @@
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-smallfont1": "Brescia, la mia città, e i laghi che la circondano, si prestano a diversi tipi di visite guidate, scoprite con me:"
+              "subtitle-smallfont1": "Brescia, mi ciudad, y los lagos que la rodean, Se prestan a diferentes tipos de visitas guiadas, descubre conmigo:"
             }
           ],
           "vlinks": [
@@ -1301,22 +1301,22 @@
         "nav": "1",
         "pageTitle": "La mia guida di Brescia",
         "preparazione.yaml": {
-          "title2": "<em>In preparazione:</em>",
+          "title2": "<em>\"En preparación\":</em>",
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-smallfont1": "avete mai immaginato che anche da Brescia partirono coloro che divennero i guardiani del Santo Sepolcro? Vuoi scoprire dove si ritrovavano e cosa facevano a Brescia?",
-              "subtitle-title": "I Templari"
+              "subtitle-smallfont1": "\"¿alguna vez has imaginado que incluso desde Brescia algunos guerreros se han alistado para defender el Santo Sepulcro de Jerusalén?\" \"Quieres averiguar dónde estaban antes?\" \"¿Y qué hacían en Brescia?\\\"",
+              "subtitle-title": "Los Templarios"
             },
             {
               "subtitle-id": "1",
-              "subtitle-smallfont1": "stanche che il racconto sia sempre qualcosa di riferito da altri? Vi piacciono le fonti dirette e volete conoscere donne che hanno vissuto a Brescia e lo hanno raccontato? Storie incredibili vi attendono!",
-              "subtitle-title": "Le donne raccontate dalle donne"
+              "subtitle-smallfont1": "\"Cansadas de que la historia siempre sea reportada por ¿otros?\" \"Te gustan las fuentes directas y quieres conocer a mujeres que han vivido en Brescia y la contaron?\" \"¡Te esperan historias increíbles!\"",
+              "subtitle-title": "¡Mujeres contadas por mujeres!"
             },
             {
               "subtitle-id": "2",
-              "subtitle-smallfont1": "e se vi dicessi che una piazza bresciana è stata completamente allagata per giocare ad una battaglia navale? E  se raccontassi del palio e delle giostre medievali? E del passaggio di re e di regine?",
-              "subtitle-title": "I luoghi e i momenti delle feste"
+              "subtitle-smallfont1": "y si te dijera que una plaza en Brescia fue completamente Inundada para jugar una batalla naval? ¿Y si te contara del Palio y de justas medievales? ¿Y el paso de reyes y reinas?",
+              "subtitle-title": "Los lugares y momentos de las fiestas"
             }
           ]
         },
@@ -1327,13 +1327,13 @@
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-smallfont-azzurrino": "<strong>Regalate un buono per le mie visite guidate</strong>",
-              "subtitle-smallfont1": "Il buono minimo corrisponde alla partecipazione a due tour ovvero 16 euro (8 euro + 8 euro) ma si può regalare anche un tour in esclusiva..parliamone!"
+              "subtitle-smallfont-azzurrino": "<strong>Regala un cupón para mis visitas guiadas</strong>",
+              "subtitle-smallfont1": "El cupón mínimo corresponde a la participación en dos tours 16 euros (8 euros + 8 euros), pero también puedes regalar una visita exclusiva ¡Hablamolo!"
             },
             {
               "subtitle-id": "1",
-              "subtitle-smallfont-azzurrino": "<strong>Scegliete l’itinerario ed è fatta</strong>",
-              "subtitle-smallfont1": "Cliccate sul link di seguito e scegliete il tour che più preferite e poi ci sentiamo e prepariamo un regalo ad hoc per la persona cara!"
+              "subtitle-smallfont-azzurrino": "<strong>¡Elige el itinerario ylisto!</strong>",
+              "subtitle-smallfont1": "Haz clic en el enlace de abajo y elige el itinerario que mejor se adapta a ti o a la persona a quien lo quieres regalar"
             }
           ],
           "vlinks": [
@@ -1371,21 +1371,21 @@
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-smallfont1": "Se non avete le idee ben chiare, non vi preoccupate! Scrivetemi una mail raccontandomi quali sono i vostri desideri e vi aiuterò a trovare il regalo perfetto per l’occasione."
+              "subtitle-smallfont1": "Si no tienes una idea clara, ¡no te preocupes! ¡Escríbeme un correo electrónico diciéndome cuáles son tus deseos y te ayudaré a encontrar el regalo perfecto para ti"
             },
             {
               "subtitle-id": "1",
               "subtitle-link": "mailto:lamiaguidadibrescia@proton.me?subject=Contattami_per_regalare_una_visita",
-              "subtitle-link-text": "Contattami per regalare una visita",
-              "subtitle-smallfont1": "I buoni non hanno scadenza anche se meglio non far passare decenni!"
+              "subtitle-link-text": "Contacta conmigo para regalar una visita guiada",
+              "subtitle-smallfont1": " ¡Los cupones no caducan aunque sea mejor no dejar pasar décadas!"
             }
           ]
         },
         "regalaunavisita.yaml": {
-          "title": "Regala una visita",
+          "title": "Regala una visita guiada",
           "buttons": [
             {
-              "button-smallfont": "Se anche voi non sopportate più i regali preconfezionati, donate un’esperienza! \n Possiamo creare insieme il regalo perfetto per un compleanno, anniversario, laurea, festa della mamma, del papa’, dei nonni o per qualsiasi evento speciale.",
+              "button-smallfont": "Si tú tampoco soportas los regalos preempaquetados, ¡Dona una experiencia! \n Podemos crear juntos el regalo perfecto para un cumpleaños, aniversario, graduación, día de la madre, padre, de abuelos o para cualquier evento especial",
               "button-target": "collapseregalo",
               "button-text": "Scopri di più"
             }
@@ -1395,7 +1395,7 @@
           "img-src": "home_regalaunavisita.jpg",
           "img-title": "Visita guidata della rocca di Sirmione - Itinerario turistico del castello scaligero - Tour di Sirmione - Maddalena Carnaghi - La mia guida di Brescia - regala una visita"
         },
-        "tabTitle": "Maddalena Carnaghi - La mia guida di Brescia - Una guida per te"
+        "tabTitle": "Maddalena Carnaghi - La mia guida di Brescia - \"Una guía para ti\""
       },
       "itinerariclassici": {
         "description.txt": "",
@@ -1409,14 +1409,14 @@
             {
               "subtitle-id": "0",
               "subtitle-title": "Itinerarios clásicos pero nada aburridos",
-              "subtitle-smallfont1": "Brescia, mi ciudad, se presta a diferentes tipos de visitas guiadas. Descubre conmigo los tours de medio día o de día completo. Itinerarios históricos entre el Castillo y el centro de la ciudad, visitas guiadas al Parque Arqueológico y al Museo de Santa Giulia."
+              "subtitle-smallfont1": "Brescia, mi ciudad, se presta a diferentes tipos de visitas guiadas. Descubre conmigo los tours de medio día o de día completo Itinerarios históricos entre el Castillo y el centro de la ciudad, visitas guiadas al Parque Arqueológico y al Museo de Santa Giulia."
             }
           ],
           "vlinks": []
         },
-        "menu": "Gli itinerari classici",
+        "menu": "\"Los itinerarios clásicos\"",
         "nav": "4",
-        "pageTitle": "Itinerari classici ",
+        "pageTitle": "\"Los itinerarios clásicos\"",
         "parcoarcheologico.yaml": {
           "id": "Parque Arqueológico",
           "title": "Brescia",
@@ -1477,21 +1477,21 @@
         "icon": "graduation-cap",
         "itinerarididattici.yaml": {
           "id": "itinerarididattici",
-          "title": "Percorsi didattici per le scuole",
-          "title2": "pensati studiando i programmi ministeriali.",
+          "title": "Recorrido educativo para escuelas",
+          "title2": "inspirados en programas ministeriales escolares.",
           "subtitles": [
             {
-              "subtitle-smallfont1": "Essendo un’insegnante penso di avere l’approccio perfetto",
-              "subtitle-smallfont2": "per accompagnare gli studenti di ogni ordine e grado",
+              "subtitle-smallfont1": "Siendo una profesora, creo que tengo el enfoque perfecto",
+              "subtitle-smallfont2": "para acompañar a estudiantes de todos los niveles de escuelas",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_itinerari_didattici",
-              "subtitle-mail-link-text": "Prenota - Itinerari didattici"
+              "subtitle-mail-link-text": "Prenota - Itinerarios educativos"
             }
           ]
         },
-        "menu": "Gli itinerari didattici",
+        "menu": "Itinerarios educativos",
         "nav": "5",
-        "pageTitle": "Itinerari didattici",
-        "tabTitle": "Itinerari didattici - Maddalena Carnaghi - La mia guida di Brescia"
+        "pageTitle": "Itinerarios educativos",
+        "tabTitle": "Itinerarios educativos - Maddalena Carnaghi - La mia guida di Brescia"
       },
       "itinerarilaghi": {
         "barca-garda.yaml": {
@@ -1559,9 +1559,9 @@
             }
           ]
         },
-        "menu": "Gli itinerari dei laghi",
+        "menu": "Lo itinerarios de los lagos",
         "nav": "8",
-        "pageTitle": "Gli itinerari dei laghi",
+        "pageTitle": "Los itinerarios de los lagos",
         "risorgimento.yaml": {
           "id": "risorgimento",
           "title": "Brescia",
@@ -1608,8 +1608,8 @@
           "img-title": "Rutas de los lagos - Salò - Maddalena Carnaghi - La mia guida di Brescia",
           "itinerary-duration": "1 hora y media",
           "itinerary-type": "todos",
-          "itinerary-content": "visita de exteriores solo que incluye Piazza Carmine, la puerta de entrada al antiguo pueblo, los palacios y villas utilizados en el período de la República Social Italiana, la magnífica iglesia de Santa María, el palacio de la Magnífica Patria, los palacios a orillas del lago y las estatuas de dos de los principales protagonistas.",
-          "itinerary-description": "Salò permite comprender gratamente el desarrollo del lago de Garda en la historia desde un punto de vista privilegiado: un hermoso golfo mantenido en su belleza con elegantes edificios que van desde la Edad Media hasta principios del siglo XX. El paseo por la orilla del lago es realmente relajante y le permite descubrir los edificios utilizados durante el período de la República Social Italiana, así como el estilo Art Nouveau de los hermosos edificios con vistas al lago y al extraordinario Palazzo della Magnifica Patria. La Iglesia de Santa Maria Assunta es una verdadera joya del Renacimiento y en su interior se pueden admirar, además de una extraordinaria articulación arquitectónica, obras de Zenon Veronese, Romanino y Andrea Celesti. Por no hablar del Cristo de madera considerado por Andrea Mantegna como el más bello jamás visto.",
+          "itinerary-content": "visita y paseo en el Golfo de Salò que incluye Piazza Carmine, la puerta de entrada al antiguo pueblo, los palacios y villas utilizados en el período de la República Social Italiana, la magnífica iglesia de Santa María, el palacio de la Magnífica Patria, los palacios a orillas del lago y las estatuas de dos de los principales protagonistas.",
+          "itinerary-description": "Salò permite comprender la historia del Lago de Garda desde un punto de vista privilegiado: un hermoso golfo mantenido en su belleza con elegantes edificios que van desde el Renacimiento hasta el siglo XX. El paseo por la orilla del lago es realmente relajante y le permite descubrir tambien los edificios utilizados durante el período de la República Social Italiana, así como el estilo Art Nouveau de los hermosos edificios con vistas al lago y al extraordinario Palazzo della Magnifica Patria. La Iglesia de Santa Maria Assunta es una verdadera joya del Renacimiento y, en su interior se pueden admirar, además de una extraordinaria articulación arquitectónica, obras de Zenon Veronese, Romanino y Andrea Celesti. Por no hablar del Cristo de madera considerado por Andrea Mantegna como el más bello jamás visto.",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Lago_di_Garda-Salò",
           "itinerary-link-text": "Reserva Lago de Garda - Salò"
         },
@@ -1622,16 +1622,16 @@
           "img-alt": "Rutas de los lagos - Sirmione - Maddalena Carnaghi - La mia guida di Brescia",
           "img-title": "Rutas de los lagos - Sirmione - Maddalena Carnaghi - La mia guida di Brescia",
           "itinerary-duration": "2h / 2 horas y media",
-          "itinerary-type": "¡Todos! El Parque Arqueológico tiene puntos con diferencias de altura y grava que se caminan mejor con calzado deportivo",
-          "itinerary-content": "Parque arqueológico llamado \"Grotte di Catullo\", Rocca Scaligera, el pueblo, la orilla del lago, la iglesia de Santa Maria Maggiore y la Capilla de Sant'Anna al Ponte. También es posible un itinerario más corto que no entre en el castillo y el parque arqueológico",
-          "itinerary-description": "Sirmione, definida como una \"perla\" por el poeta Catulo, es realmente un lugar mágico donde la belleza de la naturaleza se encuentra con la puesta en valor que los hombres de la época romana y medieval fueron capaces de hacerle. Es realmente especial caminar por las estrechas calles donde reverbera el lago y descubrir juntos el período de la fundación Scaliger del castillo, la estructura de la pequeña iglesia protegida en las murallas y la enorme villa romana increíblemente ubicada en la punta de la península. Durante el paseo por la orilla del lago también se puede comentar la variedad del paisaje lacustre, las propiedades del agua del manantial de Boyola y ver la casa de María Callas.",
+          "itinerary-type": "¡Todos! El Parque Arqueológico tiene puntos con diferencias de altura y mejor caminar con calzado deportivo",
+          "itinerary-content": "Parque arqueológico llamado \"Grotte di Catullo\", Rocca Scaligera, el pueblo, la orilla del lago, la iglesia de Santa Maria Maggiore y la Capilla de Sant&#39Anna al Ponte. También es posible un itinerario más corto que no entre en el castillo y el parque arqueológico",
+          "itinerary-description": "Sirmione, definida como una \"perla\" por el poeta Catulo, es realmente un lugar mágico donde la belleza de la naturaleza se encuentra con la puesta en valor que los hombres de la época romana y medieval fueron capaces de hacerle. Es realmente especial caminar por las estrechas calles donde reverbera el lago y descubrir juntos el período de la fundación Scaligera del castillo, la estructura de la pequeña iglesia protegida en las murallas y la enorme villa romana increíblemente ubicada en la punta de la península. Durante el paseo por la orilla del lago también se puede comentar la variedad del paisaje lacustre, las propiedades del agua del manantial de Boyola y ver la casa de María Callas.",
           "itinerary-warning": "Es necesario reservar para grupos en la Rocca Scaligera y las Grutas de Catulo en el siguiente enlace:'",
           "itinerary-warning-link": "https://museiitaliani/musei",
           "itinerary-warning-link-text": "Musei italiani",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Lago_di_Garda-Sirmione",
           "itinerary-link-text": "Reserva Lago de Garda - Sirmione"
         },
-        "tabTitle": "Itinerari dei laghi - Maddalena Carnaghi - La mia guida di Brescia",
+        "tabTitle": "Los itinerarios de los Lagos - Maddalena Carnaghi - La mia guida di Brescia",
         "vittoriale.yaml": {
           "id": "vittoriale",
           "title": "Lago de Garda",
@@ -1655,20 +1655,20 @@
         "altomedioevo.yaml": {
           "id": "altomedioevo",
           "title": "Brescia",
-          "title2": "Itinerari alto medievali",
-          "subtitle": "Un vero e proprio ducato longobardo",
+          "title2": "Los itinerarios del comienzo de la Edad Media",
+          "subtitle": "Un auténtico ducado lombardo",
           "img-src": "brescia_it_altomedioevo.jpg",
-          "img-alt": "Itinerari storici - Itinerari alto medievali - Maddalena Carnaghi - La mia guida di Brescia",
-          "img-title": "Itinerari storici - Itinerari alto medievali - Maddalena Carnaghi - La mia guida di Brescia",
-          "itinerary-duration": "1 ora e mezza",
-          "itinerary-type": "appassionati di arte longobarda, per chi vuole scoprire meglio le nostre origini e per chi vuole sfatare il mito dei barbari invasori.",
-          "itinerary-content": "La visita guidata si svolge all’interno della sezione longobarda del Museo di Santa Giulia ma, se si ha tempo, potrebbe continuare e terminare in Piazza Vittoria, in corrispondenza di dove si trovava la Curia Ducis",
-          "itinerary-description": "Partendo dalle tombe, si approfondirà l’origine della popolazione longobarda. Si ripercorrerà il viaggio iniziato in Scania, il passaggio per la Pannonia e il momento del varco delle Alpi Giulie; attraverso gli oggetti del corredo si analizzeranno i loro usi e costumi. Si passerà poi alla conoscenza dei manufatti metallici e delle scritte incise sulle lastre. In ultimo, si entrerà nell’incredibile chiesa di San Salvatore. Si comprenderà la sua evoluzione, il senso per cui è stata costruita e tutti gli apparati decorativi di cui era composta. Anche se carolingia, si consiglia la visita della Croce detta di Desiderio.",
-          "itinerary-warning": "é consigliata la prenotazione per il Museo ed è necessaria se si è in gruppo al seguente link:",
+          "img-alt": "Los itinerarios históricos - Itinerari alto medievali - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Los itinerarios históricos - Itinerari alto medievali - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1 hora y media",
+          "itinerary-type": "Apasionados del arte lombardo, para quienes quieren descubrir mejor nuestros orígenes y para quienes quieren desmentir el mito de los invasores bárbaros.",
+          "itinerary-content": "La visita guiada tiene lugar dentro de la sección lombarda del Museo de Santa Giulia pero, si tienes tiempo, podría continuar y terminar en la Piazza Vittoria, donde se encontraba la Curia Ducis",
+          "itinerary-description": "Partiendo de las tumbas, se explorará el origen de la población lombarda. Repasaremos el viaje que comenzó en Escania, el paso por Panonia y el momento del cruce de los Alpes Julianos. A través de los objetos del ajuar, se analizarán sus usos y costumbres. A continuación, pasaremos al conocimiento de los artefactos metálicos y las inscripciones grabadas en las planchas. Finalmente, entraremos en la increíble iglesia de San Salvatore. Entenderemos su evolución, el significado para el que fue construida y todos los aparatos decorativos de los que fue compuesto. Aunque carolingia, recomendamos una visita a la Cruz conocida como la Cruz de Desiderio.",
+          "itinerary-warning": "Se recomienda reservar para el Museo y es obligatorio si estás en grupo, en el siguiente enlace:",
           "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
           "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerari_alto_medievali",
-          "itinerary-link-text": "Prenota Brescia - Itinerari alto medievali"
+          "itinerary-link-text": "Reserva Brescia - Los itinerarios del comienzo de la Edad Media"
         },
         "bassomedioevo.yaml": {
           "id": "bassomedioevo",
@@ -3922,12 +3922,12 @@
       },
       "4": {
         "icon": "landmark-dome",
-        "menu": "Gli itinerari classici",
+        "menu": "\"Los itinerarios clásicos\"",
         "name": "itinerariclassici"
       },
       "5": {
         "icon": "graduation-cap",
-        "menu": "Gli itinerari didattici",
+        "menu": "Itinerarios educativos",
         "name": "itinerarididattici"
       },
       "6": {
@@ -3942,7 +3942,7 @@
       },
       "8": {
         "icon": "water",
-        "menu": "Gli itinerari dei laghi",
+        "menu": "Lo itinerarios de los lagos",
         "name": "itinerarilaghi"
       },
       "9": {
