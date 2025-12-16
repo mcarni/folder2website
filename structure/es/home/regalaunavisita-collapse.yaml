@@ -3,13 +3,13 @@ collapse-class: row my-5 justify-content-center collapse collapseregalo
 id: collapseregalo
 subtitles:
 - subtitle-id: '0'
-  subtitle-smallfont-azzurrino: <strong>Regalate un buono per le mie visite guidate</strong>
-  subtitle-smallfont1: "Il buono minimo corrisponde alla partecipazione a due tour\
-    \ ovvero 16 euro (8 euro + 8 euro) ma si pu\xF2 regalare anche un tour in esclusiva..parliamone!"
+  subtitle-smallfont-azzurrino: <strong>Regala un cupón para mis visitas guiadas</strong>
+  subtitle-smallfont1: "El cupón mínimo corresponde a la participación en dos tours\
+  \16 euros (8 euros + 8 euros), pero también puedes regalar una visita exclusiva\
+  \¡Hablamolo!"
 - subtitle-id: '1'
-  subtitle-smallfont-azzurrino: "<strong>Scegliete l\u2019itinerario ed \xE8 fatta</strong>"
-  subtitle-smallfont1: "Cliccate sul link di seguito e scegliete il tour che pi\xF9\
-    \ preferite e poi ci sentiamo e prepariamo un regalo ad hoc per la persona cara!"
+  subtitle-smallfont-azzurrino: "<strong>¡Elige el itinerario ylisto!</strong>"
+  subtitle-smallfont1: "Haz clic en el enlace de abajo y elige el itinerario que mejor se adapta a ti o a la persona a quien lo quieres regalar"
 vlinks:
 - vlink-id: '0'
   vlink-link: itinerariclassici
