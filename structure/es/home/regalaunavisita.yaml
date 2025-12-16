@@ -1,9 +1,10 @@
-title: Regala una visita
+title: Regala una visita guiada
 buttons:
-- button-smallfont: "Se anche voi non sopportate pi\xF9 i regali preconfezionati,\
-    \ donate un\u2019esperienza! \n Possiamo creare insieme il regalo perfetto per\
-    \ un compleanno, anniversario, laurea, festa della mamma, del papa\u2019, dei\
-    \ nonni o per qualsiasi evento speciale."
+- button-smallfont: "Si tú tampoco soportas los regalos preempaquetados,\ 
+\ ¡Dona una experiencia!
+\n Podemos crear juntos el regalo perfecto para\ 
+\ un cumpleaños, aniversario, graduación, día de la madre, padre, de\ 
+\ abuelos o para cualquier evento especial"
   button-target: collapseregalo
   button-text: "Scopri di pi\xF9"
 id: regalaunavisita
