@@ -1,6 +1,6 @@
 id: pinacoteca
 title: Brescia
-title2: La Pinacoteca Tosio-Martinengo
+title2: 'La Pinacoteca Tosio-Martinengo'
 subtitle: Paseando por el palacio para descubrir las obras maestras
 img-src: brescia_it_pinacoteca.jpg
 img-alt: 'Itinerarios temáticos - La Pinacoteca Tosio-Martinengo - Maddalena Carnaghi - La mia guida di Brescia'
@@ -12,4 +12,4 @@ itinerary-warning: 'Se recomienda reservar al siguiente enlace y es obligatorio 
 itinerary-warning-link: https://www.ticketlandia.com/m/fondazione-brescia-musei
 itinerary-warning-link-text:  Ticket Fondazione Brescia Musei
 itinerary-link: mailto:lamiaguidadibrescia@proton.me
-?subject=Prenota_Brescia-Pinacoteca_Tosio-Martinengo
+itinerary-link-text: 'Reserva Brescia - La Pinacoteca Tosio-Martinengo'
