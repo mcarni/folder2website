@@ -12,10 +12,30 @@ events:
   event-text: "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città":" si parte dal periodo romano e si arriva al 1932!
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=ti_porto_a_Brescia
   event-link-text: "Contattami per saperne di pi\xF9"
-  - event-id: '1'
-  
+- event-id: '1'
+  event-title: Visita guidata alla mostra "Material for Exhibition" Storie, memorie e lotte dalla Palestina e dal Mediterraneo
+  event-header1: La prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra. Su prenotazione
+  event-header2: Domenica 8/02
+  event-header3: ore 10:40
+  event-header4: ''
+  event-text: 'Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione dell'arte palestinese, 
+   Si possono ammirare i contatti con l'arte occidentale, ma anche la freschezza e l'originalità delle opere in mostra, capaci di raccontare la storia, la tradizione
+   ma anche la fatica degli artisti selezionati a fare arte e a proteggerla nel loro Paese.
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Materialforexhibition
+  event-link-text: "Contattami per saperne di pi\xF9"
 - event-id: '2'
- event-title: Brescia, l'amore in ogni angolo
+  event-title: Visita guidata alla mostra "Material for Exhibition" Storie, memorie e lotte dalla Palestina e dal Mediterraneo
+  event-header1: La prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra. Su prenotazione
+  event-header2: Domenica 8/02
+  event-header3: ore 15:40
+  event-header4: ''
+  event-text: 'Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione dell'arte palestinese, 
+   Si possono ammirare i contatti con l'arte occidentale, ma anche la freschezza e l'originalità delle opere in mostra, capaci di raccontare la storia, la tradizione
+   ma anche la fatica degli artisti selezionati a fare arte e a proteggerla nel loro Paese.
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Materialforexhibition
+  event-link-text: "Contattami per saperne di pi\xF9"
+- event-id: '3'
+  event-title: Brescia, l'amore in ogni angolo
   event-header1: Visita guidata nel centro di Brescia raccontando, attraverso le storie d'amore, l'evoluzione storica della città
   event-header2: Sabato 14/02
   event-header3: ore 10:30
@@ -24,24 +44,15 @@ events:
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=L_amore_ad_ogni_angolo
   event-link-text: "Contattami per saperne di pi\xF9"
   event-link-text: "Contattami per saperne di pi\xF9"
-- event-id: '3'
-  event-title: Ultima visita guidata alla mostra 
-  event-header1: Ultimo appuntamento con una mostra che ci permette di riflettere sul nostro presente, attraverso i disegni sintetici ma potentissimi di Khalid Albaih
-  event-header2: Sabato 22/02
+- event-id: '4'
+  event-title: Ultima visita guidata alla mostra "Material for Exhibition" Storie, memorie e lotte dalla Palestina e dal Mediterraneo
+  event-header1: Ultimo appuntamento per conoscere la prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra. Su prenotazione
+  event-header2: Sabato 24/02
   event-header3: ore 15:40
   event-header4: ''
-  event-text: <p>Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione del Sudan, a riflettere sull'importanza dell'art-attivismo, di un'arte che guarda all'oggi e che ha saputo usare internet per diffondere quanto accade nei paesi sottoposti a censura. Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze.<br><br> 
-    Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze. E' possibile fare una donazione diretta all'ospedale di Khartoum a questo link:</p>
-    <a class="text-reset text-decoration-none" href="https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1"
-    target="_blank" rel="noopener noreferrer"><img src="/images/logo-emergency-h100.png" alt="Donazione Emergency"></a>
-  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih
+  event-text: 'Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione dell'arte palestinese, 
+   Si possono ammirare i contatti con l'arte occidentale, ma anche la freschezza e l'originalità delle opere in mostra, capaci di raccontare la storia, la tradizione
+   ma anche la fatica degli artisti selezionati a fare arte e a proteggerla nel loro Paese.
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Materialforexhibition
   event-link-text: "Contattami per saperne di pi\xF9"
-- event-id: '3'
-  event-title: Passeggiata esplorativa del Castello di Brescia che ripercorre il percorso compiuto dagli imperiali durante il Sacco di Brescia
-  event-header1: Il racconto dell'assalto del Castello dalla strada del soccorso, proprio come avvenne il 19 febbraio del 1512 (e come poi si è ripetuto nel 1849), quando i nemici della città portarono soccorso a chi assediava la città chiuso nelle mura del Falcone d'Italia
-  event-header2: Domenica 23/02
-  event-header3: ore 15:00
-  event-header4: ''
-  event-text: Per chi si reca spesso in castello ma vorrebbe conoscere meglio la sua storia e la sua evoluzione e capire il ruolo di quella maledetta strada del Soccorso che per ben 2 volte ha portato la distruzione della città e il massacro dei suoi cittadini. Solo in caso di bel tempo. E' possibile prenotarsi sino al giorno 16 febbraio
-  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Scopriamo_il_castello
-  event-link-text: "Contattami per saperne di pi\xF9"
+  
