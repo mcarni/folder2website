@@ -9,29 +9,23 @@ events:
   event-header2: Sabato 7/02
   event-header3: ore 10:00
   event-header4: ''
-  event-text: Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città":" si parte dal periodo romano e si arriva al 1932!
+  event-text: "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città":" si parte dal periodo romano e si arriva al 1932!
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=ti_porto_a_Brescia
   event-link-text: "Contattami per saperne di pi\xF9"
   - event-id: '1'
-  event-title: Brescia, l'amore in ogni angolo
+  
+- event-id: '2'
+ event-title: Brescia, l'amore in ogni angolo
   event-header1: Visita guidata nel centro di Brescia raccontando, attraverso le storie d'amore, l'evoluzione storica della città
-  event-header2: Domenica 09/02
+  event-header2: Sabato 14/02
   event-header3: ore 10:30
   event-header4: ''
   event-text: I rapporti sentimentali sono l'occasione per raccontare la storia di grandi personaggi che hanno agito sul territorio cittadino. Dal periodo longobardo, al Novecento, passando per le storie d'amore ambientate dal Boccaccio a Brescia o che hanno coinvolto i nostri eroi risorgimentali. E' possibile prenotarsi entro il 04 febbraio.
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=L_amore_ad_ogni_angolo
   event-link-text: "Contattami per saperne di pi\xF9"
-- event-id: '1'
-  event-title: Ti porto a Brescia!
-  event-header1: Visita guidata tesa a far conoscere il centro di Brescia a chi viene da fuori
-  event-header2: Domenica 16/02
-  event-header3: ore 10:00
-  event-header4: ''
-  event-text: Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città":" si parte dal periodo romano e si arriva al 1932!
-  event-link: mailto:lamiaguidadibrescia@proton.me?subject=ti_porto_a_Brescia
   event-link-text: "Contattami per saperne di pi\xF9"
-- event-id: '2'
-  event-title: Ultima visita guidata alla mostra di Khalid Albaih "la stagione della migrazione a nord"
+- event-id: '3'
+  event-title: Ultima visita guidata alla mostra 
   event-header1: Ultimo appuntamento con una mostra che ci permette di riflettere sul nostro presente, attraverso i disegni sintetici ma potentissimi di Khalid Albaih
   event-header2: Sabato 22/02
   event-header3: ore 15:40
