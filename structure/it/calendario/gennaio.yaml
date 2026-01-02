@@ -4,47 +4,41 @@ collapse: ''
 collapse-class: row my-2 justify-content-center collapse
 events:
 - event-id: '0'
-  event-title: Visita guidata alla mostra di Khalid Albaih "la stagione della migrazione a nord"
-  event-header1: I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency
-  event-header2: Sabato 11/01
-  event-header3: ore 14:20 incontro davanti al Museo di Santa Giulia
+  event-title: Ti porto a Brescia!
+  event-header1: 'Visita guidata tesa a far conoscere il centro di Brescia a chi viene da fuori e vuole conoscere gli aspetti più significativi, ma anche le curiosità di questa città unica'
+  event-header2: Domenica 17/01
+  event-header3: ore 10:00
   event-header4: ''
-  event-text: <p>Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione del Sudan, a riflettere sull'importanza dell'art-attivismo, di un'arte che guarda all'oggi e che ha saputo usare internet per diffondere quanto accade nei paesi sottoposti a censura. Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze.<br><br> 
-    Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze. E' possibile fare una donazione diretta all'ospedale di Khartoum a questo link:</p>
-    <a class="text-reset text-decoration-none" href="https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1"
-    target="_blank" rel="noopener noreferrer"><img src="/images/logo-emergency-h100.png" alt="Donazione Emergency"></a>
-  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih
+  event-text: "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città":" si parte dal periodo romano e si arriva al 1932!
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=ti_porto_a_Brescia
   event-link-text: "Contattami per saperne di pi\xF9"
-- event-id: '1'
-  event-title: Visita guidata alla mostra di Khalid Albaih "la stagione della migrazione a nord"
-  event-header1: I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency
-  event-header2: Domenica 12/01
-  event-header3: ore 15:40
+  - event-id: '1'
+  event-title: Visita guidata alla Chiesa delle Consolazioni
+  event-header1: iniziativa gratuita ma su prenotazione, proposta dalla Parrocchia di San Faustino
+  event-header2: Domenica 18/01
+  event-header3: ore 15:30 davanti alla Chiesa delle Consolazioni
   event-header4: ''
-  event-text: <p>Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione del Sudan, a riflettere sull'importanza dell'art-attivismo, di un'arte che guarda all'oggi e che ha saputo usare internet per diffondere quanto accade nei paesi sottoposti a censura. Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze.<br><br> 
-    Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze. E' possibile fare una donazione diretta all'ospedale di Khartoum a questo link:</p>
-    <a class="text-reset text-decoration-none" href="https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1"
-    target="_blank" rel="noopener noreferrer"><img src="/images/logo-emergency-h100.png" alt="Donazione Emergency"></a>
-  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih
+  event-text: 'Nell'ambito delle iniziative legate alla celebrazioni dei Santi Patroni, è prevista una breve visita a questa chiesa
+   purtroppo poco conosciuta ma che riserva delle sorprese...venite a scoprirla con me!'
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=ChiesaConsolazioni
   event-link-text: "Contattami per saperne di pi\xF9"
 - event-id: '2'
-  event-title: Visita guidata alla mostra di Khalid Albaih "la stagione della migrazione a nord"
-  event-header1: I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency
-  event-header2: Domenica 19/01
-  event-header3: ore 15:30
-  event-header4: ''
-  event-text: <p>Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione del Sudan, a riflettere sull'importanza dell'art-attivismo, di un'arte che guarda all'oggi e che ha saputo usare internet per diffondere quanto accade nei paesi sottoposti a censura. Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze.<br><br> 
-    Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze. E' possibile fare una donazione diretta all'ospedale di Khartoum a questo link:</p>
-    <a class="text-reset text-decoration-none" href="https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1"
-    target="_blank" rel="noopener noreferrer"><img src="/images/logo-emergency-h100.png" alt="Donazione Emergency"></a>
-  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih
-  event-link-text: "Contattami per saperne di pi\xF9"
-- event-id: '3'
-  event-title: Scopriamo la mostra "Vito Capone, un'antologia poetica" alla Fondazione Berardelli
-  event-header1: Percorso di visita gratuito che permette di conoscere l'arte di Vito Capone, partendo dai suoi disegni degli anni '70 e'80 per poi approdare ai libri scolpiti nella carta.
-  event-header2: Sabato 25/01
+event-title: Scopriamo la mostra "8rose" a Carme
+  event-header1: Percorso di visita gratuito che permette di conoscere l'arte di Mauro Campagnaro. Su prenotazione.
+  event-header2: Sabato 17/01
   event-header3: ore 18:15
   event-header4: ''
-  event-text: Visita guidata alla Fondazione Berardelli che propone una selezione di opere donate dall'artista che spaziano dalla ricerca segnica degli anni Settanta, sino ai Libri-Libri esposti al MoMA di New York nel 1992 e che hanno consacrato Vito Capone tra i massimi artisti dediti al Libro d'artista. Appuntamento alla Fondazione Berardelli, via Milano 107, 25126 Brescia.
-  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Vito_Capone
+  event-text: Visita guidata alla mostra "8rose" di Mauro Campagnaro che riflette sul tema della memoria collettiva e individuale, sulla materia, sul vuoto e interroga il fruitore sul suo rapporto con le tracce lasciate dalla storia.
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=8rose
+  event-link-text: "Contattami per saperne di pi\xF9"
+  - event-id: '3'
+  event-title: Visita guidata alla mostra "Material for Exhibition" Storie, memorie e lotte dalla Palestina e dal Mediterraneo
+  event-header1: La prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra. Su prenotazione
+  event-header2: Domenica 25/01
+  event-header3: ore 15:40
+  event-header4: ''
+  event-text: 'Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione dell'arte palestinese, 
+   Si possono ammirare i contatti con l'arte occidentale, ma anche la freschezza e l'originalità delle opere in mostra, capaci di raccontare la storia, la tradizione
+   ma anche la fatica degli artisti selezionati a fare arte e a proteggerla nel loro Paese.
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Materialforexhibition
   event-link-text: "Contattami per saperne di pi\xF9"
