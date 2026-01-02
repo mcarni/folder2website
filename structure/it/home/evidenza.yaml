@@ -1,11 +1,9 @@
 title: In evidenza
 id: evidenza
 title2: <em>Le proposte legate al mese:</em>
-img-alt: Visita guidata del Castello di Brescia - Itinerario turistico del Falcone
-  d'Italia - Tour di Brescia - Maddalena Carnaghi - La mia guida di Brescia - in evidenza
+img-alt: "Visita guidata del Castello di Brescia - Itinerario turistico del Falcone d'Italia - Tour di Brescia - Maddalena Carnaghi - La mia guida di Brescia - in evidenza"
 img-src: home_inevidenza.jpg
-img-title: Visita guidata del Castello di Brescia - Itinerario turistico del Falcone
-  d'Italia - Tour di Brescia - Maddalena Carnaghi - La mia guida di Brescia - in evidenza
+img-title: "Visita guidata del Castello di Brescia - Itinerario turistico del Falcone d'Italia - Tour di Brescia - Maddalena Carnaghi - La mia guida di Brescia - in evidenza"
 subtitles:
 - subtitle-id: '0'
   subtitle-title: "Ti porto a Brescia"
@@ -24,7 +22,7 @@ subtitles:
   subtitle-smallfont1: Domenica 18 gennaio ore 15:30
 - subtitle-id: '3'
   subtitle-title: Material for Exhibition - Storie, memorie e lotte dalla Palestina e dal Mediterraneo
-  subtitle-link: evidenza#palestina25genn
+  subtitle-link: evidenza#Palestina25genn
   subtitle-link-text: "per saperne di pi\xF9"
   subtitle-smallfont1: Domenica 25 gennaio ore 15:40
 - subtitle-id: '4'
@@ -34,21 +32,21 @@ subtitles:
   subtitle-smallfont1: Sabato 7 febbraio ore 10:00
 - subtitle-id: '5'
   subtitle-title: Material for Exhibition - Storie, memorie e lotte dalla Palestina e dal Mediterraneo
-  subtitle-link: evidenza#palestina8febbam
+  subtitle-link: evidenza#Palestina8febbam
   subtitle-link-text: "per saperne di pi\xF9"
   subtitle-smallfont1: Domenica 8 febbraio ore 10:40
 - subtitle-id: '6'
   subtitle-title: Material for Exhibition - Storie, memorie e lotte dalla Palestina e dal Mediterraneo
-  subtitle-link: evidenza#palestina8febbpm
+  subtitle-link: evidenza#Palestina8febbpm
   subtitle-link-text: "per saperne di pi\xF9"
   subtitle-smallfont1: Domenica 8 febbraio ore 15:40
 - subtitle-id: '7'
   subtitle-title: "L'amore ad ogni angolo"
-  subtitle-link: evidenza#clamore14
+  subtitle-link: evidenza#lamore14feb
   subtitle-link-text: "per saperne di pi\xF9"
   subtitle-smallfont1: Sabato 14 febbraio ore 10:30
-  - subtitle-id: '8'
+- subtitle-id: '8'
   subtitle-title: Material for Exhibition - Storie, memorie e lotte dalla Palestina e dal Mediterraneo
-  subtitle-link: evidenza#palestina24febb
+  subtitle-link: evidenza#Palestina24febb
   subtitle-link-text: "per saperne di pi\xF9"
   subtitle-smallfont1: Sabato 24 febbraio ore 15:40
