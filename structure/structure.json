@@ -2178,17 +2178,6 @@
               "event-link-text": "Contattami per saperne di più"
             },
             {
-              "event-id": "2",
-              "event-title": "Scopriamo la mostra \"8rose\" a Carme",
-              "event-header1": "Percorso di visita gratuito che permette di conoscere l'arte di Mauro Campagnaro. Su prenotazione.",
-              "event-header2": "Sabato 17/01",
-              "event-header3": "ore 18:15",
-              "event-header4": "",
-              "event-text": "Visita guidata alla mostra \"8rose\" di Mauro Campagnaro che riflette sul tema della memoria collettiva e individuale, sulla materia, sul vuoto e interroga il fruitore sul suo rapporto con le tracce lasciate dalla storia.",
-              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=8rose",
-              "event-link-text": "Contattami per saperne di più"
-            },
-            {
               "event-id": "3",
               "event-title": "Visita guidata alla mostra \"Material for Exhibition\" Storie, memorie e lotte dalla Palestina e dal Mediterraneo",
               "event-header1": "La prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra. Su prenotazione",
@@ -2461,6 +2450,32 @@
             }
           ]
         },
+        "8rose17genn.yaml": {
+          "id": "8rose17",
+          "title": "visita guidata alla Mostra \"8rose\"",
+          "title2": "Per scoprire la nuova mostra curata dall'associazione Carme in via Battaglie 61 a Brescia",
+          "subtitles": [
+            {
+              "subtitle-title": "Visita gratuita ma su prenotazione per conoscere la mostra personale di Mauro Campagnaro",
+              "subtitle-when": "Sabato 17/01 ore 18:15.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=8rose",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "Consolazioni18genn.yaml": {
+          "id": "Consolazioni18",
+          "title": "scopri la Chiesa delle Consolazioni",
+          "title2": "Nell'ambito delle iniziative per celebrare il culto dei Santi Patroni, scopri la Chiesa delle Consolazioni!",
+          "subtitles": [
+            {
+              "subtitle-title": "Visita gratuita ma su prenotazione organizzata dalla Chiesa di San Faustino",
+              "subtitle-when": "Domenica 18/01 ore 15:30.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Consolazioni",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
         "Khalid11.yaml": {
           "id": "Khalid11",
           "title": "Visita guidata alla mostra di Khalid Albaih",
@@ -2511,6 +2526,19 @@
             {
               "subtitle-when": "Sabato 22/02 ore 15:40.",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "Palestina25genn.yaml": {
+          "id": "Palestina25",
+          "title": "visita guidata alla Mostra \"Material for Exhibition\"",
+          "title2": "La prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra",
+          "subtitles": [
+            {
+              "subtitle-title": "Visita guidata alla nuova mostra organizzata dalla Fondazione Brescia Musei in consonanza con il Festival della Pace per conoscere l'arte di tre grandi artisti palestinesi (ed un libanese) che riflettono sul periodo che stiamo vivendo.",
+              "subtitle-when": "Domenica 25/01 ore 15:40",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Palestina",
               "subtitle-mail-link-text": "Contattami per saperne di più"
             }
           ]
@@ -2661,6 +2689,19 @@
         },
         "tabTitle": "Itinerari in evidenza - Maddalena Carnaghi - La mia guida di Brescia",
         "tiporto16.yaml": {
+          "id": "tiporto17",
+          "title": "Ti porto a Brescia!",
+          "title2": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria.",
+          "subtitles": [
+            {
+              "subtitle-title": "Visita per i non bresciani!",
+              "subtitle-when": "Sabato 17/01 ore 10:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Due_mila_anni",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "tiporto17genn.yaml": {
           "id": "tiporto17",
           "title": "Ti porto a Brescia!",
           "title2": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria.",
