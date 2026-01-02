@@ -4,12 +4,12 @@ collapse: ''
 collapse-class: row my-2 justify-content-center collapse
 events:
 - event-id: '0'
-   event-title: Ti porto a Brescia!
+  event-title: 'Ti porto a Brescia!'
   event-header1: Visita guidata tesa a far conoscere il centro di Brescia a chi viene da fuori
   event-header2: Sabato 7/02
   event-header3: ore 10:00
   event-header4: ''
-  event-text: "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città":" si parte dal periodo romano e si arriva al 1932!
+  event-text: "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città: si parte dal periodo romano e si arriva al 1932!"
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=ti_porto_a_Brescia
   event-link-text: "Contattami per saperne di pi\xF9"
 - event-id: '1'
@@ -18,9 +18,9 @@ events:
   event-header2: Domenica 8/02
   event-header3: ore 10:40
   event-header4: ''
-  event-text: 'Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione dell'arte palestinese, 
+  event-text: "Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione dell'arte palestinese, 
    Si possono ammirare i contatti con l'arte occidentale, ma anche la freschezza e l'originalità delle opere in mostra, capaci di raccontare la storia, la tradizione
-   ma anche la fatica degli artisti selezionati a fare arte e a proteggerla nel loro Paese.
+   ma anche la fatica degli artisti selezionati a fare arte e a proteggerla nel loro Paese."
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=Materialforexhibition
   event-link-text: "Contattami per saperne di pi\xF9"
 - event-id: '2'
@@ -29,30 +29,29 @@ events:
   event-header2: Domenica 8/02
   event-header3: ore 15:40
   event-header4: ''
-  event-text: 'Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione dell'arte palestinese, 
+  event-text: "Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione dell'arte palestinese, 
    Si possono ammirare i contatti con l'arte occidentale, ma anche la freschezza e l'originalità delle opere in mostra, capaci di raccontare la storia, la tradizione
-   ma anche la fatica degli artisti selezionati a fare arte e a proteggerla nel loro Paese.
+   ma anche la fatica degli artisti selezionati a fare arte e a proteggerla nel loro Paese."
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=Materialforexhibition
   event-link-text: "Contattami per saperne di pi\xF9"
 - event-id: '3'
   event-title: Brescia, l'amore in ogni angolo
-  event-header1: Visita guidata nel centro di Brescia raccontando, attraverso le storie d'amore, l'evoluzione storica della città
+  event-header1: "Visita guidata nel centro di Brescia raccontando, attraverso le storie d'amore, l'evoluzione storica della città"
   event-header2: Sabato 14/02
   event-header3: ore 10:30
   event-header4: ''
-  event-text: I rapporti sentimentali sono l'occasione per raccontare la storia di grandi personaggi che hanno agito sul territorio cittadino. Dal periodo longobardo, al Novecento, passando per le storie d'amore ambientate dal Boccaccio a Brescia o che hanno coinvolto i nostri eroi risorgimentali. E' possibile prenotarsi entro il 04 febbraio.
+  event-text: "I rapporti sentimentali sono l'occasione per raccontare la storia di grandi personaggi che hanno agito sul territorio cittadino. Dal periodo longobardo, al Novecento, passando per le storie d'amore ambientate dal Boccaccio a Brescia o che hanno coinvolto i nostri eroi risorgimentali. E' possibile prenotarsi entro il 04 febbraio."
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=L_amore_ad_ogni_angolo
-  event-link-text: "Contattami per saperne di pi\xF9"
   event-link-text: "Contattami per saperne di pi\xF9"
 - event-id: '4'
   event-title: Ultima visita guidata alla mostra "Material for Exhibition" Storie, memorie e lotte dalla Palestina e dal Mediterraneo
-  event-header1: Ultimo appuntamento per conoscere la prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra. Su prenotazione
+  event-header1: "Ultimo appuntamento per conoscere la prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra. Su prenotazione"
   event-header2: Sabato 24/02
   event-header3: ore 15:40
   event-header4: ''
-  event-text: 'Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione dell'arte palestinese, 
+  event-text: "Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione dell'arte palestinese, 
    Si possono ammirare i contatti con l'arte occidentale, ma anche la freschezza e l'originalità delle opere in mostra, capaci di raccontare la storia, la tradizione
-   ma anche la fatica degli artisti selezionati a fare arte e a proteggerla nel loro Paese.
+   ma anche la fatica degli artisti selezionati a fare arte e a proteggerla nel loro Paese."
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=Materialforexhibition
   event-link-text: "Contattami per saperne di pi\xF9"
   

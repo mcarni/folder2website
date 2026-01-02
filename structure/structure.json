@@ -1825,57 +1825,56 @@
         "donne.yaml": {
           "id": "donne",
           "title": "Brescia",
-          "title2": "I percorsi sulle donne",
-          "subtitle": "Quattro percorsi per riscoprire i volti delle donne celati dalla città",
+          "title2": "Los caminos sobre las mujeres",
+          "subtitle": "Cuatro caminos para redescubrir los rostros de mujeres ocultas por la ciudad",
           "img-src": "brescia_it_donne.jpg",
-          "img-alt": "Itinerari tematici - I percorsi sulle donne - Maddalena Carnaghi - La mia guida di Brescia",
-          "img-title": "Itinerari tematici - I percorsi sulle donne - Maddalena Carnaghi - La mia guida di Brescia",
-          "itinerary-duration": "1 ora e mezza",
-          "itinerary-type": "tutti!",
-          "itinerary-content-opt1": "I volti delle donne nel Museo di Santa Giulia.",
-          "itinerary-content-opt2": "I volti delle donne e le donne protagoniste nella Pinacoteca Tosio-Martinengo",
-          "itinerary-content-opt3": "Le donne che raccontano sé stesse e la loro vita a Brescia",
-          "itinerary-content-opt4": "le donne che hanno fatto la Resistenza",
-          "itinerary-description": "normalmente quando si pensa un museo si visualizza un contenitore di opere uniche, belle, importanti. Il nostro è molto di più: è un Monastero voluto dalla moglie dell’ultimo Re Longobardo, Desiderio, nell’VIII secolo. E si è conservato come monastero nel tempo, ampliandosi per esempio di un sacello del XII secolo, Santa Maria in Solario, che oggi ospita il tesoro del Monastero e, a fine Quattrocento, di un Coro per le Monache dipinto negli anni Trenta del secolo successivo. Indagando nell’orto delle monache, si sono trovate delle domus romane molto ben conservate anche per quanto riguarda gli alzati. Il Museo di Santa Giulia fa parte dei beni Unesco, si estende su oltre 14:000 mq e presenta 12.000 opere dalla preistoria all’età rinascimentale.",
-          "itinerary-warning": "é consigliata la prenotazione per il Museo ed è necessaria se si è in gruppo al seguente link:",
+          "img-alt": "Itinerarios temáticos - Los caminos sobre las mujeres - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerarios temáticos - Los caminos sobre las mujeres- Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "1h y media",
+          "itinerary-type": "¡Todos!",
+          "itinerary-content-opt1": "Los rostros de las mujeres en el Museo de Santa Giulia.",
+          "itinerary-content-opt2": "Los rostros de mujeres y protagonistas femeninas en la Galería de Arte Tosio-Martinengo",
+          "itinerary-content-opt3": "Las mujeres que cuentan sobre sí mismas y su vida en Brescia",
+          "itinerary-content-opt4": "las mujeres que formaron la Resistencia",
+          "itinerary-description": null,
+          "itinerary-warning": "Se recomienda reservar para el Museo y es obligatorio si estás en grupo, en el siguiente enlace:",
           "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
           "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-I_percorsi_sulle_donne",
-          "itinerary-link-text": "Contattami per saperne di più"
+          "itinerary-link-text": "Contacta conmigo para saber más"
         },
         "icon": "bullseye",
         "itineraritema.yaml": {
-          "id": "itinerariclassici",
-          "title": "una Brescia inedita ti attende",
+          "id": "itineraritema",
+          "title": "te espera una Brescia toda por descubrir",
           "title2": null,
           "subtitles": [
             {
-              "subtitle-smallfont1": "Avete voglia di essere guidati nella scoperta della città, delle collezioni, dei monumenti o di guardare ciò che già conoscete con occhi diversi?"
+              "subtitle-smallfont1": "¿Quieres ser guiado en el descubrimiento de la ciudad, las colecciones, los monumentos o mirar lo que ya conoces con otros ojos?"
             }
           ]
         },
-        "menu": "Gli itinerari tematici",
+        "menu": "'Itinerarios temáticos'",
         "nav": "6",
-        "pageTitle": "Itinerari tematici",
+        "pageTitle": "'Itinerarios temáticos'",
         "pinacoteca.yaml": {
           "id": "pinacoteca",
           "title": "Brescia",
           "title2": "La Pinacoteca Tosio-Martinengo",
-          "subtitle": "Passeggiando nel palazzo alla scoperta dei capolavori",
+          "subtitle": "Paseando por el palacio para descubrir las obras maestras",
           "img-src": "brescia_it_pinacoteca.jpg",
-          "img-alt": "Itinerari tematici - La Pinacoteca Tosio-Martinengo - Maddalena Carnaghi - La mia guida di Brescia",
-          "img-title": "Itinerari tematici - La Pinacoteca Tosio-Martinengo - Maddalena Carnaghi - La mia guida di Brescia",
-          "itinerary-duration": "2 ore",
-          "itinerary-type": "tutti e ancor di più per gli appassionati di pittura.",
-          "itinerary-content": "Le opere più significative della Pinacoteca Tosio-Martinengo.",
-          "itinerary-description": "alla National Gallery di Londra si ammirano opere dei nostri maestri bresciani del ‘500..mentre noi li abbiamo in uno spazio superlativo che forse non è abbastanza conosciuto. Il nuovo restauro e allestimento, avvenuto nel 2018, ha restituito l’aspetto della dimora signorile, sia per il percorso circolare, sia per l’illuminazione, la scansione degli spazi e le controsoffittature. In questo contesto nobile ed elegante, le cui pareti vellutate offrono colori in dialogo coi colori contenuti nei quadri, si presenta una collezione di eccezionale valore. Si parte dal maestro della pittura bresciana, Vincenzo Foppa, si passa alla visione di due piccole e delicatissime opere di Raffaello giovane, si attraversa la grande pittura lombarda del ‘500 coi capolavori di Romanino, Moretto, Lotto e Savoldo, si giunge davanti al complesso ciclo di Padernello del Pitocchetto e si prosegue in un susseguirsi di meraviglia fino a chiudere il percorso con capolavori di Hayez e Canova.",
-          "itinerary-warning": "è consigliata la prenotazione per il Museo ed è necessaria se si è in gruppo al seguente link:",
+          "img-alt": "Itinerarios temáticos - La Pinacoteca Tosio-Martinengo - Maddalena Carnaghi - La mia guida di Brescia",
+          "img-title": "Itinerarios temáticos - La Pinacoteca Tosio-Martinengo - Maddalena Carnaghi - La mia guida di Brescia",
+          "itinerary-duration": "2 horas",
+          "itinerary-type": "Para todos y aún más para los aficionionados a la pintura.",
+          "itinerary-description": "en la National Gallery de Londres se pueden admirar obras de nuestros maestros brescianos de los 500... mientras que nosotros las tenemos en un espacio superlativo que quizás no sea suficientemente conocido. La nueva restauración y acondicionamiento, que tuvo lugar en 2018, ha restaurado el aspecto de la casa señorial, tanto por el camino circular como por la iluminación, el escaneo de los espacios y los techos.. En este contexto noble y elegante, cuyas paredes aterciopeladas ofrecen colores en diálogo con los contenidos en las pinturas, se presenta una colección de valor excepcional. Comienza con el maestro de la pintura brescia, Vincenzo Foppa, pasa a la visión de dos obras pequeñas y muy delicadas del joven Rafael, cruza la gran pintura lombarda del 500 con las obras maestras de Romanino, Moretto, Lotto y Savoldo, llega ante el complejo ciclo de Padernello del Pitocchetto y continúa en una sucesión de asombro hasta cerrar el camino con obras maestras de Hayez y Canova.'",
+          "itinerary-warning": "Se recomienda reservar al siguiente enlace y es obligatorio para los grupos al siguiente enlace",
           "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
           "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
-          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Pinacoteca_Tosio-Martinengo",
-          "itinerary-link-text": "Prenota Brescia - La Pinacoteca Tosio-Martinengo"
+          "itinerary-link": "mailto:lamiaguidadibrescia@proton.me",
+          "itinerary-link-text": "Reserva Brescia - La Pinacoteca Tosio-Martinengo"
         },
-        "tabTitle": "Itinerari tematici - Maddalena Carnaghi - La mia guida di Brescia"
+        "tabTitle": "'Itinerarios temáticos - Maddalena Carnaghi - La mia guida di Brescia'"
       },
       "regalavisita": {
         "buono.yaml": {
@@ -2084,9 +2083,42 @@
           "events": [
             {
               "event-id": "0",
+              "event-title": "Ti porto a Brescia!",
+              "event-header1": "Visita guidata tesa a far conoscere il centro di Brescia a chi viene da fuori",
+              "event-header2": "Sabato 7/02",
+              "event-header3": "ore 10:00",
+              "event-header4": "",
+              "event-text": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città: si parte dal periodo romano e si arriva al 1932!",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=ti_porto_a_Brescia",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "1",
+              "event-title": "Visita guidata alla mostra \"Material for Exhibition\" Storie, memorie e lotte dalla Palestina e dal Mediterraneo",
+              "event-header1": "La prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra. Su prenotazione",
+              "event-header2": "Domenica 8/02",
+              "event-header3": "ore 10:40",
+              "event-header4": "",
+              "event-text": "Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione dell'arte palestinese, Si possono ammirare i contatti con l'arte occidentale, ma anche la freschezza e l'originalità delle opere in mostra, capaci di raccontare la storia, la tradizione ma anche la fatica degli artisti selezionati a fare arte e a proteggerla nel loro Paese.",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Materialforexhibition",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "2",
+              "event-title": "Visita guidata alla mostra \"Material for Exhibition\" Storie, memorie e lotte dalla Palestina e dal Mediterraneo",
+              "event-header1": "La prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra. Su prenotazione",
+              "event-header2": "Domenica 8/02",
+              "event-header3": "ore 15:40",
+              "event-header4": "",
+              "event-text": "Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione dell'arte palestinese, Si possono ammirare i contatti con l'arte occidentale, ma anche la freschezza e l'originalità delle opere in mostra, capaci di raccontare la storia, la tradizione ma anche la fatica degli artisti selezionati a fare arte e a proteggerla nel loro Paese.",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Materialforexhibition",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "3",
               "event-title": "Brescia, l'amore in ogni angolo",
               "event-header1": "Visita guidata nel centro di Brescia raccontando, attraverso le storie d'amore, l'evoluzione storica della città",
-              "event-header2": "Domenica 09/02",
+              "event-header2": "Sabato 14/02",
               "event-header3": "ore 10:30",
               "event-header4": "",
               "event-text": "I rapporti sentimentali sono l'occasione per raccontare la storia di grandi personaggi che hanno agito sul territorio cittadino. Dal periodo longobardo, al Novecento, passando per le storie d'amore ambientate dal Boccaccio a Brescia o che hanno coinvolto i nostri eroi risorgimentali. E' possibile prenotarsi entro il 04 febbraio.",
@@ -2094,36 +2126,14 @@
               "event-link-text": "Contattami per saperne di più"
             },
             {
-              "event-id": "1",
-              "event-title": "Ti porto a Brescia!",
-              "event-header1": "Visita guidata tesa a far conoscere il centro di Brescia a chi viene da fuori",
-              "event-header2": "Domenica 16/02",
-              "event-header3": "ore 10:00",
-              "event-header4": "",
-              "event-text": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città\":\" si parte dal periodo romano e si arriva al 1932!",
-              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=ti_porto_a_Brescia",
-              "event-link-text": "Contattami per saperne di più"
-            },
-            {
-              "event-id": "2",
-              "event-title": "Ultima visita guidata alla mostra di Khalid Albaih \"la stagione della migrazione a nord\"",
-              "event-header1": "Ultimo appuntamento con una mostra che ci permette di riflettere sul nostro presente, attraverso i disegni sintetici ma potentissimi di Khalid Albaih",
-              "event-header2": "Sabato 22/02",
+              "event-id": "4",
+              "event-title": "Ultima visita guidata alla mostra \"Material for Exhibition\" Storie, memorie e lotte dalla Palestina e dal Mediterraneo",
+              "event-header1": "Ultimo appuntamento per conoscere la prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra. Su prenotazione",
+              "event-header2": "Sabato 24/02",
               "event-header3": "ore 15:40",
               "event-header4": "",
-              "event-text": "<p>Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione del Sudan, a riflettere sull'importanza dell'art-attivismo, di un'arte che guarda all'oggi e che ha saputo usare internet per diffondere quanto accade nei paesi sottoposti a censura. Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze.<br><br> Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze. E' possibile fare una donazione diretta all'ospedale di Khartoum a questo link:</p> <a class=\"text-reset text-decoration-none\" href=\"https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-emergency-h100.png\" alt=\"Donazione Emergency\"></a>",
-              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
-              "event-link-text": "Contattami per saperne di più"
-            },
-            {
-              "event-id": "3",
-              "event-title": "Passeggiata esplorativa del Castello di Brescia che ripercorre il percorso compiuto dagli imperiali durante il Sacco di Brescia",
-              "event-header1": "Il racconto dell'assalto del Castello dalla strada del soccorso, proprio come avvenne il 19 febbraio del 1512 (e come poi si è ripetuto nel 1849), quando i nemici della città portarono soccorso a chi assediava la città chiuso nelle mura del Falcone d'Italia",
-              "event-header2": "Domenica 23/02",
-              "event-header3": "ore 15:00",
-              "event-header4": "",
-              "event-text": "Per chi si reca spesso in castello ma vorrebbe conoscere meglio la sua storia e la sua evoluzione e capire il ruolo di quella maledetta strada del Soccorso che per ben 2 volte ha portato la distruzione della città e il massacro dei suoi cittadini. Solo in caso di bel tempo. E' possibile prenotarsi sino al giorno 16 febbraio",
-              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Scopriamo_il_castello",
+              "event-text": "Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione dell'arte palestinese, Si possono ammirare i contatti con l'arte occidentale, ma anche la freschezza e l'originalità delle opere in mostra, capaci di raccontare la storia, la tradizione ma anche la fatica degli artisti selezionati a fare arte e a proteggerla nel loro Paese.",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Materialforexhibition",
               "event-link-text": "Contattami per saperne di più"
             }
           ]
@@ -2136,46 +2146,46 @@
           "events": [
             {
               "event-id": "0",
-              "event-title": "Visita guidata alla mostra di Khalid Albaih \"la stagione della migrazione a nord\"",
-              "event-header1": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
-              "event-header2": "Sabato 11/01",
-              "event-header3": "ore 14:20 incontro davanti al Museo di Santa Giulia",
+              "event-title": "Ti porto a Brescia!",
+              "event-header1": "Visita guidata tesa a far conoscere il centro di Brescia a chi viene da fuori e vuole conoscere gli aspetti più significativi, ma anche le curiosità di questa città unica",
+              "event-header2": "Domenica 17/01",
+              "event-header3": "ore 10:00",
               "event-header4": "",
-              "event-text": "<p>Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione del Sudan, a riflettere sull'importanza dell'art-attivismo, di un'arte che guarda all'oggi e che ha saputo usare internet per diffondere quanto accade nei paesi sottoposti a censura. Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze.<br><br> Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze. E' possibile fare una donazione diretta all'ospedale di Khartoum a questo link:</p> <a class=\"text-reset text-decoration-none\" href=\"https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-emergency-h100.png\" alt=\"Donazione Emergency\"></a>",
-              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
+              "event-text": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città: si parte dal periodo romano e si arriva al 1932!",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=ti_porto_a_Brescia",
               "event-link-text": "Contattami per saperne di più"
             },
             {
               "event-id": "1",
-              "event-title": "Visita guidata alla mostra di Khalid Albaih \"la stagione della migrazione a nord\"",
-              "event-header1": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
-              "event-header2": "Domenica 12/01",
-              "event-header3": "ore 15:40",
+              "event-title": "Visita guidata alla Chiesa delle Consolazioni",
+              "event-header1": "iniziativa gratuita ma su prenotazione, proposta dalla Parrocchia di San Faustino",
+              "event-header2": "Domenica 18/01",
+              "event-header3": "ore 15:30 davanti alla Chiesa delle Consolazioni",
               "event-header4": "",
-              "event-text": "<p>Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione del Sudan, a riflettere sull'importanza dell'art-attivismo, di un'arte che guarda all'oggi e che ha saputo usare internet per diffondere quanto accade nei paesi sottoposti a censura. Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze.<br><br> Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze. E' possibile fare una donazione diretta all'ospedale di Khartoum a questo link:</p> <a class=\"text-reset text-decoration-none\" href=\"https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-emergency-h100.png\" alt=\"Donazione Emergency\"></a>",
-              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
+              "event-text": "Nell'ambito delle iniziative legate alla celebrazioni dei Santi Patroni, è prevista una breve visita a questa chiesa purtroppo poco conosciuta ma che riserva delle sorprese...venite a scoprirla con me!",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=ChiesaConsolazioni",
               "event-link-text": "Contattami per saperne di più"
             },
             {
               "event-id": "2",
-              "event-title": "Visita guidata alla mostra di Khalid Albaih \"la stagione della migrazione a nord\"",
-              "event-header1": "I proventi verranno destinati interamente all'ospedale della capitale sudanese gestito da Emergency",
-              "event-header2": "Domenica 19/01",
-              "event-header3": "ore 15:30",
+              "event-title": "Scopriamo la mostra \"8rose\" a Carme",
+              "event-header1": "Percorso di visita gratuito che permette di conoscere l'arte di Mauro Campagnaro. Su prenotazione.",
+              "event-header2": "Sabato 17/01",
+              "event-header3": "ore 18:15",
               "event-header4": "",
-              "event-text": "<p>Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione del Sudan, a riflettere sull'importanza dell'art-attivismo, di un'arte che guarda all'oggi e che ha saputo usare internet per diffondere quanto accade nei paesi sottoposti a censura. Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze.<br><br> Il tutto attraverso l'arte di Khalid Albaih, disegnatore politico dalla matita acuminata, sagace e abilissima nel porci domande e aprire speranze. E' possibile fare una donazione diretta all'ospedale di Khartoum a questo link:</p> <a class=\"text-reset text-decoration-none\" href=\"https://donazioni.emergency.it/sudan/~mia-donazione?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMF6%2BoxeB30wH9dBMwy%2BSLQeLMZmD0XMJ4eaNdwrtjDs2ySCINf28xypHNAVzMfSIJlyxshYpLmwtFcv0437rNu&_cv=1\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-emergency-h100.png\" alt=\"Donazione Emergency\"></a>",
-              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Khalid_Albaih",
+              "event-text": "Visita guidata alla mostra \"8rose\" di Mauro Campagnaro che riflette sul tema della memoria collettiva e individuale, sulla materia, sul vuoto e interroga il fruitore sul suo rapporto con le tracce lasciate dalla storia.",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=8rose",
               "event-link-text": "Contattami per saperne di più"
             },
             {
               "event-id": "3",
-              "event-title": "Scopriamo la mostra \"Vito Capone, un'antologia poetica\" alla Fondazione Berardelli",
-              "event-header1": "Percorso di visita gratuito che permette di conoscere l'arte di Vito Capone, partendo dai suoi disegni degli anni '70 e'80 per poi approdare ai libri scolpiti nella carta.",
-              "event-header2": "Sabato 25/01",
-              "event-header3": "ore 18:15",
+              "event-title": "Visita guidata alla mostra \"Material for Exhibition\" Storie, memorie e lotte dalla Palestina e dal Mediterraneo",
+              "event-header1": "La prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra. Su prenotazione",
+              "event-header2": "Domenica 25/01",
+              "event-header3": "ore 15:40",
               "event-header4": "",
-              "event-text": "Visita guidata alla Fondazione Berardelli che propone una selezione di opere donate dall'artista che spaziano dalla ricerca segnica degli anni Settanta, sino ai Libri-Libri esposti al MoMA di New York nel 1992 e che hanno consacrato Vito Capone tra i massimi artisti dediti al Libro d'artista. Appuntamento alla Fondazione Berardelli, via Milano 107, 25126 Brescia.",
-              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Vito_Capone",
+              "event-text": "Una mostra, promossa in consonanza con il Festival della pace, che invita a conoscere la situazione dell'arte palestinese, Si possono ammirare i contatti con l'arte occidentale, ma anche la freschezza e l'originalità delle opere in mostra, capaci di raccontare la storia, la tradizione ma anche la fatica degli artisti selezionati a fare arte e a proteggerla nel loro Paese.",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Materialforexhibition",
               "event-link-text": "Contattami per saperne di più"
             }
           ]
@@ -3931,7 +3941,7 @@
       },
       "6": {
         "icon": "bullseye",
-        "menu": "Gli itinerari tematici",
+        "menu": "'Itinerarios temáticos'",
         "name": "itineraritema"
       },
       "7": {
