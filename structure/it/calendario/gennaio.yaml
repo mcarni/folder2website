@@ -13,8 +13,6 @@ events:
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=ti_porto_a_Brescia
   event-link-text: "Contattami per saperne di pi\xF9"
 - event-id: '1'
-<<<<<<< HEAD
-=======
   event-title: Scopriamo la mostra "8rose" a Carme
   event-header1: Percorso di visita gratuito che permette di conoscere l'arte di Mauro Campagnaro. Su prenotazione.
   event-header2: Sabato 17/01
@@ -24,7 +22,6 @@ events:
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=8rose
   event-link-text: "Contattami per saperne di pi\xF9"
 - event-id: '2'
->>>>>>> e2a5210f47e3ecb2cac566e58406791f38a60d03
   event-title: Visita guidata alla Chiesa delle Consolazioni
   event-header1: iniziativa gratuita ma su prenotazione, proposta dalla Parrocchia di San Faustino
   event-header2: Domenica 18/01
@@ -34,7 +31,6 @@ events:
    purtroppo poco conosciuta ma che riserva delle sorprese...venite a scoprirla con me!"
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=ChiesaConsolazioni
   event-link-text: "Contattami per saperne di pi\xF9"
-<<<<<<< HEAD
 - event-id: '2'
   event-title: Scopriamo la mostra "8rose" a Carme
   event-header1: "Percorso di visita gratuito che permette di conoscere l'arte di Mauro Campagnaro. Su prenotazione."
@@ -44,8 +40,6 @@ events:
   event-text: Visita guidata alla mostra "8rose" di Mauro Campagnaro che riflette sul tema della memoria collettiva e individuale, sulla materia, sul vuoto e interroga il fruitore sul suo rapporto con le tracce lasciate dalla storia.
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=8rose
   event-link-text: "Contattami per saperne di pi\xF9"
-=======
->>>>>>> e2a5210f47e3ecb2cac566e58406791f38a60d03
 - event-id: '3'
   event-title: Visita guidata alla mostra "Material for Exhibition" Storie, memorie e lotte dalla Palestina e dal Mediterraneo
   event-header1: "La prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra. Su prenotazione"

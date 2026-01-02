@@ -2148,7 +2148,7 @@
               "event-id": "0",
               "event-title": "Ti porto a Brescia!",
               "event-header1": "Visita guidata tesa a far conoscere il centro di Brescia a chi viene da fuori e vuole conoscere gli aspetti più significativi, ma anche le curiosità di questa città unica",
-              "event-header2": "Domenica 17/01",
+              "event-header2": "Sabato 17/01",
               "event-header3": "ore 10:00",
               "event-header4": "",
               "event-text": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria. Tanti aneddoti curiosi per scoprire la nostra città: si parte dal periodo romano e si arriva al 1932!",
@@ -2157,6 +2157,17 @@
             },
             {
               "event-id": "1",
+              "event-title": "Scopriamo la mostra \"8rose\" a Carme",
+              "event-header1": "Percorso di visita gratuito che permette di conoscere l'arte di Mauro Campagnaro. Su prenotazione.",
+              "event-header2": "Sabato 17/01",
+              "event-header3": "ore 18:15",
+              "event-header4": "",
+              "event-text": "Visita guidata alla mostra \"8rose\" di Mauro Campagnaro che riflette sul tema della memoria collettiva e individuale, sulla materia, sul vuoto e interroga il fruitore sul suo rapporto con le tracce lasciate dalla storia.",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=8rose",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "2",
               "event-title": "Visita guidata alla Chiesa delle Consolazioni",
               "event-header1": "iniziativa gratuita ma su prenotazione, proposta dalla Parrocchia di San Faustino",
               "event-header2": "Domenica 18/01",
@@ -2650,13 +2661,13 @@
         },
         "tabTitle": "Itinerari in evidenza - Maddalena Carnaghi - La mia guida di Brescia",
         "tiporto16.yaml": {
-          "id": "tiporto16",
+          "id": "tiporto17",
           "title": "Ti porto a Brescia!",
           "title2": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria.",
           "subtitles": [
             {
               "subtitle-title": "Visita per i non bresciani!",
-              "subtitle-when": "Domenica 16/02 ore 15:00.",
+              "subtitle-when": "Sabato 17/01 ore 10:00.",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Due_mila_anni",
               "subtitle-mail-link-text": "Contattami per saperne di più"
             }
