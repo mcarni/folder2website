@@ -2530,6 +2530,19 @@
             }
           ]
         },
+        "Palestina24febb.yaml": {
+          "id": "Palestina24feb",
+          "title": "visita guidata alla Mostra \"Material for Exhibition\"",
+          "title2": "La prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra",
+          "subtitles": [
+            {
+              "subtitle-title": "Visita guidata alla nuova mostra organizzata dalla Fondazione Brescia Musei in consonanza con il Festival della Pace per conoscere l'arte di tre grandi artisti palestinesi (ed un libanese) che riflettono sul periodo che stiamo vivendo.",
+              "subtitle-when": "Sabato 24/02 ore 15:40",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Palestina",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
         "Palestina25genn.yaml": {
           "id": "Palestina25",
           "title": "visita guidata alla Mostra \"Material for Exhibition\"",
@@ -2538,6 +2551,32 @@
             {
               "subtitle-title": "Visita guidata alla nuova mostra organizzata dalla Fondazione Brescia Musei in consonanza con il Festival della Pace per conoscere l'arte di tre grandi artisti palestinesi (ed un libanese) che riflettono sul periodo che stiamo vivendo.",
               "subtitle-when": "Domenica 25/01 ore 15:40",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Palestina",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "Palestina8febbam.yaml": {
+          "id": "Palestina8febam",
+          "title": "visita guidata alla Mostra \"Material for Exhibition\"",
+          "title2": "La prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra",
+          "subtitles": [
+            {
+              "subtitle-title": "Visita guidata alla nuova mostra organizzata dalla Fondazione Brescia Musei in consonanza con il Festival della Pace per conoscere l'arte di tre grandi artisti palestinesi (ed un libanese) che riflettono sul periodo che stiamo vivendo.",
+              "subtitle-when": "Domenica 08/02 ore 10:40",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Palestina",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "Palestina8febbpm.yaml": {
+          "id": "Palestina8febapm",
+          "title": "visita guidata alla Mostra \"Material for Exhibition\"",
+          "title2": "La prima mostra di artisti palestinesi e del bacino Mediterraneo dall'inizio della guerra",
+          "subtitles": [
+            {
+              "subtitle-title": "Visita guidata alla nuova mostra organizzata dalla Fondazione Brescia Musei in consonanza con il Festival della Pace per conoscere l'arte di tre grandi artisti palestinesi (ed un libanese) che riflettono sul periodo che stiamo vivendo.",
+              "subtitle-when": "Domenica 08/02 ore 15:40",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Palestina",
               "subtitle-mail-link-text": "Contattami per saperne di più"
             }
@@ -2630,6 +2669,19 @@
         },
         "description.txt": "",
         "icon": "highlighter",
+        "lamore14feb.yaml": {
+          "id": "lamore14",
+          "title": "Brescia e l'amore in ogni angolo",
+          "title2": "Visita guidata nel centro di Brescia raccontando, attraverso le storie d'amore, l'evoluzione storica della città",
+          "subtitles": [
+            {
+              "subtitle-title": "un san Valentino diverso!, un San Valentino made in Brescia!",
+              "subtitle-when": "Sabato 14/02 ore 10:30",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=l_amore",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
         "lamore9.yaml": {
           "id": "lamore9",
           "title": "Brescia e l'amore in ogni angolo",
@@ -2709,6 +2761,19 @@
             {
               "subtitle-title": "Visita per i non bresciani!",
               "subtitle-when": "Sabato 17/01 ore 10:00.",
+              "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Due_mila_anni",
+              "subtitle-mail-link-text": "Contattami per saperne di più"
+            }
+          ]
+        },
+        "tiporto7febb.yaml": {
+          "id": "tiporto17",
+          "title": "Ti porto a Brescia!",
+          "title2": "Visita guidata tra le Piazze di Brescia, passando per il Corridoio Unesco nel Monastero di Santa Giulia e sul podio del Tempio Capitolino, visitando il Duomo Vecchio per poi proseguire con il Duomo Nuovo, il Broletto, Piazza Loggia e, per concludere, Piazza Vittoria.",
+          "subtitles": [
+            {
+              "subtitle-title": "Visita per i non bresciani!",
+              "subtitle-when": "Sabato 07/02 ore 10:00.",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Due_mila_anni",
               "subtitle-mail-link-text": "Contattami per saperne di più"
             }
