@@ -8,42 +8,47 @@ img-title: Visita guidata del Castello di Brescia - Itinerario turistico del Fal
   d'Italia - Tour di Brescia - Maddalena Carnaghi - La mia guida di Brescia - in evidenza
 subtitles:
 - subtitle-id: '0'
-  subtitle-title: Per bresciani che vogliono conoscere il Museo di Santa Giulia
-  subtitle-link: evidenza#santagiulia
+  subtitle-title: "Ti porto a Brescia"
+  subtitle-link: evidenza#tiporto17genn
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Sabato 30 agosto ore 10:00
+  subtitle-smallfont1: Sabato 17 gennaio ore 10:00
 - subtitle-id: '1'
-  subtitle-title: Una domenica al Vittoriale 
-  subtitle-link: evidenza#vittoriale
+  subtitle-title: Visita guidata alla mostra "8rose"
+  subtitle-link: evidenza#8rose17genn
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Domenica 31 agosto ore 10:00
+  subtitle-smallfont1: Sabato 17 gennaio ore 18:15
 - subtitle-id: '2'
-  subtitle-title: La Breccia di Porta Pia
-  subtitle-link: evidenza#breccia
+  subtitle-title: La chiesa delle Consolazioni
+  subtitle-link: evidenza#consolazioni18genn
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Sabato 13 settembre ore 10:00
+  subtitle-smallfont1: Domenica 18 gennaio ore 15:30
 - subtitle-id: '3'
-  subtitle-title: Brescia Nascosta - Carmine
-  subtitle-link: evidenza#brescianascosta
+  subtitle-title: Material for Exhibition - Storie, memorie e lotte dalla Palestina e dal Mediterraneo
+  subtitle-link: evidenza#palestina25genn
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Domenica 14 settembre ore 14:30
+  subtitle-smallfont1: Domenica 25 gennaio ore 15:40
 - subtitle-id: '4'
-  subtitle-title: Quando in città si parlava latino
-  subtitle-link: evidenza#latino
+  subtitle-title: "Ti porto a Brescia!"
+  subtitle-link: evidenza#tiporto7febb
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Sabato 4 ottobre dalle 15:00 alle 17:00
+  subtitle-smallfont1: Sabato 7 febbraio ore 10:00
 - subtitle-id: '5'
-  subtitle-title: Il Quartiere del Carmine come non lo avete mai visto
-  subtitle-link: evidenza#carmine
+  subtitle-title: Material for Exhibition - Storie, memorie e lotte dalla Palestina e dal Mediterraneo
+  subtitle-link: evidenza#palestina8febbam
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Domenica 5 ottobre ore 10:00
-- subtitle-id: '3'
-  subtitle-title: Brescia Nascosta - via Milano 
-  subtitle-link: evidenza#brescianascosta1910
-  subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Domenica 19 ottobre ore 14:30
+  subtitle-smallfont1: Domenica 8 febbraio ore 10:40
 - subtitle-id: '6'
-  subtitle-title: All'attacco! Il castello di Brescia dalla Strada del soccorso
-  subtitle-link: evidenza#castello
+  subtitle-title: Material for Exhibition - Storie, memorie e lotte dalla Palestina e dal Mediterraneo
+  subtitle-link: evidenza#palestina8febbpm
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Sabato 25 ottobre dalle 15:00 alle 17:00
+  subtitle-smallfont1: Domenica 8 febbraio ore 15:40
+- subtitle-id: '7'
+  subtitle-title: "L'amore ad ogni angolo"
+  subtitle-link: evidenza#clamore14
+  subtitle-link-text: "per saperne di pi\xF9"
+  subtitle-smallfont1: Sabato 14 febbraio ore 10:30
+  - subtitle-id: '8'
+  subtitle-title: Material for Exhibition - Storie, memorie e lotte dalla Palestina e dal Mediterraneo
+  subtitle-link: evidenza#palestina24febb
+  subtitle-link-text: "per saperne di pi\xF9"
+  subtitle-smallfont1: Sabato 24 febbraio ore 15:40
