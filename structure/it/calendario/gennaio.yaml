@@ -5,7 +5,7 @@ collapse-class: row my-2 justify-content-center collapse
 events:
 - event-id: '0'
   event-title: 'Ti porto a Brescia!'
-  event-header1: 'Visita guidata tesa a far conoscere il centro di Brescia a chi viene da fuori e vuole conoscere gli aspetti più significativi, ma anche le curiosità di questa città unica'
+  event-header1: 'Visita guidata tesa a far conoscere il centro di Brescia a chi viene da fuori e vuole conoscere gli aspetti più significativi, ma anche le curiosità, di questa città unica'
   event-header2: Sabato 17/01
   event-header3: ore 10:00
   event-header4: ''
