@@ -1,0 +1,19 @@
+title: Brescia da scoprire
+id: bresciadascroprire
+subtitles:
+- subtitle-id: '1'
+  subtitle-title: 'video1'
+  subtitle-video: 'https://www.youtube.com/embed/DKBG_fWxU_g'
+  subtitle-smallfont1: 'piccola descrizione video 1'
+- subtitle-id: '2'
+  subtitle-title: 'video2'
+  subtitle-video: 'https://www.youtube.com/embed/X7tsP5tpUFM'
+  subtitle-smallfont1: 'piccola descrizione video 2'
+- subtitle-id: '3'
+  subtitle-title: 'video3'
+  subtitle-video: 'https://www.youtube.com/embed/PqojzoJZAXw'
+  subtitle-smallfont1: 'piccola descrizione video 3'
+- subtitle-id: '4'
+  subtitle-title: 'video4'
+  subtitle-video: 'https://www.youtube.com/embed/ddt5DhuLfvc'
+  subtitle-smallfont1: 'piccola descrizione video 4'

@@ -60,7 +60,13 @@
             <h3 class="smallFont"><%- key["subtitle-smallfont4"] %></h3>
             <h3 class="smallFont"><%- key["subtitle-smallfont5"] %></h3>
             <br>
-            
+
+            <% if (key["subtitle-video"] != null ) { %>
+              <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src=<%- key["subtitle-video"] %> allowfullscreen></iframe>
+              </div>
+            <% } %>
+                        
             <% if (key["subtitle-when"] != null ) { %>
               <h6><em>Quando: </em><%- key["subtitle-when"] %></h6>
             <% } %>

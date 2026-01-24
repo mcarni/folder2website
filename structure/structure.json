@@ -2576,7 +2576,7 @@
         },
         "8rose17genn.yaml": {
           "id": "8rose17genn",
-          "title": "visita guidata alla Mostra \"8rose\"",
+          "title": "visita guidata alla Mostra \"Ottorose\"",
           "title2": "Per scoprire la nuova mostra curata dall'associazione Carme in via Battaglie 61 a Brescia",
           "subtitles": [
             {
@@ -2593,7 +2593,7 @@
           "title2": "Nell'ambito delle iniziative per celebrare il culto dei Santi Patroni, scopri la Chiesa delle Consolazioni!",
           "subtitles": [
             {
-              "subtitle-title": "Visita gratuita ma su prenotazione organizzata dalla Chiesa di San Faustino",
+              "subtitle-title": "Visita gratuita ma su prenotazione organizzata dalla Confraternita dei SS. Faustino e Giovita",
               "subtitle-when": "Domenica 18/01 ore 15:30.",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Consolazioni",
               "subtitle-mail-link-text": "Contattami per saperne di più"
@@ -3221,6 +3221,36 @@
         "tabTitle": "Una guida turistica abilitata di Brescia e del lago di Garda e Iseo per te"
       },
       "home": {
+        "brescia.yaml": {
+          "title": "Brescia da scoprire",
+          "id": "bresciadascroprire",
+          "subtitles": [
+            {
+              "subtitle-id": "1",
+              "subtitle-title": "video1",
+              "subtitle-video": "https://www.youtube.com/embed/DKBG_fWxU_g",
+              "subtitle-smallfont1": "piccola descrizione video 1"
+            },
+            {
+              "subtitle-id": "2",
+              "subtitle-title": "video2",
+              "subtitle-video": "https://www.youtube.com/embed/X7tsP5tpUFM",
+              "subtitle-smallfont1": "piccola descrizione video 2"
+            },
+            {
+              "subtitle-id": "3",
+              "subtitle-title": "video3",
+              "subtitle-video": "https://www.youtube.com/embed/PqojzoJZAXw",
+              "subtitle-smallfont1": "piccola descrizione video 3"
+            },
+            {
+              "subtitle-id": "4",
+              "subtitle-title": "video4",
+              "subtitle-video": "https://www.youtube.com/embed/ddt5DhuLfvc",
+              "subtitle-smallfont1": "piccola descrizione video 4"
+            }
+          ]
+        },
         "calendario.yaml": {
           "id": "calendario",
           "img-alt": "Orologio di Piazza della Loggia - Visita guidata di Piazza Loggia - Maddalena Carnaghi - La mia guida di Brescia - calendario",
@@ -3307,7 +3337,7 @@
             },
             {
               "subtitle-id": "1",
-              "subtitle-title": "Visita guidata alla mostra \"8rose\"",
+              "subtitle-title": "Visita guidata alla mostra \"ottorose\"",
               "subtitle-link": "evidenza#8rose17genn",
               "subtitle-link-text": "per saperne di più",
               "subtitle-smallfont1": "Sabato 17 gennaio ore 18:15"
