@@ -1147,7 +1147,7 @@
               "subtitle-id": "0",
               "subtitle-link": "calendario",
               "subtitle-link-text": "¡Únete a nosotros!",
-              "subtitle-smallfont1": "Organizo tours con pequeños grupos para descubrir, divertiéndonos,  detalles inéditos de la ciudad y de su lindisima provincia alrededor"
+              "subtitle-smallfont1": "Organizo tours con pequeños grupos para descubrir, divertiéndonos,  detalles inéditos de la ciudad y de su lindísima provincia"
             }
           ],
           "title": "El calendario",
@@ -1290,7 +1290,7 @@
               "subtitle-id": "0",
               "subtitle-link": "guidaperte",
               "subtitle-link-text": "tu guía para Brescia",
-              "subtitle-smallfont1": "Me llamo Maddalena, soy guía turística oficial, me encanta acompañar las personas a descubrir mi ciudad, Brescia! Me gusta contár la historia de la ciudad a quienes llegan aquí por primera vez, pero también a quienes la conocen desde hace mucho tiempo pero quieren descubrir nuevos itinerarios, monumentos y museos de la ciudad y los lagos."
+              "subtitle-smallfont1": "Me llamo Maddalena, soy guía turística oficial, me encanta acompañar a las personas a descubrir mi ciudad, Brescia! Me gusta contar la historia de la ciudad a quienes llegan aquí por primera vez, pero también a quienes ya la conocen pero quieren descubrir nuevos itinerarios, monumentos y museos de la ciudad y los lagos."
             }
           ]
         },
@@ -1390,7 +1390,7 @@
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-smallfont1": "Brescia, mi ciudad, y los lagos que la rodean, Se prestan a diferentes tipos de visitas guiadas, descubre conmigo:"
+              "subtitle-smallfont1": "Brescia, mi ciudad, y los lagos que la rodean, se prestan a diferentes tipos de visitas guiadas, descubre conmigo:"
             }
           ],
           "vlinks": [
@@ -1425,21 +1425,21 @@
         "nav": "1",
         "pageTitle": "La mia guida di Brescia",
         "preparazione.yaml": {
-          "title2": "<em>\"En preparación\":</em>",
+          "title2": "<em>En preparación:</em>",
           "subtitles": [
             {
               "subtitle-id": "0",
-              "subtitle-smallfont1": "\"¿alguna vez has imaginado que incluso desde Brescia algunos guerreros se han alistado para defender el Santo Sepulcro de Jerusalén?\" \"Quieres averiguar dónde estaban antes?\" \"¿Y qué hacían en Brescia?\\\"",
+              "subtitle-smallfont1": "¿Alguna vez has imaginado que incluso desde Brescia algunos guerreros se alistaron para defender el Santo Sepulcro de Jerusalén? ¿Quieres averiguar dónde estaban antes? ¿Y qué hacían en Brescia?",
               "subtitle-title": "Los Templarios"
             },
             {
               "subtitle-id": "1",
-              "subtitle-smallfont1": "\"Cansadas de que la historia siempre sea reportada por ¿otros?\" \"Te gustan las fuentes directas y quieres conocer a mujeres que han vivido en Brescia y la contaron?\" \"¡Te esperan historias increíbles!\"",
+              "subtitle-smallfont1": "¿Cansada de que la historia sea siempre contada por los otros? ¿Te gustan las fuentes directas y quieres escuchar la voz de las mujeres que han vivido en Brescia? ¡Te esperan historias increíbles!",
               "subtitle-title": "¡Mujeres contadas por mujeres!"
             },
             {
               "subtitle-id": "2",
-              "subtitle-smallfont1": "y si te dijera que una plaza en Brescia fue completamente Inundada para jugar una batalla naval? ¿Y si te contara del Palio y de justas medievales? ¿Y el paso de reyes y reinas?",
+              "subtitle-smallfont1": "¿Y si te dijera que una plaza en Brescia fue completamente inundada para jugar una batalla naval? ¿Y si te contara del Palio y de justas medievales? ¿Y del paso de reyes y reinas?",
               "subtitle-title": "Los lugares y momentos de las fiestas"
             }
           ]
@@ -1533,35 +1533,35 @@
             {
               "subtitle-id": "0",
               "subtitle-title": "Itinerarios clásicos pero nada aburridos",
-              "subtitle-smallfont1": "Brescia, mi ciudad, se presta a diferentes tipos de visitas guiadas. Descubre conmigo los tours de medio día o de día completo Itinerarios históricos entre el Castillo y el centro de la ciudad, visitas guiadas al Parque Arqueológico y al Museo de Santa Giulia."
+              "subtitle-smallfont1": "Brescia, mi ciudad, se presta a diferentes tipos de visitas guiadas. Descubre conmigo los tours de medio día o de día completo. Itinerarios históricos entre el Castillo y el centro de la ciudad, visitas guiadas al Parque Arqueológico y al Museo de Santa Giulia."
             }
           ],
           "vlinks": []
         },
-        "menu": "\"Los itinerarios clásicos\"",
+        "menu": "Los itinerarios clásicos",
         "nav": "4",
-        "pageTitle": "\"Los itinerarios clásicos\"",
+        "pageTitle": "Los itinerarios clásicos",
         "parcoarcheologico.yaml": {
           "id": "Parque Arqueológico",
           "title": "Brescia",
           "title2": "Visita al Parque Arqueológico de Brescia y Victoria Alada",
-          "subtitle": "el Segundo Estilo Pompeyo mejor conservado del norte de Italia",
+          "subtitle": "El segundo estilo pompeyo mejor conservado del norte de Italia",
           "img-src": "brescia_it_parcoarcheologico.jpg",
           "img-alt": "Itinerari classici - Visita al Parque Arqueológico de Brescia y Victoria Alada - Maddalena Carnaghi - La mia guida di Brescia",
           "img-title": "Itinerari classici - Visita al Parque Arqueológico de Brescia y Victoria Alada - Maddalena Carnaghi - La mia guida di Brescia",
-          "itinerary-duration": "1 ora",
-          "itinerary-type": "tutti!",
+          "itinerary-duration": "1 hora",
+          "itinerary-type": "¡todos!",
           "itinerary-content": "Plaza Foro, Plaza Labus, Parque Arqueológico",
           "itinerary-description": "El Parque incluye una visita a la celda de un templo perfectamente conservado de la época republicana; el podio y el suelo del Templo de la época Flavia, la visita a la Victoria Alada, la visita al primitivo Museo Patrio y el teatro.",
-          "itinerary-monument": "¡Un auténtico viaje en el tiempo! Comienza con un video que te transporta en el tiempo y, en 4 minutos, ilustra la evolución que ha tenido este lugar, que siempre ha sido considerado el centro sagrado de la ciudad, incluso antes de la llegada de los romanos. Visitamos una celda de un templo de la época republicana, un hallazgo verdaderamente excepcional para el norte de Italia y que demuestra la romanización muy temprana de la zona. A continuación, nos dirigimos a la sala, recientemente rediseñada para realzar el tesoro que alberga, que alberga la Victoria Alada, una estatua romana del siglo I d.C. en bronce, erigida como símbolo de la ciudad. Una obra de excepcional belleza, que provoca emociones indescriptibles y que nos permite contar la época Flavia, el culto a la Victoria y plantear la hipótesis de que fue colocada precisamente para celebrar la batalla que convirtió a Vespasiano en emperador. A continuación, pasamos al conocimiento del templo de la época imperial, encargado por Vespasiano y su reconstrucción y finalización en los siglos XIX y XX. Finaliza con una visita al teatro, que ha salido a la luz en gran medida gracias a la campaña de excavación implementada en 2023.",
-          "itinerary-warning": "¡Se requiere reservación! Para preservar el espléndido estado de conservación del sitio, ingresamos en grupos contingentes cada veinte minutos. Por lo tanto, es bueno reservar, incluso para el guía (que tiene un boleto gratis pero debe ser contado) en el siguiente enlace -->",
+          "itinerary-monument": "¡Un auténtico viaje en el tiempo! Comienza con un video que nos transporta en el tiempo y, en 4 minutos, ilustra la evolución que ha tenido este lugar, que siempre ha sido considerado el centro sagrado de la ciudad, incluso antes de la llegada de los romanos. Visitamos una celda de un templo de la época republicana, un hallazgo verdaderamente excepcional para el norte de Italia y que demuestra la romanización muy temprana de la zona. A continuación, nos dirigimos a la sala, recientemente rediseñada por el artista - arquitecto Juan Navarro Baldeveg para realzar el tesoro que alberga: la Victoria Alada, una estatua romana del siglo I d.C. en bronce, erigida como símbolo de la ciudad. Una obra de excepcional belleza, que provoca emociones indescriptibles y que nos permite contar la época Flavia, el culto a la Victoria y plantear la hipótesis de que fue colocada precisamente para celebrar la batalla que convirtió a Vespasiano en emperador. A continuación, pasamos al conocimiento del el templo de época imperial, encargado por Vespasiano y su reconstrucción de los siglos XIX y XX. Terminamos con una visita al teatro, que ha salido a la luz en gran medida gracias a la campaña de excavación implementada en 2023.",
+          "itinerary-warning": "¡Reserva! Para preservar el espléndido estado de conservación del sitio, ingresamos en grupos contingentes cada veinte minutos. Por lo tanto, es bueno reservar, incluso para el guía (que tiene un boleto gratis pero debe ser contado) en el siguiente enlace -->",
           "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
           "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Visita_al_Parco_Archeologico_di_Brixia_e_Vittoria_Alata",
           "itinerary-link-text": "Reserva Brescia - Visita al Parque Arqueológico de Brescia y Victoria Alada"
         },
         "piazze.yaml": {
-          "id": "plazas",
+          "soloid": "plazas",
           "title": "Brescia",
           "title2": "Visita a las plazas de las ciudad",
           "subtitle": "Dos mil años y no sentirlos",
@@ -1571,8 +1571,8 @@
           "itinerary-duration": "2 horas",
           "itinerary-type": "para todos",
           "itinerary-content": "Plaza Foro, Plaza Paolo VI, Plaza Loggia y Plaza Vittoria",
-          "itinerary-description": "El gran historiador del arte, Philippe Daverio, dijo que caminar por Brescia significa sumergirse en la historia y tener la oportunidad de reconocer las capas del tiempo y los cambios de estilo. Aquí, en un agradable y corto paseo, se puede ver la estructura ortogonal romana de la ciudad y su corazón, el Foro. Seguimos sumergiéndonos en la Baja Edad Media pasando por la Torre de Hércules, la iglesia de San Marcos para llegar al impresionante Broletto, centro neurálgico de la ciudad en la Edad Media. En la plaza, los otros edificios representativos medievales eran las antiguas catedrales, de las cuales aún es visible la dedicada a Santa Maria Maggiore. Es una iglesia extraordinaria, una verdadera joya románica que nunca ha sido suficientemente valorada. Al entrar en la iglesia, de forma compatible con los horarios de visita, te recibe la escultura más bella de principios del siglo XIV, la tumba de Berardo Maggi, y te envuelve un volumen enorme e inesperado: la iglesia mide 36 metros de diámetro y hoy representa un unicum en Italia. Las sorpresas que ofrece este lugar encantado no han terminado... ¡pero no puedo decírtelos todos ahora! Luego continuamos hacia la plaza fuertemente deseada por los venecianos en la segunda mitad del siglo XV. ¡Es una hermosa plaza renacentista! ¡Parece estar en Venecia! Los primeros en dar la bienvenida a la plaza, aunque sea por detrás, son los dos autómatas que están en el reloj, llamados Tone y Batista por los brescianos. Continuamos descubriendo todos los elementos del Renacimiento veneciano y luego pasamos al conocimiento del Monumento dedicado a las X jornadas de Resistencia de Brescia bajo la ocupación austriaca y el Monumento dedicado a los caídos tras la explosión de la bomba en la plaza el 28 de mayo de 1974. PSe pasa cerca del primer museo lapidario al aire libre de Italia y cruzarás una hermosa logia que conduce a la Piazza Vittoria. Plaza construida entre 1929 y 1932, tras el destripamiento del antiguo barrio medieval de los pescaderos. Es una plaza de principios del '900 con todos los edificios más representativos: la oficina de correos, el seguro, el banco y también alberga el primer rascacielos de hormigón armado de Italia.",
-          "itinerary-monument": "Parque Arqueológico de la antigua Brixia que incluye el podio del Templo de la época imperial y el Teatro (en los días y horarios en los que el museo está abierto, la visita a estos espacios es gratuita), la columna restante del antiguo Foro (y, si tienes tiempo, la Basílica); El Broletto y el Duomo Vecchio (de acuerdo con el horario de apertura de la iglesia se puede visitar el interior; se paga si el grupo es de más de 15 personas) y el Duomo Nuovo; El Palazzo della Loggia, el Monte di Pietà, Las prisiones, El Monumento a la Bella Italia, El reloj y el Memorial de Guerra en la Piazza della Loggia; Piazza della Vittoria con una vista general.",
+          "itinerary-description": "El gran historiador del arte, Philippe Daverio, dijo que caminar por Brescia significa sumergirse en la historia y tener la oportunidad de reconocer las capas del tiempo y los cambios de estilo. Aquí, en un agradable y corto paseo, se puede ver la estructura ortogonal romana de la ciudad y su corazón, el Foro. Seguimos sumergiéndonos en la Baja Edad Media pasando por la Torre de Hércules, la iglesia de San Marcos para llegar al impresionante Broletto, centro neurálgico de la ciudad en la Edad Media. En la plaza, los otros edificios representativos medievales eran las antiguas catedrales, de las cuales aún es visible el templo dedicado a Santa Maria Maggiore. Es una iglesia extraordinaria, una verdadera joya románica que nunca ha sido suficientemente valorada. Al entrar en la iglesia, te recibe la escultura más bella de principios del siglo XIV, la tumba de Berardo Maggi, y te envuelve un volumen enorme e inesperado: la iglesia mide 36 metros de diámetro y hoy representa un unicum en Italia. Las sorpresas que ofrece este lugar encantado no han terminado... ¡Pero no puedo decírtelas todas ahora! Luego continuamos hacia la plaza fuertemente deseada por los venecianos en la segunda mitad del siglo XV. ¡Es una hermosa plaza renacentista! ¡Casi como estar en Venecia! Los primeros en dar la bienvenida a la plaza son los dos autómatas que están en el reloj, llamados Tone y Batista por los brescianos. Continuamos descubriendo todos los elementos del Renacimiento veneciano y luego pasamos al Monumento dedicado a las X jornadas de Resistencia de Brescia bajo la ocupación austriaca y el Monumento dedicado a los caídos tras la explosión de la bomba en la plaza el 28 de mayo de 1974. Luego se pasa cerca del primer museo lapidario al aire libre de Italia y se cruza una hermosa logia que conduce a la Piazza Vittoria. Plaza construida entre 1929 y 1932, tras el destripamiento del antiguo barrio medieval de los pescaderos. Es una plaza de principios del '900 con todos los edificios más representativos: la oficina de correos, el seguro, el banco y también alberga el primer rascacielos de hormigón armado de Italia.",
+          "itinerary-monument": "Parque Arqueológico de la antigua Brixia que incluye el podio del Templo de la época imperial y el Teatro (en los días y horarios en los que el museo está abierto, la visita a estos espacios es gratuita), la columna restante del antiguo Foro (y, si tienes tiempo, la Basílica); El Broletto y el Duomo Vecchio (de acuerdo con el horario de apertura de la iglesia se puede visitar el interior; se paga solo si el grupo es de más de 15 personas) y el Duomo Nuovo; El Palazzo della Loggia, el Monte di Pietà, Las prisiones, El Monumento a la Bella Italia, El reloj y el Memorial de Guerra en la Piazza della Loggia; Piazza della Vittoria con una vista general.",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Visita_alle_piazze della_città",
           "itinerary-link-text": "Reserva Brescia - Visita a las plazas de la ciudad"
         },
@@ -1580,15 +1580,15 @@
           "id": "santagiulia",
           "title": "Brescia",
           "title2": "Visita al Museo de Santa Giulia",
-          "subtitle": "Un sorprendente cofre del tesoro que permite entrar en domus romana perfectamente conservadas, atravesar una iglesia lombarda, pasear en el medio de un coro con frescos rinacentistas en el interior de un monasterio benedictino que alberga un tesoro",
+          "subtitle": "Un sorprendente cofre del tesoro que permite entrar en domus romanas perfectamente conservadas, atravesar una iglesia lombarda, pasear en el medio de un coro con frescos renacentistas en el interior de un monasterio benedictino que alberga un tesoro",
           "img-src": "brescia_it_santagiulia.jpg",
           "img-alt": "Itinerarios clásicos - Visita al Museo de Santa Giulia - Maddalena Carnaghi - La mia guida di Brescia",
           "img-title": "Itinerarios clásicos - Visita al Museo de Santa Giulia - Maddalena Carnaghi - La mia guida di Brescia",
           "itinerary-duration": "1 hora y media, 2 horas",
-          "itinerary-type": "para todos",
+          "itinerary-type": "¡todos!",
           "itinerary-content": "los hallazgos más significativos contenidos en el Museo de la Ciudad. Imprescindibles: los bronces, las Domus dell'Ortaglia, la iglesia de San Salvatore y su cripta, el Coro de las Monjas y Santa María en Solario",
-          "itinerary-description": "Normalmente, cuando se piensa en un museo, se visualiza un contenedor de obras únicas, hermosas e importantes. El nuestro es mucho más: es un monasterio encargado por la esposa del último rey lombardo, Desiderio, en el siglo VIII. Y se ha conservado como monasterio a lo largo del tiempo, ampliándose por ejemplo con una capilla del siglo XII, Santa María in Solario, que  alberga el tesoro del Monasterio y, a finales del siglo XV, un Coro para las Monjas pintado en los años treinta del siglo siguiente. Investigando el jardín de las monjas, encontraron algunas domus romanas que están muy bien conservadas también en lo que respecta a las elevaciones. El Museo de Santa Giulia forma parte del patrimonio de la Unesco, cubre más de 14.000 metros cuadrados y presenta 12.000 obras desde la prehistoria hasta el Renacimiento.",
-          "itinerary-warning": "se recomienda reservar para el Museo y es necesario si está en grupo al siguiente enlace:",
+          "itinerary-description": "Normalmente, cuando se piensa en un museo, se visualiza un contenedor de obras únicas, hermosas e importantes. El nuestro es mucho más: es un monasterio encargado por la esposa del último rey lombardo, Desiderio, en el siglo VIII. Y se ha conservado como monasterio a lo largo del tiempo, ampliándose por ejemplo con una capilla del siglo XII, Santa María in Solario, que  alberga el tesoro del Monasterio y, a finales del siglo XV, un Coro para las Monjas pintado en los años treinta del siglo siguiente. Excavando el huerto de las monjas, encontraron algunas domus romanas que están muy bien conservadas también en lo que respecta a las paredes. El Museo de Santa Giulia forma parte del patrimonio de la Unesco, cubre más de 14.000 metros cuadrados y presenta 12.000 obras desde la prehistoria hasta el Renacimiento.",
+          "itinerary-warning": "La reserva al Museo es recomendable, pero necesaria para grupos en el siguiente enlace:",
           "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
           "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Visita_al_Museo_di_Santa_Giulia",
@@ -1647,7 +1647,7 @@
           "itinerary-duration": "medio día o día completo",
           "itinerary-type": "todos",
           "itinerary-content": "hay un sinfín de posibilidades que van desde la cata de vinos en Franciacorta, hasta el descubrimiento de un monasterio del año 1000, pasando por el paseo por la reserva natural de Torbiere. Propongo la visita de dos horas de Iseo y paseo en barco, posiblemente con el recorrido por las tres islas con parada en Montisola. Descubrimiento de la orilla del lago de Peschiera Maraglio para admirar los impresionantes rincones de la isla",
-          "itinerary-description": "Iseo es una perla de la Edad Media: es maravilloso perderse por sus estrechas calles para descubrir la plaza con el monumento a Garibaldi, la pequeña iglesia del Mercado y luego continuar hacia la Pieve di Sant'Andrea con su característico aspecto medieval. En la plaza del anteiglesia hay otro tesoro: la Iglesia de San Giorgio con una danza de la muerte recien descubierta. Puedes continuar la visita hacia el castillo o bajar a la plaza donde las lavanderas solían reunirse y conocer el Arsenal veneciano. El descubrimiento del lago continúa embarcándose para llegar a la isla lacustre habitada más grande de Europa: MonteIsola. Una vez en Peschiera Maraglio, un paseo permite aprender cómo vivía la gente en la isla en el pasado: la artesanía antigua, la construcción de los barcos y las comidas tradicionales. Un paseo muy agradable acompañará al visitante a descubrir el lago, los antiguos castillos y a ver la isla de San Paolo.",
+          "itinerary-description": "Iseo es una perla de la Edad Media: es maravilloso perderse por sus estrechas calles para descubrir la plaza con el monumento a Garibaldi, la pequeña iglesia del Mercado y luego continuar hacia la Pieve di Sant'Andrea con su característico aspecto medieval. En la plaza delante de la iglesia hay otro tesoro: la Iglesia de San Giorgio con una danza de la muerte recien descubierta. Puedes continuar la visita hacia el castillo o bajar a la plaza donde las lavanderas solían reunirse y conocer el Arsenal veneciano. El descubrimiento del lago continúa embarcándose para llegar a la isla lacustre habitada más grande de Europa: MonteIsola. Una vez en Peschiera Maraglio, un paseo permite aprender cómo vivía la gente en la isla en el pasado: la artesanía antigua, la construcción de los barcos y las comidas tradicionales. Un paseo muy agradable acompañará al visitante a descubrir el lago, los antiguos castillos y a ver la isla de San Paolo.",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Lago_d'_Iseo",
           "itinerary-link-text": "Reserva Lago d'Iseo - Ruta del lago"
         },
@@ -1663,8 +1663,8 @@
           "itinerary-duration": "1 hora 1/2 y media, 2 horas",
           "itinerary-type": "todos",
           "itinerary-content": "Parque Arqueológico de la Domus Romana (interior), Iglesia de Santa Maria Maddalena (interior), Piazza Malvezzi, Porto Vecchio y Castillo",
-          "itinerary-description": "Es un viaje en el tiempo que guarda sorpresas incluso para aquellos que conocen la ciudad más poblada del lago. Empezando por la Villa Romana, que ofrece, no solo hermosos mosaicos, sino también una idea de cómo vivían los antiguos romanos y una muestra representativa de la evolución de la villa romana. Caminando por un callejón estrecho, se llega a la iglesia de Santa Maria Maddalena: una hermosa iglesia que ofrece una joya absoluta. Es la Última Cena de Gian Battista Tiepolo. La puerta lateral de la iglesia da a la plaza central que permite conocer la historia de Sant'Angela Merici y las vicisitudes que se alternaron en la Piazza Malvezzi. No hay que perderse la explicación del Puerto Viejo y, para aquellos que aún no están cansados, la subida al Castillo de Ricetto",
-          "itinerary-warning": "Se requieren reservaciones en la Domus Romana para grupos en el siguiente enlace:",
+          "itinerary-description": "¡Un viaje en el tiempo que guarda sorpresas incluso para quienes ya conocen la ciudad más poblada del lago! Empezando por la Villa Romana, que ofrece, no solo hermosos mosaicos, sino también una idea de cómo vivían los antiguos romanos y una muestra representativa de la evolución de la villa romana. Caminando por un callejón estrecho, se llega a la iglesia de Santa Maria Maddalena, un hermoso templo que nos ofrece una joya absoluta: la Última Cena de Gian Battista Tiepolo. La puerta lateral de la iglesia da a la plaza central que nos acerca a la historia de Sant'Angela Merici y a las vicisitudes que se alternaron en la Piazza Malvezzi. No hay que perderse la explicación del Puerto Viejo y, para los que aún no estén cansados, la subida al Castillo - Ricetto.",
+          "itinerary-warning": "Reserva necesaria en la Domus Romana para grupos en el siguiente enlace:",
           "itinerary-warning-link": "https://museidelgarda.ticka.it/",
           "itinerary-warning-link-text": "Ticket Musei del Garda",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Lago_di_Garda-Desenzano",
@@ -1675,11 +1675,11 @@
           "id": "rutasdeloslagos",
           "subtitles": [
             {
-              "subtitle-title": "Explorar los lagos con un guía turístico es como verlos por primera vez",
-              "subtitle-smallfont1": "Descubre los tours por el lago conmigo",
-              "subtitle-smallfont2": "puedes pasar un día completo o medio día en el lago de Garda, entre Sirmione, por ejemplo, visitando las Grutas de Catulo o la Rocca Scaligera y Desenzano.",
-              "subtitle-smallfont3": "O visite Salò o el Vittoriale, o tal vez navegue a lo largo de las orillas del Benaco y descubra los pueblos característicos",
-              "subtitle-smallfont4": "Lo mismo ocurre con el lago de Iseo, donde propongo un recorrido que combina la belleza del paisaje con la historia del lugar"
+              "subtitle-title": "Explorar los lagos con una guía turística es como verlos por primera vez",
+              "subtitle-smallfont1": "Descubre los tours por el lago conmigo:",
+              "subtitle-smallfont2": "La de Garda: puedes pasar un día completo o medio día en el lago de Garda, entre Sirmione, por ejemplo, visitando las Grutas de Catulo o la Rocca Scaligera y Desenzano.",
+              "subtitle-smallfont3": "O visite Salò o el Vittoriale, o tal vez navegue a lo largo de las orillas del lago y descubra los pueblos característicos",
+              "subtitle-smallfont4": "Lago de Iseo: propongo un recorrido que combina la belleza del paisaje con la historia del lugar"
             }
           ]
         },
@@ -1733,7 +1733,7 @@
           "itinerary-duration": "1 hora y media",
           "itinerary-type": "todos",
           "itinerary-content": "visita y paseo en el Golfo de Salò que incluye Piazza Carmine, la puerta de entrada al antiguo pueblo, los palacios y villas utilizados en el período de la República Social Italiana, la magnífica iglesia de Santa María, el palacio de la Magnífica Patria, los palacios a orillas del lago y las estatuas de dos de los principales protagonistas.",
-          "itinerary-description": "Salò permite comprender la historia del Lago de Garda desde un punto de vista privilegiado: un hermoso golfo mantenido en su belleza con elegantes edificios que van desde el Renacimiento hasta el siglo XX. El paseo por la orilla del lago es realmente relajante y le permite descubrir tambien los edificios utilizados durante el período de la República Social Italiana, así como el estilo Art Nouveau de los hermosos edificios con vistas al lago y al extraordinario Palazzo della Magnifica Patria. La Iglesia de Santa Maria Assunta es una verdadera joya del Renacimiento y, en su interior se pueden admirar, además de una extraordinaria articulación arquitectónica, obras de Zenon Veronese, Romanino y Andrea Celesti. Por no hablar del Cristo de madera considerado por Andrea Mantegna como el más bello jamás visto.",
+          "itinerary-description": "En mi opinión, es el pueblo más elegante del lago: pocas pero bien seleccionadas tiendas y un paisaje con vistas al fabuloso Golfo de Salò. La iglesia es bellísima. Salò permite comprender gratamente el desarrollo del lago de Garda en la historia desde un punto de vista privilegiado: un hermoso golfo mantenido en su belleza con elegantes edificios que van desde la Edad Media hasta principios del siglo XX. El paseo por la orilla del lago es realmente relajante y permite descubrir los edificios utilizados durante el período de la República Social Italiana, así como el estilo Art Nouveau de los hermosos edificios con vistas al lago y el extraordinario Palazzo della Magnifica Patria. Asimismo, la Iglesia de Santa Maria Assunta es una verdadera joya del Renacimiento y en su interior se pueden admirar, además de una extraordinaria articulación arquitectónica, obras de Zenon Veronese, Romanino y Andrea Celesti. Por no hablar del Cristo de madera considerado por Andrea Mantegna \"el más bello jamás visto\".",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Lago_di_Garda-Salò",
           "itinerary-link-text": "Reserva Lago de Garda - Salò"
         },
@@ -1746,9 +1746,9 @@
           "img-alt": "Rutas de los lagos - Sirmione - Maddalena Carnaghi - La mia guida di Brescia",
           "img-title": "Rutas de los lagos - Sirmione - Maddalena Carnaghi - La mia guida di Brescia",
           "itinerary-duration": "2h / 2 horas y media",
-          "itinerary-type": "¡Todos! El Parque Arqueológico tiene puntos con diferencias de altura y mejor caminar con calzado deportivo",
-          "itinerary-content": "Parque arqueológico llamado \"Grotte di Catullo\", Rocca Scaligera, el pueblo, la orilla del lago, la iglesia de Santa Maria Maggiore y la Capilla de Sant&#39Anna al Ponte. También es posible un itinerario más corto que no entre en el castillo y el parque arqueológico",
-          "itinerary-description": "Sirmione, definida como una \"perla\" por el poeta Catulo, es realmente un lugar mágico donde la belleza de la naturaleza se encuentra con la puesta en valor que los hombres de la época romana y medieval fueron capaces de hacerle. Es realmente especial caminar por las estrechas calles donde reverbera el lago y descubrir juntos el período de la fundación Scaligera del castillo, la estructura de la pequeña iglesia protegida en las murallas y la enorme villa romana increíblemente ubicada en la punta de la península. Durante el paseo por la orilla del lago también se puede comentar la variedad del paisaje lacustre, las propiedades del agua del manantial de Boyola y ver la casa de María Callas.",
+          "itinerary-type": "¡Todos! El Parque Arqueológico tiene puntos con pequeños desniveles y mejor caminar con calzado deportivo",
+          "itinerary-content": "Parque arqueológico llamado \"Grotte di Catullo\", Rocca Scaligera, el pueblo, la orilla del lago, la iglesia de Santa Maria Maggiore y la Capilla de Sant&#39Anna al Ponte. También es posible un itinerario más corto que no entre ni en el castillo, ni en el parque arqueológico",
+          "itinerary-description": "Sirmione, definida como una \"perla\" por el poeta Catulo, es realmente un lugar mágico donde la belleza de la naturaleza encuentra la solemnidad que los hombres de la época romana y medieval tuvieron a bien darle. Es ciertamente cautivador caminar por las estrechas calles donde reverbera el lago y descubrir juntos el período de la fundación Scaligera del castillo, la estructura de la pequeña iglesia protegida por las murallas y la enorme villa romana increíblemente ubicada en la punta de la península. Durante el paseo por la orilla del lago también se puede admirar la variedad del paisaje lacustre, las propiedades del agua del manantial de Boyola y ver la casa de María Callas.",
           "itinerary-warning": "Es necesario reservar para grupos en la Rocca Scaligera y las Grutas de Catulo en el siguiente enlace:'",
           "itinerary-warning-link": "https://museiitaliani/musei",
           "itinerary-warning-link-text": "Musei italiani",
@@ -1765,9 +1765,9 @@
           "img-alt": "Rutas de los lagos - Il Vittoriale degli Italiani - Maddalena Carnaghi - La mia guida di Brescia",
           "img-title": "Rutas de los lagos - Il Vittoriale degli Italiani - Maddalena Carnaghi - La mia guida di Brescia",
           "itinerary-duration": "2 horas / 2 horas y media",
-          "itinerary-type": "para caminantes. La ruta incluye diferencias de altura y desnivel del terreno. Mejor usar zapatos deportivos",
+          "itinerary-type": "para caminantes. La ruta incluye desniveles del terreno. Mejor usar zapatos deportivos",
           "itinerary-content": "el parque Vittoriale (no se incluye la visita a la Prioria)",
-          "itinerary-description": "Se saben y se dicen muchas cosas sobre Gabriele d'Annunzio, pero el recorrido por su parque es una forma de disipar algunos mitos, de comprender sus ideas, sus obsesiones y sus hazañas. El paseo permite comprender la difícil relación con Mussolini, su papel de líder carismático, así como las hazañas en Viena, Bakar o Rijeka. Además de la parte histórica, visitar el parque que consideraba como \"un libro de piedra\" también permite conocer su ironía, sus referencias histórico-artísticas y, gracias también a las anécdotas, captar su vida llevada al máximo.",
+          "itinerary-description": "Este es mi lugar favorito de todo el lago: un parque de 9 hectáreas con esculturas, plantas maravillosas, un navío de guerra (¡verdadero!), una lancha (¡verdadera!) y todo lo que salió de la mente del poeta-soldado (¡un loco!) Gabriele d’Annunzio. Completar la visita entrando en la casa situada en el mismo parque es sin duda ¡una aventura inenarrable! Se saben y se dicen muchas cosas sobre Gabriele d'Annunzio, pero el recorrido por su parque es una forma de disipar algunos mitos, de comprender sus ideas, sus obsesiones y sus hazañas. El paseo permite comprender la difícil relación con Mussolini, su papel de líder carismático, así como las hazañas en Viena y Fiume. Además de la parte histórica, visitar el parque que él mismo consideraba 'un libro de piedra' también permite conocer su ironía, sus referencias histórico-artísticas, su amor por el lujo y, gracias también a las anécdotas, captar su vida llevada al máximo.",
           "itinerary-warning": "Es necesario reservar en el Vittoriale degli Italiani en el siguiente enlace:",
           "itinerary-warning-link": "https://bottega.vittoriale.it/#/",
           "itinerary-warning-link-text": "Ticket Museo del Vittoriale degli Italiani",
@@ -1925,7 +1925,7 @@
           "img-title": "Itinerarios temáticos - Amor en cada rincón - Maddalena Carnaghi - La mia guida di Brescia",
           "itinerary-duration": "1 hora y 45",
           "itinerary-type": "todos aquellos que quieran descubrir el lado humano de algunos personajes que han contribuido a la historia de nuestra ciudad y algunas historias de amor que han tenido Brescia como escenario.",
-          "itinerary-content": "lugares que han sido escenario de amores, a menudo contrastados, entre algunos de los protagonistas de la historia de la ciudad. Desde la Alta Edad Media, pasando por el periodo de los señoríos, los amantes en el convento a finales del siglo XVII, la gran temporada de los salones del siglo XVIII, luego la novela que tiene por protagonista el héroe de los X Días y, para concluir dos protagonistas del siglo XX en Brescia.",
+          "itinerary-content": "lugares que han sido escenario de amores, a menudo contrastados, entre algunos de los protagonistas de la historia de la ciudad. Desde la Alta Edad Media, pasando por el período de los señoríos, los amantes en el convento a finales del siglo XVII, la gran temporada de los salones del siglo XVIII, luego la novela que tiene por protagonista el héroe de los X Días y, para concluir dos protagonistas del siglo XX en Brescia.",
           "itinerary-description": "la ciudad del amor está cerca, Verona... ¿Pero tiene un final feliz la famosa historia que preserva la ciudad veneta? Si Verona es romántica, ¡nuestra Brescia también puede hacerlo! Historias conmovedoras, no siempre con un final feliz (¡al contrario!), pero con giros y vueltas notables que nos permitirán, aunque sea de forma ligera, repasar algunos momentos clave de la historia de la ciudad y conocer más de cerca a algunos de sus protagonistas.'",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-L'amore_in_ogni_angolo",
           "itinerary-link-text": "Reserva Brescia - Amor en cada rincón"
@@ -1940,8 +1940,8 @@
           "img-title": "Itinerarios temáticos - El castillo o El Halcón de Italia - Maddalena Carnaghi - La mia guida di Brescia",
           "itinerary-duration": "2 horas",
           "itinerary-type": "Todos aquellos que quieren entender cómo ha cambiado la defensa de un baluarte militar a lo largo de los siglos y la historia de nuestra ciudad. ¡Vamos a caminar un poco!",
-          "itinerary-content": "Para conocer todo del castillo a través de los puentes levadizos, la torre del homenaje, las cañoneras y las torres. Solo se planifican visitas al aire libre sin entrar en los museos.",
-          "itinerary-description": "¡Cuántas cosas se pueden descubrir sobre defensa militar mientras se divierte! Explorando desde la puerta principal del castillo hasta el descenso por la Porta del Soccorso, se puede entender la función de cada detalle y cómo ha cambiado la defensa tras la llegada de la pólvora. La culminación de la experiencia será el conocimiento de la parte más antigua: la torre de los Visconti, que oculta un corazón romano aún más arcaico. El viaje en el tiempo continúa a lo largo de las murallas que permiten revivir los momentos más importantes en los que la ciudad fue conquistada por los franceses imperiales en 1512 y por los austríacos durante los diez días de resistencia de Brescia contra los austriacos (¡precisamente porque los invasores dominaron el castillo!).",
+          "itinerary-content": "Para conocerlo todo del castillo a través de los puentes levadizos, la torre del homenaje, las cañoneras y los baluartes. Solo se planifican visitas al aire libre, sin entrar en los museos.",
+          "itinerary-description": "¡Cuántas cosas se pueden descubrir sobre defensa militar mientras uno se divierte! Explorando desde la puerta principal del castillo hasta el descenso por la Porta del Soccorso, se puede entender la función de cada detalle y cómo ha cambiado la defensa tras la llegada de la pólvora. La culminación de la experiencia será el conocimiento de la parte más antigua: la torre de los Visconti, que oculta un corazón romano aún más arcaico. El viaje en el tiempo continúa a lo largo de las murallas que permiten revivir los momentos más importantes en los que la ciudad fue conquistada por los franceses imperiales en 1512 y por los austríacos durante los diez días de resistencia de Brescia contra los austriacos (¡Precisamente porque los invasores dominaron desde el castillo!).",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Il_castello",
           "itinerary-link-text": "Reserva Brescia - El castillo"
         },
@@ -1956,12 +1956,12 @@
           "img-title": "Itinerarios temáticos - Los caminos sobre las mujeres- Maddalena Carnaghi - La mia guida di Brescia",
           "itinerary-duration": "1h y media",
           "itinerary-type": "¡Todos!",
-          "itinerary-content-opt1": "Los rostros de las mujeres en el Museo de Santa Giulia.",
-          "itinerary-content-opt2": "Los rostros de mujeres y protagonistas femeninas en la Galería de Arte Tosio-Martinengo",
-          "itinerary-content-opt3": "Las mujeres que cuentan sobre sí mismas y su vida en Brescia",
-          "itinerary-content-opt4": "las mujeres que formaron la Resistencia",
+          "itinerary-content-opt1": "Las protagonistas del Museo de Santa Giulia.",
+          "itinerary-content-opt2": "Los rostros de mujeres y protagonistas femeninas en la Pinacoteca de Arte Tosio-Martinengo",
+          "itinerary-content-opt3": "Las mujeres que se cuentan a ellas mismas en la historia de Brescia",
+          "itinerary-content-opt4": "las mujeres que formaron parte de la Resistencia",
           "itinerary-description": null,
-          "itinerary-warning": "Se recomienda reservar para el Museo y es obligatorio si estás en grupo, en el siguiente enlace:",
+          "itinerary-warning": "La reserva es aconsejable, pero obligatoria para grupos en el siguiente enlace:",
           "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
           "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-I_percorsi_sulle_donne",
@@ -1991,7 +1991,7 @@
           "img-title": "Itinerarios temáticos - La Pinacoteca Tosio-Martinengo - Maddalena Carnaghi - La mia guida di Brescia",
           "itinerary-duration": "2 horas",
           "itinerary-type": "Para todos y aún más para los aficionionados a la pintura.",
-          "itinerary-description": "en la National Gallery de Londres se pueden admirar obras de nuestros maestros brescianos de los 500... mientras que nosotros las tenemos en un espacio superlativo que quizás no sea suficientemente conocido. La nueva restauración y acondicionamiento, que tuvo lugar en 2018, ha restaurado el aspecto de la casa señorial, tanto por el camino circular como por la iluminación, el escaneo de los espacios y los techos.. En este contexto noble y elegante, cuyas paredes aterciopeladas ofrecen colores en diálogo con los contenidos en las pinturas, se presenta una colección de valor excepcional. Comienza con el maestro de la pintura brescia, Vincenzo Foppa, pasa a la visión de dos obras pequeñas y muy delicadas del joven Rafael, cruza la gran pintura lombarda del 500 con las obras maestras de Romanino, Moretto, Lotto y Savoldo, llega ante el complejo ciclo de Padernello del Pitocchetto y continúa en una sucesión de asombro hasta cerrar el camino con obras maestras de Hayez y Canova.'",
+          "itinerary-description": "en la National Gallery de Londres se pueden admirar obras de nuestros maestros brescianos del 1500... mientras que nosotros las tenemos en un espacio superlativo que quizás no sea suficientemente conocido. La nueva restauración y acondicionamiento, que tuvo lugar en 2018, ha restaurado el aspecto de la casa señorial, tanto por el recorrido circular como por la iluminación, la disposicíon de los espacios y los techos... En este contexto noble y elegante, cuyas paredes aterciopeladas ofrecen colores en diálogo con los contenidos en las pinturas, se presenta una colección de valor excepcional. Comienza con el maestro de la pintura brescia, Vincenzo Foppa, pasa a la visión de dos obras pequeñas y muy delicadas del joven Rafael, cruza la gran pintura lombarda del 1500 con las obras maestras de Romanino, Moretto, Lotto y Savoldo, llega ante el complejo ciclo de Padernello del Pitocchetto y continúa en una sucesión de asombro hasta cerrar el circulo con obras maestras de Hayez y Canova.",
           "itinerary-warning": "Se recomienda reservar al siguiente enlace y es obligatorio para los grupos al siguiente enlace",
           "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
           "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
@@ -4205,7 +4205,7 @@
       },
       "4": {
         "icon": "landmark-dome",
-        "menu": "\"Los itinerarios clásicos\"",
+        "menu": "Los itinerarios clásicos",
         "name": "itinerariclassici"
       },
       "5": {
