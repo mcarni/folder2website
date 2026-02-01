@@ -1,0 +1,9 @@
+title: Brescia da scoprire
+id: bresciadascroprire
+title2: <em>Una serie di video con informazioni aggiuntive sulla mia città</em>
+subtitles:
+- subtitle-id: '1'
+  subtitle-smallfont1: "Descrizione"
+  subtitle-link: dascoprire#brescia
+  subtitle-link-text: "per saperne di pi\xF9"
+

@@ -1822,7 +1822,7 @@
             }
           ]
         },
-        "menu": "\"Itinerarios históricos\"",
+        "menu": "Itinerarios históricos",
         "nav": "7",
         "pageTitle": "\"Itinerarios históricos\"",
         "rinascimentale.yaml": {
@@ -1978,7 +1978,7 @@
             }
           ]
         },
-        "menu": "'Itinerarios temáticos'",
+        "menu": "Itinerarios temáticos",
         "nav": "6",
         "pageTitle": "'Itinerarios temáticos'",
         "pinacoteca.yaml": {
@@ -2555,9 +2555,46 @@
         "description.txt": "",
         "icon": "envelope-open-text",
         "menu": "Contatti",
-        "nav": "11",
+        "nav": "12",
         "pageTitle": "I miei contatti",
         "tabTitle": "Contatti - Maddalena Carnaghi - La mia guida di Brescia"
+      },
+      "dascoprire": {
+        "brescia.yaml": {
+          "title": "Una raccolta di video per scoprire Brescia",
+          "id": "brescia",
+          "subtitles": [
+            {
+              "subtitle-id": "1",
+              "subtitle-title": "video1",
+              "subtitle-video": "https://www.youtube.com/embed/DKBG_fWxU_g",
+              "subtitle-smallfont1": "piccola descrizione video 1"
+            },
+            {
+              "subtitle-id": "2",
+              "subtitle-title": "video2",
+              "subtitle-video": "https://www.youtube.com/embed/X7tsP5tpUFM",
+              "subtitle-smallfont1": "piccola descrizione video 2"
+            },
+            {
+              "subtitle-id": "3",
+              "subtitle-title": "video3",
+              "subtitle-video": "https://www.youtube.com/embed/PqojzoJZAXw",
+              "subtitle-smallfont1": "piccola descrizione video 3"
+            },
+            {
+              "subtitle-id": "4",
+              "subtitle-title": "video4",
+              "subtitle-video": "https://www.youtube.com/embed/ddt5DhuLfvc",
+              "subtitle-smallfont1": "piccola descrizione video 4"
+            }
+          ]
+        },
+        "icon": "video",
+        "menu": "Brescia da scoprire",
+        "nav": "10",
+        "pageTitle": "Brescia da Scoprire",
+        "tabTitle": "Informazioni aggiuntive su Brescia da scoprire"
       },
       "evidenza": {
         "2mila.yaml": {
@@ -3227,36 +3264,6 @@
         "tabTitle": "Una guida turistica abilitata di Brescia e del lago di Garda e Iseo per te"
       },
       "home": {
-        "brescia.yaml": {
-          "title": "Brescia da scoprire",
-          "id": "bresciadascroprire",
-          "subtitles": [
-            {
-              "subtitle-id": "1",
-              "subtitle-title": "video1",
-              "subtitle-video": "https://www.youtube.com/embed/DKBG_fWxU_g",
-              "subtitle-smallfont1": "piccola descrizione video 1"
-            },
-            {
-              "subtitle-id": "2",
-              "subtitle-title": "video2",
-              "subtitle-video": "https://www.youtube.com/embed/X7tsP5tpUFM",
-              "subtitle-smallfont1": "piccola descrizione video 2"
-            },
-            {
-              "subtitle-id": "3",
-              "subtitle-title": "video3",
-              "subtitle-video": "https://www.youtube.com/embed/PqojzoJZAXw",
-              "subtitle-smallfont1": "piccola descrizione video 3"
-            },
-            {
-              "subtitle-id": "4",
-              "subtitle-title": "video4",
-              "subtitle-video": "https://www.youtube.com/embed/ddt5DhuLfvc",
-              "subtitle-smallfont1": "piccola descrizione video 4"
-            }
-          ]
-        },
         "calendario.yaml": {
           "id": "calendario",
           "img-alt": "Orologio di Piazza della Loggia - Visita guidata di Piazza Loggia - Maddalena Carnaghi - La mia guida di Brescia - calendario",
@@ -3323,6 +3330,19 @@
             {
               "subtitle-id": "9",
               "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://g.co/kgs/s7xdnx2\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"px-3 fa-brands fa-google\"></i>\"Ho avuto il piacere di ascoltare Maddalena in due occasioni diverse: con amici per la visita a Brescia antica e con la famiglia per una guida alla Pinacoteca. Maddalena è molto appassionata della sua città e mai banale. È stato un piacere averla come cicerone!\"</a>"
+            }
+          ]
+        },
+        "dascoprire.yaml": {
+          "title": "Brescia da scoprire",
+          "id": "bresciadascroprire",
+          "title2": "<em>Una serie di video con informazioni aggiuntive sulla mia città</em>",
+          "subtitles": [
+            {
+              "subtitle-id": "1",
+              "subtitle-smallfont1": "Descrizione",
+              "subtitle-link": "dascoprire#brescia",
+              "subtitle-link-text": "per saperne di più"
             }
           ]
         },
@@ -4175,7 +4195,7 @@
           ]
         },
         "menu": "Regala una visita",
-        "nav": "10",
+        "nav": "11",
         "pageTitle": "Regala una visita",
         "scadenza.yaml": {
           "id": "scadenza",
@@ -4221,12 +4241,12 @@
       },
       "6": {
         "icon": "bullseye",
-        "menu": "'Itinerarios temáticos'",
+        "menu": "Itinerarios temáticos",
         "name": "itineraritema"
       },
       "7": {
         "icon": "building-columns",
-        "menu": "\"Itinerarios históricos\"",
+        "menu": "Itinerarios históricos",
         "name": "itineraristorici"
       },
       "8": {
@@ -4298,11 +4318,16 @@
         "name": "evidenza"
       },
       "10": {
+        "icon": "video",
+        "menu": "Brescia da scoprire",
+        "name": "dascoprire"
+      },
+      "11": {
         "icon": "gift",
         "menu": "Regala una visita",
         "name": "regalavisita"
       },
-      "11": {
+      "12": {
         "icon": "envelope-open-text",
         "menu": "Contatti",
         "name": "contatti"
