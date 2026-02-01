@@ -3086,6 +3086,12 @@
               "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://www.fondazionezani.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Fondazione Paolo e Carolina Zani</strong>\" - Per l'arte e la cultura\"</a>",
               "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.fondazionezani.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.fondazionezani.com/</a>",
               "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.fondazionezani.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-zani-h100.png\" alt=\"Logo Fondazione Zani\"></a>"
+            },
+            {
+              "subtitle-id": "4",
+              "subtitle-smallfont1": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/p/FL-apartment-100092329792521/\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>F&L Apartment</strong>\" - Modern living\"</a>",
+              "subtitle-smallfont2": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/p/FL-apartment-100092329792521/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.facebook.com/p/FL-apartment-100092329792521/</a>",
+              "subtitle-smallfont3": "<a class=\"text-reset text-decoration-none\" href=\"https://www.facebook.com/p/FL-apartment-100092329792521/\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-F&L-h100.png\" alt=\"Logo F&L apartment\"></a>"
             }
           ]
         },
