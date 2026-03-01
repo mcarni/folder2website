@@ -1289,7 +1289,7 @@
             {
               "subtitle-id": "0",
               "subtitle-link": "guidaperte",
-              "subtitle-link-text": "tu guía para Brescia",
+              "subtitle-link-text": "Tu guía de Brescia",
               "subtitle-smallfont1": "¡Me llamo Maddalena, soy guía turística oficial, me encanta acompañar a las personas a descubrir mi ciudad, Brescia! Me gusta contar la historia de la ciudad a quienes llegan aquí por primera vez, pero también a quienes ya la conocen pero quieren descubrir nuevos itinerarios, monumentos y museos de la ciudad y los lagos."
             }
           ]
@@ -1397,27 +1397,27 @@
             {
               "vlink-id": "0",
               "vlink-link": "itinerariclassici",
-              "vlink-text": "gli itinerari <strong>classici</strong>"
+              "vlink-text": "los itinerarios <strong>clásicos</strong>"
             },
             {
               "vlink-id": "1",
               "vlink-link": "itinerarididattici",
-              "vlink-text": "gli itinerari <strong>didattici</strong>"
+              "vlink-text": "los itinerarios <strong>educativos</strong>"
             },
             {
               "vlink-id": "2",
               "vlink-link": "itineraritema",
-              "vlink-text": "gli itinerari <strong>a tema</strong>"
+              "vlink-text": "los itinerarios <strong>temáticos</strong>"
             },
             {
               "vlink-id": "3",
               "vlink-link": "itineraristorici",
-              "vlink-text": "gli itinerari <strong>storici</strong>"
+              "vlink-text": "los itinerarios <strong>históricos</strong>"
             },
             {
               "vlink-id": "4",
               "vlink-link": "itinerarilaghi",
-              "vlink-text": "gli itinerari <strong>dei laghi</strong>"
+              "vlink-text": "los itinerarios <strong>de los lagos</strong>"
             }
           ]
         },
@@ -1511,7 +1511,7 @@
             {
               "button-smallfont": "Si tú tampoco soportas los regalos preempaquetados, ¡Dona una experiencia! \n Podemos crear juntos el regalo perfecto para un cumpleaños, aniversario, graduación, día de la madre, padre, de abuelos o para cualquier evento especial",
               "button-target": "collapseregalo",
-              "button-text": "Scopri di più"
+              "button-text": "Descubre más"
             }
           ],
           "id": "regalaunavisita",
@@ -1608,7 +1608,7 @@
               "subtitle-smallfont1": "Siendo una profesora, creo que tengo el enfoque perfecto",
               "subtitle-smallfont2": "para acompañar a estudiantes de todos los niveles de escuelas",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_itinerari_didattici",
-              "subtitle-mail-link-text": "Prenota - Itinerarios educativos"
+              "subtitle-mail-link-text": "Reserva - Itinerarios educativos"
             }
           ]
         },
@@ -1805,7 +1805,7 @@
           "itinerary-duration": "1h y media",
           "itinerary-type": "para quienes quieran saber más sobre la Edad Media en Brescia.",
           "itinerary-content": "La visita guiada tiene lugar en el casco antiguo de la ciudad. Se analizarán los siguientes edificios (externos): Santa María en Solario, la Torre d'Ercole, la Chiesa di San Marco, Il Broletto, el Duomo Vecchio y San Faustino in Riposo",
-          "itinerary-description": "La visita comienza en la Piazza Tebaldo Brusato, que ejemplifica el concepto de plaza en la Edad Media y se adscribía las murallas;Se continúa con el concepto de monasterio, ejemplificado por Monasterio de Santa Giulia y la reconstrucción de sus áreas (los claustros, el xenodoquio) y luego la ruta sigue con la mirada de casas que manifiestan una estructura medieval hasta llegar a la Piazza Paolo VI, donde se encuentra el palacio dicho Broletto y la antigua catedral dedicada a Santa María Mayor (Duomo Vecchio). No se puede perder el hallazgo de la iglesia de San Faustino en Riposo con su rarisimo tejado. (para quienes tengan 40 minutos más de visita a la Iglesia de San Francisco).",
+          "itinerary-description": "La visita comienza en la Piazza Tebaldo Brusato, que ejemplifica el concepto de plaza en la Edad Media y se adscribía a las murallas. Se continúa con el concepto de monasterio, ejemplificado por Monasterio de Santa Giulia y la reconstrucción de sus áreas (los claustros, el xenodoquio) y luego la ruta sigue con la visual de casas que manifiestan una estructura medieval hasta llegar a la Piazza Paolo VI, donde se encuentra el palacio dicho Broletto y la antigua catedral dedicada a Santa María Mayor (Duomo Vecchio). Imperdible la iglesia de San Faustino en Riposo con su rarísimo tejado troncónico. (para quienes tengan 40 minutos más, se aconseja añadir la visita a la Iglesia de San Francisco).",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Reserva_Brescia-Itinerari_basso_medievali",
           "itinerary-link-text": "Reserva Brescia - Itinerario tardomedieval"
         },
@@ -1833,7 +1833,7 @@
           "img-src": "brescia_it_rinascimentale.jpg",
           "img-alt": "Itinerarios históricos - Itinerarios renacentistas - Maddalena Carnaghi - La mia guida di Brescia",
           "img-title": "Itinerarios históricos - Itinerarios renacentistas - Maddalena Carnaghi - La mia guida di Brescia",
-          "itinerary-duration": "1h ey media",
+          "itinerary-duration": "1h y media",
           "itinerary-type": "¡Para todos!",
           "itinerary-content-opt1": "Visita a la Pinacoteca de Arte Tosio Martinengo: la mejor manera de sumergirse en la pintura lombarda del siglo XVI.",
           "itinerary-content-opt2": "Un viaje por la pintura y la arquitectura renacentistas. Visita a una de las iglesias que mejor ofrecen la oportunidad de aprender sobre el siglo XVI lombardo en pintura (Capilla del Santísimo Sacramento en la Iglesia de San Giovanni Evangelista o Iglesia de San Cristo) y la Piazza della Loggia.",
@@ -1852,11 +1852,11 @@
           "img-title": "Itinerarios históricos - Itinerarios del Risorgimento - Maddalena Carnaghi - La mia guida di Brescia",
           "itinerary-duration": "1h y media",
           "itinerary-type": "para quienes quieran saber más sobre el Risorgimento de Brescia",
-          "itinerary-content": "El Museo del Risorgimento conocido como \"La Leona de Italia.\"",
+          "itinerary-content": "El Museo del Risorgimento conocido como \"La Leonessa de Italia.\"",
           "itinerary-description": "el Risorgimento explicado de forma clara, intentando penetrar lo máximo posible en las emociones de quienes vivieron en aquella época.",
-          "itinerary-warning": "Se recomienda reservar para el Museo y es obligatorio si estás en un grupo en el siguiente enlace:",
+          "itinerary-warning": "Se recomienda reservar para el Museo y es obligatorio si vais en grupo, en el siguiente enlace:",
           "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
-          "itinerary-warning-text": "Ticket Fondazione Brescia Musei",
+          "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerario_risorgimentale",
           "itinerary-link-text": "Reserva Brescia - Itinerario Resurgimiento"
         },
@@ -1870,8 +1870,8 @@
           "img-title": "Itinerarios históricos - Itinerarios romanos - Maddalena Carnaghi - La mia guida di Brescia",
           "itinerary-duration": "1h y media",
           "itinerary-type": "Apasionados por el arte romano, los que estén interesados en aprender más sobre la evolución del arte en la época del contacto entre las poblaciones celtas y los romanos y quieran entender cómo vivían, cómo era Brixia.",
-          "itinerary-content-opt1": "el Parque Arqueológico de Brixia (con una visita a la celda de un templo perfectamente conservado de la época republicana; una visita a la Victoria Alada, una visita al primitivo Museo del Patrio)",
-          "itinerary-content-opt2": "también puede celebrarse solo al aire libre sin necesidad de comprar entrada y, en este caso, se pueden visitar el Pronaos y el teatro del Parque Arqueológico de Brixia, la columna del foro romano, la basílica, un cardo y posiblemente fragmentos de los baños romanos",
+          "itinerary-content-opt1": "el Parque Arqueológico de Brixia (con una visita a la celda de un templo perfectamente conservado de la época republicana; una visita a la Victoria Alada, una visita al primitivo Museo Patrio)",
+          "itinerary-content-opt2": "visita al aire libre sin necesidad de comprar entrada y, en este caso, se pueden visitar el Pronaos y el teatro del Parque Arqueológico de Brixia, la columna del foro romano, la basílica, un cardo y posiblemente fragmentos de los baños romanos",
           "itinerary-content-opt3": "La sección romana del Museo de Santa Giulia.",
           "itinerary-description": "Brixia, la capital de la Galia Cisalpina, decidió entrar en la órbita romana muy pronto y, a diferencia de otras tribus celtas, se romanizó temprano. Esto implica la posibilidad de visitar frescos ya del periodo republicano y luego seguir su evolución a lo largo del tiempo. En particular, se pueden ver mosaicos muy bien conservados que también muestran las habilidades técnicas de los trabajadores locales. Es posible comprender bien las estructuras habitacionales de los ciudadanos más ricos, la domus, gracias también a la buena conservación de las paredes y de los suelos. También se puede ver el sistema de calefacción activa en la ciudad romana, el hipocausto y la división de las habitaciones y sus usos.",
           "itinerary-warning": "se requiere reservar si se quiere visitar el Parque Arqueológico de Brixia, ya que, para preservar el espléndido estado de conservación del yacimiento, se entra en grupos contingentes cada veinte minutos. Por tanto, es recomendable reservar, incluso para el guía (que tiene una entrada gratuita pero debe ser contada) en el siguiente enlace:",
@@ -1891,7 +1891,7 @@
           "itinerary-duration": "1h y media",
           "itinerary-type": "¡Para todos!",
           "itinerary-content-opt1": "Un itinerario general que lleva por los lugares de los partisanos, el poder del RSI y la tortura para evocar los episodios más destacados en los que se cumplió la historia y donde nació la Resistencia.",
-          "itinerary-content-opt2": "Itinerario sobre los lugares de poder de la República Social Italiana. Los lugares de represión, de tortura, de espionaje, de poder a través de los episodios y los personajes destacados.",
+          "itinerary-content-opt2": "Itinerario sobre los lugares de poder de la República Social Italiana. Los lugares de represión, de tortura, de espionaje y los personajes destacados.",
           "itinerary-content-opt3": "Itinerario sobre los lugares de los partisanos: los escondites, los partidos, los  ciclostilos, las represiones, la ayuda narrada a través de los episodios y los personajes destacados.",
           "itinerary-content-opt4": "Itinerario sobre los lugares de las masacres: los judíos y la deportación, el tribunal, La Loggetta, el UFI narrado a través de los episodios y los personajes más destacados.",
           "itinerary-content-opt5": "Itinerario sobre los lugares de las mujeres de la Rsistencia.",
@@ -1908,7 +1908,7 @@
           "itinerary-duration": "1h y media",
           "itinerary-type": "¡Para todos!",
           "itinerary-content": "El vestíbulo central de la Biblioteca Queriniana (según el horario y la disponibilidad), la Nueva Catedral y la fachada del Palazzo Chiappa, la Piazzetta Legnano con la Casa Vantini y la Iglesia de la Caridad. Como alternativa a la biblioteca, si está cerrada, visita las escaleras del Convento de Santa Chiara o los claustros del Convento de los Santos Faustino y Giovita (para visitar estos lugares hay que solicitar a la universidad).",
-          "itinerary-warning": "Si te interesa el rococó, el Ridotto del Teatro Grande es perfecto (aunque tiene estrenos limitados los fines de semana y con reserva)",
+          "itinerary-warning": "Si te interesa el Rococó, el Ridotto del Teatro Grande es perfecto (aunque la entrada es posible solo los fines de semana y con reserva)",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-Itinerario_settecentesco",
           "itinerary-link-text": "Reserva Brescia - Itinerarios del siglo XVIII"
         },
@@ -1961,9 +1961,6 @@
           "itinerary-content-opt3": "Las mujeres que se cuentan a ellas mismas en la historia de Brescia",
           "itinerary-content-opt4": "las mujeres que formaron parte de la Resistencia",
           "itinerary-description": null,
-          "itinerary-warning": "La reserva es aconsejable, pero obligatoria para grupos en el siguiente enlace:",
-          "itinerary-warning-link": "https://www.ticketlandia.com/m/fondazione-brescia-musei",
-          "itinerary-warning-link-text": "Ticket Fondazione Brescia Musei",
           "itinerary-link": "mailto:lamiaguidadibrescia@proton.me?subject=Prenota_Brescia-I_percorsi_sulle_donne",
           "itinerary-link-text": "Contacta conmigo para saber más"
         },
@@ -2002,57 +1999,58 @@
       },
       "regalavisita": {
         "buono.yaml": {
-          "id": "buono",
+          "collapse": "collapse",
+          "collapse-class": "row my-5 justify-content-center collapse collapseregalo",
+          "id": "collapseregalo",
           "subtitles": [
             {
-              "subtitle-smallfont-azzurrino": "Regalate un buono per le mie visite guidate",
-              "subtitle-description": "Il buono minimo corrisponde alla partecipazione a due tour ovvero 16 (8 euro + 8 euro) ma si può regalare anche un tour in esclusiva..parliamone!"
+              "subtitle-id": "0",
+              "subtitle-smallfont-azzurrino": "<strong>Regala un cupón para mis visitas guiadas</strong>",
+              "subtitle-smallfont1": "El cupón mínimo corresponde a la participación en dos tours 18 euros (9 euros + 9 euros), pero también puedes regalar una visita exclusiva ¡Hablamolo!"
             }
           ]
         },
         "description.txt": "",
         "icon": "gift",
         "idee.yaml": {
-          "id": "idee",
+          "id": "ideas",
           "subtitles": [
             {
-              "subtitle-description": "Se non avete le idee ben chiare, non vi preoccupate! Scrivetemi una mail raccontandomi quali sono i vostri desideri e vi aiuterò a trovare il regalo perfetto per l’occasione."
+              "subtitle-description": "Si no tienes una idea clara, ¡no te preocupes! ¡Escríbeme un correo electrónico diciéndome cuáles son tus deseos y te ayudaré a encontrar el regalo perfecto para ti"
             }
           ]
         },
         "itinerario.yaml": {
           "id": "itinerario",
-          "subtitles": [
-            {
-              "subtitle-smallfont-azzurrino": "Scegliete l’itinerario ed è fatta",
-              "subtitle-description": "Cliccate sul link di seguito e scegliete il tour che più preferite e poi ci sentiamo e prepariamo un regalo ad hoc per la persona cara!"
-            }
-          ],
+          "subtitles": {
+            "subtitle-smallfont-azzurrino": "<strong>¡Elige el itinerario ylisto!</strong>",
+            "subtitle-smallfont1": "Haz clic en el enlace de abajo y elige el itinerario que mejor se adapta a ti o a la persona a quien lo quieres regalar"
+          },
           "vlinks": [
             {
               "vlink-id": "0",
               "vlink-link": "itinerariclassici",
-              "vlink-text": "gli itinerari <strong>classici</strong>"
+              "vlink-text": "los itinerarios <strong>clásicos</strong>"
             },
             {
               "vlink-id": "1",
               "vlink-link": "itinerarididattici",
-              "vlink-text": "gli itinerari <strong>didattici</strong>"
+              "vlink-text": "los itinerarios <strong>educativos</strong>"
             },
             {
               "vlink-id": "2",
               "vlink-link": "itineraritema",
-              "vlink-text": "gli itinerari <strong>a tema</strong>"
+              "vlink-text": "los itinerarios <strong>temáticos</strong>"
             },
             {
               "vlink-id": "3",
               "vlink-link": "itineraristorici",
-              "vlink-text": "gli itinerari <strong>storici</strong>"
+              "vlink-text": "los itinerarios <strong>históricos</strong>"
             },
             {
               "vlink-id": "4",
               "vlink-link": "itinerarilaghi",
-              "vlink-text": "gli itinerari <strong>dei laghi</strong>"
+              "vlink-text": "los itinerarios <strong>de los lagos</strong>"
             }
           ]
         },
@@ -2063,9 +2061,9 @@
           "id": "scadenza",
           "subtitles": [
             {
-              "subtitle-description": "I buoni non hanno scadenza anche se meglio non far passare decenni!",
+              "subtitle-description": " ¡Los cupones no caducan aunque sea mejor no dejar pasar décadas!",
               "subtitle-mail-link": "mailto:lamiaguidadibrescia@proton.me?subject=Contattami_per_regalare_una_visita",
-              "subtitle-mail-link-text": "Contattami per regalare una visita"
+              "subtitle-mail-link-text": "¡Contactame para regalar una visita!"
             }
           ]
         },
@@ -2404,11 +2402,44 @@
               "event-id": "0",
               "event-title": "Scopriamo il Castello di Brescia percorrendo la strada del soccorso",
               "event-header1": "",
-              "event-header2": "Sabato 29/03",
+              "event-header2": "Sabato 07/03",
               "event-header3": "ore 14:45",
               "event-header4": "",
-              "event-text": "Per chi si reca spesso in castello ma vorrebbe conoscere meglio la sua storia e la sua evoluzione e scoprire quella maledetta strada del Soccorso che per ben 2 volte ha portato i bresciani al massacro. Ricorrono in questi giorni le X Giornate di Brescia (23 marzo, 1 aprile 1849). In collaborazione con l’associazione Blu Balena",
+              "event-text": "Per chi si reca spesso in castello ma vorrebbe conoscere meglio la sua storia e la sua evoluzione e scoprire quella maledetta strada del Soccorso che per ben 2 volte ha portato i bresciani al massacro. Ricorrono in questi giorni le X Giornate di Brescia (23 marzo, 1 aprile 1849).",
               "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Scopriamo_il_castello",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "1",
+              "event-title": "Sirmione al tramonto",
+              "event-header1": "Venerdì 13/03",
+              "event-header2": "ore 18:00",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Sirmione da ricoprire con tour in barca sul far della sera di mezz’ora, passando sotto I ponti, scoprendo le bolle della sorgente termale e vedendo le maestuose rovine delle cosidette “Grotte di Catullo” e poi passeggiata tra le viuzze incantate il tutto condito dalle spiegazioni di una guida abilitata",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Sirmione_al_tramonto-maggio",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "2",
+              "event-title": "Le X Giornate di Brescia",
+              "event-header1": "Sabato 14/03",
+              "event-header2": "ore 15:00",
+              "event-header3": "",
+              "event-text": "Volete capire momento dopo momento come si sono svolte le X Giornate? Qual era il ruolo dei mazziniani? Perché non si comunica la sconfitta dei Piemontesi a Novara? Camminando per la città, scopriamo i luoghi protagonisti della lotta agli austriaci",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=le_X_giornate_di Brescia",
+              "event-header4": "<p>In collaborazione con :</p> <a class=\"text-reset text-decoration-none\" href=\"https://www.centrosanclemente.it/livello-unico/corso-brixia-quando-in-citta-si-parlava-latino.html\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/images/logo-centrosanclemente-h50.png\" alt=\"Centro San Clemente Link\"></a>",
+              "event-link-text": "Contattami per saperne di più"
+            },
+            {
+              "event-id": "3",
+              "event-title": "Le piazze di Brescia come non le avete mai viste!",
+              "event-header1": "Domenica 15/03",
+              "event-header2": "ore 10:30",
+              "event-header3": "",
+              "event-header4": "",
+              "event-text": "Volete conoscere meglio la storia di Brescia percorrendo le piazze con i racconti, gli aneddoti e la storia ufficiale della città?",
+              "event-link": "mailto:lamiaguidadibrescia@proton.me?subject=Le_piazze_di_Brescia_come_non_le_avete_mai_viste!",
               "event-link-text": "Contattami per saperne di più"
             }
           ]
