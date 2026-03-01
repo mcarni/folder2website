@@ -4,16 +4,16 @@
 vlinks:
 - vlink-id: '0'
   vlink-link: itinerariclassici
-  vlink-text: gli itinerari <strong>classici</strong>
+  vlink-text: "los itinerarios <strong>clásicos</strong>"
 - vlink-id: '1'
   vlink-link: itinerarididattici
-  vlink-text: gli itinerari <strong>didattici</strong>
+  vlink-text: los itinerarios <strong>educativos</strong>
 - vlink-id: '2'
   vlink-link: itineraritema
-  vlink-text: gli itinerari <strong>a tema</strong>
+  vlink-text: "los itinerarios <strong>temáticos</strong>"
 - vlink-id: '3'
   vlink-link: itineraristorici
-  vlink-text: gli itinerari <strong>storici</strong>
+  vlink-text: "los itinerarios <strong>históricos</strong>"
 - vlink-id: '4'
   vlink-link: itinerarilaghi
-  vlink-text: gli itinerari <strong>dei laghi</strong>
+  vlink-text: los itinerarios <strong>de los lagos</strong>
