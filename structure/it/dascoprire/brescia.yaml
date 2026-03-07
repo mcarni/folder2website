@@ -2,18 +2,18 @@ title: Una raccolta di video per scoprire Brescia
 id: brescia
 subtitles:
 - subtitle-id: '1'
-  subtitle-title: 'video1'
+  subtitle-title: 'Brescia da scoprire: il Quartiere del Carmine'
   subtitle-video: 'https://www.youtube.com/embed/DKBG_fWxU_g'
-  subtitle-smallfont1: "Il quartiere del Carmine come non l'avete mai visto"
+  subtitle-smallfont1: "Un quartiere sorprendente, capace di farci conoscere come si viveva nel passato"
 - subtitle-id: '2'
-  subtitle-title: 'video2'
+  subtitle-title: 'Brescia da scoprire: la Strada del Soccorso'
   subtitle-video: 'https://www.youtube.com/embed/X7tsP5tpUFM'
-  subtitle-smallfont1: 'Per riscoprire il Castello di Brescia attraverso la Strada del Soccorso'
+  subtitle-smallfont1: 'Per conoscere la bellissima strada che purtroppo ha portato la nostra città a capitolare per ben due volte...'
 - subtitle-id: '3'
-  subtitle-title: 'video3'
+  subtitle-title: 'Brescia da scoprire: le mura della città'
   subtitle-video: 'https://www.youtube.com/embed/PqojzoJZAXw'
-  subtitle-smallfont1: "Le mura della città, per capire com'era Brescia e come si è trasformata nel corso del tempo"
+  subtitle-smallfont1: "Per capire com'era la fisionomia della città dal periodo romano e come si è trasformata nel corso del tempo"
 - subtitle-id: '4'
-  subtitle-title: 'video4'
+  subtitle-title: 'Brescia da scoprire: la Fonte di Mompiano'
   subtitle-video: 'https://www.youtube.com/embed/ddt5DhuLfvc'
-  subtitle-smallfont1: 'La fonte di Mompiano, un gioello poco conosciuto'
+  subtitle-smallfont1: 'Un gioello poco conosciuto la cui storia si intreccia all'evoluzione della nostra città'
