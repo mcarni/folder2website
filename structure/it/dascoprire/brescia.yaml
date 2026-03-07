@@ -8,7 +8,7 @@ subtitles:
 - subtitle-id: '2'
   subtitle-title: "Brescia da scoprire: la Strada del Soccorso"
   subtitle-video: 'https://www.youtube.com/embed/X7tsP5tpUFM'
-  subtitle-smallfont1: 'Per conoscere la bellissima strada che purtroppo ha portato la nostra città a capitolare per ben due volte...'
+  subtitle-smallfont1: "Per conoscere la bellissima strada che purtroppo ha portato la nostra città a capitolare per ben due volte..."
 - subtitle-id: '3'
   subtitle-title: "Brescia da scoprire: le mura della città"
   subtitle-video: 'https://www.youtube.com/embed/PqojzoJZAXw'
@@ -16,4 +16,4 @@ subtitles:
 - subtitle-id: '4'
   subtitle-title: "Brescia da scoprire: la Fonte di Mompiano"
   subtitle-video: 'https://www.youtube.com/embed/ddt5DhuLfvc'
-  subtitle-smallfont1: 'Un gioello poco conosciuto la cui storia si intreccia all'evoluzione della nostra città'
+  subtitle-smallfont1: "Un gioello poco conosciuto la cui storia si intreccia all'evoluzione della nostra città"
