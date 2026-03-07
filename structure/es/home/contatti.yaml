@@ -12,7 +12,7 @@ subtitles:
   subtitle-smallfont-azzurrino: <strong>¡Contacta conmigo!</strong>
   subtitle-smallfont1: <i class="px-3 fas fa-mobile-screen"></i>+39 3477667008
 - subtitle-id: '1'
-  subtitle-smallfont-azzurrino: <strong>"¡Escríbeme!"</strong>
+  subtitle-smallfont-azzurrino: <strong>¡Escríbeme!</strong>
   subtitle-smallfont1: <a class="text-reset text-decoration-none" href="mailto:lamiaguidadibrescia@proton.me"><i
     class="px-3 fas fa-at"></i>lamiaguidadibrescia@proton.me</a>
 - subtitle-id: '2'
