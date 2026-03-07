@@ -10,12 +10,12 @@ subtitles:
   subtitle-link: evidenza#castello7mar
   subtitle-link-text: "per saperne di pi\xF9"
   subtitle-smallfont1: Sabato 7 marzo ore 14:45
-- subtitle-id: '2'
+- subtitle-id: '1'
   subtitle-title: Sirmione al tramonto
   subtitle-link: evidenza#Sirmione13mar
   subtitle-link-text: "per saperne di pi\xF9"
   subtitle-smallfont1: Venerdì 13 marzo ore 18:00
-- subtitle-id: '1'
+- subtitle-id: '2'
   subtitle-title: "Eccome come si sono svolte le X Giornate di Brescia!"
   subtitle-link: evidenza#Xgiornate14mar
   subtitle-link-text: "per saperne di pi\xF9"
@@ -25,3 +25,14 @@ subtitles:
   subtitle-link: evidenza#2mila15mar
   subtitle-link-text: "per saperne di pi\xF9"
   subtitle-smallfont1: Domenica 15 marzo ore 10:30
+- subtitle-id: '4'
+  subtitle-title: Come si viveva a Brescia tra il 1943 e il 1945
+  subtitle-link: evidenza#Resistenza18apr
+  subtitle-link-text: "per saperne di pi\xF9"
+  subtitle-smallfont1: Sabato 18 aprile ore 15:00
+- subtitle-id: '5'
+  subtitle-title: "Il Carmine è un quartiere sorprendente: scopriamolo insieme!"
+  subtitle-link: evidenza#carmine19apr
+  subtitle-link-text: "per saperne di pi\xF9"
+  subtitle-smallfont1: Domenica 19 aprile ore 10:00
+
