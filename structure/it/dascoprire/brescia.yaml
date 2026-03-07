@@ -4,7 +4,7 @@ subtitles:
 - subtitle-id: '1'
   subtitle-title: 'video1'
   subtitle-video: 'https://www.youtube.com/embed/DKBG_fWxU_g'
-  subtitle-smallfont1: 'Il quartiere del Carmine come non l'avete mai visto"'
+  subtitle-smallfont1: "Il quartiere del Carmine come non l'avete mai visto"
 - subtitle-id: '2'
   subtitle-title: 'video2'
   subtitle-video: 'https://www.youtube.com/embed/X7tsP5tpUFM'
@@ -12,7 +12,7 @@ subtitles:
 - subtitle-id: '3'
   subtitle-title: 'video3'
   subtitle-video: 'https://www.youtube.com/embed/PqojzoJZAXw'
-  subtitle-smallfont1: 'Le mura della città, per capire com'era Brescia e come si è trasformata nel corso del tempo'
+  subtitle-smallfont1: "Le mura della città, per capire com'era Brescia e come si è trasformata nel corso del tempo"
 - subtitle-id: '4'
   subtitle-title: 'video4'
   subtitle-video: 'https://www.youtube.com/embed/ddt5DhuLfvc'
