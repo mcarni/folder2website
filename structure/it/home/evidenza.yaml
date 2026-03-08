@@ -35,4 +35,14 @@ subtitles:
   subtitle-link: evidenza#carmine19apr
   subtitle-link-text: "per saperne di pi\xF9"
   subtitle-smallfont1: Domenica 19 aprile ore 10:00
+  - subtitle-id: '6'
+  subtitle-title: Sirmione al tramonto
+  subtitle-link: evidenza#sirmione24apr
+  subtitle-link-text: "per saperne di pi\xF9"
+  subtitle-smallfont1: Venerdì 24 aprile ore 18:00
+- subtitle-id: '7'
+  subtitle-title: "All'attacco! Il castello di Brescia dalla Strada del soccorso"
+  subtitle-link: evidenza#castello26apr
+  subtitle-link-text: "per saperne di pi\xF9"
+  subtitle-smallfont1: Domenica 26 aprile ore 10:00
 
