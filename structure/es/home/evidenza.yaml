@@ -6,47 +6,42 @@ img-src: home_inevidenza.jpg
 img-title: "Visita guidata del Castello di Brescia - Itinerario turistico del Falcone d'Italia - Tour di Brescia - Maddalena Carnaghi - La mia guida di Brescia - in evidenza"
 subtitles:
 - subtitle-id: '0'
-  subtitle-title: "Ti porto a Brescia"
-  subtitle-link: evidenza#tiporto17genn
+  subtitle-title: "All'attacco! Il castello di Brescia dalla Strada del soccorso"
+  subtitle-link: evidenza#castello7mar
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Sabato 17 gennaio ore 10:00
+  subtitle-smallfont1: Sabato 7 marzo ore 14:45
 - subtitle-id: '1'
-  subtitle-title: Visita guidata alla mostra "8rose"
-  subtitle-link: evidenza#8rose17genn
+  subtitle-title: Sirmione al tramonto
+  subtitle-link: evidenza#Sirmione13mar
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Sabato 17 gennaio ore 18:15
+  subtitle-smallfont1: Venerdì 13 marzo ore 18:00
 - subtitle-id: '2'
-  subtitle-title: La chiesa delle Consolazioni
-  subtitle-link: evidenza#Consolazioni18genn
+  subtitle-title: "Eccome come si sono svolte le X Giornate di Brescia!"
+  subtitle-link: evidenza#Xgiornate14mar
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Domenica 18 gennaio ore 15:30
+  subtitle-smallfont1: Sabato 14 marzo ore 15:00
 - subtitle-id: '3'
-  subtitle-title: Material for Exhibition - Storie, memorie e lotte dalla Palestina e dal Mediterraneo
-  subtitle-link: evidenza#Palestina25genn
+  subtitle-title: Duemila anni di storia e non sentirli
+  subtitle-link: evidenza#2mila15mar
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Domenica 25 gennaio ore 15:40
+  subtitle-smallfont1: Domenica 15 marzo ore 10:30
 - subtitle-id: '4'
-  subtitle-title: "Ti porto a Brescia!"
-  subtitle-link: evidenza#tiporto7febb
+  subtitle-title: Come si viveva a Brescia tra il 1943 e il 1945
+  subtitle-link: evidenza#Resistenza18apr
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Sabato 7 febbraio ore 10:00
+  subtitle-smallfont1: Sabato 18 aprile ore 15:00
 - subtitle-id: '5'
-  subtitle-title: Material for Exhibition - Storie, memorie e lotte dalla Palestina e dal Mediterraneo
-  subtitle-link: evidenza#Palestina8febbam
+  subtitle-title: "Il Carmine è un quartiere sorprendente: scopriamolo insieme!"
+  subtitle-link: evidenza#carmine19apr
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Domenica 8 febbraio ore 10:40
+  subtitle-smallfont1: Domenica 19 aprile ore 10:00
 - subtitle-id: '6'
-  subtitle-title: Material for Exhibition - Storie, memorie e lotte dalla Palestina e dal Mediterraneo
-  subtitle-link: evidenza#Palestina8febbpm
+  subtitle-title: Sirmione al tramonto
+  subtitle-link: evidenza#sirmione24apr
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Domenica 8 febbraio ore 15:40
+  subtitle-smallfont1: Venerdì 24 aprile ore 18:00
 - subtitle-id: '7'
-  subtitle-title: "L'amore ad ogni angolo"
-  subtitle-link: evidenza#lamore14feb
+  subtitle-title: "All'attacco! Il castello di Brescia dalla Strada del soccorso"
+  subtitle-link: evidenza#castello26apr
   subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Sabato 14 febbraio ore 10:30
-- subtitle-id: '8'
-  subtitle-title: Material for Exhibition - Storie, memorie e lotte dalla Palestina e dal Mediterraneo
-  subtitle-link: evidenza#Palestina24febb
-  subtitle-link-text: "per saperne di pi\xF9"
-  subtitle-smallfont1: Sabato 22 febbraio ore 15:40
+  subtitle-smallfont1: Domenica 26 aprile ore 10:00
