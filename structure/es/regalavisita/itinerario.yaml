@@ -1,6 +1,6 @@
 id: itinerario
 subtitles:
-  subtitle-smallfont-azzurrino: "<strong>¡Elige el itinerario ylisto!</strong>"
+- subtitle-title: ¡Elige el itinerario ylisto!
   subtitle-smallfont1: "Haz clic en el enlace de abajo y elige el itinerario que mejor se adapta a ti o a la persona a quien lo quieres regalar"
 vlinks:
 - vlink-id: '0'
