@@ -4,43 +4,40 @@ collapse: ''
 collapse-class: row my-2 justify-content-center collapse
 events:
 - event-id: '0'
-  event-title: Per bresciani che vogliono conoscere il Museo di Santa Giulia
-  event-header1: Domenica 07/04
-  event-header2: ore 16:00
+  event-title: Ora e sempre Resistenza
+  event-header1: Sabato 18/04
+  event-header2: ore 15:00
   event-header3: ''
-  event-header4: ''
-  event-text: Avete mai pensato “tanto è qui vicino al Museo di Santa Giulia ci andrò più avanti”? 
-    Volete una visita guidata dei reperti più significativi e appropriarvi del vostro museo? Prenotate entro il 3 aprile
-  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Per_bresciani_che_vogliono_conoscere_il_Museo_di_Santa_Giulia
+  event-text: "Per capire come si viveva a Brescia tra il settembre 1943 3 l'aprile 1945: scoprendo i nascondigli dei partigiani, le tecniche delle staffette, i luoghi delle torture e le persone che a Brescia si sono distinti e distinte per il loro eroismo"
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=la_resistenza 
+  event-header4: <p>In collaborazione con :</p> <a class="text-reset text-decoration-none" href="https://www.centrosanclemente.it/livello-unico/corso-brixia-quando-in-citta-si-parlava-latino.html" target="_blank" rel="noopener noreferrer"><img src="/images/logo-centrosanclemente-h50.png" alt="Centro San Clemente Link"></a>
   event-link-text: "Contattami per saperne di pi\xF9"
 - event-id: '1'
-  event-title: Sirmione al tramonto
-  event-header1: Venerdì 19/04
-  event-header2: ore 18:00
-  event-header3: ''
-  event-header4: ''
-  event-text: Sirmione da ricoprire con tour in barca sul far della sera di mezz’ora, 
-    passando sotto I ponti, scoprendo le bolle della sorgente termale e vedendo le maestuose rovine delle cosidette “Grotte di Catullo” 
-    e poi passeggiata tra le viuzze incantate il tutto condito dalle spiegazioni di una guida abilitata
-  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Sirmione_al_tramonto-aprile
-  event-link-text: "Contattami per saperne di pi\xF9"
-- event-id: '2'
-  event-title: Il Risorgimento ti aspetta
-  event-header1: Domenica 20/04
+  event-title: Il Carmine come non lo avete mai visto!
+  event-header1: Domenica 19/04
   event-header2: ore 10:00
   event-header3: ''
   event-header4: ''
-  event-text: Se non avete ancora visitato il Museo del Risorgimento e volete visitarlo con una guida abilitata, fatevi avanti. 
-    Prenotate entro il 10 aprile
-  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Il_Risorgimento_ti_aspetta
+  event-text: Per conoscere il quartiere unico che ha permesso lo sviluppo economico della città, tra mercanti e artigiani
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=il_Carmine
   event-link-text: "Contattami per saperne di pi\xF9"
-- event-id: '3'
-  event-title: I Luoghi della Resistenza a Brescia
-  event-header1: Domenica 28/04
+- event-id: '2'
+  event-title: Sirmione al tramonto
+  event-header1: Venerdì 24/04
   event-header2: ore 18:00
   event-header3: ''
   event-header4: ''
-  event-text: Se siete interessati a scoprire dove si riuniva il Comitato di Liberazione Nazionale, dov’era l’ufficio di controspionaggio, 
-    dove si nascondevano i partigiani, il ruolo dell’Oratorio della Pace, dove reclutavano le SS e molto altro, venite!
-  event-link: mailto:lamiaguidadibrescia@proton.me?subject=I_Luoghi_della_Resistenza_a_Brescia
+  event-text: Sirmione da ricoprire con tour in barca sul far della sera di mezz’ora, passando sotto I ponti, 
+    scoprendo le bolle della sorgente termale e vedendo le maestuose rovine delle cosidette “Grotte di Catullo” 
+    e poi passeggiata tra le viuzze incantate il tutto condito dalle spiegazioni di una guida abilitata
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Sirmione_al_tramonto-maggio
+  event-link-text: "Contattami per saperne di pi\xF9"
+- event-id: '3' 
+  event-title: Scopriamo il Castello di Brescia percorrendo la strada del soccorso
+  event-header1: Domenica 26/04
+  event-header2: ore 10:00
+  event-header3: ''
+  event-header4: ''
+  event-text: Per chi si reca spesso in castello ma vorrebbe conoscere meglio la sua storia e la sua evoluzione e scoprire quella maledetta strada del Soccorso che per ben 2 volte ha portato i bresciani al massacro. Ricorrono in questi giorni le X Giornate di Brescia (23 marzo, 1 aprile 1849). 
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Scopriamo_il_castello
   event-link-text: "Contattami per saperne di pi\xF9"

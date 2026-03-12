@@ -6,10 +6,38 @@ events:
 - event-id: '0'
   event-title: Scopriamo il Castello di Brescia percorrendo la strada del soccorso
   event-header1: ''
-  event-header2: Sabato 29/03
+  event-header2: Sabato 07/03
   event-header3: ore 14:45
   event-header4: ''
   event-text: Per chi si reca spesso in castello ma vorrebbe conoscere meglio la sua storia e la sua evoluzione e scoprire quella maledetta strada del Soccorso che per ben 2 volte ha portato i bresciani al massacro. Ricorrono in questi giorni le X Giornate di Brescia (23 marzo, 1 aprile 1849). 
-    In collaborazione con l’associazione Blu Balena
   event-link: mailto:lamiaguidadibrescia@proton.me?subject=Scopriamo_il_castello
+  event-link-text: "Contattami per saperne di pi\xF9"
+- event-id: '1'
+  event-title: Sirmione al tramonto
+  event-header1: Venerdì 13/03
+  event-header2: ore 18:00
+  event-header3: ''
+  event-header4: ''
+  event-text: Sirmione da ricoprire con tour in barca sul far della sera di mezz’ora, passando sotto I ponti, 
+    scoprendo le bolle della sorgente termale e vedendo le maestuose rovine delle cosidette “Grotte di Catullo” 
+    e poi passeggiata tra le viuzze incantate il tutto condito dalle spiegazioni di una guida abilitata
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Sirmione_al_tramonto-maggio
+  event-link-text: "Contattami per saperne di pi\xF9"
+- event-id: '2'
+  event-title: Le X Giornate di Brescia
+  event-header1: Sabato 14/03
+  event-header2: ore 15:00
+  event-header3: ''
+  event-text: "Volete capire momento dopo momento come si sono svolte le X Giornate? Qual era il ruolo dei mazziniani? Perché non si comunica la sconfitta dei Piemontesi a Novara? Camminando per la città, scopriamo i luoghi protagonisti della lotta agli austriaci"
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=le_X_giornate_di Brescia 
+  event-header4: <p>In collaborazione con :</p> <a class="text-reset text-decoration-none" href="https://www.centrosanclemente.it/livello-unico/corso-brixia-quando-in-citta-si-parlava-latino.html" target="_blank" rel="noopener noreferrer"><img src="/images/logo-centrosanclemente-h50.png" alt="Centro San Clemente Link"></a>
+  event-link-text: "Contattami per saperne di pi\xF9"
+- event-id: '3'
+  event-title: Le piazze di Brescia come non le avete mai viste!
+  event-header1: Domenica 15/03
+  event-header2: ore 10:30
+  event-header3: ''
+  event-header4: ''
+  event-text: Volete conoscere meglio la storia di Brescia percorrendo le piazze con i racconti, gli aneddoti e la storia ufficiale della città?
+  event-link: mailto:lamiaguidadibrescia@proton.me?subject=Le_piazze_di_Brescia_come_non_le_avete_mai_viste! 
   event-link-text: "Contattami per saperne di pi\xF9"
